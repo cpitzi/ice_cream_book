@@ -72,6 +72,50 @@ You can ask Claude to:
 
 ---
 
+## GitHub Workflow
+
+The book is version controlled at: https://github.com/cpitzi/ice_cream_book
+
+### Basic Workflow with Claude
+
+**When editing individual files:**
+1. Tell Claude which file to edit: `"Edit recipes/08_miso_matcha.md"`
+2. Claude makes the changes and provides the updated file
+3. Download and replace in your local repo
+4. Commit changes:
+   ```bash
+   git add recipes/08_miso_matcha.md
+   git commit -m "Adjusted matcha ratio in miso matcha recipe"
+   git push
+   ```
+
+**For compilation:**
+```bash
+python compile_book.py
+git add Ice_Cream_to_Fight_Over_COMPLETE.md
+git commit -m "Recompiled book with latest changes"
+git push
+```
+
+### Optional: Exclude Compiled File from Git
+
+If you prefer to only track modular files and compile locally, add this to `.gitignore`:
+```
+Ice_Cream_to_Fight_Over_COMPLETE.md
+```
+
+This keeps your repo clean with only the source files tracked. Compile the complete book whenever you need it locally.
+
+### Commit Message Style
+
+Good examples:
+- `"Update difficulty rating for pawpaw recipe"`
+- `"Fix typo in custard fundamentals"`
+- `"Add note about candied ginger storage to sichuan plum"`
+- `"Recompile book after recipe edits"`
+
+---
+
 ## File Naming Conventions
 
 **Front Matter:** `##_descriptive_name.md` (numbered for order)
