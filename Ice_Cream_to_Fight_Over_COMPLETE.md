@@ -20,78 +20,6 @@ Each of these recipes is a translation--taking flavors that define a cuisine or 
 
 ---
 
-## The Flavors
-
-Here's what you're getting into, organized by difficulty so you can build your skills as you go:
-
-### CHILL
-*Start here if you're new to ambitious ice cream or just want something delicious without the drama*
-
-**Cardamom-Pistachio Kulfi** -- India's frozen dessert tradition, now achievable on a Tuesday
-
-**Vietnamese Avocado Ice Cream** -- Creamy, dreamy, and your brain will fight you the whole way
-
-**Thai Coconut Pandan** -- Southeast Asia's vanilla, now frozen
-
-### LEGIT
-*You've made custard before and you're ready for some complexity*
-
-**Atole de Anis** -- Mexico's comfort drink, now frozen
-
-**Chili Mango** -- Mexico City street cart meets your freezer
-
-**Gochugaru and Sesame** -- Korean heat meets nutty depth
-
-**Golden Milk and Fig** -- Bright yellow and somehow it works
-
-**Tarte Tatin** -- France's iconic upside-down caramelized apple tart, now frozen
-
-**Miso Matcha** -- Umami in ice cream (trust us)
-
-**Sfogliatelle** -- Naples' pastry, now frozen
-
-**Sichuan Plum** -- Five-spice and stone fruit
-
-**Guava & Coffee** -- Tropical fruit meets caffeine
-
-**Wattleseed & Macadamia** -- Bush tucker meets buttery nuts
-
-**Rum Banana** -- Allspice, rum, bananas—Caribbean celebration
-
-**Horchata** -- Rice, cinnamon, almonds - Mexico's agua fresca, now frozen
-
-**Irish Brown Bread** -- Buttermilk custard with caramelized bread crumble and whiskey
-
-### THE REAL DEAL
-*Multiple components, precise technique, and commitment required*
-
-**Earl Grey and Burnt Honey** -- Tea time gets complicated (in the best fucking way)
-
-**Lemon and Rosemary Honey** -- Greek summer in a bowl
-
-**Cashew & Coconut with Piri Piri** -- Vegan and surprisingly rich as hell
-
-**Pain Patate** -- Haiti's pudding cake, frozen
-
-**Southern Brown Butter Pecan** -- Deep South tradition, elevated
-
-**Southwest Red Chile & Mexican Chocolate** -- Dark chocolate meets earthy chile heat
-
-**Tahini Halva with Rose Water** -- Turkish sesame sweetness meets delicate floral notes
-
-**Coffee & Berbere** -- Coffee's birthplace meets ancient spice tradition
-
-**Brigadeiro & Passion Fruit** -- Chocolate fudge balls meet tropical brightness
-
-### A FUCKING ORDEAL
-*You've been warned, homie*
-
-**Appalachian Pawpaw & Maple** -- America's forgotten fruit meets mountain sweetness
-
-**New Orleans Chicory Coffee & Beignet** -- Bourbon Street at 2 AM, frozen and swirled with rum
-
----
-
 ## How to Actually Use This Book
 
 **Read the notes section first.** I'm serious. Every recipe has a notes section at the end, and it's got crucial information about ingredient sourcing, what can go wrong, what's supposed to look weird, and what you can skip if you're not feeling masochistic that day. Don't just jump into the instructions and hope for the best.
@@ -103,18 +31,6 @@ Here's what you're getting into, organized by difficulty so you can build your s
 **Expect to fuck up at least once.** Caramel will seize. Custard will scramble. The first batch of brittle will burn. Yeast won't bloom because your milk was too hot. This is part of the process. These recipes are challenging because they're *supposed* to be challenging. Learn from it, try again, and know that everyone--including me--has made these mistakes.
 
 **Make it your own.** Once you understand the technique, adjust the flavors. Try different honeys, experiment with spice levels, swap in seasonal fruits. The structures are sound, but the flavors can evolve based on what you like and what you can find.
-
----
-
-## The Philosophy (Or: Why Make Things Harder Than They Need To Be)
-
-Ice cream can be both comforting and challenging. It can taste like home and also like somewhere you've never been. These recipes ask you to expand your palate while respecting the traditions they're pulling from.
-
-Some of these flavors are going to seem weird at first. Miso in ice cream? Olive oil in custard? Gochugaru's fruity heat in something sweet? But that initial weirdness is often where the best flavors live. Your brain just hasn't made the connection yet between "dessert" and "umami" or "savory herbs" or "chile heat." Give it time. Taste it more than once. Let yourself get used to it.
-
-Every component in these recipes serves a purpose. The toasted rice crispies in miso matcha echo genmaicha tea. The masa crumble in atole reinforces the corn base while adding texture. The semolina in sfogliatelle recreates the gritty crunch of the pastry shell. Nothing's here just to be fancy--it's all in service of flavor.
-
-And yeah, some of this is difficult for difficulty's sake. Pawpaws that you can only source for two weeks per year? Yeasted beignet dough that takes three hours? Candied orange peel that requires three rounds of blanching? That's the point. You're making something almost nobody else makes. You're putting in effort that most people won't. And when it works--when you taste that pawpaw's tropical-custard weirdness or bite into a beignet chunk that's still tender after freezing or get that perfect balance of chocolate and chile--you've made something genuinely special.
 
 ---
 
