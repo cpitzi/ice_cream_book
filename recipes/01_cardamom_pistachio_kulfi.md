@@ -187,7 +187,7 @@ This density is the POINT. Kulfi should feel rich and substantial. You eat a sma
 
 **Milk Powder Addition:**
 
-The optional milk powder adds extra milk solids which contribute to that creamy, dense texture. It's not essential but it does make a difference. Look for whole milk powder (not non-fat) at Indian grocery stores or the baking aisle. Brands like Nido or NestlÆ’Ã†â€™â€šÂ© work fine.
+The optional milk powder adds extra milk solids which contribute to that creamy, dense texture. It's not essential but it does make a difference. Look for whole milk powder (not non-fat) at Indian grocery stores or the baking aisle. Brands like Nido or Nestle work fine.
 
 **Mold Alternatives:**
 

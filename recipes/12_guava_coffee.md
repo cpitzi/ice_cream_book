@@ -6,7 +6,7 @@
 
 **Total Time:** 6-8 hours (includes 2-4 hours of coffee beans drying while you do literally anything else, plus 4+ hours custard chilling)
 
-Bocadillo"Ã¢â‚¬Âguava paste"Ã¢â‚¬Âis everywhere in Colombian desserts. It's basically concentrated guava sweetness in a block, which sounds weird but is absolutely fucking delicious. Combined with dark panela-coffee caramel and candied coffee beans, you get something distinctly Colombian: bright tropical fruit balanced by deep, dark coffee notes that'll wake you up and make you happy.
+Bocadillo—guava paste—is everywhere in Colombian desserts. It's basically concentrated guava sweetness in a block, which sounds weird but is absolutely fucking delicious. Combined with dark panela-coffee caramel and candied coffee beans, you get something distinctly Colombian: bright tropical fruit balanced by deep, dark coffee notes that'll wake you up and make you happy.
 
 More components than strictly necessary, but they all earn their place. No freeloaders here, homie.
 
@@ -42,9 +42,9 @@ More components than strictly necessary, but they all earn their place. No freel
 
 Line a baking sheet with parchment. Combine 1/3 cup panela and 1/4 cup water in a saucepan. Heat over medium-high, stirring until the panela dissolves. Bring to a boil.
 
-Cook WITHOUT STIRRING to 240Â°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy"Ã¢â‚¬Âyou'll know it when you see it, friend.
+Cook WITHOUT STIRRING to 240°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy—you'll know it when you see it, friend.
 
-Pull it off the heat immediately. Add the coffee beans, stir quickly to coat completely"Ã¢â‚¬Âevery bean needs coverage.
+Pull it off the heat immediately. Add the coffee beans, stir quickly to coat completely—every bean needs coverage.
 
 Working FAST because this sets up quicker than you can say "I should've been ready," pour onto the parchment and spread in a single layer using two forks to separate the beans before the mixture sets. Should look glossy and lacquered, like edible jewelry.
 
@@ -58,13 +58,13 @@ Strain through a fine-mesh sieve to remove any lumps or weird bits. Cool complet
 
 **Coffee-Panela Caramel Swirl:**
 
-Brew strong coffee or espresso, let it cool COMPLETELY"Ã¢â‚¬Âlike actually cold, not "oh this seems cool enough." Have the cooled coffee, warmed cream, and butter measured and sitting right next to the stove"Ã¢â‚¬Âcaramel moves faster than bad news, dude.
+Brew strong coffee or espresso, let it cool COMPLETELY—like actually cold, not "oh this seems cool enough." Have the cooled coffee, warmed cream, and butter measured and sitting right next to the stove—caramel moves faster than bad news, dude.
 
-Combine panela and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber"Ã¢â‚¬Âcopper penny color. This takes about 7-10 minutes of you just standing there like a creep.
+Combine panela and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there like a creep.
 
-Pull it off the heat. Carefully pour in the cooled coffee"Ã¢â‚¬Âit'll bubble and steam dramatically. Whisk until smooth.
+Pull it off the heat. Carefully pour in the cooled coffee—it'll bubble and steam dramatically. Whisk until smooth.
 
-Add the warmed cream and butter, whisk thoroughly. Should be dark brown and smell INTENSELY of coffee and caramelized panela"Ã¢â‚¬Âlike Colombia in a pan.
+Add the warmed cream and butter, whisk thoroughly. Should be dark brown and smell INTENSELY of coffee and caramelized panela—like Colombia in a pan.
 
 Add a pinch of salt. Cool to room temperature, then refrigerate. Should be thick but pourable when cold, like honey.
 
@@ -72,13 +72,13 @@ Add a pinch of salt. Cool to room temperature, then refrigerate. Should be thick
 
 Heat cream and milk until steaming. Whisk together egg yolks and sugar in a separate bowl until pale and slightly thickened.
 
-Slowly pour the hot cream mixture into the yolks while whisking constantly"Ã¢â‚¬Âyou know how to temper yolks. Return the entire mixture to the saucepan.
+Slowly pour the hot cream mixture into the yolks while whisking constantly—you know how to temper yolks. Return the entire mixture to the saucepan.
 
-Cook over medium-low heat, stirring constantly with a spatula, until the custard thickens and reaches 170-175Â°F.
+Cook over medium-low heat, stirring constantly with a spatula, until the custard thickens and reaches 170-175°F.
 
 Pull it off the heat. Stir in vanilla and salt. Strain. Fold in that cooled guava syrup while the custard is still warm, whisking until completely incorporated. Should turn this gorgeous bright pink and smell of tropical guava.
 
-Cool over an ice bath. Taste it cold"Ã¢â‚¬Âshould be sweet guava with floral tropical notes that make you think about beaches even if you're landlocked as hell.
+Cool over an ice bath. Taste it cold—should be sweet guava with floral tropical notes that make you think about beaches even if you're landlocked as hell.
 
 Refrigerate at least 4 hours or overnight.
 
@@ -86,7 +86,7 @@ Refrigerate at least 4 hours or overnight.
 
 Churn until soft-serve. In the last minute, add those candied coffee beans.
 
-Transfer to your container in layers: spread 1/3 of the ice cream, drizzle coffee-panela caramel in ribbons, repeat twice. Gently swirl with a knife"Ã¢â‚¬Âyou want those dramatic streaks.
+Transfer to your container in layers: spread 1/3 of the ice cream, drizzle coffee-panela caramel in ribbons, repeat twice. Gently swirl with a knife—you want those dramatic streaks.
 
 Freeze 4+ hours.
 
@@ -96,15 +96,15 @@ Freeze 4+ hours.
 
 Colombian guava paste made with guava pulp and panela, sold in firm blocks at Latin markets. Typically costs $3-5 for an 8-10 oz package, found in the international or Latino foods section. Look for brands like La Constancia or Dulces de Colombia.
 
-Already contains panela, giving it authentic Colombian depth. If unavailable, use regular guava paste and add 2 tbsp dark brown sugar to the syrup"Ã¢â‚¬Ânot quite the same but it'll work.
+Already contains panela, giving it authentic Colombian depth. If unavailable, use regular guava paste and add 2 tbsp dark brown sugar to the syrup—not quite the same but it'll work.
 
 **Panela:**
 
-Unrefined Colombian cane sugar"Ã¢â‚¬Âhas deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine, pal.
+Unrefined Colombian cane sugar—has deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine, pal.
 
 **Coffee:**
 
-Use Colombian coffee if possible for authenticity"Ã¢â‚¬Âit's what they're famous for. Coffee MUST be completely cooled before adding to hot caramel or you'll get dangerous spattering and a mess and possibly burns. Don't be a hero. Let it cool.
+Use Colombian coffee if possible for authenticity—it's what they're famous for. Coffee MUST be completely cooled before adding to hot caramel or you'll get dangerous spattering and a mess and possibly burns. Don't be a hero. Let it cool.
 
 **Light custard:**
 
@@ -112,11 +112,11 @@ Using 3-4 yolks (I recommend 4) prevents richness from overwhelming that delicat
 
 **Candied coffee beans:**
 
-Provide these intense coffee bursts when you bite into them"Ã¢â‚¬Âthe coating should be hard and glassy when dried. Work quickly when coating the beans because panela syrup sets faster than regular sugar syrup.
+Provide these intense coffee bursts when you bite into them—the coating should be hard and glassy when dried. Work quickly when coating the beans because panela syrup sets faster than regular sugar syrup.
 
 **Cultural context:**
 
-Bocadillo is ubiquitous in Colombian desserts"Ã¢â‚¬Âit's THE guava product, found in everything from traditional desserts to simple snacks paired with cheese. Colombia is also one of the world's premier coffee producers, with coffee culture deeply embedded in daily life. A typical Colombian breakfast includes tinto (small cup of black coffee) or cafÆ’Ã†â€™â€šÂ© con leche, and coffee breaks are serious business. Panela, that unrefined cane sugar, is used in everything from hot drinks (agua de panela) to desserts and savory dishes. This recipe brings together three distinctly Colombian ingredients"Ã¢â‚¬Âbocadillo, panela, and coffee"Ã¢â‚¬Âin a way that honors their individual characters while creating something new. The combination of tropical guava with dark coffee isn't traditional Colombian ice cream (mantecado is more common), but it translates these beloved flavors into frozen form.
+Bocadillo is ubiquitous in Colombian desserts—it's THE guava product, found in everything from traditional desserts to simple snacks paired with cheese. Colombia is also one of the world's premier coffee producers, with coffee culture deeply embedded in daily life. A typical Colombian breakfast includes tinto (small cup of black coffee) or café con leche, and coffee breaks are serious business. Panela, that unrefined cane sugar, is used in everything from hot drinks (agua de panela) to desserts and savory dishes. This recipe brings together three distinctly Colombian ingredients—bocadillo, panela, and coffee—in a way that honors their individual characters while creating something new. The combination of tropical guava with dark coffee isn't traditional Colombian ice cream (mantecado is more common), but it translates these beloved flavors into frozen form.
 
 **Visual:**
 
@@ -124,7 +124,7 @@ Bright pink guava base with dark brown coffee-caramel swirls and glossy dark can
 
 **What it tastes like:**
 
-Bright tropical guava up front"Ã¢â‚¬Âfloral, sweet, distinctly guava"Ã¢â‚¬Âpunctuated by intense dark coffee-caramel ribbons and crunchy coffee beans that give you little hits of caffeine and bitterness. Two strong flavors that somehow complement each other instead of fighting. Distinctly Colombian and absolutely worth the effort, homie.
+Bright tropical guava up front—floral, sweet, distinctly guava—punctuated by intense dark coffee-caramel ribbons and crunchy coffee beans that give you little hits of caffeine and bitterness. Two strong flavors that somehow complement each other instead of fighting. Distinctly Colombian and absolutely worth the effort, homie.
 
 ---
 

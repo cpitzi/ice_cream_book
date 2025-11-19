@@ -63,7 +63,7 @@ Lime juice does two things here. First, it provides acidity that balances the ri
 
 **Cultural context:**
 
-In Vietnam, avocado shows up in sinh tÃ¡Â»â€˜ bÃ†Â¡ (avocado smoothies), in iced drinks with condensed milk, and in ice cream. This sweet treatment of avocado isn't some modern fusion thing - it's how Vietnamese cuisine has always approached this fruit. The same is true throughout Southeast Asia and parts of Latin America. Only in the US and Europe did we collectively decide avocado had to be savory. This recipe is an invitation to unlearn that arbitrary rule.
+In Vietnam, avocado shows up in sinh tố bơ (avocado smoothies), in iced drinks with condensed milk, and in ice cream. This sweet treatment of avocado isn't some modern fusion thing - it's how Vietnamese cuisine has always approached this fruit. The same is true throughout Southeast Asia and parts of Latin America. Only in the US and Europe did we collectively decide avocado had to be savory. This recipe is an invitation to unlearn that arbitrary rule.
 
 **Make-ahead:**
 

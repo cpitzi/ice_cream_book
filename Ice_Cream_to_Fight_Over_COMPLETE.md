@@ -464,7 +464,7 @@ This density is the POINT. Kulfi should feel rich and substantial. You eat a sma
 
 **Milk Powder Addition:**
 
-The optional milk powder adds extra milk solids which contribute to that creamy, dense texture. It's not essential but it does make a difference. Look for whole milk powder (not non-fat) at Indian grocery stores or the baking aisle. Brands like Nido or NestlÆ’Ã†â€™â€šÂ© work fine.
+The optional milk powder adds extra milk solids which contribute to that creamy, dense texture. It's not essential but it does make a difference. Look for whole milk powder (not non-fat) at Indian grocery stores or the baking aisle. Brands like Nido or Nestle work fine.
 
 **Mold Alternatives:**
 
@@ -600,7 +600,7 @@ Lime juice does two things here. First, it provides acidity that balances the ri
 
 **Cultural context:**
 
-In Vietnam, avocado shows up in sinh tÃ¡Â»â€˜ bÃ†Â¡ (avocado smoothies), in iced drinks with condensed milk, and in ice cream. This sweet treatment of avocado isn't some modern fusion thing - it's how Vietnamese cuisine has always approached this fruit. The same is true throughout Southeast Asia and parts of Latin America. Only in the US and Europe did we collectively decide avocado had to be savory. This recipe is an invitation to unlearn that arbitrary rule.
+In Vietnam, avocado shows up in sinh tố bơ (avocado smoothies), in iced drinks with condensed milk, and in ice cream. This sweet treatment of avocado isn't some modern fusion thing - it's how Vietnamese cuisine has always approached this fruit. The same is true throughout Southeast Asia and parts of Latin America. Only in the US and Europe did we collectively decide avocado had to be savory. This recipe is an invitation to unlearn that arbitrary rule.
 
 **Make-ahead:**
 
@@ -1652,7 +1652,7 @@ The candied apricots can be made up to a week ahead and stored airtight. The sem
 
 **Total Time:** 10-12 hours across 2-3 days if making candied ginger, or 6-7 hours if buying it (includes overnight chilling, plus roasting time when your kitchen smells incredible)
 
-Chinese five-spiceÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âstar anise, cloves, cinnamon, Sichuan peppercorns, fennelÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âpaired with roasted plums creates this deep, complex, almost wine-like flavor that's honestly kind of wild. The candied ginger adds heat and that characteristic crystalline-chewy texture. Your kitchen will smell *incredible* while the plums roast, homie.
+Chinese five-spice—star anise, cloves, cinnamon, Sichuan peppercorns, fennel—paired with roasted plums creates this deep, complex, almost wine-like flavor that's honestly kind of wild. The candied ginger adds heat and that characteristic crystalline-chewy texture. Your kitchen will smell *incredible* while the plums roast, homie.
 
 You can make your own candied ginger or buy it pre-made. Both work fine.
 
@@ -1684,37 +1684,37 @@ You can make your own candied ginger or buy it pre-made. Both work fine.
 
 **Candied Ginger (make 1-2 days ahead, or buy pre-made):**
 
-Peel the ginger and slice into 1/8-inch thick coins or matchsticks. Place in a saucepan with 1 cup water, bring to a boil. Boil for 5 minutes, drain. Repeat blanching with fresh 1/2 cup water--Âthis removes some of the bite so it's not aggressively spicy.
+Peel the ginger and slice into 1/8-inch thick coins or matchsticks. Place in a saucepan with 1 cup water, bring to a boil. Boil for 5 minutes, drain. Repeat blanching with fresh 1/2 cup water—this removes some of the bite so it's not aggressively spicy.
 
 Combine 1 cup sugar and the remaining 1/2 cup water in a saucepan, bring to a simmer. Add the blanched ginger, reduce to low. Simmer gently for 45-60 minutes until the ginger is translucent and the syrup has thickened.
 
-Transfer to a rack set over parchment with a slotted spoon. Dry for 4+ hours or overnight until tacky but not wet. Toss in sugar. Store airtight. Should be chewy-crystalline--Âthat's the texture we're after.
+Transfer to a rack set over parchment with a slotted spoon. Dry for 4+ hours or overnight until tacky but not wet. Toss in sugar. Store airtight. Should be chewy-crystalline—that's the texture we're after.
 
 *Note: High-quality store-bought crystallized ginger works well here if you're short on time, friend. Just chop it into small pieces and call it a day.*
 
 **Roast Plums:**
 
-Preheat your oven to 375Â°F. Halve and pit the plumsÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âdon't peel them. Cut each half into quarters.
+Preheat your oven to 375°F. Halve and pit the plums—don't peel them. Cut each half into quarters.
 
 In a roasting pan, toss the plum pieces with honey or brown sugar, five-spice, rice wine if using, and salt. Roast for 30-40 minutes, stirring halfway through, until they're soft, jammy, and caramelized at the edges. The juices should be thick and syrupy. If they're too thin, simmer on the stovetop for a few minutes to reduce.
 
-Reserve those roasting juicesÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âliquid gold, dude. Cool slightly. Puree 2/3 of the roasted plums until smooth. Chop the remaining 1/3 into 1/2-inch chunks. Refrigerate both.
+Reserve those roasting juices—liquid gold, dude. Cool slightly. Puree 2/3 of the roasted plums until smooth. Chop the remaining 1/3 into 1/2-inch chunks. Refrigerate both.
 
 **Make Custard:**
 
-Heat cream, milk, and half the sugar until steaming. Make your custard with egg yolks and the remaining sugar to 170-175Â°F. Don't let it boil or you'll have sweet scrambled eggs.
+Heat cream, milk, and half the sugar until steaming. Make your custard with egg yolks and the remaining sugar to 170-175°F. Don't let it boil or you'll have sweet scrambled eggs.
 
 Pull it off the heat. Stir in the additional five-spice, vanilla, and salt. Strain it.
 
-Fold in the plum puree and those reserved roasting juices while everything's still warm. Should turn this gorgeous purple-pink and smell absolutely amazing--Âlike spiced plums.
+Fold in the plum puree and those reserved roasting juices while everything's still warm. Should turn this gorgeous purple-pink and smell absolutely amazing—like spiced plums.
 
-Cool over an ice bath. Taste it cold--Âplum should hit first, then five-spice warmth with that distinctive star anise note that's kind of licorice-y but in a good way.
+Cool over an ice bath. Taste it cold—plum should hit first, then five-spice warmth with that distinctive star anise note that's kind of licorice-y but in a good way.
 
 Refrigerate at least 4 hours or overnight.
 
 **Churn:**
 
-Churn until soft-serve--Âthe fruit content makes this denser than standard custard. In the last minute, add the chopped roasted plum pieces and candied ginger pieces.
+Churn until soft-serve—the fruit content makes this denser than standard custard. In the last minute, add the chopped roasted plum pieces and candied ginger pieces.
 
 Freeze 4+ hours.
 
@@ -1722,37 +1722,37 @@ Freeze 4+ hours.
 
 **Chinese five-spice:**
 
-Star anise is the dominant flavor, with cloves, cinnamon, Sichuan peppercorns, and fennel backing it up. This blend has been used in Chinese cooking for literally thousands of years--Âit appears in ancient texts from the Han Dynasty. The combination is designed to hit all five flavor elements in Chinese philosophy: sweet, sour, bitter, pungent, and salty.
+Star anise is the dominant flavor, with cloves, cinnamon, Sichuan peppercorns, and fennel backing it up. This blend has been used in Chinese cooking for literally thousands of years—it appears in ancient texts from the Han Dynasty. The combination is designed to hit all five flavor elements in Chinese philosophy: sweet, sour, bitter, pungent, and salty.
 
-Buy it from an Asian market if possible--Âit'll be way fresher than that jar that's been sitting in the international aisle for literal years. Pre-ground five-spice loses its aromatic oils quickly, so look for the freshest you can find or, if you're feeling ambitious, buy the whole spices and grind them yourself.
+Buy it from an Asian market if possible—it'll be way fresher than that jar that's been sitting in the international aisle for literal years. Pre-ground five-spice loses its aromatic oils quickly, so look for the freshest you can find or, if you're feeling ambitious, buy the whole spices and grind them yourself.
 
 **Sichuan peppercorns (the secret weapon):**
 
-These aren't actually peppercornsÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âthey're the dried husks of berries from the prickly ash tree. They create this unique tingling, numbing sensation on your tongue called *mÆ’Ã†â€™â€šÂ¡lÆ’Ã†â€™â€šÂ * (eâ€šÂºÂ»eÂ¾â€šÂ£), which literally means "numbing-spicy." It's completely different from the burn of chili peppers. Combined with the warming spices in five-spice blend, you get this complex layered heat that's fucking fascinating.
+These aren't actually peppercorns—they're the dried husks of berries from the prickly ash tree. They create this unique tingling, numbing sensation on your tongue called *málà* (麻辣), which literally means "numbing-spicy." It's completely different from the burn of chili peppers. Combined with the warming spices in five-spice blend, you get this complex layered heat that's fucking fascinating.
 
 In ice cream, the Sichuan pepper's numbing quality is subtle but adds this mysterious tingle that makes people go "wait, what is that?" in the best way.
 
 **Plum types:**
 
-Use black or Italian prune plums--Âthey're sweet-tart and not too watery. Often labeled simply as "prune plums" or "Italian plums" in stores. These are the smaller, oval, dark purple ones--Ânot the big round red plums.
+Use black or Italian prune plums—they're sweet-tart and not too watery. Often labeled simply as "prune plums" or "Italian plums" in stores. These are the smaller, oval, dark purple ones—not the big round red plums.
 
-Season: summer only, like June through September. Can use frozen off-season, though the texture won't be quite as good. The variety is crucial here--Âregular round plums have too much water and not enough concentrated flavor. Prune plums roast down into this jammy, almost wine-like intensity that you absolutely need for this recipe.
+Season: summer only, like June through September. Can use frozen off-season, though the texture won't be quite as good. The variety is crucial here—regular round plums have too much water and not enough concentrated flavor. Prune plums roast down into this jammy, almost wine-like intensity that you absolutely need for this recipe.
 
 **Why roast:**
 
-Roasting concentrates the plums' sugars and allows the five-spice to penetrate deeply into the fruit. The Maillard reaction creates these complex caramelized notes that complement the spices. Don't skip this--Âraw plums wouldn't have anywhere near the same intensity. It's the difference between "meh" and "holy shit."
+Roasting concentrates the plums' sugars and allows the five-spice to penetrate deeply into the fruit. The Maillard reaction creates these complex caramelized notes that complement the spices. Don't skip this—raw plums wouldn't have anywhere near the same intensity. It's the difference between "meh" and "holy shit."
 
-The roasting juices are essential--Âthat's where all the spice-infused, caramelized plum flavor lives. Don't leave it in the pan like some kind of monster.
+The roasting juices are essential—that's where all the spice-infused, caramelized plum flavor lives. Don't leave it in the pan like some kind of monster.
 
 **Ginger-plum pairing:**
 
 Classic Chinese combination that goes back centuries, pal. In traditional Chinese medicine, ginger is considered "warming" and plums are "cooling," so they balance each other. In cooking, the ginger's sharp heat and the plum's fruity acidity create this perfect tension.
 
-Candied ginger (Â§â€šÂ³"Ã¢â‚¬Å“Æ’Â¥â€šÂ§â€¦Ã¢â‚¬Å“, *tÆ’Ã†â€™â€šÂ¡ng jiÆ’Ã¢â‚¬Å¾â€šÂng*) is traditional in Chinese sweets and preserved fruitsÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âit's been made for over a thousand years as both a confection and a digestive aid. The crystalline coating gives you textural contrast against the creamy ice cream while the ginger heat cuts through the richness. It's one of those things that just *works*.
+Candied ginger (糖姜, *táng jiāng*) is traditional in Chinese sweets and preserved fruits—it's been made for over a thousand years as both a confection and a digestive aid. The crystalline coating gives you textural contrast against the creamy ice cream while the ginger heat cuts through the richness. It's one of those things that just *works*.
 
 **What it tastes like:**
 
-Deep, wine-like plum flavor up front, then warm five-spice--Âespecially that licorice-y star anise note--Âthen occasional pockets of crystalline-chewy ginger that add heat and texture. You might notice a subtle tingling sensation from the Sichuan peppercorns that makes your tongue feel alive. Complex and sophisticated without being pretentious about it.
+Deep, wine-like plum flavor up front, then warm five-spice—especially that licorice-y star anise note—then occasional pockets of crystalline-chewy ginger that add heat and texture. You might notice a subtle tingling sensation from the Sichuan peppercorns that makes your tongue feel alive. Complex and sophisticated without being pretentious about it.
 
 **Make-Ahead:** 
 Candied ginger can be made up to 2 weeks ahead and stored airtight. The roasted plums can be made a day ahead and refrigerated. Make the custard base the night before churning for best results.
@@ -1769,7 +1769,7 @@ Candied ginger can be made up to 2 weeks ahead and stored airtight. The roasted 
 
 **Total Time:** 6-8 hours (includes 2-4 hours of coffee beans drying while you do literally anything else, plus 4+ hours custard chilling)
 
-Bocadillo"Ã¢â‚¬Âguava paste"Ã¢â‚¬Âis everywhere in Colombian desserts. It's basically concentrated guava sweetness in a block, which sounds weird but is absolutely fucking delicious. Combined with dark panela-coffee caramel and candied coffee beans, you get something distinctly Colombian: bright tropical fruit balanced by deep, dark coffee notes that'll wake you up and make you happy.
+Bocadillo—guava paste—is everywhere in Colombian desserts. It's basically concentrated guava sweetness in a block, which sounds weird but is absolutely fucking delicious. Combined with dark panela-coffee caramel and candied coffee beans, you get something distinctly Colombian: bright tropical fruit balanced by deep, dark coffee notes that'll wake you up and make you happy.
 
 More components than strictly necessary, but they all earn their place. No freeloaders here, homie.
 
@@ -1805,9 +1805,9 @@ More components than strictly necessary, but they all earn their place. No freel
 
 Line a baking sheet with parchment. Combine 1/3 cup panela and 1/4 cup water in a saucepan. Heat over medium-high, stirring until the panela dissolves. Bring to a boil.
 
-Cook WITHOUT STIRRING to 240Â°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy"Ã¢â‚¬Âyou'll know it when you see it, friend.
+Cook WITHOUT STIRRING to 240°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy—you'll know it when you see it, friend.
 
-Pull it off the heat immediately. Add the coffee beans, stir quickly to coat completely"Ã¢â‚¬Âevery bean needs coverage.
+Pull it off the heat immediately. Add the coffee beans, stir quickly to coat completely—every bean needs coverage.
 
 Working FAST because this sets up quicker than you can say "I should've been ready," pour onto the parchment and spread in a single layer using two forks to separate the beans before the mixture sets. Should look glossy and lacquered, like edible jewelry.
 
@@ -1821,13 +1821,13 @@ Strain through a fine-mesh sieve to remove any lumps or weird bits. Cool complet
 
 **Coffee-Panela Caramel Swirl:**
 
-Brew strong coffee or espresso, let it cool COMPLETELY"Ã¢â‚¬Âlike actually cold, not "oh this seems cool enough." Have the cooled coffee, warmed cream, and butter measured and sitting right next to the stove"Ã¢â‚¬Âcaramel moves faster than bad news, dude.
+Brew strong coffee or espresso, let it cool COMPLETELY—like actually cold, not "oh this seems cool enough." Have the cooled coffee, warmed cream, and butter measured and sitting right next to the stove—caramel moves faster than bad news, dude.
 
-Combine panela and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber"Ã¢â‚¬Âcopper penny color. This takes about 7-10 minutes of you just standing there like a creep.
+Combine panela and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there like a creep.
 
-Pull it off the heat. Carefully pour in the cooled coffee"Ã¢â‚¬Âit'll bubble and steam dramatically. Whisk until smooth.
+Pull it off the heat. Carefully pour in the cooled coffee—it'll bubble and steam dramatically. Whisk until smooth.
 
-Add the warmed cream and butter, whisk thoroughly. Should be dark brown and smell INTENSELY of coffee and caramelized panela"Ã¢â‚¬Âlike Colombia in a pan.
+Add the warmed cream and butter, whisk thoroughly. Should be dark brown and smell INTENSELY of coffee and caramelized panela—like Colombia in a pan.
 
 Add a pinch of salt. Cool to room temperature, then refrigerate. Should be thick but pourable when cold, like honey.
 
@@ -1835,13 +1835,13 @@ Add a pinch of salt. Cool to room temperature, then refrigerate. Should be thick
 
 Heat cream and milk until steaming. Whisk together egg yolks and sugar in a separate bowl until pale and slightly thickened.
 
-Slowly pour the hot cream mixture into the yolks while whisking constantly"Ã¢â‚¬Âyou know how to temper yolks. Return the entire mixture to the saucepan.
+Slowly pour the hot cream mixture into the yolks while whisking constantly—you know how to temper yolks. Return the entire mixture to the saucepan.
 
-Cook over medium-low heat, stirring constantly with a spatula, until the custard thickens and reaches 170-175Â°F.
+Cook over medium-low heat, stirring constantly with a spatula, until the custard thickens and reaches 170-175°F.
 
 Pull it off the heat. Stir in vanilla and salt. Strain. Fold in that cooled guava syrup while the custard is still warm, whisking until completely incorporated. Should turn this gorgeous bright pink and smell of tropical guava.
 
-Cool over an ice bath. Taste it cold"Ã¢â‚¬Âshould be sweet guava with floral tropical notes that make you think about beaches even if you're landlocked as hell.
+Cool over an ice bath. Taste it cold—should be sweet guava with floral tropical notes that make you think about beaches even if you're landlocked as hell.
 
 Refrigerate at least 4 hours or overnight.
 
@@ -1849,7 +1849,7 @@ Refrigerate at least 4 hours or overnight.
 
 Churn until soft-serve. In the last minute, add those candied coffee beans.
 
-Transfer to your container in layers: spread 1/3 of the ice cream, drizzle coffee-panela caramel in ribbons, repeat twice. Gently swirl with a knife"Ã¢â‚¬Âyou want those dramatic streaks.
+Transfer to your container in layers: spread 1/3 of the ice cream, drizzle coffee-panela caramel in ribbons, repeat twice. Gently swirl with a knife—you want those dramatic streaks.
 
 Freeze 4+ hours.
 
@@ -1859,15 +1859,15 @@ Freeze 4+ hours.
 
 Colombian guava paste made with guava pulp and panela, sold in firm blocks at Latin markets. Typically costs $3-5 for an 8-10 oz package, found in the international or Latino foods section. Look for brands like La Constancia or Dulces de Colombia.
 
-Already contains panela, giving it authentic Colombian depth. If unavailable, use regular guava paste and add 2 tbsp dark brown sugar to the syrup"Ã¢â‚¬Ânot quite the same but it'll work.
+Already contains panela, giving it authentic Colombian depth. If unavailable, use regular guava paste and add 2 tbsp dark brown sugar to the syrup—not quite the same but it'll work.
 
 **Panela:**
 
-Unrefined Colombian cane sugar"Ã¢â‚¬Âhas deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine, pal.
+Unrefined Colombian cane sugar—has deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine, pal.
 
 **Coffee:**
 
-Use Colombian coffee if possible for authenticity"Ã¢â‚¬Âit's what they're famous for. Coffee MUST be completely cooled before adding to hot caramel or you'll get dangerous spattering and a mess and possibly burns. Don't be a hero. Let it cool.
+Use Colombian coffee if possible for authenticity—it's what they're famous for. Coffee MUST be completely cooled before adding to hot caramel or you'll get dangerous spattering and a mess and possibly burns. Don't be a hero. Let it cool.
 
 **Light custard:**
 
@@ -1875,11 +1875,11 @@ Using 3-4 yolks (I recommend 4) prevents richness from overwhelming that delicat
 
 **Candied coffee beans:**
 
-Provide these intense coffee bursts when you bite into them"Ã¢â‚¬Âthe coating should be hard and glassy when dried. Work quickly when coating the beans because panela syrup sets faster than regular sugar syrup.
+Provide these intense coffee bursts when you bite into them—the coating should be hard and glassy when dried. Work quickly when coating the beans because panela syrup sets faster than regular sugar syrup.
 
 **Cultural context:**
 
-Bocadillo is ubiquitous in Colombian desserts"Ã¢â‚¬Âit's THE guava product, found in everything from traditional desserts to simple snacks paired with cheese. Colombia is also one of the world's premier coffee producers, with coffee culture deeply embedded in daily life. A typical Colombian breakfast includes tinto (small cup of black coffee) or cafÆ’Ã†â€™â€šÂ© con leche, and coffee breaks are serious business. Panela, that unrefined cane sugar, is used in everything from hot drinks (agua de panela) to desserts and savory dishes. This recipe brings together three distinctly Colombian ingredients"Ã¢â‚¬Âbocadillo, panela, and coffee"Ã¢â‚¬Âin a way that honors their individual characters while creating something new. The combination of tropical guava with dark coffee isn't traditional Colombian ice cream (mantecado is more common), but it translates these beloved flavors into frozen form.
+Bocadillo is ubiquitous in Colombian desserts—it's THE guava product, found in everything from traditional desserts to simple snacks paired with cheese. Colombia is also one of the world's premier coffee producers, with coffee culture deeply embedded in daily life. A typical Colombian breakfast includes tinto (small cup of black coffee) or café con leche, and coffee breaks are serious business. Panela, that unrefined cane sugar, is used in everything from hot drinks (agua de panela) to desserts and savory dishes. This recipe brings together three distinctly Colombian ingredients—bocadillo, panela, and coffee—in a way that honors their individual characters while creating something new. The combination of tropical guava with dark coffee isn't traditional Colombian ice cream (mantecado is more common), but it translates these beloved flavors into frozen form.
 
 **Visual:**
 
@@ -1887,7 +1887,7 @@ Bright pink guava base with dark brown coffee-caramel swirls and glossy dark can
 
 **What it tastes like:**
 
-Bright tropical guava up front"Ã¢â‚¬Âfloral, sweet, distinctly guava"Ã¢â‚¬Âpunctuated by intense dark coffee-caramel ribbons and crunchy coffee beans that give you little hits of caffeine and bitterness. Two strong flavors that somehow complement each other instead of fighting. Distinctly Colombian and absolutely worth the effort, homie.
+Bright tropical guava up front—floral, sweet, distinctly guava—punctuated by intense dark coffee-caramel ribbons and crunchy coffee beans that give you little hits of caffeine and bitterness. Two strong flavors that somehow complement each other instead of fighting. Distinctly Colombian and absolutely worth the effort, homie.
 
 ---
 
@@ -2035,15 +2035,15 @@ Wattleseed's complex flavors actually develop and deepen after 24 hours in the f
 
 # Rum Banana
 
-*Allspice, rum, bananas"Ã¢â‚¬ÂCaribbean celebration*
+*Allspice, rum, bananas—Caribbean celebration*
 
-**Difficulty:** LEGIT - Multiple components and some flambÆ’Ã†â€™â€šÂ© action if you're feeling brave. You'll caramelize bananas, make butterscotch, candy ginger, and juggle timing across all of them. Nothing here will actually break you, but you can't just fuck off and watch TV either. Stay present, stay engaged, you'll be fine.
+**Difficulty:** LEGIT - Multiple components and some flambé action if you're feeling brave. You'll caramelize bananas, make butterscotch, candy ginger, and juggle timing across all of them. Nothing here will actually break you, but you can't just fuck off and watch TV either. Stay present, stay engaged, you'll be fine.
 
-**Total Time:** 6-8 hours (most of which is ginger drying and base chilling"Ã¢â‚¬Âyou'll have plenty of time to do other shit)
+**Total Time:** 6-8 hours (most of which is ginger drying and base chilling—you'll have plenty of time to do other shit)
 
-Allspice is THE signature spice of Jamaica"Ã¢â‚¬Âit's called pimento locally and has this warm, complex flavor that tastes like cinnamon, nutmeg, and cloves all decided to have a threesome. Combined with rum-caramelized bananas, candied ginger, and a rum-butterscotch swirl, you get something that feels like a party where everyone's having a genuinely good time. Bright, spirited, deeply flavorful.
+Allspice is THE signature spice of Jamaica—it's called pimento locally and has this warm, complex flavor that tastes like cinnamon, nutmeg, and cloves all decided to have a threesome. Combined with rum-caramelized bananas, candied ginger, and a rum-butterscotch swirl, you get something that feels like a party where everyone's having a genuinely good time. Bright, spirited, deeply flavorful.
 
-You might flambÆ’Ã†â€™â€šÂ© some bananas. This is optional but absolutely fucking fun, homie.
+You might flambé some bananas. This is optional but absolutely fucking fun, homie.
 
 ## Ingredients
 
@@ -2091,7 +2091,7 @@ You might flambÆ’Ã†â€™â€šÂ© some bananas. This is optional but 
 
 **Candied Ginger (make 1-2 days ahead, or buy pre-made):**
 
-Peel the ginger and slice into 1/8-inch thick coins or matchsticks. Place in a saucepan with 1 cup water, bring to a boil. Boil for 5 minutes, drain. Repeat blanching with fresh water"Ã¢â‚¬Âthis removes some of the bite so it doesn't murder your mouth.
+Peel the ginger and slice into 1/8-inch thick coins or matchsticks. Place in a saucepan with 1 cup water, bring to a boil. Boil for 5 minutes, drain. Repeat blanching with fresh water—this removes some of the bite so it doesn't murder your mouth.
 
 Combine 1 cup sugar and 1/2 cup water in a saucepan, bring to a simmer. Add the blanched ginger, reduce to low. Simmer gently for 45-60 minutes until the ginger is translucent and the syrup has thickened.
 
@@ -2101,31 +2101,31 @@ Transfer to a rack set over parchment with a slotted spoon. Dry for 4+ hours or 
 
 **Toasted Coconut (if using):**
 
-In a dry skillet over medium-low, toast those coconut flakes, stirring CONSTANTLY, for 3-5 minutes until golden brown. Burns quicker than your attention span during a long meeting"Ã¢â‚¬Âwatch it carefully. Should smell nutty and tropical.
+In a dry skillet over medium-low, toast those coconut flakes, stirring CONSTANTLY, for 3-5 minutes until golden brown. Burns quicker than your attention span during a long meeting—watch it carefully. Should smell nutty and tropical.
 
 Add a pinch of salt while warm. Transfer to a plate immediately. Cool completely. Store airtight.
 
 **Rum-Caramelized Bananas:**
 
-Peel the bananas and cut into 1/2-inch thick rounds. Crush the whole allspice berries slightly with a mortar and pestle or in a plastic bag with a rolling pin"Ã¢â‚¬Âwant them broken but not powdered to hell.
+Peel the bananas and cut into 1/2-inch thick rounds. Crush the whole allspice berries slightly with a mortar and pestle or in a plastic bag with a rolling pin—want them broken but not powdered to hell.
 
 Melt butter in a large skillet over medium-high heat. Add the dark brown sugar and crushed allspice, stir until the sugar melts and bubbles, about 1 minute.
 
-Add the banana rounds in a single layer"Ã¢â‚¬Âwork in batches if needed to avoid crowding because crowded bananas steam instead of caramelize and that's just sad. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still hold their shape.
+Add the banana rounds in a single layer—work in batches if needed to avoid crowding because crowded bananas steam instead of caramelize and that's just sad. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still hold their shape.
 
-Reduce heat to medium-low. Sprinkle nutmeg over the bananas. Carefully add the rum"Ã¢â‚¬Âmay flame BRIEFLY if using a gas stove, which is normal and safe and honestly pretty cool. The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
+Reduce heat to medium-low. Sprinkle nutmeg over the bananas. Carefully add the rum—may flame BRIEFLY if using a gas stove, which is normal and safe and honestly pretty cool. The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
 
-Add a pinch of salt and squeeze of lime juice. Pull it off the heat. The liquid should be thick, syrupy, deeply caramelized"Ã¢â‚¬Âalmost mahogany.
+Add a pinch of salt and squeeze of lime juice. Pull it off the heat. The liquid should be thick, syrupy, deeply caramelized—almost mahogany.
 
-Remove and discard the crushed allspice berries if you can find them"Ã¢â‚¬Âsome will have dissolved into the sauce, which is fine. Cool slightly.
+Remove and discard the crushed allspice berries if you can find them—some will have dissolved into the sauce, which is fine. Cool slightly.
 
 Puree 2/3 of the caramelized bananas with their syrup until smooth. Should be thick, deeply flavored, beautiful mahogany-colored. Chop the remaining 1/3 into 1/2-inch pieces. Refrigerate both separately.
 
 **Infuse Allspice:**
 
-Combine heavy cream and milk in a saucepan. Lightly crush the whole allspice berries with the back of a spoon"Ã¢â‚¬Âreleases the oils without turning them to powder. Add crushed allspice berries to the cream mixture.
+Combine heavy cream and milk in a saucepan. Lightly crush the whole allspice berries with the back of a spoon—releases the oils without turning them to powder. Add crushed allspice berries to the cream mixture.
 
-Heat over medium to 170-175Â°F"Ã¢â‚¬Âsteaming, not boiling. Pull it off the heat, cover, steep for 20-25 minutes. Allspice needs time to do its thing, dude. Taste at 20 minutes"Ã¢â‚¬Âshould have clear pimento character with warm, almost peppery notes.
+Heat over medium to 170-175°F—steaming, not boiling. Pull it off the heat, cover, steep for 20-25 minutes. Allspice needs time to do its thing, dude. Taste at 20 minutes—should have clear pimento character with warm, almost peppery notes.
 
 Strain through a fine-mesh sieve, pressing gently on the allspice to extract all those oils. Discard the berries.
 
@@ -2133,13 +2133,13 @@ Strain through a fine-mesh sieve, pressing gently on the allspice to extract all
 
 Return the infused cream to the saucepan. Add dark brown sugar, ground nutmeg, and ground cinnamon. Heat until steaming, stirring to dissolve the sugar and distribute the spices evenly.
 
-Temper your egg yolks and cook to 170-175Â°F. The brown sugar will give it this beautiful amber-tan color.
+Temper your egg yolks and cook to 170-175°F. The brown sugar will give it this beautiful amber-tan color.
 
 Pull it off the heat. Stir in rum, vanilla, and salt. Strain. Fold in the banana puree while the custard is still warm, whisking until completely incorporated.
 
-Should turn deep golden-tan and smell absolutely incredible"Ã¢â‚¬Âcaramelized banana, Jamaican rum, and allspice with nutmeg-cinnamon warmth. If it doesn't make you want to move to the Caribbean, you did something wrong.
+Should turn deep golden-tan and smell absolutely incredible—caramelized banana, Jamaican rum, and allspice with nutmeg-cinnamon warmth. If it doesn't make you want to move to the Caribbean, you did something wrong.
 
-Cool over an ice bath. Taste it cold"Ã¢â‚¬Âshould have clear allspice presence (warm, slightly peppery, aromatic), deep rum character, and rich banana-brown sugar depth.
+Cool over an ice bath. Taste it cold—should have clear allspice presence (warm, slightly peppery, aromatic), deep rum character, and rich banana-brown sugar depth.
 
 Refrigerate at least 4 hours or overnight.
 
@@ -2147,15 +2147,15 @@ Refrigerate at least 4 hours or overnight.
 
 In a heavy-bottomed saucepan, melt the butter over medium heat. Add the brown sugar, stir constantly until melted and beginning to bubble, about 2 minutes.
 
-Carefully pour in the warmed cream"Ã¢â‚¬Âit'll bubble VIGOROUSLY like it's mad at you. Whisk constantly until smooth and combined. Continue cooking, stirring frequently, until the mixture thickens slightly and turns deep amber, about 3-4 minutes.
+Carefully pour in the warmed cream—it'll bubble VIGOROUSLY like it's mad at you. Whisk constantly until smooth and combined. Continue cooking, stirring frequently, until the mixture thickens slightly and turns deep amber, about 3-4 minutes.
 
-Pull it off the heat. Stir in rum and salt. Should smell intensely of butterscotch and rum"Ã¢â‚¬Âlike a Caribbean dessert had a baby with a distillery.
+Pull it off the heat. Stir in rum and salt. Should smell intensely of butterscotch and rum—like a Caribbean dessert had a baby with a distillery.
 
 Cool to room temperature, then refrigerate. Should be thick but pourable when cold, like honey. Warm it gently if it's too thick.
 
 **Churn:**
 
-Churn until soft-serve"Ã¢â‚¬Âmay take slightly longer due to the banana puree. In the last minute, add the chopped caramelized banana pieces, candied ginger pieces, and toasted coconut if using.
+Churn until soft-serve—may take slightly longer due to the banana puree. In the last minute, add the chopped caramelized banana pieces, candied ginger pieces, and toasted coconut if using.
 
 Transfer to your container in layers: spread 1/3 of the ice cream, drizzle rum-butterscotch swirl in ribbons, repeat twice. Gently swirl with a knife.
 
@@ -2165,25 +2165,25 @@ Freeze 4+ hours.
 
 **Jamaican allspice (pimento):**
 
-Allspice is THE signature spice of Jamaica, where the world's finest quality grows. Called "pimento" locally"Ã¢â‚¬Ânot to be confused with pimiento peppers, which are completely different. It's the dried unripe fruit of *Pimenta dioica*, native to Jamaica.
+Allspice is THE signature spice of Jamaica, where the world's finest quality grows. Called "pimento" locally—not to be confused with pimiento peppers, which are completely different. It's the dried unripe fruit of *Pimenta dioica*, native to Jamaica.
 
-The name comes from the flavor"Ã¢â‚¬Âit genuinely tastes like a combination of cinnamon, nutmeg, and cloves, with warm, slightly peppery aromatic notes. For authentic Jamaican flavor, allspice MUST be the dominant spice, not just a supporting player.
+The name comes from the flavor—it genuinely tastes like a combination of cinnamon, nutmeg, and cloves, with warm, slightly peppery aromatic notes. For authentic Jamaican flavor, allspice MUST be the dominant spice, not just a supporting player.
 
-Buy whole berries from good spice companies and crush them fresh"Ã¢â‚¬Âpre-ground loses potency faster than milk goes bad in summer. Jamaican allspice is distinctly superior to Central American varieties.
+Buy whole berries from good spice companies and crush them fresh—pre-ground loses potency faster than milk goes bad in summer. Jamaican allspice is distinctly superior to Central American varieties.
 
 **Jamaican rum:**
 
-Use dark Jamaican rum like Appleton Estate, Myers's, or Wray & Nephew Overproof"Ã¢â‚¬Âthough that last one is VERY strong, use it cautiously, pal. Jamaican rum is made from molasses and pot-distilled, creating this full-bodied, almost funky character with notes of banana, brown sugar, and warm spices.
+Use dark Jamaican rum like Appleton Estate, Myers's, or Wray & Nephew Overproof—though that last one is VERY strong, use it cautiously, pal. Jamaican rum is made from molasses and pot-distilled, creating this full-bodied, almost funky character with notes of banana, brown sugar, and warm spices.
 
-Distinctly different from rhum agricole or light rums. The richness and complexity are essential"Ã¢â‚¬Âit's not just alcohol, it's a fucking flavor component.
+Distinctly different from rhum agricole or light rums. The richness and complexity are essential—it's not just alcohol, it's a fucking flavor component.
 
 **Ginger tradition:**
 
-Candied/crystallized ginger is beloved in Jamaican sweets"Ã¢â‚¬Âginger candy, ginger cake, ginger beer. The fresh ginger heat cuts through the richness of banana-rum-butterscotch like a knife through butter.
+Candied/crystallized ginger is beloved in Jamaican sweets—ginger candy, ginger cake, ginger beer. The fresh ginger heat cuts through the richness of banana-rum-butterscotch like a knife through butter.
 
 **Banana caramelization:**
 
-This technique of caramelizing bananas with butter, brown sugar, and rum is essentially simplified bananas foster. While bananas foster was created in New Orleans in 1951, it draws directly on Caribbean ingredients and techniques. Jamaicans have been cooking bananas with rum, sugar, and spices LONG before that"Ã¢â‚¬Âthis is cultural appropriation done backwards, homie.
+This technique of caramelizing bananas with butter, brown sugar, and rum is essentially simplified bananas foster. While bananas foster was created in New Orleans in 1951, it draws directly on Caribbean ingredients and techniques. Jamaicans have been cooking bananas with rum, sugar, and spices LONG before that—this is cultural appropriation done backwards, homie.
 
 **Brown sugar throughout:**
 
@@ -2191,11 +2191,11 @@ Dark brown sugar in the base, caramelized bananas, and butterscotch creates this
 
 **Coconut as accent:**
 
-Unlike the Haitian version where coconut milk integrates into the base, here toasted coconut flakes are an optional textural accent. Banana-coconut is a classic Jamaican combination, but here the coconut provides crunch without making the base coconut-forward. The focus remains on banana, rum, and allspice"Ã¢â‚¬Âas it should.
+Unlike the Haitian version where coconut milk integrates into the base, here toasted coconut flakes are an optional textural accent. Banana-coconut is a classic Jamaican combination, but here the coconut provides crunch without making the base coconut-forward. The focus remains on banana, rum, and allspice—as it should.
 
 **What it tastes like:**
 
-Warm amber base with prominent allspice"Ã¢â‚¬Âthat characteristic Jamaican pimento flavor"Ã¢â‚¬Ârum depth, caramelized banana sweetness, pockets of chewy-crystalline ginger heat, optional coconut crunch, and dark butterscotch ribbons throughout. Spirited, lively, celebratory. Tastes like a Jamaican party where everyone's invited and everyone's dancing.
+Warm amber base with prominent allspice—that characteristic Jamaican pimento flavor—rum depth, caramelized banana sweetness, pockets of chewy-crystalline ginger heat, optional coconut crunch, and dark butterscotch ribbons throughout. Spirited, lively, celebratory. Tastes like a Jamaican party where everyone's invited and everyone's dancing.
 
 ## Allergen Information
 
@@ -2825,7 +2825,7 @@ It tastes like summer on a Greek island you've never been to but somehow remembe
 
 **VEGAN**
 
-Mozambique is one of the world's largest cashew producers, coconut is a coastal staple, and piri piri"Ã¢â‚¬ÂAfrican bird's eye chili"Ã¢â‚¬Âis THE iconic ingredient. This vegan ice cream combines all three with caramelized depth and a swirl of spicy-garlicky caramel that sounds absolutely batshit but somehow fucking works.
+Mozambique is one of the world's largest cashew producers, coconut is a coastal staple, and piri piri—African bird's eye chili—is THE iconic ingredient. This vegan ice cream combines all three with caramelized depth and a swirl of spicy-garlicky caramel that sounds absolutely batshit but somehow fucking works.
 
 You'll soak a shit-ton of cashews. Your blender will get a serious workout. It's worth it, homie.
 
@@ -2872,63 +2872,63 @@ You'll soak a shit-ton of cashews. Your blender will get a serious workout. It's
 
 **Soak Cashews for Base (do this first, needs 4+ hours):**
 
-Place 1/2 cup raw cashews in a bowl, cover with water by 2 inches. Soak for minimum 4 hours or overnight"Ã¢â‚¬Âthis softens them completely so they'll blend into silky cream instead of chunky bullshit.
+Place 1/2 cup raw cashews in a bowl, cover with water by 2 inches. Soak for minimum 4 hours or overnight—this softens them completely so they'll blend into silky cream instead of chunky bullshit.
 
 Drain and rinse before using.
 
-*Note: The additional 1 cup cashews for candying should NOT be soaked"Ã¢â‚¬Âkeep those fuckers dry for roasting.*
+*Note: The additional 1 cup cashews for candying should NOT be soaked—keep those fuckers dry for roasting.*
 
 **Candied Cashews:**
 
-Preheat your oven to 325Â°F. Toss 1 cup of dry (unsoaked) cashews with coconut oil until coated. Spread on a parchment-lined baking sheet, toast for 10-12 minutes, stirring halfway, until golden and fragrant.
+Preheat your oven to 325°F. Toss 1 cup of dry (unsoaked) cashews with coconut oil until coated. Spread on a parchment-lined baking sheet, toast for 10-12 minutes, stirring halfway, until golden and fragrant.
 
-Pull them out of the oven. In a small saucepan, melt the palm sugar over medium heat until it's liquid"Ã¢â‚¬Âit'll turn into this gorgeous molten thing. Pour it over the hot cashews, add lime zest and salt, toss quickly to coat. Work FAST here because this stuff sets up like concrete. Spread back on the parchment to cool completely. Break into small clusters. Store airtight.
+Pull them out of the oven. In a small saucepan, melt the palm sugar over medium heat until it's liquid—it'll turn into this gorgeous molten thing. Pour it over the hot cashews, add lime zest and salt, toss quickly to coat. Work FAST here because this stuff sets up like concrete. Spread back on the parchment to cool completely. Break into small clusters. Store airtight.
 
 **Toasted Coconut:**
 
-In a dry skillet over medium-low, toast those coconut flakes, stirring constantly, for 3-5 minutes until golden brown. Burns quicker than your ex's new relationship"Ã¢â‚¬Âwatch it carefully, dude. Should smell nutty and sweet.
+In a dry skillet over medium-low, toast those coconut flakes, stirring constantly, for 3-5 minutes until golden brown. Burns quicker than your ex's new relationship—watch it carefully, dude. Should smell nutty and sweet.
 
 Transfer to a plate immediately. Optional: sprinkle with a tiny pinch of salt while warm. Cool completely. Store airtight.
 
 **Piri Piri Caramel Swirl:**
 
-Have your warmed coconut cream, butter, and aromatics measured and ready right next to the stove"Ã¢â‚¬Âcaramel moves faster than bad decisions.
+Have your warmed coconut cream, butter, and aromatics measured and ready right next to the stove—caramel moves faster than bad decisions.
 
-Combine sugar and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber"Ã¢â‚¬Âcopper penny color. This takes about 7-10 minutes of you just standing there watching, which is boring as hell but necessary.
+Combine sugar and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there watching, which is boring as hell but necessary.
 
-Pull it off the heat. Carefully pour in the warmed coconut cream"Ã¢â‚¬Âit'll bubble VIOLENTLY and make scary noises. Whisk until smooth.
+Pull it off the heat. Carefully pour in the warmed coconut cream—it'll bubble VIOLENTLY and make scary noises. Whisk until smooth.
 
-Add the vegan butter, piri piri sauce (or fresh chilies), minced garlic, smoked paprika, and salt. Whisk thoroughly. Should be this gorgeous orange-red with noticeable heat and subtle garlic undertone"Ã¢â‚¬Âyeah, garlic in caramel, trust the fucking process.
+Add the vegan butter, piri piri sauce (or fresh chilies), minced garlic, smoked paprika, and salt. Whisk thoroughly. Should be this gorgeous orange-red with noticeable heat and subtle garlic undertone—yeah, garlic in caramel, trust the fucking process.
 
-Add a squeeze of lime juice. Taste it carefully (it's hot!)"Ã¢â‚¬Âshould be sweet with building heat, citrusy brightness, and this whisper of savory depth that makes your brain go "wait, what?"
+Add a squeeze of lime juice. Taste it carefully (it's hot!)—should be sweet with building heat, citrusy brightness, and this whisper of savory depth that makes your brain go "wait, what?"
 
 If using fresh chilies and you want more heat, add another minced chili. Cool to room temperature, then refrigerate. Should be thick but pourable, like honey. Warm it gently if it's too thick.
 
 **Make Coconut-Cashew Base:**
 
-Drain and rinse those soaked cashews. In a high-powered blender, combine the soaked cashews with 1 cup of the coconut milk. Blend on high for 2-3 minutes until completely smooth and silky"Ã¢â‚¬ÂNO graininess, chief. This is critical. Set aside.
+Drain and rinse those soaked cashews. In a high-powered blender, combine the soaked cashews with 1 cup of the coconut milk. Blend on high for 2-3 minutes until completely smooth and silky—NO graininess, chief. This is critical. Set aside.
 
-In a medium saucepan, whisk the cornstarch with 1/4 cup of the coconut cream until no lumps remain"Ã¢â‚¬Âand I mean NONE. Add the remaining coconut cream, remaining coconut milk, sugar, grated palm sugar, and coconut milk powder if using. Whisk to combine.
+In a medium saucepan, whisk the cornstarch with 1/4 cup of the coconut cream until no lumps remain—and I mean NONE. Add the remaining coconut cream, remaining coconut milk, sugar, grated palm sugar, and coconut milk powder if using. Whisk to combine.
 
 Heat over medium, whisking frequently, until the mixture comes to a gentle simmer and thickens noticeably, like 5-7 minutes. Should coat the spoon with this pudding-like consistency.
 
 Pull it off the heat. Whisk in the cashew cream until completely incorporated and smooth. Add lime zest, lime juice, vanilla, and salt. Whisk thoroughly.
 
-The mixture should be thick, creamy, pale tan, and smell absolutely amazing"Ã¢â‚¬Âcoconut, cashew, and lime all hanging out together.
+The mixture should be thick, creamy, pale tan, and smell absolutely amazing—coconut, cashew, and lime all hanging out together.
 
-Strain through a fine-mesh sieve if you want ultra-smooth texture"Ã¢â‚¬Âoptional, you can leave the zest for visual interest and I won't judge you.
+Strain through a fine-mesh sieve if you want ultra-smooth texture—optional, you can leave the zest for visual interest and I won't judge you.
 
-Cool over an ice bath, stirring occasionally. Taste it cold"Ã¢â‚¬Âshould be rich, creamy, coconutty with cashew depth and lime brightness. Should taste slightly sweet since freezing dulls sweetness like it dulls everything good in life.
+Cool over an ice bath, stirring occasionally. Taste it cold—should be rich, creamy, coconutty with cashew depth and lime brightness. Should taste slightly sweet since freezing dulls sweetness like it dulls everything good in life.
 
 Refrigerate at least 4 hours or overnight.
 
 **Churn:**
 
-Give the base a good whisk before churning because coconut cream may have separated slightly"Ã¢â‚¬Âit's dramatic like that. Churn until soft-serve consistency. Coconut-based ice cream takes longer than dairy to freeze due to different fat crystallization"Ã¢â‚¬Âexpect it to look thick and pale tan when ready. Be patient, friend.
+Give the base a good whisk before churning because coconut cream may have separated slightly—it's dramatic like that. Churn until soft-serve consistency. Coconut-based ice cream takes longer than dairy to freeze due to different fat crystallization—expect it to look thick and pale tan when ready. Be patient, friend.
 
 In the last minute, add those candied cashew clusters and toasted coconut flakes.
 
-Transfer to your container in layers: spread 1/3 of the ice cream, drizzle piri piri caramel in ribbons, repeat twice. Gently swirl with a knife without fully incorporating"Ã¢â‚¬Âyou want those dramatic streaks.
+Transfer to your container in layers: spread 1/3 of the ice cream, drizzle piri piri caramel in ribbons, repeat twice. Gently swirl with a knife without fully incorporating—you want those dramatic streaks.
 
 Freeze at least 4 hours or overnight. Vegan ice cream freezes harder than dairy because plant fats are assholes, so remove from the freezer 5-10 minutes before serving to let it soften slightly.
 
@@ -2936,31 +2936,31 @@ Freeze at least 4 hours or overnight. Vegan ice cream freezes harder than dairy 
 
 **Mozambique context:**
 
-Mozambique is one of the world's largest cashew producers"Ã¢â‚¬Âthe country has been growing cashews since Portuguese colonists introduced the trees in the 1500s as a way to prevent coastal erosion. Today, cashews are one of Mozambique's most important exports, with most production coming from small family farms in the northern provinces.
+Mozambique is one of the world's largest cashew producers—the country has been growing cashews since Portuguese colonists introduced the trees in the 1500s as a way to prevent coastal erosion. Today, cashews are one of Mozambique's most important exports, with most production coming from small family farms in the northern provinces.
 
-Coconut is a staple along Mozambique's 1,500-mile coastline"Ã¢â‚¬Âused in everything from curries to desserts. Piri piri (African bird's eye chili) is THE iconic Mozambican ingredient"Ã¢â‚¬Âit's everywhere. The name comes from Swahili, and these tiny, fierce chilies have been cultivated in East Africa for centuries.
+Coconut is a staple along Mozambique's 1,500-mile coastline—used in everything from curries to desserts. Piri piri (African bird's eye chili) is THE iconic Mozambican ingredient—it's everywhere. The name comes from Swahili, and these tiny, fierce chilies have been cultivated in East Africa for centuries.
 
 Portuguese influence brought garlic-based cooking and the technique of combining sweet and savory flavors in unexpected ways. This combines indigenous ingredients (cashew, coconut, piri piri) with colonial influences (garlic caramel, Portuguese sweet-savory balance) for distinctly Mozambican flavor that's actually pretty fucking cool when you think about it.
 
 **Vegan texture:**
 
-Coconut fat crystallizes differently than dairy fat"Ã¢â‚¬Âit's just built different. Full-fat coconut cream is ESSENTIAL here"Ã¢â‚¬Âlight won't work, don't even try. Cashew cream adds body and prevents iciness. Cornstarch provides custard-like thickness without eggs. Coconut milk powder adds richness and helps prevent ice crystals. If unavailable, increase cornstarch to 3 tbsp.
+Coconut fat crystallizes differently than dairy fat—it's just built different. Full-fat coconut cream is ESSENTIAL here—light won't work, don't even try. Cashew cream adds body and prevents iciness. Cornstarch provides custard-like thickness without eggs. Coconut milk powder adds richness and helps prevent ice crystals. If unavailable, increase cornstarch to 3 tbsp.
 
-Plant-based ice cream has a different mouthfeel than dairy"Ã¢â‚¬Âit melts faster on your tongue due to coconut fat's lower melting point, which actually intensifies flavor. The tradeoff is that it freezes harder, hence the 5-10 minute tempering time before serving.
+Plant-based ice cream has a different mouthfeel than dairy—it melts faster on your tongue due to coconut fat's lower melting point, which actually intensifies flavor. The tradeoff is that it freezes harder, hence the 5-10 minute tempering time before serving.
 
 **Palm sugar:**
 
-Unrefined palm sugar or jaggery (from palm sap) is traditional in Mozambican sweets. Has this deep, caramel-molasses flavor that's different from regular sugar. If unavailable, use half brown sugar and half white sugar"Ã¢â‚¬Ânot quite the same but it'll work, pal.
+Unrefined palm sugar or jaggery (from palm sap) is traditional in Mozambican sweets. Has this deep, caramel-molasses flavor that's different from regular sugar. If unavailable, use half brown sugar and half white sugar—not quite the same but it'll work, pal.
 
 **Piri piri heat:**
 
-Piri piri chilies (African bird's eye) have sharp, citrusy heat"Ã¢â‚¬Âdifferent from habanero or jalapeÆ’Ã†â€™â€šÂ±o. If you can't find fresh or dried piri piri, use African or Portuguese piri piri sauce (many brands available). Start with 2 tsp in the caramel, taste it, add more if you're feeling brave. Thai bird's eye chilies work as a substitute.
+Piri piri chilies (African bird's eye) have sharp, citrusy heat—different from habanero or jalapeño. If you can't find fresh or dried piri piri, use African or Portuguese piri piri sauce (many brands available). Start with 2 tsp in the caramel, taste it, add more if you're feeling brave. Thai bird's eye chilies work as a substitute.
 
 Garlic in a sweet context sounds absolutely fucking insane but provides savory depth that makes the caramel more complex instead of one-note.
 
 **Soaking cashews:**
 
-This is CRITICAL, homie. Unsoaked cashews won't blend smooth even in a high-powered blender"Ã¢â‚¬Âthey'll stay grainy and ruin everything. Need minimum 4 hours, preferably overnight. Hot water soak works in a pinch (pour boiling water over cashews, soak 30-60 minutes) but overnight cold soak is better.
+This is CRITICAL, homie. Unsoaked cashews won't blend smooth even in a high-powered blender—they'll stay grainy and ruin everything. Need minimum 4 hours, preferably overnight. Hot water soak works in a pinch (pour boiling water over cashews, soak 30-60 minutes) but overnight cold soak is better.
 
 **Visual:**
 
@@ -2988,9 +2988,9 @@ Candied cashews can be made up to a week ahead and stored airtight. Toasted coco
 
 **Total Time:** 12-14 hours (most of that is passive drying and chilling while you do literally anything else with your life)
 
-Pain patate is Haiti's most beloved traditional dessert"Ã¢â‚¬Âa dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime. Traditionally baked for weddings, baptisms, holidays"Ã¢â‚¬Âall the big life shit. This ice cream captures those essential flavors: banana-coconut richness, five-spice warmth, rum depth, and lime brightness.
+Pain patate is Haiti's most beloved traditional dessert—a dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime. Traditionally baked for weddings, baptisms, holidays—all the big life shit. This ice cream captures those essential flavors: banana-coconut richness, five-spice warmth, rum depth, and lime brightness.
 
-This is dense, rich, intensely flavored. Not light summer ice cream"Ã¢â‚¬Âthis is celebration ice cream, dude.
+This is dense, rich, intensely flavored. Not light summer ice cream—this is celebration ice cream, dude.
 
 ## Ingredients
 
@@ -3058,11 +3058,11 @@ Add brown sugar and butter, stir until melted and combined. Simmer gently for 5-
 
 Pull it off the heat, add a squeeze of lime juice. Cool completely, then refrigerate.
 
-The mixture should be thick but pourable, with plump raisins suspended in dark rum syrup. Should smell INTENSELY of rum with brown sugar depth"Ã¢â‚¬Âlike a pirate's treasure chest if it was edible.
+The mixture should be thick but pourable, with plump raisins suspended in dark rum syrup. Should smell INTENSELY of rum with brown sugar depth—like a pirate's treasure chest if it was edible.
 
 **Toasted Coconut:**
 
-In a dry skillet over medium-low, toast those coconut flakes, stirring CONSTANTLY, for 3-5 minutes until golden brown. Burns quicker than your New Year's resolutions"Ã¢â‚¬Âwatch it like a fucking hawk, friend. Should smell nutty and tropical.
+In a dry skillet over medium-low, toast those coconut flakes, stirring CONSTANTLY, for 3-5 minutes until golden brown. Burns quicker than your New Year's resolutions—watch it like a fucking hawk, friend. Should smell nutty and tropical.
 
 Transfer to a plate immediately to stop cooking. Cool completely. Store airtight.
 
@@ -3070,11 +3070,11 @@ Transfer to a plate immediately to stop cooking. Cool completely. Store airtight
 
 Peel the bananas and cut into 1/2-inch thick rounds. Melt butter in a large skillet over medium-high heat. Add the brown sugar, stir until melted and bubbling, about 1 minute.
 
-Add the banana rounds in a single layer"Ã¢â‚¬Âwork in batches if needed to avoid crowding. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still holding their shit together.
+Add the banana rounds in a single layer—work in batches if needed to avoid crowding. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still holding their shit together.
 
-Reduce heat to medium-low. Sprinkle cinnamon and nutmeg over the bananas. Carefully add the rum"Ã¢â‚¬Âmay flame briefly if using a gas stove, which is safe and normal and makes you feel like a badass chef. The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
+Reduce heat to medium-low. Sprinkle cinnamon and nutmeg over the bananas. Carefully add the rum—may flame briefly if using a gas stove, which is safe and normal and makes you feel like a badass chef. The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
 
-Add a pinch of salt and squeeze of lime juice. Pull it off the heat. The liquid should be thick and syrupy, deeply caramelized"Ã¢â‚¬Âlike liquid gold.
+Add a pinch of salt and squeeze of lime juice. Pull it off the heat. The liquid should be thick and syrupy, deeply caramelized—like liquid gold.
 
 Cool slightly. Puree 2/3 of the caramelized bananas with their syrup until smooth. Should be thick, mahogany-colored, deeply spiced. Chop the remaining 1/3 into 1/2-inch pieces. Refrigerate both separately.
 
@@ -3082,27 +3082,27 @@ Cool slightly. Puree 2/3 of the caramelized bananas with their syrup until smoot
 
 Combine heavy cream, coconut milk, and evaporated milk in a saucepan. Add the whole star anise and half the lime zest.
 
-Heat over medium to 170-175Â°F"Ã¢â‚¬Âsteaming, not boiling. Pull it off the heat, cover, steep for 15 minutes.
+Heat over medium to 170-175°F—steaming, not boiling. Pull it off the heat, cover, steep for 15 minutes.
 
-Strain through a fine-mesh sieve, pressing gently on the star anise. Discard the star anise but you can reserve the lime zest for later if you want"Ã¢â‚¬Âyour call, boss.
+Strain through a fine-mesh sieve, pressing gently on the star anise. Discard the star anise but you can reserve the lime zest for later if you want—your call, boss.
 
 **Make Custard:**
 
 Return the infused cream mixture to the saucepan. Add dark brown sugar, cinnamon, nutmeg, ginger, and cloves. Heat until steaming, stirring to dissolve the sugar and distribute those spices evenly.
 
-Make your custard with egg yolks using the standard method to 170-175Â°F. The mixture will be this beautifully tan-brown from the brown sugar and spices.
+Make your custard with egg yolks using the standard method to 170-175°F. The mixture will be this beautifully tan-brown from the brown sugar and spices.
 
 Pull it off the heat. Stir in vanilla, salt, and the remaining fresh lime zest. Strain. Fold in the banana puree while the custard is still warm, whisking until completely incorporated.
 
-Should turn deep golden-tan and smell INTENSELY of caramelized banana, coconut, rum, and warm spices"Ã¢â‚¬Âlike pain patate in liquid form. If it doesn't make you want to book a flight to Haiti, you fucked something up.
+Should turn deep golden-tan and smell INTENSELY of caramelized banana, coconut, rum, and warm spices—like pain patate in liquid form. If it doesn't make you want to book a flight to Haiti, you fucked something up.
 
-Cool over an ice bath. Taste it cold"Ã¢â‚¬Âshould be rich, intensely spiced, with banana-coconut-rum depth and lime brightness cutting through the richness. Should taste slightly sweet and slightly strong since freezing dulls both flavors and your will to live.
+Cool over an ice bath. Taste it cold—should be rich, intensely spiced, with banana-coconut-rum depth and lime brightness cutting through the richness. Should taste slightly sweet and slightly strong since freezing dulls both flavors and your will to live.
 
 Refrigerate at least 4 hours or overnight for best flavor development.
 
 **Churn:**
 
-Churn until soft-serve"Ã¢â‚¬Âmay take slightly longer due to the coconut milk and banana puree being dramatic. In the last minute, add the chopped caramelized banana pieces, candied banana chips, and toasted coconut.
+Churn until soft-serve—may take slightly longer due to the coconut milk and banana puree being dramatic. In the last minute, add the chopped caramelized banana pieces, candied banana chips, and toasted coconut.
 
 Transfer to your container in layers: spread 1/3 of the ice cream, drizzle rum-raisin swirl with raisins in ribbons, repeat twice. Gently swirl with a knife.
 
@@ -3112,19 +3112,19 @@ Freeze 4+ hours.
 
 **Pain patate context:**
 
-This ice cream is directly inspired by *pain patate*, Haiti's most beloved traditional dessert. It's this dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime zest. Traditionally baked for special occasions"Ã¢â‚¬Âweddings, baptisms, holidays, basically any time Haitians want to celebrate something important.
+This ice cream is directly inspired by *pain patate*, Haiti's most beloved traditional dessert. It's this dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime zest. Traditionally baked for special occasions—weddings, baptisms, holidays, basically any time Haitians want to celebrate something important.
 
 Represents Haitian home cooking at its most comforting and celebratory. This captures the essential flavors without sweet potato (which doesn't translate to ice cream well), doubling down on banana instead.
 
 **Haitian spice tradition:**
 
-This five-spice blend is signature to Haitian desserts. Cinnamon provides warmth, nutmeg adds aromatic depth, ginger brings heat, cloves offer intensity, star anise contributes licorice-like complexity. This isn't subtle, homie"Ã¢â‚¬ÂHaitian desserts are BOLDLY, assertively spiced. The intensity is authentic and essential. If your mouth isn't experiencing a spice party, you used too little.
+This five-spice blend is signature to Haitian desserts. Cinnamon provides warmth, nutmeg adds aromatic depth, ginger brings heat, cloves offer intensity, star anise contributes licorice-like complexity. This isn't subtle, homie—Haitian desserts are BOLDLY, assertively spiced. The intensity is authentic and essential. If your mouth isn't experiencing a spice party, you used too little.
 
 **Rum selection:**
 
 Clairin is Haiti's indigenous rum, made from fresh sugarcane juice using traditional pot stills. Has this grassy, vegetal, almost funky character that's wild in the best way. Look for brands like Clairin Casimir, Clairin Vaval, or Clairin Sajous at specialty stores.
 
-If unavailable, rhum agricole (Martinique/Guadeloupe style) like Rhum J.M or Trois RiviÆ’Ã†â€™â€šÂ¨res works. Or Barbancourt, which is Haitian rum that's actually rhum agricole style. Or other dark Caribbean rum. You need depth and character here, not light rum that tastes like nothing.
+If unavailable, rhum agricole (Martinique/Guadeloupe style) like Rhum J.M or Trois Rivières works. Or Barbancourt, which is Haitian rum that's actually rhum agricole style. Or other dark Caribbean rum. You need depth and character here, not light rum that tastes like nothing.
 
 **Coconut and evaporated milk:**
 
@@ -3132,7 +3132,7 @@ Pain patate traditionally uses BOTH, creating this specific richness and sweetne
 
 **Bananas:**
 
-Use ripe bananas with generous brown spotting"Ã¢â‚¬Âpeak sweetness, will caramelize beautifully. Not overly ripe/black (too mushy, fermented-tasting) or underripe/green (starchy as hell, won't caramelize). The sweet spot is yellow with brown freckles.
+Use ripe bananas with generous brown spotting—peak sweetness, will caramelize beautifully. Not overly ripe/black (too mushy, fermented-tasting) or underripe/green (starchy as hell, won't caramelize). The sweet spot is yellow with brown freckles.
 
 **Raisins:**
 
@@ -3140,7 +3140,7 @@ Golden raisins are traditional in pain patate. The rum-raisin swirl pays homage 
 
 **Lime zest:**
 
-ESSENTIAL for brightness, dude. Pain patate's richness needs citrus lift"Ã¢â‚¬Âprevents the dessert from feeling heavy as fuck.
+ESSENTIAL for brightness, dude. Pain patate's richness needs citrus lift—prevents the dessert from feeling heavy as fuck.
 
 **Texture note:**
 
@@ -3156,11 +3156,11 @@ Or do it all in one long-ass day if you're committed to the chaos.
 
 **Visual:**
 
-Deep golden-tan base studded with darker caramelized banana pieces, golden toasted coconut flakes, translucent amber candied banana chips, and dark mahogany rum-raisin swirls with plump golden raisins throughout. Rich, warm, inviting"Ã¢â‚¬Âlooks like comfort food, tastes like home.
+Deep golden-tan base studded with darker caramelized banana pieces, golden toasted coconut flakes, translucent amber candied banana chips, and dark mahogany rum-raisin swirls with plump golden raisins throughout. Rich, warm, inviting—looks like comfort food, tastes like home.
 
 **Cultural authenticity:**
 
-While ice cream isn't traditional in Haiti, these flavors absolutely are. Pain patate is served at every major celebration"Ã¢â‚¬Âit's THE dessert. This translates those flavors respectfully while acknowledging it's a frozen interpretation rather than the baked original. It's honoring the tradition, not claiming to be it.
+While ice cream isn't traditional in Haiti, these flavors absolutely are. Pain patate is served at every major celebration—it's THE dessert. This translates those flavors respectfully while acknowledging it's a frozen interpretation rather than the baked original. It's honoring the tradition, not claiming to be it.
 
 **What it tastes like:**
 
@@ -3528,7 +3528,7 @@ This ice cream is rich, complex, and definitely not for people who think vanilla
 
 Roughly chop the pistachios - you want pieces, not dust. Some whole ones, some halves, some smaller bits. Variety in size means better texture distribution, dude.
 
-Line a baking sheet with parchment. Combine sugar and water in a medium saucepan over medium heat, stirring until the sugar dissolves. Stop stirring and cook until it reaches 240Â°F (soft ball stage). This takes 5-7 minutes and requires a candy thermometer - don't guess, pal.
+Line a baking sheet with parchment. Combine sugar and water in a medium saucepan over medium heat, stirring until the sugar dissolves. Stop stirring and cook until it reaches 240°F (soft ball stage). This takes 5-7 minutes and requires a candy thermometer - don't guess, pal.
 
 Add the pistachios, rose water, and salt. Stir constantly. The mixture will crystallize and look like a grainy disaster - this is completely normal and exactly what should happen. The sugar is reverting to crystal form as it cools on contact with the room-temperature nuts and the water from the rose water. Keep stirring over medium heat and the sugar will melt again, turning into a glossy coating on the nuts. Takes about 3-5 minutes of constant stirring, and your arm will get tired. Push through it.
 
@@ -3546,7 +3546,7 @@ Let cool to room temperature, then refrigerate. Should be thick but pourable whe
 
 Combine cream and milk in a saucepan and heat over medium until steaming - you want small bubbles forming around the edges but not a rolling boil. While that heats, whisk the egg yolks with the sugar in a separate bowl until pale and thick, about 2 minutes of solid whisking. This pre-mixing is important because it distributes the sugar evenly and starts dissolving it, which prevents graininess in the final custard.
 
-Temper the yolks - you know this drill by now, chief. Slowly drizzle about 1 cup of the hot cream mixture into the yolks while whisking constantly, then pour the tempered yolk mixture back into the saucepan with the rest of the cream. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175Â°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line that doesn't immediately fill back in.
+Temper the yolks - you know this drill by now, chief. Slowly drizzle about 1 cup of the hot cream mixture into the yolks while whisking constantly, then pour the tempered yolk mixture back into the saucepan with the rest of the cream. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line that doesn't immediately fill back in.
 
 **Integrate Tahini (THIS IS CRITICAL):**
 
@@ -3596,7 +3596,7 @@ If you're nervous about it, you can make the custard with just 1/8 tsp rose wate
 
 **Cultural context:**
 
-Halva shows up across the Middle East, Mediterranean, South Asia, and Eastern Europe, with each region having its own version and fierce opinions about whose is best, homie. The word comes from Arabic "aÂ¸Â¥alwâ€žÂ" meaning sweet, which is about as generic as it gets - like calling something "dessert" in English. Turkish halva specifically refers to the tahini-based kind with that distinctive fibrous texture, which comes from whipping hot sugar syrup into tahini in a specific way that creates those characteristic strands.
+Halva shows up across the Middle East, Mediterranean, South Asia, and Eastern Europe, with each region having its own version and fierce opinions about whose is best, homie. The word comes from Arabic "ḥalwā" meaning sweet, which is about as generic as it gets - like calling something "dessert" in English. Turkish halva specifically refers to the tahini-based kind with that distinctive fibrous texture, which comes from whipping hot sugar syrup into tahini in a specific way that creates those characteristic strands.
 
 Rose water has been used in Turkish and Middle Eastern sweets for literally centuries - it's in baklava, Turkish delight, kunefe, and countless other desserts. The tradition goes back to the Ottoman Empire and even earlier, to Persian cuisine where rose water was considered an essential flavoring. The combination of sesame and rose is classic Turkish, showing up in everything from puddings to pastries to ice cream.
 
@@ -4126,28 +4126,28 @@ Not because the technique is hard, but because sourcing pawpaws is a goddamn tre
 
 *Bourbon Street at 2 AM, frozen and swirled with rum*
 
-**Difficulty:** A FUCKING ORDEAL - You're making YEASTED DOUGH from scratch with two rises, managing 360Â°F oil without setting off your smoke alarm, and making two separate caramels if you're going full send. This is a 3+ hour commitment minimum, and your kitchen will smell like a New Orleans street corner for the rest of the day. The custard is easy. Everything else is a whole production. Worth it? Absolutely. Easy? Hell no.
+**Difficulty:** A FUCKING ORDEAL - You're making YEASTED DOUGH from scratch with two rises, managing 360°F oil without setting off your smoke alarm, and making two separate caramels if you're going full send. This is a 3+ hour commitment minimum, and your kitchen will smell like a New Orleans street corner for the rest of the day. The custard is easy. Everything else is a whole production. Worth it? Absolutely. Easy? Hell no.
 
 **Total Time:** 6-8 hours (2-3 hours of active work making dough, frying shit, and caramel-wrangling; the rest is rising, steeping, and chilling because nothing good happens fast)
 
-Listen up, homie"Ã¢â‚¬Âthis is the CafÆ’Ã†â€™â€šÂ© Du Monde experience in frozen form. If you've ever sat at those green tables on Decatur Street at 2 AM, powdered sugar all over your shirt, cafÆ’Ã†â€™â€šÂ© au lait burning your tongue, beignets so hot they're basically molten dough pillows... this is that. But in ice cream form.
+Listen up, homie—this is the Café Du Monde experience in frozen form. If you've ever sat at those green tables on Decatur Street at 2 AM, powdered sugar all over your shirt, café au lait burning your tongue, beignets so hot they're basically molten dough pillows... this is that. But in ice cream form.
 
-Chicory coffee isn't just "coffee with stuff added." It's a whole NOLA thing that goes back to the Civil War when coffee was scarce and people started cutting it with roasted chicory root. Now it's the city's signature coffee flavor"Ã¢â‚¬Âearthy, slightly bitter, with this woody depth that regular coffee just doesn't have. We're making a cafÆ’Ã†â€™â€šÂ© au lait base (that's coffee + hot milk, for the uninitiated), then studding it with actual fried beignet pieces that stay tender and chewy, and finishing with a rum-butter swirl because this is New Orleans and rum belongs in everything.
+Chicory coffee isn't just "coffee with stuff added." It's a whole NOLA thing that goes back to the Civil War when coffee was scarce and people started cutting it with roasted chicory root. Now it's the city's signature coffee flavor—earthy, slightly bitter, with this woody depth that regular coffee just doesn't have. We're making a café au lait base (that's coffee + hot milk, for the uninitiated), then studding it with actual fried beignet pieces that stay tender and chewy, and finishing with a rum-butter swirl because this is New Orleans and rum belongs in everything.
 
 ## Ingredients
 
-**Chicory CafÆ’Ã†â€™â€šÂ© au Lait Custard Base:**
+**Chicory Café au Lait Custard Base:**
 - 2 cups heavy cream
 - 1 cup whole milk
 - 2/3 cup granulated sugar
 - 5 egg yolks
-- 3 tbsp ground chicory coffee (Community Coffee or CafÆ’Ã†â€™â€šÂ© Du Monde brand if you can get it)
+- 3 tbsp ground chicory coffee (Community Coffee or Café Du Monde brand if you can get it)
 - 1 tbsp instant espresso powder
 - 1 tsp vanilla extract
 - Pinch of salt
 
 **Yeasted Beignet Dough:**
-- 1 cup whole milk, warmed to about 110Â°F (like bath water, not hot)
+- 1 cup whole milk, warmed to about 110°F (like bath water, not hot)
 - 1/4 cup granulated sugar
 - 1 packet (2 1/4 tsp) active dry yeast
 - 1 egg, room temperature
@@ -4184,49 +4184,49 @@ Chicory coffee isn't just "coffee with stuff added." It's a whole NOLA thing tha
 
 3. **Finish it with butter and rum.** Stir in the butter, rum, vanilla, and salt. Whisk until smooth and glossy. Let it cool to room temperature, then refrigerate. You want this COLD when you swirl it in, or it'll just melt into the ice cream and disappear.
 
-**Chicory-Coffee Caramel (if using"Ã¢â‚¬Âdouble coffee is never wrong):**
+**Chicory-Coffee Caramel (if using—double coffee is never wrong):**
 
 4. **Make another caramel.** Yeah, you might be making TWO caramels for this recipe if you're going all-in. In a small saucepan, combine the 1/2 cup sugar and 2 tbsp water. Heat over medium-high, swirling but not stirring, until it's deep amber. Watch it like a hawk.
 
 5. **Add cream and coffee, prepare for drama.** Remove from heat and slowly whisk in the warm cream (bubble city, population: your pot). Once it calms down, whisk in the cooled brewed chicory coffee and butter. The coffee will deepen the caramel and give it this incredible earthy-coffee complexity. Add the salt, let it cool, then refrigerate.
 
-**Chicory CafÆ’Ã†â€™â€šÂ© au Lait Custard Base:**
+**Chicory Café au Lait Custard Base:**
 
-6. **Steep the chicory coffee.** In a medium saucepan, combine the cream, milk, and half the sugar (about 1/3 cup). Add the ground chicory coffee and instant espresso. Heat over medium until it just starts to steam and show tiny bubbles around the edges"Ã¢â‚¬Âdo NOT let it boil. Once it's hot, turn off the heat, cover, and let it steep for 15 minutes. The milk will turn this beautiful dark tan color and smell absolutely incredible.
+6. **Steep the chicory coffee.** In a medium saucepan, combine the cream, milk, and half the sugar (about 1/3 cup). Add the ground chicory coffee and instant espresso. Heat over medium until it just starts to steam and show tiny bubbles around the edges—do NOT let it boil. Once it's hot, turn off the heat, cover, and let it steep for 15 minutes. The milk will turn this beautiful dark tan color and smell absolutely incredible.
 
 7. **Strain out the grounds.** After 15 minutes, strain the mixture through a fine-mesh strainer or cheesecloth into a clean saucepan. Press on the grounds to extract every drop of that coffee-infused dairy. Discard the grounds.
 
-8. **Reheat and temper.** Put the strained coffee-cream back over medium heat until it's steaming again. In a separate bowl, whisk together the egg yolks, remaining sugar (about 1/3 cup), and salt until pale and thick. Temper the yolks"Ã¢â‚¬Âslowly drizzle about a cup of the hot coffee-cream into the yolks while whisking constantly, then pour the whole yolk mixture back into the saucepan.
+8. **Reheat and temper.** Put the strained coffee-cream back over medium heat until it's steaming again. In a separate bowl, whisk together the egg yolks, remaining sugar (about 1/3 cup), and salt until pale and thick. Temper the yolks—slowly drizzle about a cup of the hot coffee-cream into the yolks while whisking constantly, then pour the whole yolk mixture back into the saucepan.
 
-9. **Cook to nappe.** Return to medium-low heat and cook, stirring constantly, until the custard thickens enough to coat the back of the spoon"Ã¢â‚¬Âyou're aiming for 170-175Â°F. It'll take 5-8 minutes and will darken slightly.
+9. **Cook to nappe.** Return to medium-low heat and cook, stirring constantly, until the custard thickens enough to coat the back of the spoon—you're aiming for 170-175°F. It'll take 5-8 minutes and will darken slightly.
 
-10. **Strain and chill.** Remove from heat, stir in the vanilla, then strain through a fine-mesh strainer into a clean bowl. Cover with plastic wrap pressed directly onto the surface and refrigerate until completely cold"Ã¢â‚¬Âat least 4 hours, but overnight is better.
+10. **Strain and chill.** Remove from heat, stir in the vanilla, then strain through a fine-mesh strainer into a clean bowl. Cover with plastic wrap pressed directly onto the surface and refrigerate until completely cold—at least 4 hours, but overnight is better.
 
 **Yeasted Beignet Dough (this takes 2+ hours with rising time, so plan ahead):**
 
-11. **Bloom that yeast like you mean it.** In a large bowl or the bowl of a stand mixer, combine the warm milk (110Â°F"Ã¢â‚¬Âtest it on your wrist like baby formula, not hot enough to burn), 1 tablespoon of the sugar, and the yeast. Stir gently and let it sit for about 5-10 minutes until it gets foamy and smells like bread. If it doesn't foam, your yeast is dead or your milk was too hot/cold. Start over. Don't skip this step"Ã¢â‚¬Âdead yeast means flat, sad beignets.
+11. **Bloom that yeast like you mean it.** In a large bowl or the bowl of a stand mixer, combine the warm milk (110°F—test it on your wrist like baby formula, not hot enough to burn), 1 tablespoon of the sugar, and the yeast. Stir gently and let it sit for about 5-10 minutes until it gets foamy and smells like bread. If it doesn't foam, your yeast is dead or your milk was too hot/cold. Start over. Don't skip this step—dead yeast means flat, sad beignets.
 
-12. **Mix the dough.** Once your yeast is foamy and alive, add the egg, melted butter, remaining sugar, and salt. Stir to combine. Add the flour one cup at a time, mixing after each addition. If using a stand mixer, use the dough hook on low speed. If doing this by hand, use a wooden spoon until it gets too stiff, then switch to your hands. The dough will be soft and slightly sticky"Ã¢â‚¬Âthat's correct. Don't add more flour just because it's tacky.
+12. **Mix the dough.** Once your yeast is foamy and alive, add the egg, melted butter, remaining sugar, and salt. Stir to combine. Add the flour one cup at a time, mixing after each addition. If using a stand mixer, use the dough hook on low speed. If doing this by hand, use a wooden spoon until it gets too stiff, then switch to your hands. The dough will be soft and slightly sticky—that's correct. Don't add more flour just because it's tacky.
 
 13. **Knead until smooth and elastic.** If using a stand mixer, knead on medium-low speed for about 5-6 minutes. If kneading by hand, turn the dough out onto a lightly floured surface and knead for 8-10 minutes. You want it smooth, elastic, and slightly tacky but not sticky-wet. It should spring back when you poke it.
 
 14. **First rise: be patient, homie.** Lightly oil a large bowl, put the dough in, and turn it to coat all sides with oil. Cover with a damp kitchen towel or plastic wrap. Set it somewhere warmish (like on top of your fridge or near a warm oven) and let it rise for 1.5 to 2 hours, until it's doubled in size. THIS WILL FEEL LIKE FOREVER. Resist the urge to rush it. Yeast moves at its own pace.
 
-15. **Roll and cut those beignets.** Once the dough has doubled, punch it down (literally just punch it to deflate it"Ã¢â‚¬Âvery satisfying). Turn it out onto a lightly floured surface and roll it out to about 1/4-inch thickness. Using a sharp knife or pizza cutter, cut the dough into small squares or rectangles"Ã¢â‚¬Âabout 1.5 to 2 inches. You want them small enough to be bite-sized in the ice cream, not full CafÆ’Ã†â€™â€šÂ© Du Monde portion size. You should get about 30-40 pieces.
+15. **Roll and cut those beignets.** Once the dough has doubled, punch it down (literally just punch it to deflate it—very satisfying). Turn it out onto a lightly floured surface and roll it out to about 1/4-inch thickness. Using a sharp knife or pizza cutter, cut the dough into small squares or rectangles—about 1.5 to 2 inches. You want them small enough to be bite-sized in the ice cream, not full Café Du Monde portion size. You should get about 30-40 pieces.
 
 16. **Second rise: patience, part two.** Place the cut beignets on a parchment-lined baking sheet, leaving space between them. Cover with a damp towel and let them rise for another 30 minutes. They won't double, but they'll puff up slightly. While they're rising, heat your frying oil.
 
-17. **Heat your oil and GET SERIOUS.** Pour about 2-3 inches of vegetable oil into a heavy-bottomed pot or deep skillet. Heat to 360Â°F on a thermometer. This temperature is CRUCIAL"Ã¢â‚¬Âtoo low and they'll be greasy and dense, too high and they'll burn outside while staying raw inside. 360Â°F is the sweet spot.
+17. **Heat your oil and GET SERIOUS.** Pour about 2-3 inches of vegetable oil into a heavy-bottomed pot or deep skillet. Heat to 360°F on a thermometer. This temperature is CRUCIAL—too low and they'll be greasy and dense, too high and they'll burn outside while staying raw inside. 360°F is the sweet spot.
 
 18. **Fry in batches, don't crowd the pot.** Working in batches of 5-6 pieces, gently slide the risen beignet squares into the hot oil. They'll sink, then float up and start puffing. Fry for about 1-2 minutes per side, flipping once, until they're golden brown all over. They puff up like little pillows and turn this gorgeous deep gold color. Use a slotted spoon or spider to remove them and drain on paper towels.
 
-19. **Dust with powdered sugar IMMEDIATELY and dry them out.** While the beignets are still warm, toss them in a MOUNTAIN of powdered sugar. Like, be absurd about it. This is New Orleans"Ã¢â‚¬Âsubtlety is not the point. Once coated, spread them on a wire rack or baking sheet and let them sit at room temperature for at least 2 hours, or up to 4 hours. You want them to dry out slightly so they maintain some texture in the ice cream. They'll never be crunchy-crunchy after freezing, but properly dried beignets will stay tender and chewy rather than dissolving into mush.
+19. **Dust with powdered sugar IMMEDIATELY and dry them out.** While the beignets are still warm, toss them in a MOUNTAIN of powdered sugar. Like, be absurd about it. This is New Orleans—subtlety is not the point. Once coated, spread them on a wire rack or baking sheet and let them sit at room temperature for at least 2 hours, or up to 4 hours. You want them to dry out slightly so they maintain some texture in the ice cream. They'll never be crunchy-crunchy after freezing, but properly dried beignets will stay tender and chewy rather than dissolving into mush.
 
 **Churn and Assemble:**
 
-20. **Churn the custard.** Once your coffee custard is thoroughly chilled, churn it until it reaches soft-serve consistency"Ã¢â‚¬Âthick, creamy, and the color of cafÆ’Ã†â€™â€šÂ© au lait. The coffee base makes this slightly denser than standard custard, so it may take a bit longer than usual.
+20. **Churn the custard.** Once your coffee custard is thoroughly chilled, churn it until it reaches soft-serve consistency—thick, creamy, and the color of café au lait. The coffee base makes this slightly denser than standard custard, so it may take a bit longer than usual.
 
-21. **Layer it up with purpose.** Get a freezer-safe container. Spread a layer of churned ice cream, drizzle some rum-butter swirl and/or chicory-coffee caramel (if you made both, alternate them"Ã¢â‚¬Âgo wild), scatter some beignet pieces (don't use all of them in one layer or the bottom will be beignet soup and the top will be naked). Repeat the layers. You want beignets and swirls distributed throughout so every bite is a little Bourbon Street experience.
+21. **Layer it up with purpose.** Get a freezer-safe container. Spread a layer of churned ice cream, drizzle some rum-butter swirl and/or chicory-coffee caramel (if you made both, alternate them—go wild), scatter some beignet pieces (don't use all of them in one layer or the bottom will be beignet soup and the top will be naked). Repeat the layers. You want beignets and swirls distributed throughout so every bite is a little Bourbon Street experience.
 
 22. **Freeze until firm.** Press plastic wrap or parchment directly onto the surface, cover with a lid, and freeze for at least 4 hours. This needs proper set-up time.
 
@@ -4234,13 +4234,13 @@ Chicory coffee isn't just "coffee with stuff added." It's a whole NOLA thing tha
 
 **About Chicory Coffee:**
 
-Chicory root is roasted and ground, then blended with coffee. It's earthy, woody, slightly bitter, and absolutely essential to New Orleans coffee culture. Community Coffee and CafÆ’Ã†â€™â€šÂ© Du Monde both make chicory coffee blends that are perfect for this. If you can't find chicory coffee, you can buy pure ground chicory (health food stores often carry it) and mix it 50/50 with your favorite dark roast coffee. Do NOT just use regular coffee"Ã¢â‚¬Âit won't taste right.
+Chicory root is roasted and ground, then blended with coffee. It's earthy, woody, slightly bitter, and absolutely essential to New Orleans coffee culture. Community Coffee and Café Du Monde both make chicory coffee blends that are perfect for this. If you can't find chicory coffee, you can buy pure ground chicory (health food stores often carry it) and mix it 50/50 with your favorite dark roast coffee. Do NOT just use regular coffee—it won't taste right.
 
 **The Yeasted Dough Reality Check:**
 
 Yeah, this takes 2-3 hours from start to finish because of rising time. That's REAL beignets, homie. The quick drop-batter version is faster but it doesn't give you that pillowy, tender, slightly chewy texture that makes actual NOLA beignets so fucking good. The yeasted dough has this lightness and structure that holds up in ice cream without getting soggy or disappearing. Is it more work? Hell yes. Is it worth it? Also hell yes.
 
-If you're in a major rush and need to cut corners, you could use store-bought pizza dough in a pinch"Ã¢â‚¬Âlet it come to room temp, roll it out, cut it, and fry it. It won't be EXACTLY the same, but it'll get you 75% of the way there and save you the rising time.
+If you're in a major rush and need to cut corners, you could use store-bought pizza dough in a pinch—let it come to room temp, roll it out, cut it, and fry it. It won't be EXACTLY the same, but it'll get you 75% of the way there and save you the rising time.
 
 **About the Beignet Texture in Ice Cream:**
 
@@ -4248,22 +4248,22 @@ Let's be real: fried dough chunks in ice cream are never going to stay *crispy* 
 
 **The Chicory-Coffee Caramel Option:**
 
-If you're already making the rum-butter swirl, is making ANOTHER caramel overkill? Maybe. But also... imagine layering both"Ã¢â‚¬Âthe warm, boozy butterscotch AND the deep, earthy chicory-coffee caramel. It's like New Orleans in three dimensions. You could also just make the chicory-coffee caramel and skip the rum-butter if you want maximum coffee intensity. Both are excellent, both work, do what feels right.
+If you're already making the rum-butter swirl, is making ANOTHER caramel overkill? Maybe. But also... imagine layering both—the warm, boozy butterscotch AND the deep, earthy chicory-coffee caramel. It's like New Orleans in three dimensions. You could also just make the chicory-coffee caramel and skip the rum-butter if you want maximum coffee intensity. Both are excellent, both work, do what feels right.
 
 **Make-Ahead Timeline:**
 
 - Rum-butter swirl: Make up to a week ahead, keeps refrigerated
 - Chicory-coffee caramel: Make up to a week ahead, keeps refrigerated
 - Custard base: Best made the night before churning so flavors meld
-- Beignet dough: Make the same day you're churning. The dough can be made through the first rise, then refrigerated overnight for frying the next day (this is actually how CafÆ’Ã†â€™â€šÂ© Du Monde does it). Just bring it to room temp before rolling and cutting.
+- Beignet dough: Make the same day you're churning. The dough can be made through the first rise, then refrigerated overnight for frying the next day (this is actually how Café Du Monde does it). Just bring it to room temp before rolling and cutting.
 
-**CafÆ’Ã†â€™â€šÂ© Du Monde Vibes:**
+**Café Du Monde Vibes:**
 
 If you really want to capture that green-table-at-3-AM energy, serve this in a bowl with an extra dusting of powdered sugar on top and a shot of hot chicory coffee on the side for pouring over. It's excessive and perfect.
 
 **What It Tastes Like:**
 
-This ice cream tastes like New Orleans feels at 2 AM"Ã¢â‚¬Âa little boozy, a lot sweet, impossibly rich, and somehow exactly what you needed. It's breakfast and dessert having an identity crisis in the best possible way.
+This ice cream tastes like New Orleans feels at 2 AM—a little boozy, a lot sweet, impossibly rich, and somehow exactly what you needed. It's breakfast and dessert having an identity crisis in the best possible way.
 
 **Allergen Information:**
 
