@@ -2,11 +2,11 @@
 
 *India's frozen dessert tradition, now achievable on a Tuesday*
 
-**Difficulty:** CHILL - No eggs, no churning required, just condensed milk magic and some spice infusion. The actual work is minimal"Ã¢â‚¬Âblooming saffron, grinding pistachios, warming milk"Ã¢â‚¬Âbut you're working with ingredients that might be new to you (cardamom pods, saffron threads, rose water) and managing flavor balance. Plus the 6-8 hour freeze time requires patience. Not hard, just requires attention to detail and knowing when to stop with the rose water before it tastes like potpourri.
+**Difficulty:** CHILL - No eggs, no churning required, just condensed milk magic and some spice infusion. The actual work is minimal—blooming saffron, grinding pistachios, warming milk—but you're working with ingredients that might be new to you (cardamom pods, saffron threads, rose water) and managing flavor balance. Plus the 6-8 hour freeze time requires patience. Not hard, just requires attention to detail and knowing when to stop with the rose water before it tastes like potpourri.
 
 **Total Time:** 7-9 hours (20 minutes of active work mixing dairy and spices, then an eternity of waiting for it to freeze because kulfi doesn't rush for anyone)
 
-Look, homie"Ã¢â‚¬Âkulfi is India's traditional frozen dessert that predates Western ice cream by centuries, and it's denser, richer, and more intensely flavored than anything you'll get from a churned custard base. Traditionally, you'd reduce milk for 2+ hours until it's thick as hell. And yeah, that tastes incredible. But you know what? Most people making kulfi at home in India TODAY use this condensed milk shortcut method, and it's not "cheating""Ã¢â‚¬Âit's being a practical human being who has other shit to do.
+Look, homie—kulfi is India's traditional frozen dessert that predates Western ice cream by centuries, and it's denser, richer, and more intensely flavored than anything you'll get from a churned custard base. Traditionally, you'd reduce milk for 2+ hours until it's thick as hell. And yeah, that tastes incredible. But you know what? Most people making kulfi at home in India TODAY use this condensed milk shortcut method, and it's not "cheating"—it's being a practical human being who has other shit to do.
 
 This version gets you 95% of the way there in about 20 minutes of active work instead of sacrificing your entire afternoon to milk reduction. You still get that dense, fudgy texture. You still get the cardamom-saffron-pistachio flavor profile that makes kulfi taste like kulfi. You just skip the part where you stand over a pot questioning your life choices for two hours.
 
@@ -49,37 +49,37 @@ Crush those saffron threads slightly between your fingers to release the oils an
 
 If your pistachios still have their papery brown skins on, blanch them: drop into boiling water for 1 minute, drain, then slip the skins off by squeezing each nut between your fingers. It's tedious but worth it for that bright green color.
 
-If you bought pre-skinned pistachios (sold at Indian grocery stores specifically for sweets), you're ahead of the game"Ã¢â‚¬Âskip to the next step, lucky bastard.
+If you bought pre-skinned pistachios (sold at Indian grocery stores specifically for sweets), you're ahead of the game—skip to the next step, lucky bastard.
 
-Take about 1/2 cup of the skinned pistachios and grind them with 3 tbsp milk in a food processor or high-powered blender until you have a completely smooth paste"Ã¢â‚¬Âno graininess, no chunks. This paste gets mixed into the base for pistachio flavor throughout. Set aside.
+Take about 1/2 cup of the skinned pistachios and grind them with 3 tbsp milk in a food processor or high-powered blender until you have a completely smooth paste—no graininess, no chunks. This paste gets mixed into the base for pistachio flavor throughout. Set aside.
 
-Coarsely chop the remaining 1/4 cup pistachios"Ã¢â‚¬Âthese are for texture and visual appeal. Set aside separately.
+Coarsely chop the remaining 1/4 cup pistachios—these are for texture and visual appeal. Set aside separately.
 
 **Make the Base:**
 
 Pour both cans of sweetened condensed milk and both cans of evaporated milk into a large, heavy-bottomed saucepan. Add the heavy cream and milk powder if using. Add those lightly crushed cardamom pods.
 
-Whisk everything together until smooth and combined. The milk powder might clump initially"Ã¢â‚¬Âjust keep whisking, it'll dissolve.
+Whisk everything together until smooth and combined. The milk powder might clump initially—just keep whisking, it'll dissolve.
 
 **Infuse Gently:**
 
-Place the saucepan over medium-low heat. You're NOT trying to boil this, dude"Ã¢â‚¬Âyou're just warming it enough to infuse the cardamom flavor into the dairy. Stir occasionally to prevent anything from sticking to the bottom.
+Place the saucepan over medium-low heat. You're NOT trying to boil this, dude—you're just warming it enough to infuse the cardamom flavor into the dairy. Stir occasionally to prevent anything from sticking to the bottom.
 
-Heat until the mixture is steaming and just barely starting to show tiny bubbles around the edges"Ã¢â‚¬Âabout 170-180Â°F if you're using a thermometer. Takes about 8-10 minutes. Should smell intensely of cardamom.
+Heat until the mixture is steaming and just barely starting to show tiny bubbles around the edges—about 170-180°F if you're using a thermometer. Takes about 8-10 minutes. Should smell intensely of cardamom.
 
-Once hot, reduce heat to low and let it simmer VERY gently for about 5 minutes, stirring occasionally. This isn't about reducing volume"Ã¢â‚¬Âyou're just giving the cardamom time to do its thing.
+Once hot, reduce heat to low and let it simmer VERY gently for about 5 minutes, stirring occasionally. This isn't about reducing volume—you're just giving the cardamom time to do its thing.
 
 **Add the Flavor Bombs:**
 
-Remove from heat. Fish out the cardamom pods with a spoon and discard them"Ã¢â‚¬Âthey've done their job. You might see some little black cardamom seeds floating around; that's fine, they're flavorful.
+Remove from heat. Fish out the cardamom pods with a spoon and discard them—they've done their job. You might see some little black cardamom seeds floating around; that's fine, they're flavorful.
 
 Add the pistachio paste and whisk vigorously until it's completely incorporated into the hot mixture. Should turn slightly green and smell nutty as hell.
 
-Pour in the bloomed saffron milk, including all those saffron threads. Stir thoroughly. The mixture should turn this pale golden color and smell absolutely INCREDIBLE"Ã¢â‚¬Âcardamom, saffron, pistachios, caramelized sweetness from the condensed milk all hanging out together.
+Pour in the bloomed saffron milk, including all those saffron threads. Stir thoroughly. The mixture should turn this pale golden color and smell absolutely INCREDIBLE—cardamom, saffron, pistachios, caramelized sweetness from the condensed milk all hanging out together.
 
 **Taste It:**
 
-This is important"Ã¢â‚¬Âstick a spoon in there and taste it while it's still warm. Should be:
+This is important—stick a spoon in there and taste it while it's still warm. Should be:
 - Sweet but not cloying (condensed milk is already sweet, so this should taste noticeably sweet)
 - Cardamom-forward (you should DEFINITELY taste the cardamom)
 - Slightly floral from saffron
@@ -91,7 +91,7 @@ If the cardamom flavor is too mild, you can add 1/2 tsp ground cardamom and stir
 
 Strain the mixture through a fine-mesh sieve into a large bowl. This catches any remaining cardamom bits or pistachio chunks you don't want in the final product.
 
-Let it cool to room temperature, stirring occasionally to prevent a thick skin from forming on top. Once it's room temp, cover and refrigerate for at least 4 hours or overnight. The mixture will thicken considerably as it chills"Ã¢â‚¬Âthis is normal and good.
+Let it cool to room temperature, stirring occasionally to prevent a thick skin from forming on top. Once it's room temp, cover and refrigerate for at least 4 hours or overnight. The mixture will thicken considerably as it chills—this is normal and good.
 
 **Optional Rose Water Swirl (make while base chills):**
 
@@ -101,13 +101,13 @@ In a small bowl, mix the rose water with 2 tbsp sweetened condensed milk and a t
 
 **Freeze It:**
 
-Give the chilled mixture a good stir to recombine everything"Ã¢â‚¬Âit may have separated slightly. Stir in the chopped pistachios until evenly distributed.
+Give the chilled mixture a good stir to recombine everything—it may have separated slightly. Stir in the chopped pistachios until evenly distributed.
 
 **Traditional Method (Molds, No Churning):**
 
 Pour into kulfi molds (conical molds from Indian grocery stores), popsicle molds, or small paper cups.
 
-If using the rose water swirl: Pour some kulfi mixture into each mold, add about 1 tsp of the rose water mixture, add more kulfi mixture on top, then use a chopstick or skewer to gently swirl. Don't overmix"Ã¢â‚¬Âyou want visible ribbons.
+If using the rose water swirl: Pour some kulfi mixture into each mold, add about 1 tsp of the rose water mixture, add more kulfi mixture on top, then use a chopstick or skewer to gently swirl. Don't overmix—you want visible ribbons.
 
 If your molds don't have built-in sticks, cover with foil and insert wooden popsicle sticks or skewers through the foil into the center of each mold once the mixture is partially frozen (after about 2-3 hours).
 
@@ -117,7 +117,7 @@ Freeze for at least 6-8 hours or overnight until completely solid.
 
 **Ice Cream Maker Method (If You Want):**
 
-You CAN churn this even though it's not traditional, and honestly it makes it way easier to serve in bowls. Churn the chilled base until it reaches soft-serve consistency"Ã¢â‚¬Âthick, dense, and golden. The mixture is already quite thick from the condensed milk, so expect it to take a bit longer than standard ice cream.
+You CAN churn this even though it's not traditional, and honestly it makes it way easier to serve in bowls. Churn the chilled base until it reaches soft-serve consistency—thick, dense, and golden. The mixture is already quite thick from the condensed milk, so expect it to take a bit longer than standard ice cream.
 
 In the last minute of churning, add the chopped pistachios.
 
@@ -129,7 +129,7 @@ Freeze for at least 4 hours to firm up.
 
 **The Shortcut Method Philosophy:**
 
-Traditional kulfi involves reducing whole milk down to half or even one-third of its original volume"Ã¢â‚¬Âthis takes 2+ hours of constant stirring and watching. The condensed/evaporated milk method is actually how most people in India make kulfi at home these days. It's not "dumbing it down""Ã¢â‚¬Âit's practical adaptation.
+Traditional kulfi involves reducing whole milk down to half or even one-third of its original volume—this takes 2+ hours of constant stirring and watching. The condensed/evaporated milk method is actually how most people in India make kulfi at home these days. It's not "dumbing it down"—it's practical adaptation.
 
 Think of it as the difference between making stock from scratch versus using really good store-bought stock. The homemade is better, but the shortcut still gets you great results and nobody's going to kick you out of the kitchen for taking it.
 
@@ -144,19 +144,19 @@ Together they approximate that reduced milk texture and flavor without the actua
 
 **Cardamom is ESSENTIAL:**
 
-Green cardamom is what makes kulfi taste like kulfi instead of "sweet frozen milk." It's warm, floral, slightly citrusy, and completely transforms the dairy. Crush the whole pods to release the aromatic seeds and oils"Ã¢â‚¬Âway better than using pre-ground cardamom powder which loses potency fast.
+Green cardamom is what makes kulfi taste like kulfi instead of "sweet frozen milk." It's warm, floral, slightly citrusy, and completely transforms the dairy. Crush the whole pods to release the aromatic seeds and oils—way better than using pre-ground cardamom powder which loses potency fast.
 
 If you can't find whole pods or you're in a rush, you can substitute 1 tsp ground cardamom, but add it at the end with the pistachio paste instead of infusing it. Won't be quite as aromatic but it'll work.
 
 **Saffron Quality Matters:**
 
-Real saffron threads are expensive as hell"Ã¢â‚¬Âit's literally the most expensive spice in the world by weight. But you only need a pinch (15-20 threads) and it makes a huge difference in both flavor and that gorgeous golden color. Buy from Indian or Middle Eastern grocery stores where it's usually cheaper than regular supermarkets.
+Real saffron threads are expensive as hell—it's literally the most expensive spice in the world by weight. But you only need a pinch (15-20 threads) and it makes a huge difference in both flavor and that gorgeous golden color. Buy from Indian or Middle Eastern grocery stores where it's usually cheaper than regular supermarkets.
 
-If saffron is genuinely out of your budget, you can skip it and the kulfi will still be excellent"Ã¢â‚¬Âjust won't have that luxurious golden color or subtle earthy-floral note.
+If saffron is genuinely out of your budget, you can skip it and the kulfi will still be excellent—just won't have that luxurious golden color or subtle earthy-floral note.
 
 **Pistachio Options:**
 
-Raw unsalted pistachios are traditional. Roasted/salted ones will fuck up the flavor"Ã¢â‚¬Âdon't use them.
+Raw unsalted pistachios are traditional. Roasted/salted ones will fuck up the flavor—don't use them.
 
 You can buy pre-skinned pistachios (sometimes labeled "blanched pistachios" or "slivered pistachios") at Indian grocery stores, which saves you the blanching step. They're specifically sold for making Indian sweets.
 
@@ -171,19 +171,19 @@ All are traditional variations. Pistachio is just the most iconic.
 
 Rose water is traditional in many Indian desserts and adds this delicate floral note that people either love or hate. There's no middle ground. If you've never had it, maybe make half the batch without rose water and add it to the other half so you can taste the difference.
 
-Buy rose water from Indian or Middle Eastern stores"Ã¢â‚¬Âway better quality than the extract at regular grocery stores. Brands like Cortas or Dabur are good.
+Buy rose water from Indian or Middle Eastern stores—way better quality than the extract at regular grocery stores. Brands like Cortas or Dabur are good.
 
 Use it SPARINGLY. A little is elegant. Too much tastes like you're eating grandma's perfume. Start with 2 tbsp in the swirl and adjust from there.
 
 **Texture Expectations:**
 
-Kulfi is DENSE"Ã¢â‚¬Âway denser than American ice cream. Even the churned version will be denser than what you're used to. This is because:
+Kulfi is DENSE—way denser than American ice cream. Even the churned version will be denser than what you're used to. This is because:
 - No eggs (eggs add air when churned)
 - High fat and sugar content
 - Concentrated dairy solids
 - Minimal air incorporation (especially if unmolded)
 
-This density is the POINT. Kulfi should feel rich and substantial. You eat a small portion and you're satisfied. It's not "light summer refreshment""Ã¢â‚¬Âit's frozen milk fudge that got exotic.
+This density is the POINT. Kulfi should feel rich and substantial. You eat a small portion and you're satisfied. It's not "light summer refreshment"—it's frozen milk fudge that got exotic.
 
 **Milk Powder Addition:**
 
@@ -203,7 +203,7 @@ If you can't find traditional molds:
 **Serving Traditions:**
 
 In India, kulfi is often served with:
-- **Falooda**: Rose syrup, basil seeds, vermicelli noodles, and kulfi on top"Ã¢â‚¬Âa whole dessert experience
+- **Falooda**: Rose syrup, basil seeds, vermicelli noodles, and kulfi on top—a whole dessert experience
 - **Fresh mango**: Sliced mangoes alongside kulfi (seasonal, summer)
 - **Rabri**: Another reduced milk dessert, served together
 - **Plain**: Just kulfi with extra chopped pistachios and maybe rose petals
@@ -238,13 +238,13 @@ Traditional flavors are cardamom-pistachio-saffron, mango, or rose. But kulfi ma
 
 **Cultural Context:**
 
-Kulfi dates back to the Mughal era in 16th-century India. The word "kulfi" comes from the Persian "qulfi" meaning "covered cup""Ã¢â‚¬Âit was traditionally frozen in metal cones packed in ice and salt. It spread throughout South Asia and is now beloved in India, Pakistan, Bangladesh, and anywhere the diaspora settled.
+Kulfi dates back to the Mughal era in 16th-century India. The word "kulfi" comes from the Persian "qulfi" meaning "covered cup"—it was traditionally frozen in metal cones packed in ice and salt. It spread throughout South Asia and is now beloved in India, Pakistan, Bangladesh, and anywhere the diaspora settled.
 
-Making kulfi at home"Ã¢â‚¬Âeven with the shortcut method"Ã¢â‚¬Âconnects you to centuries of tradition. It's celebration food, summer food, special occasion food. The fact that modern cooks use condensed milk instead of standing over a pot for hours doesn't make it less authentic"Ã¢â‚¬Âit makes it accessible, which means more people can enjoy it, which means the tradition continues.
+Making kulfi at home—even with the shortcut method—connects you to centuries of tradition. It's celebration food, summer food, special occasion food. The fact that modern cooks use condensed milk instead of standing over a pot for hours doesn't make it less authentic—it makes it accessible, which means more people can enjoy it, which means the tradition continues.
 
 **What It Tastes Like:**
 
-Rich, sweet, intensely cardamom-forward with that characteristic warmth. Saffron adds subtle earthiness and luxury. Pistachios provide nutty depth and textural interest. The rose water swirl (if you use it) adds delicate floral notes that make everything feel elegant. The texture is dense and fudgy"Ã¢â‚¬Âyou're not eating this quickly. You're savoring small bites that are deeply satisfying.
+Rich, sweet, intensely cardamom-forward with that characteristic warmth. Saffron adds subtle earthiness and luxury. Pistachios provide nutty depth and textural interest. The rose water swirl (if you use it) adds delicate floral notes that make everything feel elegant. The texture is dense and fudgy—you're not eating this quickly. You're savoring small bites that are deeply satisfying.
 
 It tastes like India. Like summer afternoons and celebration dinners. Like your favorite street vendor or your grandmother's kitchen, depending on where you're coming from. It's familiar and exotic at the same time, which is pretty much the perfect dessert vibe.
 

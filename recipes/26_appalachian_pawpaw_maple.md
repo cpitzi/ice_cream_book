@@ -6,9 +6,9 @@
 
 **Total Time:** 6-8 hours (includes 4+ hours custard chilling, plus the entire year you spent waiting for pawpaw season to arrive again)
 
-Listen, homie"Ã¢â‚¬Âthis recipe is for the foragers, the patient ones, the people who are willing to wait all goddamn year for a 2-week window in September when pawpaws are ripe. If you've never had a pawpaw, imagine if a banana, a mango, and custard had a baby in the Appalachian mountains. It's tropical and creamy and *weird* in the best possible way, and you literally cannot buy these commercially because they go bad in like 48 hours. You either know someone with a tree, you forage them yourself, or you wait another year.
+Listen, homie—this recipe is for the foragers, the patient ones, the people who are willing to wait all goddamn year for a 2-week window in September when pawpaws are ripe. If you've never had a pawpaw, imagine if a banana, a mango, and custard had a baby in the Appalachian mountains. It's tropical and creamy and *weird* in the best possible way, and you literally cannot buy these commercially because they go bad in like 48 hours. You either know someone with a tree, you forage them yourself, or you wait another year.
 
-This recipe takes that insane pawpaw flavor and pairs it with maple syrup and black walnuts"Ã¢â‚¬Âboth foraged/regional Appalachian ingredients. It's a love letter to a part of America most people drive through without stopping. And yes, it's difficult as hell to source the star ingredient. That's the point.
+This recipe takes that insane pawpaw flavor and pairs it with maple syrup and black walnuts—both foraged/regional Appalachian ingredients. It's a love letter to a part of America most people drive through without stopping. And yes, it's difficult as hell to source the star ingredient. That's the point.
 
 ## Ingredients
 
@@ -17,7 +17,7 @@ This recipe takes that insane pawpaw flavor and pairs it with maple syrup and bl
 - 1 cup whole milk 
 - 2/3 cup granulated sugar
 - 1/4 cup Grade A Dark or Very Dark maple syrup
-- 4 egg yolks (NOT 6"Ã¢â‚¬Âwe need the pawpaw to shine, not get buried under yolk richness)
+- 4 egg yolks (NOT 6—we need the pawpaw to shine, not get buried under yolk richness)
 - 1 cup pawpaw pulp (from about 4-6 pawpaws, seeds removed)
 - 1 tsp vanilla extract
 - 1 tbsp lemon juice (just to brighten it, not make it citrusy)
@@ -40,13 +40,13 @@ This recipe takes that insane pawpaw flavor and pairs it with maple syrup and bl
 
 ### Make the Black Walnut Maple Brittle (Do this first, it needs to cool)
 
-1. **Toast those walnuts, dude.** Spread the black walnuts on a baking sheet and toast at 350Â°F for 8-10 minutes until they smell incredible and have darkened slightly. Black walnuts are already pretty intense, so don't overdo it. Let them cool, then chop roughly. You want chunks, not dust.
+1. **Toast those walnuts, dude.** Spread the black walnuts on a baking sheet and toast at 350°F for 8-10 minutes until they smell incredible and have darkened slightly. Black walnuts are already pretty intense, so don't overdo it. Let them cool, then chop roughly. You want chunks, not dust.
 
-2. **Make the maple brittle.** In a medium saucepan, combine the maple syrup, butter, and salt. Bring to a boil over medium-high heat, then reduce to medium and let it cook, stirring occasionally, until it reaches 240Â°F (soft-ball stage). This will take about 8-12 minutes. It'll thicken and the bubbles will get slower and more viscous. You're basically making maple candy that's gonna harden into brittle.
+2. **Make the maple brittle.** In a medium saucepan, combine the maple syrup, butter, and salt. Bring to a boil over medium-high heat, then reduce to medium and let it cook, stirring occasionally, until it reaches 240°F (soft-ball stage). This will take about 8-12 minutes. It'll thicken and the bubbles will get slower and more viscous. You're basically making maple candy that's gonna harden into brittle.
 
-3. **Add the walnuts and get it on the damn sheet.** Once you hit 240Â°F, kill the heat, stir in the vanilla and the chopped walnuts, and immediately spread the mixture onto a parchment-lined baking sheet. Work fast"Ã¢â‚¬Âthis shit sets up QUICK. Let it cool completely (at least an hour), then break it into small chunks. You'll get this crunchy, maple-soaked walnut situation that's absolutely perfect in ice cream. Store in an airtight container until you're ready to churn.
+3. **Add the walnuts and get it on the damn sheet.** Once you hit 240°F, kill the heat, stir in the vanilla and the chopped walnuts, and immediately spread the mixture onto a parchment-lined baking sheet. Work fast—this shit sets up QUICK. Let it cool completely (at least an hour), then break it into small chunks. You'll get this crunchy, maple-soaked walnut situation that's absolutely perfect in ice cream. Store in an airtight container until you're ready to churn.
 
-### Make the Bourbon-Maple Glaze (if using"Ã¢â‚¬Âand you should)
+### Make the Bourbon-Maple Glaze (if using—and you should)
 
 4. **Reduce that bourbon and maple together.** Combine the maple syrup and bourbon in a small saucepan. Bring to a simmer and cook for about 8-10 minutes, stirring occasionally, until it's reduced by about half and thickened significantly. It should coat the back of a spoon and smell like autumn and bad decisions. The alcohol will mostly cook off, but you'll get this deep, complex sweetness that's WAY more interesting than just maple.
 
@@ -58,19 +58,19 @@ This recipe takes that insane pawpaw flavor and pairs it with maple syrup and bl
 
 7. **Heat the dairy and maple.** In a medium saucepan, combine the cream, milk, half the sugar (about 1/3 cup), and the 1/4 cup maple syrup. Heat over medium until it's steaming and just starting to show tiny bubbles around the edges. Don't let it boil.
 
-8. **Whisk those yolks.** In a separate bowl, whisk together the egg yolks, remaining sugar (about 1/3 cup), and salt until it's pale and thick. This is your standard custard setup, homie"Ã¢â‚¬Âyou know the drill.
+8. **Whisk those yolks.** In a separate bowl, whisk together the egg yolks, remaining sugar (about 1/3 cup), and salt until it's pale and thick. This is your standard custard setup, homie—you know the drill.
 
 9. **Temper like you mean it.** Slowly drizzle about a cup of the hot cream mixture into the yolks while whisking constantly. You're warming up the yolks so they don't scramble. Once they're tempered, pour the whole yolk mixture back into the saucepan with the rest of the cream.
 
-10. **Cook the custard to nappe.** Put the saucepan back over medium-low heat and cook, stirring constantly with a wooden spoon or heatproof spatula, until the custard thickens enough to coat the back of the spoon. You're looking for about 170-175Â°F. It'll take 5-8 minutes. Do NOT let it boil or you'll have very expensive scrambled eggs.
+10. **Cook the custard to nappe.** Put the saucepan back over medium-low heat and cook, stirring constantly with a wooden spoon or heatproof spatula, until the custard thickens enough to coat the back of the spoon. You're looking for about 170-175°F. It'll take 5-8 minutes. Do NOT let it boil or you'll have very expensive scrambled eggs.
 
 11. **Add the pawpaw pulp and vanilla.** Once the custard is thickened, remove from heat and stir in the pawpaw pulp and vanilla extract. The pawpaw will thin it out slightly, and that's fine. The flavor is what matters here, and oh DAMN does the pawpaw come through.
 
-12. **Strain and chill.** Strain the custard through a fine-mesh strainer into a clean bowl (this catches any bits of cooked egg or pawpaw fiber). Press on the solids to get all that good custard through. Cover with plastic wrap pressed directly onto the surface and refrigerate until completely cold"Ã¢â‚¬Âat least 4 hours, but overnight is better.
+12. **Strain and chill.** Strain the custard through a fine-mesh strainer into a clean bowl (this catches any bits of cooked egg or pawpaw fiber). Press on the solids to get all that good custard through. Cover with plastic wrap pressed directly onto the surface and refrigerate until completely cold—at least 4 hours, but overnight is better.
 
 ### Churn and Assemble
 
-13. **Churn that base.** Once your custard is cold as hell, churn until soft-serve. The pawpaw will give it a pale yellow-green color and make it slightly denser than standard custard"Ã¢â‚¬Âexpect it to look thick and creamy when ready.
+13. **Churn that base.** Once your custard is cold as hell, churn until soft-serve. The pawpaw will give it a pale yellow-green color and make it slightly denser than standard custard—expect it to look thick and creamy when ready.
 
 14. **Layer it up.** Grab a freezer-safe container. Spread a layer of churned ice cream in the bottom, drizzle some of the cold bourbon-maple glaze (if using), scatter some black walnut brittle chunks, then repeat. You want those brittle chunks and bourbon-maple swirls distributed throughout. Don't just dump everything on top like some kind of animal.
 
@@ -87,7 +87,7 @@ The pulp tastes like banana-mango-custard with hints of pineapple and melon. It'
 Remember how you said the Maple Walnut had too many yolks and it muted the maple? Same principle here. Pawpaw has a delicate, custardy flavor that gets BURIED under too much egg richness. Four yolks gives you enough structure and creaminess without turning this into "vaguely tropical-scented vanilla."
 
 **Black Walnuts vs. Regular Walnuts:** 
-Black walnuts are another foraged Appalachian ingredient with a much more intense, almost earthy-funky flavor compared to regular English walnuts. If you can find them (check Hammons or other Midwest suppliers), use them. If not, regular walnuts work fine"Ã¢â‚¬Âthey're just mellower.
+Black walnuts are another foraged Appalachian ingredient with a much more intense, almost earthy-funky flavor compared to regular English walnuts. If you can find them (check Hammons or other Midwest suppliers), use them. If not, regular walnuts work fine—they're just mellower.
 
 **Maple Syrup Grades:** 
 Use Grade A Dark, Very Dark, or if you can find it, the old "Grade B" designation (now called Grade A Very Dark). The darker the syrup, the more robust the maple flavor. You want that to come through against the pawpaw's tropical assertiveness.
@@ -96,7 +96,7 @@ Use Grade A Dark, Very Dark, or if you can find it, the old "Grade B" designatio
 The brittle can be made days in advance and stored airtight. The bourbon-maple glaze keeps in the fridge for a week. The pawpaw custard base MUST be made the day you get the pawpaws because they go bad FAST. Like, frighteningly fast. Don't wait.
 
 **About the Bourbon-Maple Glaze:** 
-This is technically optional, but it's the difference between "good" and "holy shit." The bourbon adds depth and complexity to the maple that you just don't get from straight syrup. Most of the alcohol cooks off during the reduction, but you get this warm, oaky sweetness that tastes like fall in Appalachia. If you don't drink or can't have alcohol, skip the bourbon and just reduce the maple syrup with the butter"Ã¢â‚¬Âit'll still be good, just less complex.
+This is technically optional, but it's the difference between "good" and "holy shit." The bourbon adds depth and complexity to the maple that you just don't get from straight syrup. Most of the alcohol cooks off during the reduction, but you get this warm, oaky sweetness that tastes like fall in Appalachia. If you don't drink or can't have alcohol, skip the bourbon and just reduce the maple syrup with the butter—it'll still be good, just less complex.
 
 **Allergen Information:** 
 Contains: Tree nuts (walnuts)

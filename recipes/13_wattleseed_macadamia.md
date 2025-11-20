@@ -6,9 +6,9 @@
 
 **Total Time:** 6-8 hours (mostly waiting for nuts to dry and custard to chill while you contemplate your life choices)
 
-Wattleseed is Aboriginal bush tucker"Ã¢â‚¬Âroasted and ground seeds that taste like coffee-chocolate-hazelnut had a mysterious Australian cousin who's cooler than all of them. Paired with buttery macadamias (native to Australia) and golden syrup (beloved in Australian baking), you get something that tastes distinctly Australian while being completely approachable, even for people who've never left their hometown.
+Wattleseed is Aboriginal bush tucker—roasted and ground seeds that taste like coffee-chocolate-hazelnut had a mysterious Australian cousin who's cooler than all of them. Paired with buttery macadamias (native to Australia) and golden syrup (beloved in Australian baking), you get something that tastes distinctly Australian while being completely approachable, even for people who've never left their hometown.
 
-Fair warning, chief: wattleseed can be hard to source, but it's worth seeking out from suppliers that work with Aboriginal communities. This isn't just ingredients"Ã¢â‚¬Âit's cultural heritage.
+Fair warning, chief: wattleseed can be hard to source, but it's worth seeking out from suppliers that work with Aboriginal communities. This isn't just ingredients—it's cultural heritage.
 
 ## Ingredients
 
@@ -42,25 +42,25 @@ Fair warning, chief: wattleseed can be hard to source, but it's worth seeking ou
 
 **Candied Macadamias (make this first, needs 2-4 hours drying):**
 
-Preheat your oven to 325Â°F. Spread the macadamias on a baking sheet, toast for 8-10 minutes until fragrant and lightly golden. Watch these fuckers CAREFULLY"Ã¢â‚¬Âmacadamias burn quicker than your paycheck disappears due to their insanely high fat content. Set aside.
+Preheat your oven to 325°F. Spread the macadamias on a baking sheet, toast for 8-10 minutes until fragrant and lightly golden. Watch these fuckers CAREFULLY—macadamias burn quicker than your paycheck disappears due to their insanely high fat content. Set aside.
 
 Line another baking sheet with parchment, set it nearby.
 
 In a saucepan, combine golden syrup, corn syrup, sugar, butter, and salt. Heat over medium-high, stirring until the butter melts and sugar dissolves. Bring to a boil.
 
-Cook WITHOUT STIRRING to 240-250Â°F (soft ball stage)"Ã¢â‚¬Âshould be bubbling vigorously and thickened, about 5-7 minutes. You'll stand there wondering if you're doing it right. You are.
+Cook WITHOUT STIRRING to 240-250°F (soft ball stage)—should be bubbling vigorously and thickened, about 5-7 minutes. You'll stand there wondering if you're doing it right. You are.
 
-Pull it off the heat IMMEDIATELY when it hits temp. Add the toasted macadamias, stir quickly to coat completely"Ã¢â‚¬Âevery single nut needs that glossy treatment.
+Pull it off the heat IMMEDIATELY when it hits temp. Add the toasted macadamias, stir quickly to coat completely—every single nut needs that glossy treatment.
 
 Working FAST because this sets up faster than you can process what just happened, pour onto the prepared parchment and spread in a single layer using two forks to separate the nuts. Should look glossy and deeply golden, like Australian sunshine in candy form.
 
-Let air dry completely at room temperature for 2-4 hours until the coating is hard and glassy, not tacky. Break apart any clusters. Chop roughly into small pieces"Ã¢â‚¬Âsome whole, some broken. The variety is good. Store airtight.
+Let air dry completely at room temperature for 2-4 hours until the coating is hard and glassy, not tacky. Break apart any clusters. Chop roughly into small pieces—some whole, some broken. The variety is good. Store airtight.
 
 **Infuse Wattleseed:**
 
-Combine cream and milk in a saucepan. Add the ground wattleseed. Heat over medium to 170-175Â°F"Ã¢â‚¬Âsteaming, not boiling. Pull it off the heat, cover, steep for 20-25 minutes.
+Combine cream and milk in a saucepan. Add the ground wattleseed. Heat over medium to 170-175°F—steaming, not boiling. Pull it off the heat, cover, steep for 20-25 minutes.
 
-Wattleseed needs longer infusion than most spices because it's stubborn like that. Taste at 20 minutes"Ã¢â‚¬Âshould have these nutty, coffee-chocolate notes with a hint of hazelnut that's honestly kind of magical.
+Wattleseed needs longer infusion than most spices because it's stubborn like that. Taste at 20 minutes—should have these nutty, coffee-chocolate notes with a hint of hazelnut that's honestly kind of magical.
 
 Strain through a fine-mesh sieve lined with cheesecloth, pressing gently on the solids to extract all that flavor. Discard the grounds.
 
@@ -68,15 +68,15 @@ Optional: If you're using lemon myrtle, add the crushed leaves to the hot infuse
 
 **Make Custard:**
 
-Return the infused cream to the saucepan, add half the sugar, heat until steaming. Make your custard with egg yolks and remaining sugar using the standard method to 170-175Â°F.
+Return the infused cream to the saucepan, add half the sugar, heat until steaming. Make your custard with egg yolks and remaining sugar using the standard method to 170-175°F.
 
 The wattleseed will give it this beautiful tan-coffee color. Pull it off the heat. Stir in vanilla and salt.
 
-Strain through a fine-mesh sieve ONE MORE TIME to remove any remaining wattleseed particles"Ã¢â‚¬Ânobody wants gritty ice cream, homie.
+Strain through a fine-mesh sieve ONE MORE TIME to remove any remaining wattleseed particles—nobody wants gritty ice cream, homie.
 
 Cool over an ice bath.
 
-Taste it cold"Ã¢â‚¬Âshould have this complex nutty-roasted flavor reminiscent of coffee and chocolate with subtle sweetness. Not bitter at all, just deep and interesting.
+Taste it cold—should have this complex nutty-roasted flavor reminiscent of coffee and chocolate with subtle sweetness. Not bitter at all, just deep and interesting.
 
 Refrigerate at least 4 hours or overnight.
 
@@ -86,7 +86,7 @@ In a small saucepan, warm the golden syrup over low heat until it's pourable. Ad
 
 Should be thick but pourable when cooled, like honey. Cool to room temperature, then refrigerate.
 
-Golden syrup adds this distinctly Australian sweetness"Ã¢â‚¬Âdifferent from maple or honey, with treacle-like depth that makes you understand why Australians put it on everything.
+Golden syrup adds this distinctly Australian sweetness—different from maple or honey, with treacle-like depth that makes you understand why Australians put it on everything.
 
 **Churn:**
 
@@ -102,27 +102,27 @@ Freeze 4+ hours.
 
 Native Australian ingredient, traditional Aboriginal bush tucker food for literally thousands of years. The roasted and ground seeds create this nutty, coffee-chocolate flavor with hazelnut notes. Sometimes called "Australian bush coffee" which is pretty fucking accurate.
 
-Buy from reputable suppliers that source ethically from Aboriginal communities"Ã¢â‚¬Âlook for brands like Outback Pride, Australian Superfood Co, or Tucker Bush. Ground wattleseed loses potency quickly"Ã¢â‚¬Âstore it in the freezer. Use within 3-4 months of purchase or it'll taste like disappointment.
+Buy from reputable suppliers that source ethically from Aboriginal communities—look for brands like Outback Pride, Australian Superfood Co, or Tucker Bush. Ground wattleseed loses potency quickly—store it in the freezer. Use within 3-4 months of purchase or it'll taste like disappointment.
 
 **Macadamia nuts:**
 
-Indigenous to Queensland and northern New South Wales rainforests. Australia is one of the world's largest macadamia producers. These nuts are buttery, creamy, with this mild sweet flavor. The high fat content"Ã¢â‚¬Â75%, which is INSANE"Ã¢â‚¬Âmeans they toast beautifully but burn easily. Watch them carefully, friend.
+Indigenous to Queensland and northern New South Wales rainforests. Australia is one of the world's largest macadamia producers. These nuts are buttery, creamy, with this mild sweet flavor. The high fat content—75%, which is INSANE—means they toast beautifully but burn easily. Watch them carefully, friend.
 
 **Golden syrup:**
 
-While invented in Britain (Lyle's brand), golden syrup is hugely popular in Australian baking"Ã¢â‚¬Âit's basically their national sweetener. CSR is the iconic Australian brand. Provides this butterscotch-treacle sweetness that's distinct from maple or honey. If unavailable, substitute light corn syrup mixed with 1 tbsp molasses, though the flavor won't be identical.
+While invented in Britain (Lyle's brand), golden syrup is hugely popular in Australian baking—it's basically their national sweetener. CSR is the iconic Australian brand. Provides this butterscotch-treacle sweetness that's distinct from maple or honey. If unavailable, substitute light corn syrup mixed with 1 tbsp molasses, though the flavor won't be identical.
 
 **Lemon myrtle (optional):**
 
-Native Australian citrus-scented leaf. Has INTENSE lemon flavor"Ã¢â‚¬Âlike 10 times more citral than actual lemons, which is bonkers. Use sparingly as an accent to brighten wattleseed's earthiness. Provides subtle bush character without overwhelming everything. If unavailable, add zest of 1/2 lemon instead"Ã¢â‚¬Ânot the same, but it works.
+Native Australian citrus-scented leaf. Has INTENSE lemon flavor—like 10 times more citral than actual lemons, which is bonkers. Use sparingly as an accent to brighten wattleseed's earthiness. Provides subtle bush character without overwhelming everything. If unavailable, add zest of 1/2 lemon instead—not the same, but it works.
 
 **Cultural context:**
 
-This honors Aboriginal Australian bush tucker traditions by featuring wattleseed, while incorporating macadamias (native to Australia) and golden syrup (beloved in modern Australian cuisine). Wattleseed has been used by Aboriginal peoples for millennia"Ã¢â‚¬Âwe're talking THOUSANDS of years. When buying wattleseed and other native ingredients, seek out Aboriginal-owned suppliers or brands that fairly compensate Aboriginal communities. This isn't just food, it's cultural heritage, dude.
+This honors Aboriginal Australian bush tucker traditions by featuring wattleseed, while incorporating macadamias (native to Australia) and golden syrup (beloved in modern Australian cuisine). Wattleseed has been used by Aboriginal peoples for millennia—we're talking THOUSANDS of years. When buying wattleseed and other native ingredients, seek out Aboriginal-owned suppliers or brands that fairly compensate Aboriginal communities. This isn't just food, it's cultural heritage, dude.
 
 **What it tastes like:**
 
-Complex as hell. Sophisticated. Deep nutty, almost coffee-like base with chocolate undertones and a hint of hazelnut. Not bitter despite the coffee-esque character"Ã¢â‚¬Âjust rich and interesting. Buttery macadamias add richness and crunch. Golden syrup ribbons provide treacle-butterscotch sweetness. Optional lemon myrtle adds this bright citrus top note that makes everything sing.
+Complex as hell. Sophisticated. Deep nutty, almost coffee-like base with chocolate undertones and a hint of hazelnut. Not bitter despite the coffee-esque character—just rich and interesting. Buttery macadamias add richness and crunch. Golden syrup ribbons provide treacle-butterscotch sweetness. Optional lemon myrtle adds this bright citrus top note that makes everything sing.
 
 **Visual:**
 
@@ -130,7 +130,7 @@ Warm tan-coffee colored base studded with golden-brown candied macadamia pieces 
 
 **Serving note:**
 
-Wattleseed's complex flavors actually develop and deepen after 24 hours in the freezer"Ã¢â‚¬Âsomething about the cold does magic things. Consider making this the day before serving for optimal flavor. Patience pays off, homie.
+Wattleseed's complex flavors actually develop and deepen after 24 hours in the freezer—something about the cold does magic things. Consider making this the day before serving for optimal flavor. Patience pays off, homie.
 
 **Allergen Information:** Contains tree nuts (macadamias)
 

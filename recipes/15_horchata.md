@@ -59,7 +59,7 @@ Discard the rice solids (or compost them, or whatever - they've done their job).
 
 **Candied Almonds (can be made up to a week ahead):**
 
-Line a baking sheet with parchment. Combine sugar, water, and vanilla in a medium saucepan over medium heat. Stir until the sugar dissolves completely, then stop stirring and let it cook until it reaches 240Â°F (soft ball stage) - this takes about 5-7 minutes. You need a candy thermometer for this, homie. Don't guess.
+Line a baking sheet with parchment. Combine sugar, water, and vanilla in a medium saucepan over medium heat. Stir until the sugar dissolves completely, then stop stirring and let it cook until it reaches 240°F (soft ball stage) - this takes about 5-7 minutes. You need a candy thermometer for this, homie. Don't guess.
 
 Add the sliced almonds and salt, and stir constantly. The mixture will look weird and sandy for a minute as the sugar crystallizes around the nuts - this is supposed to happen, don't panic. It's the sugar reverting to crystal form as it cools slightly on contact with the almonds. Keep stirring over medium heat and the sugar will melt again, coating the almonds in a glossy caramel. This transformation takes 3-5 minutes of constant stirring.
 
@@ -69,7 +69,7 @@ When the almonds are evenly coated and golden brown, immediately spread them on 
 
 Have your warmed cream, butter, and cinnamon measured and ready next to the stove - caramel moves faster than bad news and you need to be ready. Combine the sugar and water in a light-colored saucepan over medium-high heat. Don't stir - just let it cook, swirling the pan occasionally, until it reaches deep amber, about 7-10 minutes. You're looking for copper penny color.
 
-Pull from heat and carefully add the warmed cream - it'll bubble violently and hiss like an angry cat, but that's normal. The temperature differential between 350Â°F caramel and 120Â°F cream creates instant steam. Whisk until smooth, then add the butter, cinnamon, and salt. Whisk thoroughly so the cinnamon distributes evenly instead of clumping into spice bombs.
+Pull from heat and carefully add the warmed cream - it'll bubble violently and hiss like an angry cat, but that's normal. The temperature differential between 350°F caramel and 120°F cream creates instant steam. Whisk until smooth, then add the butter, cinnamon, and salt. Whisk thoroughly so the cinnamon distributes evenly instead of clumping into spice bombs.
 
 The finished swirl should be smooth, fragrant with cinnamon, and deep amber-brown. Let it cool to room temperature, then refrigerate. When cold, it should be thick but pourable - honey consistency.
 
@@ -77,7 +77,7 @@ The finished swirl should be smooth, fragrant with cinnamon, and deep amber-brow
 
 Combine the rice milk mixture and heavy cream in a saucepan and heat until steaming - small bubbles around the edges, no rolling boil. While that heats, whisk the egg yolks with the sugar in a separate bowl until pale and thick, about 2 minutes. This pre-mixing is important because it starts dissolving the sugar and prevents graininess in your final custard.
 
-Temper the yolks with the hot dairy mixture - you know this drill, chief. Slowly drizzle about a cup of the hot liquid into the yolks while whisking constantly, then return everything to the pan. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175Â°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line.
+Temper the yolks with the hot dairy mixture - you know this drill, chief. Slowly drizzle about a cup of the hot liquid into the yolks while whisking constantly, then return everything to the pan. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line.
 
 Strain through a fine-mesh sieve to catch any bits of cooked egg. Stir in both extracts, ground cinnamon, and salt. The custard will be off-white with visible cinnamon specks - this is exactly what you want, dude.
 

@@ -48,7 +48,7 @@ Line a baking sheet with parchment. Measure out your baking soda and keep it rig
 
 Combine sugar, honey, and corn syrup in a LARGE saucepan - and when we say large, we mean at least 3 quarts. This is going to foam up dramatically like it's auditioning for a volcano documentary and you really, REALLY don't want it overflowing onto your stove. We learned this the hard way so you don't have to. Ask me how I know. Actually, don't.
 
-Cook over medium-high WITHOUT STIRRING until it hits 300-310Â°F, or until it's deep amber. Takes about 8-12 minutes. Don't leave. Don't check your phone. Don't even THINK about starting another task. This will go from "perfect" to "oh shit, burnt" in about 15 seconds and you need to be watching it like your life depends on it.
+Cook over medium-high WITHOUT STIRRING until it hits 300-310°F, or until it's deep amber. Takes about 8-12 minutes. Don't leave. Don't check your phone. Don't even THINK about starting another task. This will go from "perfect" to "oh shit, burnt" in about 15 seconds and you need to be watching it like your life depends on it.
 
 The SECOND it hits temperature, yank it off the heat. Add the baking soda and salt. Whisk HARD for 2-3 seconds. The mixture will suddenly foam up to 2-3 times its original size - it looks completely wild, almost aggressive. This is EXACTLY what's supposed to happen, dude. The temptation to keep stirring is strong as hell, but resist - just let it do its foamy thing.
 
@@ -70,11 +70,11 @@ If you mess this up - and there's a decent chance you might the first time - it'
 
 **Infuse the Tea:**
 
-Heat 1/2 cup milk to 200Â°F - just starting to steam, not boiling. Pull it off the heat, add the Earl Grey, cover, and steep for 5-7 minutes. Taste it at 5 minutes - you want strong tea with clear bergamot character, not bitter tannins that make your mouth feel like sandpaper. Strain, pressing gently on the leaves. You should have 1/2 cup of concentrated tea milk that smells incredible.
+Heat 1/2 cup milk to 200°F - just starting to steam, not boiling. Pull it off the heat, add the Earl Grey, cover, and steep for 5-7 minutes. Taste it at 5 minutes - you want strong tea with clear bergamot character, not bitter tannins that make your mouth feel like sandpaper. Strain, pressing gently on the leaves. You should have 1/2 cup of concentrated tea milk that smells incredible.
 
 **Make the Custard:**
 
-Make a rich custard with the remaining milk, cream, sugar, and 6 egg yolks using your standard custard method - heat, temper, cook to 170-175Â°F. You know the drill by now.
+Make a rich custard with the remaining milk, cream, sugar, and 6 egg yolks using your standard custard method - heat, temper, cook to 170-175°F. You know the drill by now.
 
 Once it's off the heat, stir in the concentrated tea milk, the cooled burnt honey from the base batch, salt, and optional lemon zest. Strain. Cool over an ice bath.
 

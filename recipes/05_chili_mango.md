@@ -6,7 +6,7 @@
 
 **Total Time:** 6-8 hours (most of which is chilling time while you wonder if you added enough hot sauce)
 
-Okay homie, if you've ever bought mango from a street cart in Mexico City, you know the deal: sweet fruit meets chile, lime, and salt in this perfect balance that makes your brain short-circuit. Thai food does something similar with that sweet-spicy-sour-salty thing, but this ice cream is inspired by Mexican street food culture"Ã¢â‚¬Âspecifically that Tajin-dusted, chamoy-drizzled mango situation. The whole deal hinges on getting the heat level *right* - and here's the thing: cold absolutely murders spice. Like, brutally. What tastes aggressively spicy at room temperature will be just right when frozen.
+Okay homie, if you've ever bought mango from a street cart in Mexico City, you know the deal: sweet fruit meets chile, lime, and salt in this perfect balance that makes your brain short-circuit. Thai food does something similar with that sweet-spicy-sour-salty thing, but this ice cream is inspired by Mexican street food culture—specifically that Tajin-dusted, chamoy-drizzled mango situation. The whole deal hinges on getting the heat level *right* - and here's the thing: cold absolutely murders spice. Like, brutally. What tastes aggressively spicy at room temperature will be just right when frozen.
 
 You'll definitely need to taste-test this one. Multiple times. For science. (Ask me how I know. Actually, don't.)
 
@@ -39,7 +39,7 @@ You'll definitely need to taste-test this one. Multiple times. For science. (Ask
 
 **Spiced Pepitas:**
 
-Preheat your oven to 325Â°F. Toss those pepitas with olive oil, spread 'em on a baking sheet, and toast for 8-10 minutes, stirring halfway through - you want them golden and puffing up like tiny popcorn. Immediately toss with Tajin while they're hot (the heat helps the seasoning stick). Let 'em cool completely, friend.
+Preheat your oven to 325°F. Toss those pepitas with olive oil, spread 'em on a baking sheet, and toast for 8-10 minutes, stirring halfway through - you want them golden and puffing up like tiny popcorn. Immediately toss with Tajin while they're hot (the heat helps the seasoning stick). Let 'em cool completely, friend.
 
 **Prepare Mango:**
 

@@ -47,7 +47,7 @@ This is one of those flavors that sounds weird until you taste it, and then it m
 
 If you're making your own brown bread, do that first and let it cool completely before proceeding. Otherwise, start with store-bought brown bread or whole wheat bread.
 
-Preheat your oven to 350Â°F. Cut the bread into roughly 1/2-inch cubes - don't worry about perfect uniformity, irregular pieces actually work better because they toast unevenly and give you different textures. You want about 3 cups of cubed bread total.
+Preheat your oven to 350°F. Cut the bread into roughly 1/2-inch cubes - don't worry about perfect uniformity, irregular pieces actually work better because they toast unevenly and give you different textures. You want about 3 cups of cubed bread total.
 
 In a large bowl, toss the bread cubes with melted butter, both sugars, cinnamon, and salt until everything is evenly coated. The bread should look glossy and sticky.
 
@@ -73,7 +73,7 @@ Let cool to room temperature, then refrigerate. Should be thick but pourable whe
 
 Combine the cream and whole milk in a saucepan and heat until steaming. While that heats, whisk the egg yolks with the sugar until pale and thick.
 
-Temper the yolks with the hot dairy mixture, then return everything to the pan. Cook over medium heat, stirring constantly, until it reaches 170-175Â°F and coats the back of a spoon.
+Temper the yolks with the hot dairy mixture, then return everything to the pan. Cook over medium heat, stirring constantly, until it reaches 170-175°F and coats the back of a spoon.
 
 Strain through a fine-mesh sieve to catch any bits of cooked egg. Let cool for about 10 minutes - you don't want to add the buttermilk to scorching hot custard or it might curdle.
 

@@ -56,7 +56,7 @@ Take your 4 fresh rosemary sprigs and bruise them by squeezing and rolling them 
 
 If you just toss whole, unbruised rosemary into hot cream, you'll get some flavor extraction, but it'll be weak and take forever. Bruising the herb first increases the surface area and immediately releases oils into whatever liquid you're steeping. It's the difference between weak rosemary milk and properly infused rosemary milk.
 
-Combine cream, milk, half the lemon zest (save the other half for later), and the bruised rosemary in a saucepan. Heat over medium to 170-175Â°F - steaming but not boiling. If you boil it, you'll drive off those delicate volatile compounds that make rosemary smell like rosemary.
+Combine cream, milk, half the lemon zest (save the other half for later), and the bruised rosemary in a saucepan. Heat over medium to 170-175°F - steaming but not boiling. If you boil it, you'll drive off those delicate volatile compounds that make rosemary smell like rosemary.
 
 Remove from heat, cover, and steep for 15-20 minutes. During this time, the heat helps extract the fat-soluble aromatic compounds from the rosemary into the dairy fat. This is the same principle as making tea - hot liquid pulls flavor from plant material - except we're using cream instead of water, which actually works better for rosemary since many of its aromatic compounds are more soluble in fat than in water.
 
@@ -68,7 +68,7 @@ Strain through a fine-mesh sieve, pressing gently on the rosemary sprigs to extr
 
 Reheat the infused cream mixture until it's steaming again. In a separate bowl, whisk together the sugar and honey until combined.
 
-Make your custard with the 3 egg yolks and the sugar-honey mixture using the standard tempering method - slowly drizzle hot cream into whisked yolks, return to pan, cook to 170-175Â°F while stirring constantly. The custard should coat the back of a spoon.
+Make your custard with the 3 egg yolks and the sugar-honey mixture using the standard tempering method - slowly drizzle hot cream into whisked yolks, return to pan, cook to 170-175°F while stirring constantly. The custard should coat the back of a spoon.
 
 Remove from heat and let it cool for 5 minutes while stirring occasionally. You want it warm but not scorching hot for the next step.
 

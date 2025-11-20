@@ -50,13 +50,13 @@ You can strain this for a smooth swirl or leave it chunky with fig seeds for tex
 
 **Make Custard:**
 
-Heat the cream and milk in a saucepan until steaming - you want it hot enough that the dairy can dissolve the golden milk powder properly, but not boiling. We're looking at around 170-180Â°F if you're checking with a thermometer, or just "steaming nicely but not bubbling" if you're going by feel.
+Heat the cream and milk in a saucepan until steaming - you want it hot enough that the dairy can dissolve the golden milk powder properly, but not boiling. We're looking at around 170-180°F if you're checking with a thermometer, or just "steaming nicely but not bubbling" if you're going by feel.
 
 Here's the critical step that prevents lumpy turmeric nightmares: whisk the golden milk powder into the warm dairy until completely dissolved. And I mean *completely*, dude. No streaks, no little yellow clumps floating around, no granules at the bottom of the pan. Turmeric is notorious for clumping if you add it to cold liquid or don't whisk thoroughly. Those lumps won't dissolve later, and biting into a pocket of straight turmeric powder in your ice cream is... not the vibe we're going for. It's bitter, gritty, and weird.
 
 Take your time with this. Whisk for a solid 30-60 seconds until you see nothing but smooth, uniformly bright yellow dairy. If you do see lumps, keep whisking. If they're really stubborn, use an immersion blender for 10 seconds and they'll disappear.
 
-Now make your custard with the egg yolks, sugar, and 1/4 cup of that fig syrup using the standard method - temper the yolks, return to the pan, cook to 170-175Â°F while stirring constantly. The fig syrup adds natural sugar and this subtle fig presence throughout the base, so the whole thing tastes gently of fig even before you add the swirl. Add a pinch of salt to balance all that sweetness.
+Now make your custard with the egg yolks, sugar, and 1/4 cup of that fig syrup using the standard method - temper the yolks, return to the pan, cook to 170-175°F while stirring constantly. The fig syrup adds natural sugar and this subtle fig presence throughout the base, so the whole thing tastes gently of fig even before you add the swirl. Add a pinch of salt to balance all that sweetness.
 
 Strain it through a fine-mesh sieve. This catches any possible turmeric clumps you might have missed and any cooked egg bits. Cool over an ice bath, stirring occasionally until it's not hot anymore. 
 

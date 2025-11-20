@@ -6,7 +6,7 @@
 
 **Total Time:** 6-8 hours (most of which is orange peel simmering and custard chilling while you do literally anything else)
 
-Alright homie, this is the chocolate recipe you've been waiting for. But we're not doing some basic-ass chocolate ice cream hereÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âwe're going deep into the Southwest with New Mexican red chile and dark, almost bittersweet Mexican-style chocolate. This isn't "spicy chocolate" where the heat smacks you in the face. This is integrated warmth, the kind where the chile and chocolate grew up together and know each other's secrets.
+Alright homie, this is the chocolate recipe you've been waiting for. But we're not doing some basic-ass chocolate ice cream here—we're going deep into the Southwest with New Mexican red chile and dark, almost bittersweet Mexican-style chocolate. This isn't "spicy chocolate" where the heat smacks you in the face. This is integrated warmth, the kind where the chile and chocolate grew up together and know each other's secrets.
 
 The chile brings fruity, earthy heat that builds slowly. The chocolate is dark and complex with hints of coffee. The pepita brittle adds crunch and that toasted-seed flavor that's so distinctly Southwest. And the cinnamon? It's there if you want it, ghosting around in the background, but it's totally optional because not everyone needs cinnamon running the show.
 
@@ -19,10 +19,10 @@ The chile brings fruity, earthy heat that builds slowly. The chocolate is dark a
 - 6 egg yolks
 - 6 oz dark chocolate (70% cacao), chopped fine
 - 2 tbsp unsweetened cocoa powder (Dutch-process if you have it)
-- 1-2 tsp ground New Mexican red chile (Hatch, Chimayo, or similarÂ¢Â¢Ã¢â‚¬Å¡Â¬"ÂNOT cayenne)
+- 1-2 tsp ground New Mexican red chile (Hatch, Chimayo, or similar—NOT cayenne)
 - 1 tsp instant espresso powder or finely ground coffee
 - 1 tsp vanilla extract
-- 1/8 tsp ground cinnamon (OPTIONALÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âsee notes)
+- 1/8 tsp ground cinnamon (OPTIONAL—see notes)
 - 1/4 tsp salt
 
 **Red Chile Caramel Swirl:**
@@ -52,9 +52,9 @@ The chile brings fruity, earthy heat that builds slowly. The chocolate is dark a
 
 ## Instructions
 
-**Candied Orange Peel with Chile (make this firstÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âit takes 2+ hours):**
+**Candied Orange Peel with Chile (make this first—it takes 2+ hours):**
 
-Strip that peel, homie. Cut off the top and bottom of each orange so they sit flat. Score the peel vertically in quarters, then peel off those quarters. Try to get as little white pith as possibleÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âtoo much pith makes them bitter as hell. Slice the peel into thin strips, about 1/4 inch wide.
+Strip that peel, homie. Cut off the top and bottom of each orange so they sit flat. Score the peel vertically in quarters, then peel off those quarters. Try to get as little white pith as possible—too much pith makes them bitter as hell. Slice the peel into thin strips, about 1/4 inch wide.
 
 Blanch the bitterness out. Put the orange peel strips in a medium saucepan and cover with cold water. Bring to a boil, then drain. Repeat this TWO MORE TIMES with fresh water each time. Yeah, three times. This pulls out the bitter compounds in the pith. Your kitchen will smell incredible, like orange essential oil exploded.
 
@@ -62,15 +62,15 @@ Make the chile-spiked syrup. In the same saucepan, combine the 1 cup water, 1 cu
 
 Candy those peels low and slow. Add the blanched orange peel strips to the chile syrup. Bring to a simmer, then reduce heat to low and let them cook gently for about 60-90 minutes. You want the syrup to reduce and thicken and the peels to become translucent and tender. They'll darken and get glossy. Stir occasionally so nothing sticks. You'll know they're done when the syrup is thick and the peels are see-through and floppy.
 
-Sugar coat and dry. Use tongs or a fork to fish out the peels (save that syrupÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âit's incredible drizzled on vanilla ice cream or in cocktails). Toss the hot peels in a bowl of granulated sugar until coated. Spread them on a wire rack or parchment paper and let them dry for at least 2 hours, or up to overnight. They'll get slightly firm but stay chewy. Chop into small pieces before adding to ice cream.
+Sugar coat and dry. Use tongs or a fork to fish out the peels (save that syrup—it's incredible drizzled on vanilla ice cream or in cocktails). Toss the hot peels in a bowl of granulated sugar until coated. Spread them on a wire rack or parchment paper and let them dry for at least 2 hours, or up to overnight. They'll get slightly firm but stay chewy. Chop into small pieces before adding to ice cream.
 
 **Pepita Brittle:**
 
-Toast those pepitas. Spread the pepitas on a baking sheet and toast at 350Â°F for 6-8 minutes, stirring once halfway through, until they're golden and fragrant. Some will puff up and that's perfectÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âthe hull has separated slightly from the seed, which means they're releasing their oils and developing deep, nutty flavors. Raw seeds taste vegetal and slightly bitter, but toasted seeds? They're almost popcorn-like, with this incredible toasted richness. Let them cool slightly while you make the caramel.
+Toast those pepitas. Spread the pepitas on a baking sheet and toast at 350°F for 6-8 minutes, stirring once halfway through, until they're golden and fragrant. Some will puff up and that's perfect—the hull has separated slightly from the seed, which means they're releasing their oils and developing deep, nutty flavors. Raw seeds taste vegetal and slightly bitter, but toasted seeds? They're almost popcorn-like, with this incredible toasted richness. Let them cool slightly while you make the caramel.
 
-Make the caramel and don't walk away. In a medium saucepan, combine the sugar and water. Heat over medium-high without stirringÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âjust swirl the pan occasionally. Watch it like a fucking hawk. It'll go from clear to amber to burnt in about 30 seconds at the end. You want a deep amber color, like good bourbon.
+Make the caramel and don't walk away. In a medium saucepan, combine the sugar and water. Heat over medium-high without stirring—just swirl the pan occasionally. Watch it like a fucking hawk. It'll go from clear to amber to burnt in about 30 seconds at the end. You want a deep amber color, like good bourbon.
 
-Add butter, salt, and pepitas, then GET IT OUT. Once your caramel is amber, kill the heat and stir in the butter and salt (it'll bubble and hissÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âthat's normal). Immediately add the toasted pepitas and the optional chile if using. Stir fast to coat everything, then dump it all onto a parchment-lined baking sheet. Spread it thin with a spatula. Let it cool completely (about an hour), then break it into small chunks. Store airtight.
+Add butter, salt, and pepitas, then GET IT OUT. Once your caramel is amber, kill the heat and stir in the butter and salt (it'll bubble and hiss—that's normal). Immediately add the toasted pepitas and the optional chile if using. Stir fast to coat everything, then dump it all onto a parchment-lined baking sheet. Spread it thin with a spatula. Let it cool completely (about an hour), then break it into small chunks. Store airtight.
 
 **Red Chile Caramel Swirl:**
 
@@ -94,17 +94,17 @@ Whisk the yolks. In a separate bowl, whisk together the egg yolks, remaining sug
 
 Temper the yolks by slowly drizzling about a cup of the hot chocolate mixture into them while whisking constantly. Once tempered, pour everything back into the saucepan.
 
-Cook to nappe. Return the saucepan to medium-low heat and cook, stirring constantly, until the custard thickens enough to coat the back of a spoon, about 170-175Â°F. This takes about 5-8 minutes. The mixture should be noticeably thicker, but it won't be pudding-thick yet.
+Cook to nappe. Return the saucepan to medium-low heat and cook, stirring constantly, until the custard thickens enough to coat the back of a spoon, about 170-175°F. This takes about 5-8 minutes. The mixture should be noticeably thicker, but it won't be pudding-thick yet.
 
 Add vanilla and strain. Remove from heat, stir in the vanilla extract, then strain through a fine-mesh strainer into a clean bowl. This catches any bits of cooked egg or undissolved cocoa. Press on the solids to get all that good chocolate custard through.
 
-Chill the hell out of it. Cover with plastic wrap pressed directly onto the surface to prevent a skin from forming. Refrigerate until completely coldÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âat least 4 hours, but overnight is better. The custard will thicken more as it chills, and the flavors will meld. The chile heat will also become more pronounced as it sits.
+Chill the hell out of it. Cover with plastic wrap pressed directly onto the surface to prevent a skin from forming. Refrigerate until completely cold—at least 4 hours, but overnight is better. The custard will thicken more as it chills, and the flavors will meld. The chile heat will also become more pronounced as it sits.
 
 **Churn and Assemble:**
 
-Churn it. Once your custard is thoroughly chilled, churn until it reaches soft-serve consistencyÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âthick, creamy, and holding its shape. The chocolate and chile make this denser than standard custard, so expect deep, dark brown color with hints of red from the chile.
+Churn it. Once your custard is thoroughly chilled, churn until it reaches soft-serve consistency—thick, creamy, and holding its shape. The chocolate and chile make this denser than standard custard, so expect deep, dark brown color with hints of red from the chile.
 
-Layer with intention. Get a freezer-safe container. Spread a layer of churned ice cream in the bottom, drizzle some of that cold red chile caramel, scatter some pepita brittle chunks, add some chopped candied orange peel. Repeat. You're building layers of flavor and texture hereÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âcreamy chocolate, crunchy pepitas, chewy-spicy orange, warm caramel. It's a whole damn experience.
+Layer with intention. Get a freezer-safe container. Spread a layer of churned ice cream in the bottom, drizzle some of that cold red chile caramel, scatter some pepita brittle chunks, add some chopped candied orange peel. Repeat. You're building layers of flavor and texture here—creamy chocolate, crunchy pepitas, chewy-spicy orange, warm caramel. It's a whole damn experience.
 
 Freeze it solid. Press plastic wrap or parchment directly onto the surface, cover with a lid, and freeze for at least 4 hours. This needs proper freezing time to set up.
 
@@ -112,19 +112,19 @@ Freeze it solid. Press plastic wrap or parchment directly onto the surface, cove
 
 **Cultural Context:**
 
-New Mexican red chile is the backbone of Southwest cuisine, cultivated in the Rio Grande valley for over 400 years. Hatch, Chimayo, and other regional varieties each have distinct flavor profilesÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âsome fruitier, some earthier, all with that characteristic slow-building warmth that's nothing like cayenne's sharp bite. Pairing chile with chocolate isn't fusionÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âit's historical. Pre-Columbian Mesoamerican cultures combined cacao and chile in ceremonial drinks long before Europeans "discovered" chocolate. This recipe honors that ancient partnership while bringing it into the frozen dessert tradition of the American Southwest, where summer heat demands cold desserts and bold flavors reign supreme.
+New Mexican red chile is the backbone of Southwest cuisine, cultivated in the Rio Grande valley for over 400 years. Hatch, Chimayo, and other regional varieties each have distinct flavor profiles—some fruitier, some earthier, all with that characteristic slow-building warmth that's nothing like cayenne's sharp bite. Pairing chile with chocolate isn't fusion—it's historical. Pre-Columbian Mesoamerican cultures combined cacao and chile in ceremonial drinks long before Europeans "discovered" chocolate. This recipe honors that ancient partnership while bringing it into the frozen dessert tradition of the American Southwest, where summer heat demands cold desserts and bold flavors reign supreme.
 
 **About the Chile:**
 
-Use NEW MEXICAN red chileÂ¢Â¢Ã¢â‚¬Å¡Â¬"ÂHatch, Chimayo, or similar varieties. These have a fruity, earthy, complex heat that's totally different from cayenne or regular chili powder. You can find ground New Mexican chile at specialty stores, online, or at any grocery store in New Mexico/Arizona/Southern Colorado. Start with 1 tsp if you're heat-sensitive, go up to 2 tsp if you like warmth. The heat builds slowly and doesn't overpower the chocolate.
+Use NEW MEXICAN red chile—Hatch, Chimayo, or similar varieties. These have a fruity, earthy, complex heat that's totally different from cayenne or regular chili powder. You can find ground New Mexican chile at specialty stores, online, or at any grocery store in New Mexico/Arizona/Southern Colorado. Start with 1 tsp if you're heat-sensitive, go up to 2 tsp if you like warmth. The heat builds slowly and doesn't overpower the chocolate.
 
 **The Cinnamon Question:**
 
-Traditional Mexican chocolate is LOADED with cinnamon. But I get itÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âcinnamon can be a stage hog. The 1/8 tsp here is barely noticeable, just a whisper of warmth in the background. If you don't like cinnamon at ALL, skip it entirely. The recipe works beautifully without it. The chile, chocolate, and coffee carry the flavor just fine.
+Traditional Mexican chocolate is LOADED with cinnamon. But I get it—cinnamon can be a stage hog. The 1/8 tsp here is barely noticeable, just a whisper of warmth in the background. If you don't like cinnamon at ALL, skip it entirely. The recipe works beautifully without it. The chile, chocolate, and coffee carry the flavor just fine.
 
 **Chocolate Quality Matters:**
 
-Use GOOD dark chocolate, around 70% cacao. This isn't the place for chocolate chips or baking bars from 1987. Brands like Valrhona, Guittard, or even Trader Joe's Pound Plus work great. The chocolate is the foundation hereÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âdon't cheap out.
+Use GOOD dark chocolate, around 70% cacao. This isn't the place for chocolate chips or baking bars from 1987. Brands like Valrhona, Guittard, or even Trader Joe's Pound Plus work great. The chocolate is the foundation here—don't cheap out.
 
 **Coffee's Role:**
 
@@ -132,17 +132,17 @@ The espresso powder doesn't make this taste like coffee. It deepens and intensif
 
 **About the Candied Orange Peel:**
 
-This is PEAK citrus-chocolate-chile synergy. The orange brings brightness that cuts through the rich chocolate, the chile gives it warmth and depth, and the chewy-tender texture is perfect against the brittle pepitas. It's a labor of love (all that blanching and simmering), but it's SO worth it. The chile-spiked candying syrup is also a gift from the flavor godsÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âsave it and use it in drinks or drizzled on desserts.
+This is PEAK citrus-chocolate-chile synergy. The orange brings brightness that cuts through the rich chocolate, the chile gives it warmth and depth, and the chewy-tender texture is perfect against the brittle pepitas. It's a labor of love (all that blanching and simmering), but it's SO worth it. The chile-spiked candying syrup is also a gift from the flavor gods—save it and use it in drinks or drizzled on desserts.
 
 If you're short on time, you can skip this component and the ice cream will still be excellent. But if you've got the time, this is what takes it from "really good chocolate ice cream" to "HOLY SHIT where did you get this?"
 
 **Make-Ahead:**
 
-The pepita brittle keeps for a week in an airtight container. The candied orange peel keeps for up to 2 weeks in the fridge, stored in an airtight container. The caramel swirl keeps refrigerated for up to 10 days. The custard base benefits from overnight chillingÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âthe flavors really come together.
+The pepita brittle keeps for a week in an airtight container. The candied orange peel keeps for up to 2 weeks in the fridge, stored in an airtight container. The caramel swirl keeps refrigerated for up to 10 days. The custard base benefits from overnight chilling—the flavors really come together.
 
 **What It Tastes Like:**
 
-This is chocolate ice cream for adults who aren't afraid of complexity. The first taste is deep, dark chocolate with coffee undertonesÂ¢Â¢Ã¢â‚¬Å¡Â¬"Âalmost bittersweet. Then the chile heat creeps in, fruity and earthy, building slowly across your palate without ever overwhelming. The pepita brittle adds toasted-seed crunch and nutty richness. The candied orange cuts through with bright, chewy-spicy contrast. Every bite is layered, warm, and deeply satisfying. It's not "chocolate with chile"Â¢Â¢Ã¢â‚¬Å¡Â¬"Âit's chocolate and chile as equal partners in something entirely new.
+This is chocolate ice cream for adults who aren't afraid of complexity. The first taste is deep, dark chocolate with coffee undertones—almost bittersweet. Then the chile heat creeps in, fruity and earthy, building slowly across your palate without ever overwhelming. The pepita brittle adds toasted-seed crunch and nutty richness. The candied orange cuts through with bright, chewy-spicy contrast. Every bite is layered, warm, and deeply satisfying. It's not "chocolate with chile"—it's chocolate and chile as equal partners in something entirely new.
 
 **Serving Suggestion:**
 

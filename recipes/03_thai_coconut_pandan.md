@@ -32,7 +32,7 @@ If you're stuck with pandan extract because you couldn't find fresh leaves, you'
 
 **Steep the Base:**
 
-Combine the coconut milk, heavy cream, palm sugar, salt, and prepared pandan leaves in a medium saucepan. Heat over medium, stirring occasionally, until the sugar completely dissolves and the mixture just barely starts to steam - you want it around 170-180Â°F, hot but not boiling. Palm sugar can be stubborn about dissolving, so give it time and keep stirring.
+Combine the coconut milk, heavy cream, palm sugar, salt, and prepared pandan leaves in a medium saucepan. Heat over medium, stirring occasionally, until the sugar completely dissolves and the mixture just barely starts to steam - you want it around 170-180°F, hot but not boiling. Palm sugar can be stubborn about dissolving, so give it time and keep stirring.
 
 Once the sugar is dissolved and the mixture is steaming, pull it off the heat, cover the pan, and let it steep for 45 minutes to 1 hour. You're making pandan tea, essentially. The leaves will gradually release their oils and the liquid will transform from white to pale green. The longer you steep, the more pronounced the pandan flavor and color become. Taste it after 45 minutes - it should smell incredible and taste distinctly of pandan. If it tastes weak or the color is barely green, let it steep another 15-20 minutes.
 

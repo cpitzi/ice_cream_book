@@ -55,7 +55,7 @@ When it smells fragrant and looks golden, add the piloncillo/sugar, cinnamon, an
 
 **Infuse Dairy Base:**
 
-Combine cream, milk, corn kernels, whole star anise, and cinnamon stick in a saucepan. Heat over medium to 170-175Â°F - steaming but not boiling. Pull it off the heat, cover, and steep for 30 minutes. You want the milk to taste DISTINCTLY of sweet corn and warm spices, not just "milk with stuff floating in it."
+Combine cream, milk, corn kernels, whole star anise, and cinnamon stick in a saucepan. Heat over medium to 170-175°F - steaming but not boiling. Pull it off the heat, cover, and steep for 30 minutes. You want the milk to taste DISTINCTLY of sweet corn and warm spices, not just "milk with stuff floating in it."
 
 Strain through a fine-mesh sieve, pressing HARD on the corn to extract all that sweet corn milk. Discard the solids - they've given everything they have.
 
@@ -63,7 +63,7 @@ Strain through a fine-mesh sieve, pressing HARD on the corn to extract all that 
 
 Return the infused milk to the saucepan. Add piloncillo and granulated sugar. Heat, stirring, until the piloncillo completely dissolves - this may take a few minutes since it's so dense and stubborn. 
 
-Once dissolved and steaming, make your custard with egg yolks using your standard tempering method - slowly drizzle hot milk into the yolks while whisking constantly, then return to the pan and cook to 170-175Â°F, stirring constantly. The piloncillo gives it this beautiful tan-brown color.
+Once dissolved and steaming, make your custard with egg yolks using your standard tempering method - slowly drizzle hot milk into the yolks while whisking constantly, then return to the pan and cook to 170-175°F, stirring constantly. The piloncillo gives it this beautiful tan-brown color.
 
 Pull it off the heat. Stir in vanilla and salt. Strain. Cool over an ice bath.
 

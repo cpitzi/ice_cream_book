@@ -41,7 +41,7 @@ It tastes like walking past a French patisserie and deciding fuck it, you're eat
 
 **Buttery Pastry Crumble (make this first, can be made up to 3 days ahead):**
 
-Preheat your oven to 350Â°F. Combine flour, sugar, and salt in a bowl. Add the cold cubed butter and work it in with your fingers or a pastry cutter until the mixture looks like coarse sand with some pea-sized butter bits. You want irregular chunks, homie - that's what creates flaky, crispy texture when it bakes.
+Preheat your oven to 350°F. Combine flour, sugar, and salt in a bowl. Add the cold cubed butter and work it in with your fingers or a pastry cutter until the mixture looks like coarse sand with some pea-sized butter bits. You want irregular chunks, homie - that's what creates flaky, crispy texture when it bakes.
 
 If the mixture seems too dry and won't hold together when you squeeze it, add the ice water a teaspoon at a time. It should just barely come together when pressed. Don't overwork it or add too much water - you want crumbly, not doughy.
 
@@ -51,7 +51,7 @@ Let cool completely on the baking sheet. The crumbles will crisp up as they cool
 
 **Roast Apples (do this at least 2 hours before making custard so they have time to cool):**
 
-Preheat your oven to 400Â°F. Here's why this temperature matters: 400Â°F is hot enough to caramelize the sugars on the apple's surface and trigger Maillard reactions (that's the browning that creates complex, savory-sweet flavors), but not so hot that the outside burns before the inside softens. Lower temps would steam the apples more than roast them. Higher temps would char the edges before the centers got tender. 400Â°F is the sweet spot, pal.
+Preheat your oven to 400°F. Here's why this temperature matters: 400°F is hot enough to caramelize the sugars on the apple's surface and trigger Maillard reactions (that's the browning that creates complex, savory-sweet flavors), but not so hot that the outside burns before the inside softens. Lower temps would steam the apples more than roast them. Higher temps would char the edges before the centers got tender. 400°F is the sweet spot, pal.
 
 Peel, core, and cut the apples into roughly 3/4-inch chunks. You want them big enough to maintain some texture after roasting, but small enough to cook through in reasonable time. Too small and they'll turn to mush. Too big and you'll have raw centers and burnt edges.
 
@@ -73,7 +73,7 @@ While that heats, whisk the egg yolks with the sugar until pale and thick - abou
 
 Temper the yolks: slowly drizzle about 1 cup of the hot cream mixture into the yolks while whisking constantly. This gradually raises the temperature of the yolks without scrambling them. Then pour the tempered yolk mixture back into the saucepan with the rest of the cream.
 
-Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until the custard reaches 170-175Â°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line.
+Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until the custard reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line.
 
 Pull it off the heat. If you used a vanilla bean pod, fish it out and discard it (it's done its job). If using vanilla extract, add it now along with a pinch of salt.
 
@@ -133,7 +133,7 @@ Vanilla extract is fine and honestly most people won't notice the difference in 
 
 **The pastry crumble:**
 
-This is your substitute for the actual pastry crust on Tarte Tatin. Making a full pÂ¢te brisee (French pie dough) and trying to incorporate it into ice cream doesn't work - it gets soggy. But this streusel-style crumble gives you that buttery pastry flavor and crucial crunch without getting waterlogged.
+This is your substitute for the actual pastry crust on Tarte Tatin. Making a full pâte brisee (French pie dough) and trying to incorporate it into ice cream doesn't work - it gets soggy. But this streusel-style crumble gives you that buttery pastry flavor and crucial crunch without getting waterlogged.
 
 The key is keeping it dry and airtight until you're ready to use it, dude. Even a little moisture will make it lose its crispness. If you live somewhere humid, you might want to make this component the day you're churning rather than days ahead.
 

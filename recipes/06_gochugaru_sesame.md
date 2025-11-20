@@ -62,7 +62,7 @@ Taste it carefully - should be sweet with gentle warming heat, not aggressive sp
 
 **Make Custard:**
 
-Heat cream and milk until steaming. Make your custard with the egg yolks and sugar using the standard method to 170-175Â°F. (You know how to temper yolks, so we're not gonna walk you through it.)
+Heat cream and milk until steaming. Make your custard with the egg yolks and sugar using the standard method to 170-175°F. (You know how to temper yolks, so we're not gonna walk you through it.)
 
 **Integrate Black Sesame:**
 

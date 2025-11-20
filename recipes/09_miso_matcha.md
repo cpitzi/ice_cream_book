@@ -47,7 +47,7 @@ The solution is a two-step process: sifting and proper whisking.
 
 Sift the matcha through a fine-mesh sieve into a small bowl. This breaks up any clumps that formed during storage and separates the particles so they're not already stuck together before you even start whisking. Take your time with this - press gently with a spoon if needed to push it through. You want fine, powdery matcha with no visible clumps.
 
-Heat 1/4 cup milk to 165-175Â°F - hot enough to help break down the hydrophobic barrier on the matcha particles, but not boiling (boiling would damage the delicate flavor compounds). Pour the hot milk over the sifted matcha.
+Heat 1/4 cup milk to 165-175°F - hot enough to help break down the hydrophobic barrier on the matcha particles, but not boiling (boiling would damage the delicate flavor compounds). Pour the hot milk over the sifted matcha.
 
 Now here's the whisking technique that actually matters: whisk vigorously in a W or M pattern rather than circular. Why this specific pattern? When you whisk in circles, you create a vortex that can actually trap air bubbles and matcha clumps in the center - they spin around with the liquid instead of being broken down. The W or M pattern (also called a zigzag) forces the whisk to move through the liquid in different directions, creating more shear force and turbulence that actually breaks apart the matcha particles and distributes them evenly.
 
@@ -61,13 +61,13 @@ White miso paste is thick, sticky, and doesn't want to dissolve in cold liquid. 
 
 The solution: warm cream acts as a solvent and helps break down the miso's thick, paste-like texture into something that can actually mix into the custard.
 
-Warm 1/2 cup cream gently to about 100Â°F - just barely warm to the touch, like bathwater. You don't want it hot because high heat can damage the beneficial enzymes and probiotics in miso, even though we're ultimately going to pasteurize it later. Add the white miso and whisk until it's completely dissolved and smooth. You should have a pale tan, uniform liquid with no chunks or streaks. If you see any miso clumps, keep whisking. This should take about 30-60 seconds of vigorous whisking.
+Warm 1/2 cup cream gently to about 100°F - just barely warm to the touch, like bathwater. You don't want it hot because high heat can damage the beneficial enzymes and probiotics in miso, even though we're ultimately going to pasteurize it later. Add the white miso and whisk until it's completely dissolved and smooth. You should have a pale tan, uniform liquid with no chunks or streaks. If you see any miso clumps, keep whisking. This should take about 30-60 seconds of vigorous whisking.
 
 The miso-cream mixture should look completely homogeneous - smooth, pourable, and one unified color. Set it aside.
 
 **Make Custard:**
 
-Combine the remaining milk, cream, and sugar in a saucepan. Heat over medium until steaming. Make your standard custard with the 4 egg yolks - temper them with hot cream, return to pan, cook to 170-175Â°F while stirring constantly. You know this drill by now.
+Combine the remaining milk, cream, and sugar in a saucepan. Heat over medium until steaming. Make your standard custard with the 4 egg yolks - temper them with hot cream, return to pan, cook to 170-175°F while stirring constantly. You know this drill by now.
 
 The moment - and I mean the MOMENT - you pull the custard off the heat, immediately whisk in the matcha paste vigorously. You want to do this while the custard is still hot for two reasons. First, the heat helps the matcha incorporate more smoothly into the custard. Second, if you wait until the custard cools, the matcha can settle or separate, and you'll have a harder time getting it evenly distributed.
 
