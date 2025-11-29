@@ -61,6 +61,8 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Lemon and Rosemary Honey** -- Greek islands where olive oil goes in dessert and somehow that's normal
 
+**Nabulsi Knafeh** -- Levantine cheese dessert that's salty, sweet, crunchy, and floral all at once (yes, there's goat cheese)
+
 ### A FUCKING ORDEAL
 *You've been warned, cowboy*
 
