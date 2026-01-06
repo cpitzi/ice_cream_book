@@ -374,7 +374,7 @@ Every recipe MUST have:
 - No custard anxiety
 - Minimal technique
 - Almost no opportunity for catastrophic failure
-- Examples: Vietnamese Avocado, basic blends
+- Examples: Avocado, basic blends
 
 **LEGIT:**
 - Multiple components
@@ -725,7 +725,7 @@ When unsure about structure or voice, reference these exemplar recipes:
 - **Cultural depth:** Recipe 15 (Wattleseed & Macadamia), Recipe 21 (Cardamom-Pistachio Kulfi)
 - **Teaching moments:** Recipe 18 (Southern Brown Butter Pecan)
 - **Complex recipe management:** Recipe 20 (New Orleans Chicory Coffee & Beignet)
-- **Egg-free recipes:** Recipe 21 (Cardamom-Pistachio Kulfi), Recipe 27 (Vietnamese Avocado)
+- **Egg-free recipes:** Recipe 21 (Cardamom-Pistachio Kulfi), Recipe 27 (Avocado)
 
 ---
 

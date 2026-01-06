@@ -1,4 +1,4 @@
-# Southwest Red Chile & Mexican Chocolate
+# Southwest Red Chile Chocolate
 
 *Dark chocolate meets earthy chile heat*
 

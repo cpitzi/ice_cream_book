@@ -100,7 +100,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Atole de Anis** -- Mexican breakfast corn drink that absolutely nobody asked us to freeze (but here we are)
 
-**Bocadillo y Café** -- Cuba's cafecito meets tropical guava in a mashup that shouldn't work but does
+**Guava & Coffee** -- Colombia's tropical fruit meets dark coffee in a mashup that shouldn't work but does
 
 **Sfogliatelle** -- Naples' most extra pastry, shellacked and frozen for your convenience
 
@@ -109,13 +109,13 @@ Here's what you're getting into, organized by difficulty so you can build your s
 ### THE REAL DEAL
 *Multiple components, precise technique, and commitment required*
 
-**Brown Butter Pecan** -- The Deep South's been perfecting this for generations and we're just trying to keep up
+**Southern Brown Butter Pecan** -- The Deep South's been perfecting this for generations and we're just trying to keep up
 
-**Tahini Rose** -- Turkey and the Middle East doing sesame desserts at an Olympic level
+**Tahini Halva with Rose Water** -- Turkey and the Middle East doing sesame desserts at an Olympic level
 
-**Chile Chocolate** -- Mexican chile heat meeting Oaxacan chocolate in the combination ancient gods intended
+**Southwest Red Chile Chocolate** -- chile heat meeting dark chocolate in the combination ancient gods intended
 
-**Piri Piri Cashew Coconut** -- Mozambique's Portuguese-influenced chile meets creamy vegan chaos
+**Cashew & Coconut with Piri Piri** -- Mozambique's Portuguese-influenced chile meets creamy vegan chaos
 
 **Coffee & Berbere** -- Ethiopia invented coffee, then said "what if we made it SPICY"
 
@@ -290,7 +290,7 @@ Now let's make some fucking ice cream.
 
 ---
 
-# Thai Coconut Pandan
+# Coconut Pandan
 
 *Southeast Asia's vanilla, now frozen*
 
@@ -388,7 +388,7 @@ Creamy coconut richness with this incredible aromatic complexity from the pandan
 
 ---
 
-# Vietnamese Avocado Ice Cream
+# Avocado
 
 *Creamy, dreamy, and your brain will fight you the whole way*
 
@@ -1885,7 +1885,7 @@ It's more interesting than it sounds on paper, chief. The combination of earthy 
 
 ---
 
-# Irish Brown Bread
+# Brown Bread
 
 *Buttermilk custard with caramelized bread crumble and whiskey*
 
@@ -2828,7 +2828,7 @@ Serve alongside Turkish coffee or mint tea - the bitterness of the coffee or the
 
 ---
 
-# Southwest Red Chile & Mexican Chocolate
+# Southwest Red Chile Chocolate
 
 *Dark chocolate meets earthy chile heat*
 

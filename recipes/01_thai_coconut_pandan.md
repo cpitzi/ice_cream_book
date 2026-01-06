@@ -1,4 +1,4 @@
-# Thai Coconut Pandan
+# Coconut Pandan
 
 *Southeast Asia's vanilla, now frozen*
 
