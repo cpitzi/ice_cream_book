@@ -178,7 +178,7 @@ Instructions continue.
 **Guidelines:**
 - Bold component headers
 - Include timing in headers when critical: `**Candied Ginger (make 1-2 days ahead):**`
-- Paragraphs, not numbered steps (exception: extremely complex recipes like Recipe 20 can use numbers)
+- Paragraphs, not numbered steps (exception: extremely complex recipes like Recipe 27 can use numbers)
 - Write in second person imperative: "Heat the cream" not "You should heat the cream"
 - Integrate warnings naturally: "Watch this like a fucking hawk"
 - Temperature in Fahrenheit: `170-175°F`
@@ -483,11 +483,11 @@ When reviewing a recipe, check in this order:
 
 ## Master Examples
 
-**For overall structure and voice:** Recipe 01 (Atole de Anis)
-**For cultural depth:** Recipe 15 (Wattleseed & Macadamia), Recipe 21 (Cardamom-Pistachio Kulfi)
-**For teaching moments:** Recipe 18 (Southern Brown Butter Pecan)
-**For honest complexity management:** Recipe 20 (New Orleans Chicory Coffee & Beignet)
-**For accessibility without eggs:** Recipe 21 (Cardamom-Pistachio Kulfi), Recipe 27 (Vietnamese Avocado)
+**For overall structure and voice:** Recipe 13 (Atole de Anis)
+**For cultural depth:** Recipe 07 (Wattleseed & Macadamia), Recipe 03 (Cardamom-Pistachio Kulfi)
+**For teaching moments:** Recipe 17 (Brown Butter Pecan)
+**For honest complexity management:** Recipe 27 (New Orleans Chicory Coffee & Beignet)
+**For accessibility without eggs:** Recipe 03 (Cardamom-Pistachio Kulfi), Recipe 02 (Avocado)
 
 **Note:** All 27 recipes now follow the complete metadata format (Difficulty + Total Time with HOMIE-style explanations). The book includes a comprehensive Custard Fundamentals section that individual recipes reference rather than repeat.
 

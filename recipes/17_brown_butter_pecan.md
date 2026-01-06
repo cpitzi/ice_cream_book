@@ -1,4 +1,4 @@
-# Southern Brown Butter Pecan
+# Brown Butter Pecan
 
 *Deep South tradition, elevated*
 

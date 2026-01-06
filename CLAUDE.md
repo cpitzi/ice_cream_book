@@ -374,7 +374,7 @@ Every recipe MUST have:
 - No custard anxiety
 - Minimal technique
 - Almost no opportunity for catastrophic failure
-- Examples: Vietnamese Avocado, basic blends
+- Examples: Avocado, basic blends
 
 **LEGIT:**
 - Multiple components
@@ -721,11 +721,11 @@ When reviewing a recipe before committing, check in this order:
 
 When unsure about structure or voice, reference these exemplar recipes:
 
-- **Overall structure and voice:** Recipe 01 (Atole de Anis)
-- **Cultural depth:** Recipe 15 (Wattleseed & Macadamia), Recipe 21 (Cardamom-Pistachio Kulfi)
-- **Teaching moments:** Recipe 18 (Southern Brown Butter Pecan)
-- **Complex recipe management:** Recipe 20 (New Orleans Chicory Coffee & Beignet)
-- **Egg-free recipes:** Recipe 21 (Cardamom-Pistachio Kulfi), Recipe 27 (Vietnamese Avocado)
+- **Overall structure and voice:** Recipe 13 (Atole de Anis)
+- **Cultural depth:** Recipe 07 (Wattleseed & Macadamia), Recipe 03 (Cardamom-Pistachio Kulfi)
+- **Teaching moments:** Recipe 17 (Brown Butter Pecan)
+- **Complex recipe management:** Recipe 27 (New Orleans Chicory Coffee & Beignet)
+- **Egg-free recipes:** Recipe 03 (Cardamom-Pistachio Kulfi), Recipe 02 (Avocado)
 
 ---
 

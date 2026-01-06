@@ -34,7 +34,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Atole de Anis** -- Mexican breakfast corn drink that absolutely nobody asked us to freeze (but here we are)
 
-**Bocadillo y Café** -- Cuba's cafecito meets tropical guava in a mashup that shouldn't work but does
+**Bocadillo y Café** -- Colombia's tropical fruit meets dark coffee in a mashup that shouldn't work but does
 
 **Sfogliatelle** -- Naples' most extra pastry, shellacked and frozen for your convenience
 
@@ -47,7 +47,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Tahini Rose** -- Turkey and the Middle East doing sesame desserts at an Olympic level
 
-**Chile Chocolate** -- Mexican chile heat meeting Oaxacan chocolate in the combination ancient gods intended
+**Chile Chocolate** -- chile heat meeting dark chocolate in the combination ancient gods intended
 
 **Piri Piri Cashew Coconut** -- Mozambique's Portuguese-influenced chile meets creamy vegan chaos
 
@@ -66,6 +66,6 @@ Here's what you're getting into, organized by difficulty so you can build your s
 ### A FUCKING ORDEAL
 *You've been warned, cowboy*
 
-**Chicory Coffee & Beignet** -- New Orleans at 3 AM: yeasted dough, frying oil, chicory coffee, and rum-soaked regret
+**New Orleans Chicory Coffee & Beignet** -- New Orleans at 3 AM: yeasted dough, frying oil, chicory coffee, and rum-soaked regret
 
-**Pawpaw & Maple** -- Appalachia's forgotten tropical fruit that only exists for two weeks a year (good luck)
+**Appalachian Pawpaw & Maple** -- Appalachia's forgotten tropical fruit that only exists for two weeks a year (good luck)

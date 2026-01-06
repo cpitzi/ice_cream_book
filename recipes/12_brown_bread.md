@@ -1,4 +1,4 @@
-# Irish Brown Bread
+# Brown Bread
 
 *Buttermilk custard with caramelized bread crumble and whiskey*
 

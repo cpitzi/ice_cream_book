@@ -1,4 +1,4 @@
-# Vietnamese Avocado Ice Cream
+# Avocado
 
 *Creamy, dreamy, and your brain will fight you the whole way*
 

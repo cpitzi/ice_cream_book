@@ -1,4 +1,4 @@
-# Tahini Halva with Rose Water
+# Tahini Rose
 
 *Turkish sesame sweetness meets delicate floral notes*
 

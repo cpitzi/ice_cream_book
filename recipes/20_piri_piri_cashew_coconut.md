@@ -1,4 +1,4 @@
-# Cashew & Coconut with Piri Piri
+# Piri Piri Cashew Coconut
 
 *Vegan and surprisingly rich as hell*
 

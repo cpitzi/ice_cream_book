@@ -100,7 +100,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Atole de Anis** -- Mexican breakfast corn drink that absolutely nobody asked us to freeze (but here we are)
 
-**Bocadillo y Café** -- Cuba's cafecito meets tropical guava in a mashup that shouldn't work but does
+**Bocadillo y Café** -- Colombia's tropical fruit meets dark coffee in a mashup that shouldn't work but does
 
 **Sfogliatelle** -- Naples' most extra pastry, shellacked and frozen for your convenience
 
@@ -113,7 +113,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Tahini Rose** -- Turkey and the Middle East doing sesame desserts at an Olympic level
 
-**Chile Chocolate** -- Mexican chile heat meeting Oaxacan chocolate in the combination ancient gods intended
+**Chile Chocolate** -- chile heat meeting dark chocolate in the combination ancient gods intended
 
 **Piri Piri Cashew Coconut** -- Mozambique's Portuguese-influenced chile meets creamy vegan chaos
 
@@ -132,9 +132,9 @@ Here's what you're getting into, organized by difficulty so you can build your s
 ### A FUCKING ORDEAL
 *You've been warned, cowboy*
 
-**Chicory Coffee & Beignet** -- New Orleans at 3 AM: yeasted dough, frying oil, chicory coffee, and rum-soaked regret
+**New Orleans Chicory Coffee & Beignet** -- New Orleans at 3 AM: yeasted dough, frying oil, chicory coffee, and rum-soaked regret
 
-**Pawpaw & Maple** -- Appalachia's forgotten tropical fruit that only exists for two weeks a year (good luck)
+**Appalachian Pawpaw & Maple** -- Appalachia's forgotten tropical fruit that only exists for two weeks a year (good luck)
 
 ---
 
@@ -290,7 +290,7 @@ Now let's make some fucking ice cream.
 
 ---
 
-# Thai Coconut Pandan
+# Coconut Pandan
 
 *Southeast Asia's vanilla, now frozen*
 
@@ -388,7 +388,7 @@ Creamy coconut richness with this incredible aromatic complexity from the pandan
 
 ---
 
-# Vietnamese Avocado Ice Cream
+# Avocado
 
 *Creamy, dreamy, and your brain will fight you the whole way*
 
@@ -1885,7 +1885,7 @@ It's more interesting than it sounds on paper, chief. The combination of earthy 
 
 ---
 
-# Irish Brown Bread
+# Brown Bread
 
 *Buttermilk custard with caramelized bread crumble and whiskey*
 
@@ -2159,7 +2159,7 @@ Warm spices, sweet corn, deep piloncillo sweetness that's way more complex than 
 
 ---
 
-# Guava & Coffee
+# Bocadillo y Café
 
 *Tropical fruit meets caffeine*
 
@@ -2528,7 +2528,7 @@ Candied ginger can be made up to 2 weeks ahead and stored airtight. The roasted 
 
 ---
 
-# Southern Brown Butter Pecan
+# Brown Butter Pecan
 
 *Deep South tradition, elevated*
 
@@ -2680,7 +2680,7 @@ The triple brown butter approach (candied nuts, infused base, butterscotch swirl
 
 ---
 
-# Tahini Halva with Rose Water
+# Tahini Rose
 
 *Turkish sesame sweetness meets delicate floral notes*
 
@@ -2828,7 +2828,7 @@ Serve alongside Turkish coffee or mint tea - the bitterness of the coffee or the
 
 ---
 
-# Southwest Red Chile & Mexican Chocolate
+# Chile Chocolate
 
 *Dark chocolate meets earthy chile heat*
 
@@ -2982,7 +2982,7 @@ This is RICH. Like, profoundly rich. Serve smaller portions than you think. It's
 
 ---
 
-# Cashew & Coconut with Piri Piri
+# Piri Piri Cashew Coconut
 
 *Vegan and surprisingly rich as hell*
 
