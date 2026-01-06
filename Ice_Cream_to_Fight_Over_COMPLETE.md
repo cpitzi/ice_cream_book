@@ -73,7 +73,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Coconut Pandan** -- Thailand's answer to vanilla, except it's green and tastes like vacation in a bowl
 
-**Avocado** -- Vietnam said "fuck it, avocados are dessert now" and they were absolutely RIGHT
+**Bơ Chanh** -- Vietnam said "fuck it, avocados are dessert now" and they were absolutely RIGHT
 
 **Cardamom-Pistachio Kulfi** -- India's been freezing dairy for centuries and making it look easy while the rest of us struggle like idiots
 

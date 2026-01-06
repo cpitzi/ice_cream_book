@@ -487,7 +487,7 @@ When reviewing a recipe, check in this order:
 **For cultural depth:** Recipe 07 (Wattleseed & Macadamia), Recipe 03 (Cardamom-Pistachio Kulfi)
 **For teaching moments:** Recipe 17 (Brown Butter Pecan)
 **For honest complexity management:** Recipe 27 (New Orleans Chicory Coffee & Beignet)
-**For accessibility without eggs:** Recipe 03 (Cardamom-Pistachio Kulfi), Recipe 02 (Avocado)
+**For accessibility without eggs:** Recipe 03 (Cardamom-Pistachio Kulfi), Recipe 02 (Bơ Chanh)
 
 **Note:** All 27 recipes now follow the complete metadata format (Difficulty + Total Time with HOMIE-style explanations). The book includes a comprehensive Custard Fundamentals section that individual recipes reference rather than repeat.
 

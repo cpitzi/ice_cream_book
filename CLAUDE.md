@@ -374,7 +374,7 @@ Every recipe MUST have:
 - No custard anxiety
 - Minimal technique
 - Almost no opportunity for catastrophic failure
-- Examples: Avocado, basic blends
+- Examples: Bơ Chanh, basic blends
 
 **LEGIT:**
 - Multiple components
@@ -495,6 +495,7 @@ The HOMIE voice is what makes this cookbook distinctive. It's **casual, educatio
 6. **Check all required elements** are present before completing edits
 7. **Test compilation** after significant changes (optional but recommended)
 8. **Write descriptive commit messages** in imperative mood
+9. **Run a consistency check when renaming** - When renaming a recipe or any key term, ALWAYS grep the entire repo for the old name before committing. Recipe names appear in multiple places: the recipe file itself, `front_matter/05_the_flavors.md`, `STYLE_GUIDE.md`, `CLAUDE.md`, and possibly other documentation. Use `grep -r "OldName" .` to find all references.
 
 ### Content Modification Rules
 
@@ -725,7 +726,7 @@ When unsure about structure or voice, reference these exemplar recipes:
 - **Cultural depth:** Recipe 07 (Wattleseed & Macadamia), Recipe 03 (Cardamom-Pistachio Kulfi)
 - **Teaching moments:** Recipe 17 (Brown Butter Pecan)
 - **Complex recipe management:** Recipe 27 (New Orleans Chicory Coffee & Beignet)
-- **Egg-free recipes:** Recipe 03 (Cardamom-Pistachio Kulfi), Recipe 02 (Avocado)
+- **Egg-free recipes:** Recipe 03 (Cardamom-Pistachio Kulfi), Recipe 02 (Bơ Chanh)
 
 ---
 
