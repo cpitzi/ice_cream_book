@@ -66,6 +66,6 @@ Here's what you're getting into, organized by difficulty so you can build your s
 ### A FUCKING ORDEAL
 *You've been warned, cowboy*
 
-**Chicory Coffee & Beignet** -- New Orleans at 3 AM: yeasted dough, frying oil, chicory coffee, and rum-soaked regret
+**New Orleans Chicory Coffee & Beignet** -- New Orleans at 3 AM: yeasted dough, frying oil, chicory coffee, and rum-soaked regret
 
-**Pawpaw & Maple** -- Appalachia's forgotten tropical fruit that only exists for two weeks a year (good luck)
+**Appalachian Pawpaw & Maple** -- Appalachia's forgotten tropical fruit that only exists for two weeks a year (good luck)
