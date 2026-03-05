@@ -242,41 +242,63 @@ Ice_Cream_to_Fight_Over_COMPLETE.md
 
 **Python (Preferred):**
 ```bash
-python compile_book.py
+python compile_book.py                  # compile both versions (default)
+python compile_book.py --version vulgar # vulgar version only
+python compile_book.py --version clean  # clean/kid-friendly version only
 ```
 
-**Bash (Alternative):**
+**Bash (Alternative -- does NOT support dual versions):**
 ```bash
 chmod +x compile_book.sh
 ./compile_book.sh
 ```
 
-**Output:** `Ice_Cream_to_Fight_Over_COMPLETE.md`
+**Output files:**
+- `Ice_Cream_to_Fight_Over_COMPLETE.md` (vulgar/HOMIE voice)
+- `Ice_Cream_to_Fight_Over_COMPLETE_CLEAN.md` (clean/kid-friendly voice)
+
+### Dual-Version System
+
+The book supports two versions compiled from a **single set of source files** using inline markers. The vulgar version uses the full HOMIE voice with profanity; the clean version replaces profanity with kid-friendly alternatives while keeping the same casual, conversational tone.
+
+**Inline swap marker** -- for words or short phrases:
+```markdown
+This step is {{v: fucking critical | seriously critical }} and you
+should {{v: not half-ass it | not skip it }}.
+```
+
+**Block markers** -- for longer passages that differ significantly:
+```markdown
+{{v:start}}
+Vulgar-only paragraph goes here.
+{{v:end}}
+{{c:start}}
+Clean-only paragraph goes here.
+{{c:end}}
+```
+
+**Rules for markers:**
+- First value (before `|`) = vulgar, second = clean
+- Keep both variants natural-sounding -- the clean version should still feel conversational
+- Markers can appear anywhere in the markdown (titles, paragraphs, notes, etc.)
+- Files without markers compile identically for both versions
+- Typical recipe has ~8-15 markers (profanity + casual addresses)
+- Block markers (`{{v:start}}`/`{{c:start}}`) are for rare cases where entire paragraphs differ
+
+**Migration status:** Front matter intro and recipe 13 (Atole de Anis) are converted as proof of concept. Remaining files can be converted incrementally -- any file without markers works for both versions unchanged.
 
 ### Compilation Behavior
 
 1. **Auto-discovery:** Finds all `.md` files in each directory
 2. **Alphabetical order:** Sorts files naturally by filename
 3. **Concatenation:** Joins sections with `\n\n---\n\n` separator
-4. **UTF-8 encoding:** Preserves proper character encoding
-5. **Statistics:** Reports file counts and total character count
-
-### Build Process
-
-```python
-# Pseudocode of compilation logic:
-front_matter_files = sorted(glob('front_matter/*.md'))
-recipe_files = sorted(glob('recipes/*.md'))
-back_matter_files = sorted(glob('back_matter/*.md'))
-
-all_files = front_matter_files + recipe_files + back_matter_files
-content = '\n\n---\n\n'.join([read(f) for f in all_files])
-write('Ice_Cream_to_Fight_Over_COMPLETE.md', content)
-```
+4. **Marker resolution:** Processes `{{v: ... | ... }}` and block markers per version
+5. **UTF-8 encoding:** Preserves proper character encoding
+6. **Statistics:** Reports file counts and total character count
 
 ### No External Dependencies
 
-- Python script uses only standard library (`os`, `pathlib`)
+- Python script uses only standard library (`os`, `pathlib`, `re`, `argparse`)
 - Bash script uses only standard utilities
 - No package managers (npm, pip, etc.)
 - No build configuration files
@@ -497,12 +519,21 @@ The HOMIE voice is what makes this cookbook distinctive. It's **casual, educatio
 8. **Write descriptive commit messages** in imperative mood
 9. **Run a consistency check when renaming** - When renaming a recipe or any key term, ALWAYS grep the entire repo for the old name before committing. Recipe names appear in multiple places: the recipe file itself, `front_matter/05_the_flavors.md`, `STYLE_GUIDE.md`, `CLAUDE.md`, and possibly other documentation. Use `grep -r "OldName" .` to find all references.
 
+### Dual-Version Markers
+
+When editing content that contains profanity or version-specific language, use inline markers:
+- **Inline:** `{{v: vulgar text | clean text }}` for words/phrases
+- **Block:** `{{v:start}}...{{v:end}}` / `{{c:start}}...{{c:end}}` for paragraphs
+- Both variants must read naturally -- the clean version should still be conversational
+- Wrap profanity, casual addresses ("homie" vs "friend"), and vulgar idioms
+- Do NOT wrap technical content, cultural context, or recipe instructions that are identical in both versions
+
 ### Content Modification Rules
 
 **DO:**
 - ✅ Maintain conversational, casual tone
-- ✅ Include 3-5 strategic profanities per recipe
-- ✅ Use "homie/dude/chief/buddy" 2-4 times per recipe
+- ✅ Include 3-5 strategic profanities per recipe (wrapped in `{{v: ... | ... }}` markers)
+- ✅ Use "homie/dude/chief/buddy" 2-4 times per recipe (wrapped in markers)
 - ✅ Provide cultural context for international recipes
 - ✅ Explain techniques with teaching moments (2-4 per recipe)
 - ✅ Use ranges for measurements ("3-4 egg yolks")
@@ -622,18 +653,22 @@ git push -u origin <branch-name>
 ### Recompile Book
 
 ```bash
-# Python (preferred)
+# Python (preferred) - compiles both versions by default
 python compile_book.py
 
-# Bash (alternative)
+# Single version only
+python compile_book.py --version vulgar
+python compile_book.py --version clean
+
+# Bash (alternative - vulgar only, no marker support)
 chmod +x compile_book.sh
 ./compile_book.sh
 
 # Verify output
-ls -lh Ice_Cream_to_Fight_Over_COMPLETE.md
+ls -lh Ice_Cream_to_Fight_Over_COMPLETE*.md
 
 # Commit if satisfied
-git add Ice_Cream_to_Fight_Over_COMPLETE.md
+git add Ice_Cream_to_Fight_Over_COMPLETE.md Ice_Cream_to_Fight_Over_COMPLETE_CLEAN.md
 git commit -m "Recompile book with latest changes"
 git push -u origin <branch-name>
 ```

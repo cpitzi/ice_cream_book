@@ -2,13 +2,13 @@
 
 *Mexico's comfort drink, now frozen*
 
-**Difficulty:** LEGIT - You've got three components to manage here (brittle, toasted masa, custard base), and that masa crumble will have you stirring frantically while muttering "don't burn don't burn don't burn" for a solid 5 minutes. The piloncillo needs grating if you buy the cone, which is like attacking a sugar rock with a cheese grater. But nothing's going to actually break you, pal.
+**Difficulty:** LEGIT - You've got three components to manage here (brittle, toasted masa, custard base), and that masa crumble will have you stirring frantically while muttering "don't burn don't burn don't burn" for a solid 5 minutes. The piloncillo needs grating if you buy the cone, which is like attacking a sugar rock with a cheese grater. But nothing's going to actually break you, {{v: pal | friend }}.
 
-**Total Time:** 6-8 hours (most of which is just chilling and waiting, though the active parts demand your full attention or you'll burn shit)
+**Total Time:** 6-8 hours (most of which is just chilling and waiting, though the active parts demand your full attention or you'll burn {{v: shit | everything }})
 
-Atole de anis is a traditional Mexican hot beverage - thick, corny, spiced with star anise and sweetened with piloncillo. This ice cream tries to capture that same warm-spiced-corn feeling, which sounds weird as hell until you remember that corn is SWEET and piloncillo (Mexican brown sugar) is basically concentrated caramel that got serious about life. The toasted masa crumble reinforces the corn theme and the piloncillo brittle adds these shards of dark, almost smoky sweetness.
+Atole de anis is a traditional Mexican hot beverage - thick, corny, spiced with star anise and sweetened with piloncillo. This ice cream tries to capture that same warm-spiced-corn feeling, which sounds {{v: weird as hell | incredibly weird }} until you remember that corn is SWEET and piloncillo (Mexican brown sugar) is basically concentrated caramel that got serious about life. The toasted masa crumble reinforces the corn theme and the piloncillo brittle adds these shards of dark, almost smoky sweetness.
 
-Fair warning, homie: you'll be toasting masa harina and praying to every god you can think of that it doesn't burn.
+Fair warning, {{v: homie | friend }}: you'll be toasting masa harina and praying to every god you can think of that it doesn't burn.
 
 ## Ingredients
 
@@ -41,15 +41,15 @@ Fair warning, homie: you'll be toasting masa harina and praying to every god you
 
 **Piloncillo Brittle (make this first):**
 
-If you're using cone-shaped piloncillo, you'll need to grate it or chop it finely first. This takes longer than you'd think because it's dense as fuck - like trying to grate a rock made of sugar. Be patient.
+If you're using cone-shaped piloncillo, you'll need to grate it or chop it finely first. This takes longer than you'd think because it's {{v: dense as fuck | incredibly dense }} - like trying to grate a rock made of sugar. Be patient.
 
 Combine the piloncillo (or brown sugar if you're substituting) with water in a light-colored saucepan. Heat over medium-high, swirling occasionally, until it melts and gets VERY dark and syrupy - think molasses consistency. Should smell deeply caramelized, almost smoky. Not burnt-smoky, good-smoky.
 
-Pull it off the heat, quickly stir in cinnamon and salt. Pour onto parchment IMMEDIATELY - this stuff sets up faster than you can say "piloncillo." It'll be very dark, almost black - that's exactly what you want, dude. Cool completely until hard, then break into small shards. These are your little flavor bombs.
+Pull it off the heat, quickly stir in cinnamon and salt. Pour onto parchment IMMEDIATELY - this stuff sets up faster than you can say "piloncillo." It'll be very dark, almost black - that's exactly what you want, {{v: dude | trust me }}. Cool completely until hard, then break into small shards. These are your little flavor bombs.
 
 **Toasted Masa Crumble:**
 
-Melt the butter in a skillet over medium heat. Add the masa harina and toast, stirring CONSTANTLY, for 5-6 minutes until it's nutty and golden. Watch this like your life depends on it - masa burns faster than you'd expect and goes from "not quite there" to "burnt as hell" in about 10 seconds.
+Melt the butter in a skillet over medium heat. Add the masa harina and toast, stirring CONSTANTLY, for 5-6 minutes until it's nutty and golden. Watch this like your life depends on it - masa burns faster than you'd expect and goes from "not quite there" to "{{v: burnt as hell | totally burnt }}" in about 10 seconds.
 
 When it smells fragrant and looks golden, add the piloncillo/sugar, cinnamon, and salt. Stir for 2-3 minutes as the sugar melts and coats the masa in these little clusters. Spread on parchment to cool, then break into small pieces. Should taste like sweet toasted corn - if it tastes burnt, you went too far. Store airtight.
 
@@ -85,11 +85,11 @@ Mexican canela (Ceylon cinnamon) is softer and sweeter than regular Cassia cinna
 
 **Piloncillo:**
 
-This is the fucking STAR ingredient - unrefined Mexican cane sugar that comes in hard cones. It has this dark, almost smoky molasses-caramel flavor that's completely different from white sugar. Night and day different. You can find it at Mexican markets or in the international aisle of larger grocery stores. If you can't find it, dark brown sugar works as a substitute, though you'll lose some of that characteristic depth that makes this taste authentic.
+This is the {{v: fucking STAR | absolute STAR }} ingredient - unrefined Mexican cane sugar that comes in hard cones. It has this dark, almost smoky molasses-caramel flavor that's completely different from white sugar. Night and day different. You can find it at Mexican markets or in the international aisle of larger grocery stores. If you can't find it, dark brown sugar works as a substitute, though you'll lose some of that characteristic depth that makes this taste authentic.
 
 **The masa crumble:**
 
-This reinforces the corn theme while adding a textural element that nods to atole's traditional thickness. Toast it CAREFULLY - it goes from "not quite there" to "burnt to hell" surprisingly fast, and you'll spend the whole time thinking "is it done yet?" while frantically stirring. You want golden and nutty, not dark brown and sad.
+This reinforces the corn theme while adding a textural element that nods to atole's traditional thickness. Toast it CAREFULLY - it goes from "not quite there" to "{{v: burnt to hell | completely burnt }}" surprisingly fast, and you'll spend the whole time thinking "is it done yet?" while frantically stirring. You want golden and nutty, not dark brown and sad.
 
 **Make-ahead strategy:**
 
@@ -101,7 +101,7 @@ Tan-brown base with golden masa pieces and very dark - almost black - brittle sh
 
 **What it tastes like:**
 
-Warm spices, sweet corn, deep piloncillo sweetness that's way more complex than regular sugar. If you've had actual atole, you'll recognize it immediately and probably feel some kind of nostalgic emotion. If you haven't, imagine the best sweet corn you've ever had, spiced with star anise and cinnamon, with caramel depth throughout. It's comfort food in frozen form, homie.
+Warm spices, sweet corn, deep piloncillo sweetness that's way more complex than regular sugar. If you've had actual atole, you'll recognize it immediately and probably feel some kind of nostalgic emotion. If you haven't, imagine the best sweet corn you've ever had, spiced with star anise and cinnamon, with caramel depth throughout. It's comfort food in frozen form, {{v: homie | friend }}.
 
 ---
 
