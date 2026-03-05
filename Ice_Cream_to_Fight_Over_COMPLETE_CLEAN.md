@@ -3394,9 +3394,9 @@ Rich coffee-honey base—aromatic, floral, slightly wine-like if you used good
 
 # Earl Grey and Burnt Honey
 
-*Tea time gets complicated (in the best way)*
+*Tea time gets complicated (in the best possible way)*
 
-**Difficulty:** THE REAL DEAL - You're making honeycomb that'll foam up like a volcano, burning honey in TWO different batches while praying you don't take it too far, steeping tea, and making custard. The honeycomb demands lightning reflexes when that baking soda hits. The burnt honey requires you to stare intensely at a pan and make judgment calls with zero margin for error. This is not your first rodeo, friend.
+**Difficulty:** THE REAL DEAL - You're making honeycomb that'll foam up like a volcano, burning honey in TWO different batches while praying you don't take it too far, steeping tea, and making custard. The honeycomb demands lightning reflexes when that baking soda hits. The burnt honey requires you to stare intensely at a pan and make judgment calls with zero margin for error. Every single component here can go sideways on you, and at least one of them probably will. This is not your first rodeo, friend.
 
 **Total Time:** 8-10 hours across 2 days (includes overnight chilling, plus an hour spent nervously hovering over honey wondering if you've taken it too far)
 
@@ -3404,9 +3404,9 @@ Tea and honey are a lovely, safe pairing. Very civilized. Very predictable. Very
 
 This version takes that nice simple idea and makes it absolutely unhinged. In a good way.
 
-The honey here gets cooked until it's almost burnt--dark, bitter-edged, and WAY more complex than honey has any right to be. Combined with Earl Grey that's been steeped strong and crunchy honeycomb that foams up dramatically when you make it (seriously, you'll want to take a video), you get something that feels both elegant and a little chaotic. Like afternoon tea hosted by someone who doesn't care one bit about the rules.
+The honey here gets cooked until it's almost burnt--dark, bitter-edged, and WAY more complex than honey has any right to be. Combined with Earl Grey that's been steeped strong and crunchy honeycomb that foams up dramatically when you make it (seriously, you'll want to take a video for the 'gram), you get something that feels both elegant and a little chaotic. Like afternoon tea hosted by someone who doesn't care one bit about the rules.
 
-Fair warning: you'll probably spend more time than expected staring at honey trying to figure out if it's dark enough. That's part of the process. Embrace the uncertainty.
+Fair warning, friend: you'll probably spend more time than expected staring at honey trying to figure out if it's dark enough. That's part of the process. Embrace the uncertainty.
 
 ## Ingredients
 
@@ -3429,7 +3429,7 @@ Fair warning: you'll probably spend more time than expected staring at honey try
 - 1/2 cup sugar
 - 2 tbsp honey
 - 2 tbsp light corn syrup
-- 1 tsp baking soda (fresh--check the date!)
+- 1 tsp baking soda (fresh--check the expiration date!)
 - Pinch of salt
 
 ## Instructions
@@ -3438,47 +3438,47 @@ Fair warning: you'll probably spend more time than expected staring at honey try
 
 This is the fun part where you get to feel like you're conducting a mad science experiment and possibly setting your kitchen on fire. You're not, but it'll FEEL like you might.
 
-Line a baking sheet with parchment. Measure out your baking soda and keep it right next to the stove with a whisk at the ready. You'll need to move FAST and you don't want to be hunting around your kitchen for things at the critical moment.
+Line a baking sheet with parchment. Measure out your baking soda and keep it right next to the stove with a whisk at the ready. You'll need to move FAST and you do NOT want to be hunting around your kitchen for things at the critical moment. Trust me on this, friend.
 
-Combine sugar, honey, and corn syrup in a LARGE saucepan--and when we say large, we mean at least 3 quarts. This is going to foam up dramatically and you really, REALLY don't want it overflowing onto your stove. (Ask me how I know. Actually, don't.)
+Combine sugar, honey, and corn syrup in a LARGE saucepan--and when we say large, we mean at least 3 quarts. This is going to foam up like it's auditioning for a volcano documentary and you really, REALLY don't want it overflowing onto your stove. We learned this the hard way so you don't have to. (Ask me how I know. Actually, don't.)
 
 Cook over medium-high WITHOUT STIRRING until it hits 300-310°F, or until it's deep amber. Takes about 8-12 minutes. Don't leave. Don't check your phone. Don't even THINK about starting another task. This will go from "perfect" to "oh no, burnt" in about 15 seconds and you need to be watching it like your life depends on it.
 
-The SECOND it hits temperature, yank it off the heat. Add the baking soda and salt. Whisk HARD for 2-3 seconds. The mixture will suddenly foam up to 2-3 times its original size--it looks completely wild, almost aggressive. This is EXACTLY what's supposed to happen, buddy. The temptation to keep stirring is strong, but resist--just let it do its foamy thing.
+The SECOND it hits temperature, yank it off the heat. Add the baking soda and salt. Whisk HARD for 2-3 seconds. The mixture will suddenly foam up to 2-3 times its original size--it looks completely wild, almost aggressive. This is EXACTLY what's supposed to happen, buddy. I know it looks like something went wrong. It didn't. The temptation to keep stirring is strong , but resist--just let it do its foamy thing.
 
 Immediately pour it onto the parchment. Don't spread it, don't touch it, don't mess with it. Just let gravity handle it. It'll look like some kind of alien moon surface made of golden foam. Leave it alone.
 
 Cool for at least an hour without poking at it. I KNOW it's tempting. Don't. When it's completely hard, break it into bite-sized pieces. Store in an airtight container where it'll stay crunchy for several days.
 
-If you mess this up--and there's a decent chance you might the first time--it's totally okay. The worst that happens is you end up with flat honey candy instead of puffy honeycomb. Still tastes good, you just try again next time. We're in this together, friend.
+If you mess this up--and there's a decent chance you might the first time--it's totally okay. The worst that happens is you end up with flat honey candy instead of puffy honeycomb. Still tastes good, friend. You just try again next time. We've all been there.
 
 **Burnt Honey (two batches--one for the base, one for the swirl):**
 
-*For the base:* Heat 3 tbsp honey in a light-colored pan over medium heat. Just... watch it. Stare at it. Make it uncomfortable. After 5-7 minutes, it'll shift from golden to deep amber--about the color of good bourbon. That's when you pull it. Immediately whisk in 1 tbsp cream. It'll steam and bubble a bit, maybe hiss at you. That's normal. Cool it completely.
+*For the base:* Heat 3 tbsp honey in a light-colored pan over medium heat. Just... watch it. Stare at it. Make it uncomfortable. After 5-7 minutes, it'll shift from golden to deep amber--about the color of good bourbon. That's when you pull it. Immediately whisk in 1 tbsp cream. It'll steam and bubble a bit, maybe hiss at you like it's offended. That's normal. Cool it completely.
 
 *For the swirl:* Same process with 1/4 cup honey, but this time take it DARKER--mahogany brown, right to the edge where you're thinking "is this too dark? Am I about to ruin this?" Probably not, actually. It should look almost scary. Like it might have feelings. Add 1 tbsp cream and a pinch of salt. Cool, then refrigerate.
 
-**IMPORTANT:** Use a light-colored pan for this. Dark pans make it really hard to see what color the honey actually is, which means you're basically guessing. Light pan means you can actually SEE when it's ready.
+**IMPORTANT :** Use a light-colored pan for this. Dark pans make it nearly impossible to see what color the honey actually is, which means you're basically guessing and hoping for the best. Light pan means you can actually SEE when it's ready. Don't skip this detail.
 
-**If you actually burn it**--it'll smell acrid and turn black and you'll know immediately--just pour it out and start over. It happens to everyone eventually. There's no fixing burnt honey. You can only try again with fresh honey and slightly less heat. Learn from your mistakes, friend.
+**If you actually burn it**--it'll smell acrid and turn black and you'll know immediately that you went too far--just pour it out and start over. It happens to everyone eventually, buddy. There's no fixing burnt honey. You can only learn from it and make another batch with slightly less heat. That's the deal.
 
 **Infuse the Tea:**
 
-Heat 1/2 cup milk to 200°F--just starting to steam, not boiling. Pull it off the heat, add the Earl Grey, cover, and steep for 5-7 minutes. Taste it at 5 minutes--you want strong tea with clear bergamot character, not bitter tannins that make your mouth feel like sandpaper. Strain, pressing gently on the leaves. You should have 1/2 cup of concentrated tea milk that smells incredible.
+Heat 1/2 cup milk to 200°F--just starting to steam, not boiling. Pull it off the heat, add the Earl Grey, cover, and steep for 5-7 minutes. Taste it at 5 minutes--you want strong tea with clear bergamot character, not bitter tannins that make your mouth feel like sandpaper. If it tastes like you're chewing on a tea bag, you went too long. Strain, pressing gently on the leaves. You should have 1/2 cup of concentrated tea milk that smells incredible.
 
 **Make the Custard:**
 
-Make a rich custard with the remaining milk, cream, sugar, and 6 egg yolks using your standard custard method--heat, temper, cook to 170-175°F. If you need a refresher, check the custard fundamentals section, but by recipe 22 you've probably got this down.
+Make a rich custard with the remaining milk, cream, sugar, and 6 egg yolks using your standard custard method--heat, temper, cook to 170-175°F. You know the drill by now, friend. If you somehow don't, go back to the custard fundamentals section and we'll wait.
 
 Once it's off the heat, stir in the concentrated tea milk, the cooled burnt honey from the base batch, salt, and optional lemon zest. Strain. Cool over an ice bath.
 
-Taste it cold--it should taste distinctly of Earl Grey with this interesting honey depth underneath. Not sweet-honey, but complex-honey with a slight bitter edge that makes your brain go "wait, what is happening here?" If it just tastes like regular honey, you didn't take it far enough. Go darker next time.
+Taste it cold--it should taste distinctly of Earl Grey with this interesting honey depth underneath. Not sweet-honey, but complex-honey with a slight bitter edge that makes your brain go "wait, what is happening here?" If it just tastes like regular honey, you didn't take it far enough. Go darker next time. No shame in the learning curve.
 
 Refrigerate at least 4 hours, preferably overnight.
 
 **Churn:**
 
-Churn until you hit soft-serve consistency--should hold its shape on a spoon and look thick and creamy. Then layer it up: spread a third of the ice cream in your container, drizzle some of that dark honey swirl, scatter honeycomb pieces. Repeat twice more. Give it a gentle swirl with a knife--you want ribbons, not full integration. We're going for marble, not muddy brown.
+Churn until you hit soft-serve consistency--should hold its shape on a spoon and look thick and creamy. Then layer it all up: spread a third of the ice cream in your container, drizzle some of that dark honey swirl, scatter honeycomb pieces. Repeat twice more. Give it a gentle swirl with a knife--you want ribbons, not full integration. We're going for marble, not muddy brown.
 
 Freeze 4+ hours until firm.
 
@@ -3486,7 +3486,7 @@ Freeze 4+ hours until firm.
 
 **About the tea:**
 
-This really does need to be loose-leaf Earl Grey with REAL bergamot oil, not artificial bergamot flavoring. The bagged stuff usually has synthetic bergamot and it tastes... not great. More like potpourri than actual tea, and nobody wants to eat potpourri ice cream. You want Fortnum & Mason, Harney & Sons, or something from a decent local tea shop. The difference is genuinely significant. If you're going to spend several hours making ice cream, the extra few dollars on good tea is worth it.
+This really does need to be loose-leaf Earl Grey with REAL bergamot oil, not that artificial bergamot flavoring nonsense. The bagged stuff usually has fake bergamot and it tastes... not great. More like potpourri than actual tea, and nobody wants to eat potpourri ice cream. You want Fortnum & Mason, Harney & Sons, or something from a decent local tea shop. The difference is genuinely significant, friend. If you're going to spend several hours making ice cream, the extra few dollars on good tea is worth it. Don't cheap out here.
 
 **The burnt honey spectrum (and where you're aiming):**
 
@@ -3496,17 +3496,17 @@ There are definitely stages to this journey:
 - **Mahogany brown** (very burnt): Intense, almost bitter, with these coffee-caramel notes. This is what you want for the swirl.
 - **Actually burnt** (black, smells like an electrical fire): You went too far. Time to start over and question your life choices.
 
-If you hit that fourth stage, don't try to salvage it. Just accept the loss, learn from it, and make another batch. It's a rite of passage.
+If you hit that fourth stage, don't try to salvage it. Just accept the loss, learn from it, and make another batch. It's a rite of passage, friend.
 
 **Why bother with two batches of burnt honey?**
 
-Honestly, you COULD just make one batch and use it for everything. But having two different levels gives you way more to explore as you eat. The moderately burnt honey in the base gives you a baseline of complexity. The more intensely burnt honey in the swirl creates these pockets of almost-bitter intensity that grab your attention. As you eat it, you navigate between them like you're on some kind of flavor adventure. It's a bit more work but it's absolutely worth it.
+Honestly, you COULD just make one batch and use it for everything. But having two different levels of burnt-ness makes it way more interesting to eat. The moderately burnt honey in the base gives you a baseline of complexity. The more intensely burnt honey in the swirl creates these pockets of almost-bitter intensity that grab your attention. As you eat it, you navigate between them like you're on some kind of flavor adventure. It's a bit more work but it's absolutely worth it. Would I steer you wrong, pal?
 
 **The science of honeycomb:**
 
 The baking soda reacts with the hot sugar and creates CO2 bubbles throughout--that's what makes it puff up into that dramatic foam structure that looks like magic. But here's the thing: baking soda loses potency over time, especially if it's been sitting open in your cupboard since the Obama administration. If your box is more than a few months old, get fresh. Your honeycomb will be noticeably puffier with fresh baking soda, and you didn't come this far to make sad flat honeycomb.
 
-Also worth knowing: honeycomb absorbs moisture from the air and gets sticky over time. Make it within a few days of when you'll use it. In an airtight container it stays crunchy for about a week before it starts getting soft and weird.
+Also worth knowing: honeycomb absorbs moisture from the air and gets sticky over time like it's got boundary issues. Make it within a few days of when you'll use it. In an airtight container it stays crunchy for about a week before it starts getting soft and weird.
 
 **That optional lemon zest:**
 
@@ -3522,15 +3522,15 @@ Earl Grey tea gets its name from Charles Grey, the 2nd Earl Grey and British Pri
 - Burnt honey swirl: Make the day before (easier to work with cold anyway)
 - Custard base: Make the night before (the flavors develop and meld overnight in a good way)
 
-The more you can spread this out, the less overwhelming it feels. This is not a weeknight ice cream, buddy. This is a weekend project.
+The more you can spread this out, the less overwhelming it feels. This is not a weeknight ice cream, buddy. This is a weekend project. Plan accordingly or suffer the consequences.
 
 **Serving suggestions:**
 
-This pairs nicely with Scottish shortbread if you want to lean into the British theme. Or just serve it with a cup of Earl Grey alongside, which feels a bit meta but actually works really well. The slight bitterness of the burnt honey actually makes it go surprisingly well with coffee too, if you're a heretic who doesn't care about thematic consistency.
+This pairs nicely with Scottish shortbread if you want to lean into the British theme. Or just serve it with a cup of Earl Grey alongside, which feels a bit meta but actually works really well. The slight bitterness of the burnt honey actually makes it go surprisingly well with coffee too, if you're a heretic who doesn't care about thematic consistency. No judgment. Okay, a little judgment.
 
 **What it tastes like:**
 
-Earl Grey up front--clear, bergamot-y, unmistakable. Then this honey depth that keeps revealing itself the more you eat. Then occasional pockets of intensely burnt honey that grab your attention and make you stop and think "wait, what was that?" The honeycomb adds this textural element that makes it feel special and expensive without being fussy about it. It's tea time, but way more interesting than usual. Like if the Queen decided to get weird with it.
+Earl Grey up front--clear, bergamot-y, unmistakable. Then this honey depth that keeps revealing itself the more you eat. Then occasional pockets of intensely burnt honey that grab your attention and make you stop and think "wait, what was that?" The honeycomb adds this textural element that makes it feel special and expensive without being fussy about it. It's genuinely elegant but still looks homemade in that "I put actual effort into this" way. Tea time, but way more interesting than usual. Like if the Queen decided to get weird with it.
 
 ---
 
