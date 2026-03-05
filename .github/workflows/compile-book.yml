@@ -26,19 +26,19 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Compile book
+      - name: Compile book (both versions)
         run: python compile_book.py
 
       - name: Check for changes
         id: changes
         run: |
-          git diff --quiet Ice_Cream_to_Fight_Over_COMPLETE.md && echo "changed=false" >> "$GITHUB_OUTPUT" || echo "changed=true" >> "$GITHUB_OUTPUT"
+          git diff --quiet Ice_Cream_to_Fight_Over_COMPLETE.md Ice_Cream_to_Fight_Over_COMPLETE_CLEAN.md && echo "changed=false" >> "$GITHUB_OUTPUT" || echo "changed=true" >> "$GITHUB_OUTPUT"
 
-      - name: Commit compiled book
+      - name: Commit compiled books
         if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add Ice_Cream_to_Fight_Over_COMPLETE.md
-          git commit -m "Auto-compile book from source changes"
+          git add Ice_Cream_to_Fight_Over_COMPLETE.md Ice_Cream_to_Fight_Over_COMPLETE_CLEAN.md
+          git commit -m "Auto-compile both book versions from source changes"
           git push
