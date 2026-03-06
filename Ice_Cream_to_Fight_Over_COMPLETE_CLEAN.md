@@ -2875,7 +2875,7 @@ Raw, unsalted pistachios are available at most grocery stores, but if you can fi
 
 **About rose water:**
 
-This is the ingredient that fucks up most people who try Middle Eastern desserts at home, so pay attention. Too little and you won't taste it - it'll be a phantom flavor that doesn't register. Too much and your ice cream tastes like your grandmother's perfume, like you're eating a bouquet of roses that's been sitting in a hot car. The potency comes from the concentrated volatile compounds extracted from rose petals during distillation - mostly citronellol, geraniol, and nerol, which are the same compounds that make roses smell like roses. A tiny amount creates elegant floral complexity. Too much creates overwhelming perfume.
+This is the ingredient that trips up most people who try Middle Eastern desserts at home, so pay attention. Too little and you won't taste it - it'll be a phantom flavor that doesn't register. Too much and your ice cream tastes like your grandmother's perfume, like you're eating a bouquet of roses that's been sitting in a hot car. The potency comes from the concentrated volatile compounds extracted from rose petals during distillation - mostly citronellol, geraniol, and nerol, which are the same compounds that make roses smell like roses. A tiny amount creates elegant floral complexity. Too much creates overwhelming perfume.
 
 Rose water's intensity varies wildly by brand, so always taste and adjust. The goal is a subtle, haunting floral note that you notice after a few bites, not an aggressive HELLO I AM ROSES assault on your palate when you take the first spoonful.
 
@@ -3562,13 +3562,13 @@ Earl Grey up front--clear, bergamot-y, unmistakable. Then this honey depth that 
 
 *Haiti's pudding cake, frozen*
 
-**Difficulty:** THE REAL DEAL - You're making candied banana chips that need to dry for 4+ hours, caramelizing bananas with rum (might catch fire, you'll survive), building a spiced custard, and managing four separate components. Plus you need to find proper Haitian rum or at least something that doesn't taste like regret. This isn't hard, it's just involved as hell.
+**Difficulty:** THE REAL DEAL - You're making candied banana chips that need to dry for 4+ hours, caramelizing bananas with rum (might catch fire, you'll survive), building a spiced custard, and managing four separate components. Plus you need to find proper Haitian rum or at least something that doesn't taste like regret. This isn't hard, it's just seriously involved.
 
 **Total Time:** 12-14 hours (most of that is passive drying and chilling while you do literally anything else with your life)
 
-Pain patate is Haiti's most beloved traditional dessert—a dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime. Traditionally baked for weddings, baptisms, holidays—all the big life shit. This ice cream captures those essential flavors: banana-coconut richness, five-spice warmth, rum depth, and lime brightness.
+Pain patate is Haiti's most beloved traditional dessert—a dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime. Traditionally baked for weddings, baptisms, holidays—all the big life events. This ice cream captures those essential flavors: banana-coconut richness, five-spice warmth, rum depth, and lime brightness.
 
-This is dense, rich, intensely flavored. Not light summer ice cream—this is celebration ice cream, dude.
+This is dense, rich, intensely flavored. Not light summer ice cream—this is celebration ice cream, friend.
 
 ## Ingredients
 
@@ -3626,7 +3626,7 @@ Transfer the banana slices to a parchment-lined rack with a slotted spoon, arran
 
 Break into smaller pieces if needed. Store airtight.
 
-*Quick method: After cooling 30 minutes, the slices will be stickier but still work well if you're impatient as hell.*
+*Quick method: After cooling 30 minutes, the slices will be stickier but still work well if you're really impatient.*
 
 **Rum-Raisin Swirl (make ahead):**
 
@@ -3640,7 +3640,7 @@ The mixture should be thick but pourable, with plump raisins suspended in dark r
 
 **Toasted Coconut:**
 
-In a dry skillet over medium-low, toast those coconut flakes, stirring CONSTANTLY, for 3-5 minutes until golden brown. Burns quicker than your New Year's resolutions—watch it like a fucking hawk, friend. Should smell nutty and tropical.
+In a dry skillet over medium-low, toast those coconut flakes, stirring CONSTANTLY, for 3-5 minutes until golden brown. Burns quicker than your New Year's resolutions—watch it like a absolute hawk, pal. Should smell nutty and tropical.
 
 Transfer to a plate immediately to stop cooking. Cool completely. Store airtight.
 
@@ -3648,9 +3648,9 @@ Transfer to a plate immediately to stop cooking. Cool completely. Store airtight
 
 Peel the bananas and cut into 1/2-inch thick rounds. Melt butter in a large skillet over medium-high heat. Add the brown sugar, stir until melted and bubbling, about 1 minute.
 
-Add the banana rounds in a single layer—work in batches if needed to avoid crowding. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still holding their shit together.
+Add the banana rounds in a single layer—work in batches if needed to avoid crowding. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still holding their shape together.
 
-Reduce heat to medium-low. Sprinkle cinnamon and nutmeg over the bananas. Carefully add the rum—may flame briefly if using a gas stove, which is safe and normal and makes you feel like a badass chef. The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
+Reduce heat to medium-low. Sprinkle cinnamon and nutmeg over the bananas. Carefully add the rum—may flame briefly if using a gas stove, which is safe and normal and makes you feel like a rockstar chef. The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
 
 Add a pinch of salt and squeeze of lime juice. Pull it off the heat. The liquid should be thick and syrupy, deeply caramelized—like liquid gold.
 
@@ -3662,7 +3662,7 @@ Combine heavy cream, coconut milk, and evaporated milk in a saucepan. Add the wh
 
 Heat over medium to 170-175°F—steaming, not boiling. Pull it off the heat, cover, steep for 15 minutes.
 
-Strain through a fine-mesh sieve, pressing gently on the star anise. Discard the star anise but you can reserve the lime zest for later if you want—your call, boss.
+Strain through a fine-mesh sieve, pressing gently on the star anise. Discard the star anise but you can reserve the lime zest for later if you want—your call, friend.
 
 **Make Custard:**
 
@@ -3672,7 +3672,7 @@ Make your custard with egg yolks using the standard method to 170-175°F. The mi
 
 Pull it off the heat. Stir in vanilla, salt, and the remaining fresh lime zest. Strain. Fold in the banana puree while the custard is still warm, whisking until completely incorporated.
 
-Should turn deep golden-tan and smell INTENSELY of caramelized banana, coconut, rum, and warm spices—like pain patate in liquid form. If it doesn't make you want to book a flight to Haiti, you fucked something up.
+Should turn deep golden-tan and smell INTENSELY of caramelized banana, coconut, rum, and warm spices—like pain patate in liquid form. If it doesn't make you want to book a flight to Haiti, you did something wrong.
 
 Cool over an ice bath. Taste it cold—should be rich, intensely spiced, with banana-coconut-rum depth and lime brightness cutting through the richness. Should taste slightly sweet and slightly strong since freezing dulls both flavors and your will to live.
 
@@ -3696,7 +3696,7 @@ Represents Haitian home cooking at its most comforting and celebratory. This cap
 
 **Haitian spice tradition:**
 
-This five-spice blend is signature to Haitian desserts. Cinnamon provides warmth, nutmeg adds aromatic depth, ginger brings heat, cloves offer intensity, star anise contributes licorice-like complexity. This isn't subtle, homie—Haitian desserts are BOLDLY, assertively spiced. The intensity is authentic and essential. If your mouth isn't experiencing a spice party, you used too little.
+This five-spice blend is signature to Haitian desserts. Cinnamon provides warmth, nutmeg adds aromatic depth, ginger brings heat, cloves offer intensity, star anise contributes licorice-like complexity. This isn't subtle, friend—Haitian desserts are BOLDLY, assertively spiced. The intensity is authentic and essential. If your mouth isn't experiencing a spice party, you used too little.
 
 **Rum selection:**
 
@@ -3710,7 +3710,7 @@ Pain patate traditionally uses BOTH, creating this specific richness and sweetne
 
 **Bananas:**
 
-Use ripe bananas with generous brown spotting—peak sweetness, will caramelize beautifully. Not overly ripe/black (too mushy, fermented-tasting) or underripe/green (starchy as hell, won't caramelize). The sweet spot is yellow with brown freckles.
+Use ripe bananas with generous brown spotting—peak sweetness, will caramelize beautifully. Not overly ripe/black (too mushy, fermented-tasting) or underripe/green (way too starchy, won't caramelize). The sweet spot is yellow with brown freckles.
 
 **Raisins:**
 
@@ -3718,7 +3718,7 @@ Golden raisins are traditional in pain patate. The rum-raisin swirl pays homage 
 
 **Lime zest:**
 
-ESSENTIAL for brightness, dude. Pain patate's richness needs citrus lift—prevents the dessert from feeling heavy as fuck.
+ESSENTIAL for brightness, friend. Pain patate's richness needs citrus lift—prevents the dessert from feeling overwhelmingly heavy.
 
 **Texture note:**
 
@@ -3730,7 +3730,7 @@ Day 1: Make candied banana chips (needs 4+ hours drying), rum-raisin swirl, toas
 Day 2: Caramelize bananas, make custard, chill overnight. 
 Day 3: Churn and freeze. 
 
-Or do it all in one long-ass day if you're committed to the chaos.
+Or do it all in one really long day if you're committed to the chaos.
 
 **Visual:**
 
@@ -3742,7 +3742,7 @@ While ice cream isn't traditional in Haiti, these flavors absolutely are. Pain p
 
 **What it tastes like:**
 
-Dense, intensely spiced, deeply satisfying. Warm five-spice blend (cinnamon, nutmeg, ginger, cloves, star anise), rich banana-coconut base, rum depth throughout, lime brightness, pockets of rum-soaked raisins. Tastes like celebration, like home, like Haiti. Tastes like love made frozen, homie.
+Dense, intensely spiced, deeply satisfying. Warm five-spice blend (cinnamon, nutmeg, ginger, cloves, star anise), rich banana-coconut base, rum depth throughout, lime brightness, pockets of rum-soaked raisins. Tastes like celebration, like home, like Haiti. Tastes like love made frozen, friend.
 
 **Allergen Information:** Contains coconut (tree nut)
 
@@ -3754,11 +3754,11 @@ Dense, intensely spiced, deeply satisfying. Warm five-spice blend (cinnamon, nut
 
 *Chocolate fudge balls meet tropical brightness*
 
-**Difficulty:** THE REAL DEAL - You're making chocolate fudge from scratch, handling passion fruit pulp (which is slippery as hell), creating caramel, and managing four components with different textures. The brigadeiro needs to cool completely before you can roll it, the passion fruit curd needs careful tempering, and the timing matters. Nothing here will break you, but you'll be juggling enough that you can't wander off to watch TV.
+**Difficulty:** THE REAL DEAL - You're making chocolate fudge from scratch, handling passion fruit pulp (which is incredibly slippery), creating caramel, and managing four components with different textures. The brigadeiro needs to cool completely before you can roll it, the passion fruit curd needs careful tempering, and the timing matters. Nothing here will break you, but you'll be juggling enough that you can't wander off to watch TV.
 
 **Total Time:** 8-10 hours (includes 2-3 hours for brigadeiro cooling/rolling, plus 4+ hours custard chilling while you contemplate Brazilian beaches)
 
-Brigadeiro is THE iconic Brazilian sweet--chocolate fudge balls rolled in sprinkles, served at literally every birthday party, celebration, and moment of joy in Brazil. The name comes from Brigadier Eduardo Gomes, a 1940s political candidate whose supporters created these treats for fundraising. He lost the election but won eternal glory because these little chocolate bombs are fucking perfect.
+Brigadeiro is THE iconic Brazilian sweet--chocolate fudge balls rolled in sprinkles, served at literally every birthday party, celebration, and moment of joy in Brazil. The name comes from Brigadier Eduardo Gomes, a 1940s political candidate whose supporters created these treats for fundraising. He lost the election but won eternal glory because these little chocolate bombs are absolutely perfect.
 
 Passion fruit (maracuja) is everywhere in Brazilian cuisine--juices, mousses, cakes, ice cream. The combination of brigadeiro's intense chocolate fudge with passion fruit's tart tropical brightness is pure Brazilian genius: rich meets bright, chocolate meets fruit, celebration meets everyday joy.
 
@@ -3806,7 +3806,7 @@ You're making actual brigadeiro pieces to mix in, plus a chocolate base inspired
 
 In a heavy-bottomed saucepan, combine the sweetened condensed milk, cocoa powder, butter, and salt. Whisk until the cocoa is fully incorporated with no lumps remaining.
 
-Cook over medium-low heat, stirring CONSTANTLY with a silicone spatula or wooden spoon. This is not optional, homie--you walk away and it burns. Scrape the bottom and sides continuously.
+Cook over medium-low heat, stirring CONSTANTLY with a silicone spatula or wooden spoon. This is not optional, friend--you walk away and it burns. Scrape the bottom and sides continuously.
 
 Cook for 10-15 minutes, stirring constantly, until the mixture thickens significantly and starts pulling away from the sides of the pan when you stir. You should be able to see the bottom of the pan when you scrape across it, and the mixture should slowly flow back together rather than immediately filling the gap. It should look glossy, thick, and deeply brown.
 
@@ -3828,9 +3828,9 @@ In a small saucepan, whisk together the passion fruit juice, reserved seeds, sug
 
 Cook over medium-low heat, whisking constantly, until the mixture thickens and reaches about 170-175 degrees Fahrenheit. Takes about 5-7 minutes. Should coat the back of a spoon and look thick and glossy.
 
-Pull it off the heat immediately. Whisk in the cold butter pieces one at a time until fully melted and incorporated. The curd should be smooth, thick, intensely yellow-orange, and smell aggressively tropical as hell.
+Pull it off the heat immediately. Whisk in the cold butter pieces one at a time until fully melted and incorporated. The curd should be smooth, thick, intensely yellow-orange, and smell aggressively incredibly tropical.
 
-Strain through a fine-mesh sieve if you want ultra-smooth curd, or leave it unstrained for more textural interest from the seeds. Your call, friend.
+Strain through a fine-mesh sieve if you want ultra-smooth curd, or leave it unstrained for more textural interest from the seeds. Your call, pal.
 
 Cool to room temperature, then refrigerate. Should be thick and spreadable when cold, tasting intensely tart and tropical.
 
@@ -3902,7 +3902,7 @@ Frozen passion fruit pulp (found at Latin American or Brazilian markets) works w
 
 **Sweetened condensed milk:**
 
-This is CRITICAL to brigadeiro's character, homie. The caramelized milk sugars, the thick texture, the specific sweetness profile--can't replicate it with regular milk and sugar. Use a good brand. In Brazil, Moca is traditional, but Nestle or Eagle Brand work fine.
+This is CRITICAL to brigadeiro's character, friend. The caramelized milk sugars, the thick texture, the specific sweetness profile--can't replicate it with regular milk and sugar. Use a good brand. In Brazil, Moca is traditional, but Nestle or Eagle Brand work fine.
 
 **Dutch-process cocoa:**
 
@@ -3932,7 +3932,7 @@ Day two: Make chocolate custard base, chill overnight.
 
 Day three: Churn and freeze.
 
-Or do it all in one long day if you're feeling ambitious as hell.
+Or do it all in one long day if you're feeling really ambitious.
 
 **Texture notes:**
 
@@ -3948,7 +3948,7 @@ Dark brown chocolate base studded with darker brigadeiro fudge balls rolled in c
 
 Intensely chocolatey base with that characteristic brigadeiro creaminess from sweetened condensed milk. Pockets of soft chocolate fudge that melt on your tongue. Tart, tropical passion fruit curd ribbons that provide bright contrast against all that chocolate richness. Optional dulce de leche adds caramelized milk depth. The interplay between rich chocolate and tart fruit is what makes this work--neither overpowers the other, they dance together like they've been doing this for years.
 
-This is celebration ice cream. This is Brazilian joy made frozen. This is what happens when you take the country's most beloved sweet and pair it with tropical brightness, homie. Absolutely fucking worth the effort.
+This is celebration ice cream. This is Brazilian joy made frozen. This is what happens when you take the country's most beloved sweet and pair it with tropical brightness, friend. Absolutely totally worth the effort.
 
 ---
 
@@ -3958,11 +3958,11 @@ This is celebration ice cream. This is Brazilian joy made frozen. This is what h
 
 *Greek summer in a bowl*
 
-**Difficulty:** THE REAL DEAL - You're triple-blanching lemon peel (tedious as hell), emulsifying olive oil into custard (which requires drizzling SLOWLY or you'll fuck it up), and adding yogurt to cold custard without curdling it. The candied peel alone takes hours. The olive oil emulsification is where most people fail - rush it and you get greasy separated mess with no fix. Multiple components, precise technique, not much room for error. This is not for beginners, homie.
+**Difficulty:** THE REAL DEAL - You're triple-blanching lemon peel (seriously tedious), emulsifying olive oil into custard (which requires drizzling SLOWLY or you'll mess it up)), and adding yogurt to cold custard without curdling it. The candied peel alone takes hours. The olive oil emulsification is where most people fail - rush it and you get greasy separated mess with no fix. Multiple components, precise technique, not much room for error. This is not for beginners, friend.
 
 **Total Time:** 10-12 hours across 2-3 days (includes triple blanching, 4+ hours of peel drying, overnight chilling, plus time spent drizzling olive oil at a pace that would make a snail impatient)
 
-Olive oil in ice cream sounds wrong until you try it - then it makes total sense, homie. The fruity, peppery notes of good olive oil work surprisingly well in a sweet context, especially with tangy yogurt and bright lemon. Rosemary adds an herbal backbone, and honey ties it all together. It's one of those combinations that looks completely unhinged on paper but tastes like someone who actually knows what they're doing made it.
+Olive oil in ice cream sounds wrong until you try it - then it makes total sense, friend. The fruity, peppery notes of good olive oil work surprisingly well in a sweet context, especially with tangy yogurt and bright lemon. Rosemary adds an herbal backbone, and honey ties it all together. It's one of those combinations that looks completely unhinged on paper but tastes like someone who actually knows what they're doing made it.
 
 This one requires some faith, but it pays off. Trust me. The olive oil doesn't taste "oily" or "salad-y" - it adds this rich, fruity complexity that's hard to describe but unmistakably Mediterranean.
 
@@ -4004,7 +4004,7 @@ Combine 1 cup water and 1 cup sugar in a saucepan, bring to a simmer, stirring u
 
 Transfer the peels to a wire rack set over parchment paper (to catch drips) and let them dry for 4+ hours or overnight until they're tacky rather than wet. You want them to lose enough moisture that they're not dripping syrup everywhere, but still sticky enough that sugar will cling to them. Then toss them in granulated sugar to coat.
 
-*Quick method if you're short on time:* After simmering, let them cool for just 30 minutes instead of 4+ hours, then toss them in sugar while they're still quite sticky. They'll be stickier and less elegant - more like sticky candy than candied peel - but the flavor is still excellent and they'll work fine in the ice cream. Sometimes good enough is good enough, friend.
+*Quick method if you're short on time:* After simmering, let them cool for just 30 minutes instead of 4+ hours, then toss them in sugar while they're still quite sticky. They'll be stickier and less elegant - more like sticky candy than candied peel - but the flavor is still excellent and they'll work fine in the ice cream. Sometimes good enough is good enough, pal.
 
 **Infuse Base with Rosemary:**
 
@@ -4028,13 +4028,13 @@ Make your custard with the 3 egg yolks and the sugar-honey mixture using the sta
 
 Remove from heat and let it cool for 5 minutes while stirring occasionally. You want it warm but not scorching hot for the next step.
 
-Here's the tricky but crucial part, chief: slowly - and I mean SLOWLY - drizzle in the olive oil while whisking constantly. We're talking a thin stream, not a pour. Like, if you were filming this for social media, it would look annoyingly slow. But there's a good reason for this.
+Here's the tricky but crucial part, friend: slowly - and I mean SLOWLY - drizzle in the olive oil while whisking constantly. We're talking a thin stream, not a pour. Like, if you were filming this for social media, it would look annoyingly slow. But there's a good reason for this.
 
 What you're doing is creating an emulsion - a stable mixture of two liquids that normally don't want to mix together (in this case, oil and the water-based custard). Oil and water separate naturally because oil molecules are hydrophobic (they repel water). To get them to stay mixed, you need to break the oil into tiny droplets and suspend those droplets throughout the custard. The egg yolks in your custard contain lecithin, a natural emulsifier that helps stabilize these oil droplets.
 
 When you drizzle the oil in slowly while whisking hard, you're mechanically breaking it into microscopic droplets. The lecithin molecules surround each droplet and prevent them from merging back together. If you dump all the oil in at once, you overwhelm the emulsifying capacity of the egg yolks - there's too much oil for the lecithin to handle, and the droplets merge back into a separated, greasy layer. You'll end up with an oily, separated mess that looks and tastes wrong.
 
-The oil should incorporate smoothly, disappearing into the custard without creating any slick on the surface. If you see oil pooling or floating, you've added it too fast and it's separated. There's not much you can do to fix this if it happens - you basically have to start over. So take your time, dude.
+The oil should incorporate smoothly, disappearing into the custard without creating any slick on the surface. If you see oil pooling or floating, you've added it too fast and it's separated. There's not much you can do to fix this if it happens - you basically have to start over. So take your time, friend.
 
 Stir in a pinch of salt. Strain the custard through a fine-mesh sieve to catch any cooked egg bits.
 
@@ -4114,7 +4114,7 @@ Bright lemon hits you first - fresh, zesty, almost zingy. Then this subtle olive
 
 When you hit a piece of candied lemon peel, you get intense, concentrated citrus flavor with a slightly chewy texture that contrasts nicely with the smooth base. The peel adds bursts of lemon that remind you "oh yeah, this is definitely a lemon thing" in case the rest of the flavors were being too subtle about it.
 
-It tastes like summer on a Greek island you've never been to but somehow remember, pal. Very refreshing, very grown-up, very "I put actual thought into this." The kind of ice cream that makes people ask for the recipe and then look at you skeptically when you say "olive oil."
+It tastes like summer on a Greek island you've never been to but somehow remember, friend. Very refreshing, very grown-up, very "I put actual thought into this." The kind of ice cream that makes people ask for the recipe and then look at you skeptically when you say "olive oil."
 
 ---
 
@@ -4132,7 +4132,7 @@ Knafeh is the undisputed queen of Levantine desserts, originating from Nablus. T
 
 This ice cream takes that hot, gooey experience and freezes it without losing the soul of the dish. We're swapping the hard-to-find Nabulsi cheese for a blend of goat cheese (for the funk and salt) and cream cheese (for the texture). We're candying the kataifi until it's essentially sweet pasta-brittle to ensure it stays crunchy in the freezer. And we're tying it all together with an orange blossom syrup that smells like a garden.
 
-Fair warning, chief: this isn't vanilla with some mix-ins. This is a texture bomb. The cheese adds a savory backbone that might confuse your brain for the first two seconds, but once the syrup and pastry hit? You'll get it.
+Fair warning, friend: this isn't vanilla with some mix-ins. This is a texture bomb. The cheese adds a savory backbone that might confuse your brain for the first two seconds, but once the syrup and pastry hit? You'll get it.
 
 ## Ingredients
 
@@ -4165,7 +4165,7 @@ Fair warning, chief: this isn't vanilla with some mix-ins. This is a texture bom
 
 **Candied Kataifi Brittle (make this first, needs to cool):**
 
-Prep the dough. Kataifi looks like shredded wheat that gave up on life. Pull the strands apart so they aren't a solid clump, then chop them into roughly 1-inch pieces. You don't want long noodles in your ice cream, homie.
+Prep the dough. Kataifi looks like shredded wheat that gave up on life. Pull the strands apart so they aren't a solid clump, then chop them into roughly 1-inch pieces. You don't want long noodles in your ice cream, friend.
 
 Melt the butter in your largest skillet over medium heat. Toss in the chopped kataifi. Cook, stirring CONSTANTLY, until it's a deep, rich golden brown. Don't rush this part; you need the moisture *out* of the dough before you seal it in.
 
@@ -4218,10 +4218,10 @@ Standard butter-toasted pastry gets soggy in ice cream after about 48 hours. By 
 This stuff is potent. The line between "delicate floral note" and "Grandma's soap factory" is razor thin. Measure carefully. If you're nervous, start with 1/2 tsp. You want it to be a whisper, not a shout.
 
 **Visual:**
-Stark white base (from the fresh cheeses) contrasting with deep amber candied pastry clusters and bright green pistachio dust. It looks elegant as hell.
+Stark white base (from the fresh cheeses) contrasting with deep amber candied pastry clusters and bright green pistachio dust. It looks seriously elegant.
 
 **What it tastes like:**
-Salty-tangy creaminess up front, followed by the hard crunch of caramel-coated pastry, finishing with sweet floral syrup. It's a rollercoaster, pal. It hits every part of your palate--savory, sweet, floral, textural. It tastes like the Old City.
+Salty-tangy creaminess up front, followed by the hard crunch of caramel-coated pastry, finishing with sweet floral syrup. It's a rollercoaster, friend. It hits every part of your palate--savory, sweet, floral, textural. It tastes like the Old City.
 
 **Allergen Information:** Contains milk, eggs, wheat (gluten), tree nuts (pistachios).
 
@@ -4231,11 +4231,11 @@ Salty-tangy creaminess up front, followed by the hard crunch of caramel-coated p
 
 *Bourbon Street at 2 AM, frozen and swirled with rum*
 
-**Difficulty:** A FUCKING ORDEAL - You're making YEASTED DOUGH from scratch with two rises, managing 360°F oil without setting off your smoke alarm, and making two separate caramels if you're going full send. This is a 3+ hour commitment minimum, and your kitchen will smell like a New Orleans street corner for the rest of the day. The custard is easy. Everything else is a whole production. Worth it? Absolutely. Easy? Hell no.
+**Difficulty:** A SERIOUS ORDEAL - You're making YEASTED DOUGH from scratch with two rises, managing 360°F oil without setting off your smoke alarm, and making two separate caramels if you're going full send. This is a 3+ hour commitment minimum, and your kitchen will smell like a New Orleans street corner for the rest of the day. The custard is easy. Everything else is a whole production. Worth it? Absolutely. Easy? Not a chance.
 
-**Total Time:** 6-8 hours (2-3 hours of active work making dough, frying shit, and caramel-wrangling; the rest is rising, steeping, and chilling because nothing good happens fast)
+**Total Time:** 6-8 hours (2-3 hours of active work making dough, frying stuff, and caramel-wrangling; the rest is rising, steeping, and chilling because nothing good happens fast)
 
-Listen up, homie—this is the Café Du Monde experience in frozen form. If you've ever sat at those green tables on Decatur Street at 2 AM, powdered sugar all over your shirt, café au lait burning your tongue, beignets so hot they're basically molten dough pillows... this is that. But in ice cream form.
+Listen up, friend—this is the Café Du Monde experience in frozen form. If you've ever sat at those green tables on Decatur Street at 2 AM, powdered sugar all over your shirt, café au lait burning your tongue, beignets so hot they're basically molten dough pillows... this is that. But in ice cream form.
 
 Chicory coffee isn't just "coffee with stuff added." It's a whole NOLA thing that goes back to the Civil War when coffee was scarce and people started cutting it with roasted chicory root. Now it's the city's signature coffee flavor—earthy, slightly bitter, with this woody depth that regular coffee just doesn't have. We're making a café au lait base (that's coffee + hot milk, for the uninitiated), then studding it with actual fried beignet pieces that stay tender and chewy, and finishing with a rum-butter swirl because this is New Orleans and rum belongs in everything.
 
@@ -4315,7 +4315,7 @@ Chicory coffee isn't just "coffee with stuff added." It's a whole NOLA thing tha
 
 13. **Knead until smooth and elastic.** If using a stand mixer, knead on medium-low speed for about 5-6 minutes. If kneading by hand, turn the dough out onto a lightly floured surface and knead for 8-10 minutes. You want it smooth, elastic, and slightly tacky but not sticky-wet. It should spring back when you poke it.
 
-14. **First rise: be patient, homie.** Lightly oil a large bowl, put the dough in, and turn it to coat all sides with oil. Cover with a damp kitchen towel or plastic wrap. Set it somewhere warmish (like on top of your fridge or near a warm oven) and let it rise for 1.5 to 2 hours, until it's doubled in size. THIS WILL FEEL LIKE FOREVER. Resist the urge to rush it. Yeast moves at its own pace.
+14. **First rise: be patient, friend.** Lightly oil a large bowl, put the dough in, and turn it to coat all sides with oil. Cover with a damp kitchen towel or plastic wrap. Set it somewhere warmish (like on top of your fridge or near a warm oven) and let it rise for 1.5 to 2 hours, until it's doubled in size. THIS WILL FEEL LIKE FOREVER. Resist the urge to rush it. Yeast moves at its own pace.
 
 15. **Roll and cut those beignets.** Once the dough has doubled, punch it down (literally just punch it to deflate it—very satisfying). Turn it out onto a lightly floured surface and roll it out to about 1/4-inch thickness. Using a sharp knife or pizza cutter, cut the dough into small squares or rectangles—about 1.5 to 2 inches. You want them small enough to be bite-sized in the ice cream, not full Café Du Monde portion size. You should get about 30-40 pieces.
 
@@ -4343,7 +4343,7 @@ Chicory root is roasted and ground, then blended with coffee. It's earthy, woody
 
 **The Yeasted Dough Reality Check:**
 
-Yeah, this takes 2-3 hours from start to finish because of rising time. That's REAL beignets, homie. The quick drop-batter version is faster but it doesn't give you that pillowy, tender, slightly chewy texture that makes actual NOLA beignets so fucking good. The yeasted dough has this lightness and structure that holds up in ice cream without getting soggy or disappearing. Is it more work? Hell yes. Is it worth it? Also hell yes.
+Yeah, this takes 2-3 hours from start to finish because of rising time. That's REAL beignets, friend. The quick drop-batter version is faster but it doesn't give you that pillowy, tender, slightly chewy texture that makes actual NOLA beignets so incredibly good. The yeasted dough has this lightness and structure that holds up in ice cream without getting soggy or disappearing. Is it more work? Absolutely. Is it worth it? Also absolutely.
 
 If you're in a major rush and need to cut corners, you could use store-bought pizza dough in a pinch—let it come to room temp, roll it out, cut it, and fry it. It won't be EXACTLY the same, but it'll get you 75% of the way there and save you the rising time.
 
@@ -4382,13 +4382,13 @@ Contains: Milk, eggs, wheat (gluten)
 
 *America's forgotten fruit meets mountain sweetness*
 
-**Difficulty:** A FUCKING ORDEAL - Pawpaws only exist for like two weeks in September and you can't buy them anywhere. You either know a forager, have your own tree, or you wait another year. That's what makes this OVERKILL - not the technique (custard is standard), but the sourcing impossibility. The fruit goes bad in 48 hours, so you MUST make this the same day you harvest or acquire them. This is for the patient, the connected, or the obsessive, pal.
+**Difficulty:** A SERIOUS ORDEAL - Pawpaws only exist for like two weeks in September and you can't buy them anywhere. You either know a forager, have your own tree, or you wait another year. That's what makes this OVERKILL - not the technique (custard is standard), but the sourcing impossibility. The fruit goes bad in 48 hours, so you MUST make this the same day you harvest or acquire them. This is for the patient, the connected, or the obsessive, friend.
 
 **Total Time:** 6-8 hours (includes 4+ hours custard chilling, plus the entire year you spent waiting for pawpaw season to arrive again)
 
-Listen, homie—this recipe is for the foragers, the patient ones, the people who are willing to wait all goddamn year for a 2-week window in September when pawpaws are ripe. If you've never had a pawpaw, imagine if a banana, a mango, and custard had a baby in the Appalachian mountains. It's tropical and creamy and *weird* in the best possible way, and you literally cannot buy these commercially because they go bad in like 48 hours. You either know someone with a tree, you forage them yourself, or you wait another year.
+Listen, friend—this recipe is for the foragers, the patient ones, the people who are willing to wait all stinking year for a 2-week window in September when pawpaws are ripe. If you've never had a pawpaw, imagine if a banana, a mango, and custard had a baby in the Appalachian mountains. It's tropical and creamy and *weird* in the best possible way, and you literally cannot buy these commercially because they go bad in like 48 hours. You either know someone with a tree, you forage them yourself, or you wait another year.
 
-This recipe takes that insane pawpaw flavor and pairs it with maple syrup and black walnuts—both foraged/regional Appalachian ingredients. It's a love letter to a part of America most people drive through without stopping. And yes, it's difficult as hell to source the star ingredient. That's the point.
+This recipe takes that insane pawpaw flavor and pairs it with maple syrup and black walnuts—both foraged/regional Appalachian ingredients. It's a love letter to a part of America most people drive through without stopping. And yes, it's incredibly difficult to source the star ingredient. That's the point.
 
 ## Ingredients
 
@@ -4412,7 +4412,7 @@ This recipe takes that insane pawpaw flavor and pairs it with maple syrup and bl
 
 **Bourbon-Maple Glaze (optional but highly recommended):**
 - 1/2 cup Grade A Very Dark or Grade B maple syrup
-- 1/4 cup good bourbon (something you'd actually drink, not the bottom shelf shit)
+- 1/4 cup good bourbon (something you'd actually drink, not the bottom shelf stuff)
 - 2 tbsp butter
 - Pinch of salt
 
@@ -4420,11 +4420,11 @@ This recipe takes that insane pawpaw flavor and pairs it with maple syrup and bl
 
 ### Make the Black Walnut Maple Brittle (Do this first, it needs to cool)
 
-1. **Toast those walnuts, dude.** Spread the black walnuts on a baking sheet and toast at 350°F for 8-10 minutes until they smell incredible and have darkened slightly. Black walnuts are already pretty intense, so don't overdo it. Let them cool, then chop roughly. You want chunks, not dust.
+1. **Toast those walnuts, friend.** Spread the black walnuts on a baking sheet and toast at 350°F for 8-10 minutes until they smell incredible and have darkened slightly. Black walnuts are already pretty intense, so don't overdo it. Let them cool, then chop roughly. You want chunks, not dust.
 
 2. **Make the maple brittle.** In a medium saucepan, combine the maple syrup, butter, and salt. Bring to a boil over medium-high heat, then reduce to medium and let it cook, stirring occasionally, until it reaches 240°F (soft-ball stage). This will take about 8-12 minutes. It'll thicken and the bubbles will get slower and more viscous. You're basically making maple candy that's gonna harden into brittle.
 
-3. **Add the walnuts and get it on the damn sheet.** Once you hit 240°F, kill the heat, stir in the vanilla and the chopped walnuts, and immediately spread the mixture onto a parchment-lined baking sheet. Work fast—this shit sets up QUICK. Let it cool completely (at least an hour), then break it into small chunks. You'll get this crunchy, maple-soaked walnut situation that's absolutely perfect in ice cream. Store in an airtight container until you're ready to churn.
+3. **Add the walnuts and get it on the dang sheet.** Once you hit 240°F, kill the heat, stir in the vanilla and the chopped walnuts, and immediately spread the mixture onto a parchment-lined baking sheet. Work fast—this stuff sets up QUICK. Let it cool completely (at least an hour), then break it into small chunks. You'll get this crunchy, maple-soaked walnut situation that's absolutely perfect in ice cream. Store in an airtight container until you're ready to churn.
 
 ### Make the Bourbon-Maple Glaze (if using—and you should)
 
@@ -4434,23 +4434,23 @@ This recipe takes that insane pawpaw flavor and pairs it with maple syrup and bl
 
 ### Make the Pawpaw Custard Base
 
-6. **Deal with the pawpaws.** This is the hard part. Cut your pawpaws in half, scoop out the pulp, and pick out every single seed. There are a LOT of seeds, and they're slippery as hell. Once you've got clean pulp, mash it smooth with a fork or blend it briefly. Stir in the lemon juice to keep it from browning and to brighten the flavor. Set aside.
+6. **Deal with the pawpaws.** This is the hard part. Cut your pawpaws in half, scoop out the pulp, and pick out every single seed. There are a LOT of seeds, and they're incredibly slippery. Once you've got clean pulp, mash it smooth with a fork or blend it briefly. Stir in the lemon juice to keep it from browning and to brighten the flavor. Set aside.
 
 7. **Heat the dairy and maple.** In a medium saucepan, combine the cream, milk, half the sugar (about 1/3 cup), and the 1/4 cup maple syrup. Heat over medium until it's steaming and just starting to show tiny bubbles around the edges. Don't let it boil.
 
-8. **Whisk those yolks.** In a separate bowl, whisk together the egg yolks, remaining sugar (about 1/3 cup), and salt until it's pale and thick. This is your standard custard setup, homie—you know the drill.
+8. **Whisk those yolks.** In a separate bowl, whisk together the egg yolks, remaining sugar (about 1/3 cup), and salt until it's pale and thick. This is your standard custard setup, friend—you know the drill.
 
 9. **Temper like you mean it.** Slowly drizzle about a cup of the hot cream mixture into the yolks while whisking constantly. You're warming up the yolks so they don't scramble. Once they're tempered, pour the whole yolk mixture back into the saucepan with the rest of the cream.
 
 10. **Cook the custard to nappe.** Put the saucepan back over medium-low heat and cook, stirring constantly with a wooden spoon or heatproof spatula, until the custard thickens enough to coat the back of the spoon. You're looking for about 170-175°F. It'll take 5-8 minutes. Do NOT let it boil or you'll have very expensive scrambled eggs.
 
-11. **Add the pawpaw pulp and vanilla.** Once the custard is thickened, remove from heat and stir in the pawpaw pulp and vanilla extract. The pawpaw will thin it out slightly, and that's fine. The flavor is what matters here, and oh DAMN does the pawpaw come through.
+11. **Add the pawpaw pulp and vanilla.** Once the custard is thickened, remove from heat and stir in the pawpaw pulp and vanilla extract. The pawpaw will thin it out slightly, and that's fine. The flavor is what matters here, and oh WOW does the pawpaw come through.
 
 12. **Strain and chill.** Strain the custard through a fine-mesh strainer into a clean bowl (this catches any bits of cooked egg or pawpaw fiber). Press on the solids to get all that good custard through. Cover with plastic wrap pressed directly onto the surface and refrigerate until completely cold—at least 4 hours, but overnight is better.
 
 ### Churn and Assemble
 
-13. **Churn that base.** Once your custard is cold as hell, churn until soft-serve. The pawpaw will give it a pale yellow-green color and make it slightly denser than standard custard—expect it to look thick and creamy when ready.
+13. **Churn that base.** Once your custard is properly cold, churn until soft-serve. The pawpaw will give it a pale yellow-green color and make it slightly denser than standard custard—expect it to look thick and creamy when ready.
 
 14. **Layer it up.** Grab a freezer-safe container. Spread a layer of churned ice cream in the bottom, drizzle some of the cold bourbon-maple glaze (if using), scatter some black walnut brittle chunks, then repeat. You want those brittle chunks and bourbon-maple swirls distributed throughout. Don't just dump everything on top like some kind of animal.
 
@@ -4459,7 +4459,7 @@ This recipe takes that insane pawpaw flavor and pairs it with maple syrup and bl
 ## Notes
 
 **About Pawpaws:** 
-This is the fucking *Indiana banana*, the Appalachian mango, America's forgotten tropical fruit. They grow wild from the Great Lakes down through Appalachia, and they're ripe for approximately 12 seconds in September (okay, more like 2-3 weeks). You cannot buy these in stores. The fruit is too delicate, goes bad too fast, and doesn't ship well. You have to forage them, grow them, or know someone who does. Check farmers markets in Ohio, Kentucky, West Virginia, Indiana, Pennsylvania, or anywhere along the Appalachian range in mid-to-late September. Or join a foraging group. Or plant a tree and wait 7 years.
+This is the legendary *Indiana banana*, the Appalachian mango, America's forgotten tropical fruit. They grow wild from the Great Lakes down through Appalachia, and they're ripe for approximately 12 seconds in September (okay, more like 2-3 weeks). You cannot buy these in stores. The fruit is too delicate, goes bad too fast, and doesn't ship well. You have to forage them, grow them, or know someone who does. Check farmers markets in Ohio, Kentucky, West Virginia, Indiana, Pennsylvania, or anywhere along the Appalachian range in mid-to-late September. Or join a foraging group. Or plant a tree and wait 7 years.
 
 The pulp tastes like banana-mango-custard with hints of pineapple and melon. It's creamy, tropical, and absolutely unlike anything else. And yes, it's worth the effort.
 
@@ -4476,19 +4476,19 @@ Use Grade A Dark, Very Dark, or if you can find it, the old "Grade B" designatio
 The brittle can be made days in advance and stored airtight. The bourbon-maple glaze keeps in the fridge for a week. The pawpaw custard base MUST be made the day you get the pawpaws because they go bad FAST. Like, frighteningly fast. Don't wait.
 
 **About the Bourbon-Maple Glaze:** 
-This is technically optional, but it's the difference between "good" and "holy shit." The bourbon adds depth and complexity to the maple that you just don't get from straight syrup. Most of the alcohol cooks off during the reduction, but you get this warm, oaky sweetness that tastes like fall in Appalachia. If you don't drink or can't have alcohol, skip the bourbon and just reduce the maple syrup with the butter—it'll still be good, just less complex.
+This is technically optional, but it's the difference between "good" and "oh wow." The bourbon adds depth and complexity to the maple that you just don't get from straight syrup. Most of the alcohol cooks off during the reduction, but you get this warm, oaky sweetness that tastes like fall in Appalachia. If you don't drink or can't have alcohol, skip the bourbon and just reduce the maple syrup with the butter—it'll still be good, just less complex.
 
 **Allergen Information:** 
 Contains: Tree nuts (walnuts)
 
 **Why OVERKILL Difficulty:** 
-Not because the technique is hard, but because sourcing pawpaws is a goddamn treasure hunt and you have about a 2-week window per year to make this. If you nail it, though? You've made something almost nobody else has ever tasted. That's pretty fucking cool.
+Not because the technique is hard, but because sourcing pawpaws is a serious treasure hunt and you have about a 2-week window per year to make this. If you nail it, though? You've made something almost nobody else has ever tasted. That's genuinely remarkable.
 
 ---
 
 ---
 
-# That's All, Homie
+# That's All, Friend
 
 You made it through all the recipes. That's some commitment right there.
 
