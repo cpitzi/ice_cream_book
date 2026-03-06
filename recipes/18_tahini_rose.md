@@ -2,15 +2,15 @@
 
 *Turkish sesame sweetness meets delicate floral notes*
 
-**Difficulty:** THE REAL DEAL - Tahini is oily and thick, which means it can split your custard if you're not careful about integration. Rose water is potent as fuck and the line between "delicate floral" and "soap factory" is thinner than you think. You're also working with halva, which has a specific crumbly-but-cohesive texture that you need to respect. Plus candying pistachios. None of this is technically hard, but you need to pay attention and follow the steps in order or you'll end up with a grainy, soapy mess. Not trying to scare you, just being real.
+**Difficulty:** THE REAL DEAL - Tahini is oily and thick, which means it can split your custard if you're not careful about integration. Rose water is {{v: potent as fuck | incredibly potent }} and the line between "delicate floral" and "soap factory" is thinner than you think. You're also working with halva, which has a specific crumbly-but-cohesive texture that you need to respect. Plus candying pistachios. None of this is technically hard, but you need to pay attention and follow the steps in order or you'll end up with a grainy, soapy mess. Not trying to scare you, just being real.
 
-**Total Time:** 8-10 hours across 2 days (includes candying pistachios and freezing time - really just 90 minutes of actual work spread across two days while you do other shit)
+**Total Time:** 8-10 hours across 2 days (includes candying pistachios and freezing time - really just 90 minutes of actual work spread across two days while you do other {{v: shit | stuff }})
 
-Halva is one of those Middle Eastern confections that's been around forever and shows up in about a dozen different forms across different countries. The Turkish version - tahini-based halva with that distinctive fibrous, flaky texture - is what we're channeling here, homie. It's intensely sweet, nutty from the sesame, and has this almost chalky mouthfeel that sounds weird but is actually addictive as hell.
+Halva is one of those Middle Eastern confections that's been around forever and shows up in about a dozen different forms across different countries. The Turkish version - tahini-based halva with that distinctive fibrous, flaky texture - is what we're channeling here, {{v: homie | friend }}. It's intensely sweet, nutty from the sesame, and has this almost chalky mouthfeel that sounds weird but is actually {{v: addictive as hell | incredibly addictive }}.
 
 Adding rose water is traditional in Turkish sweets - it cuts the richness and adds this haunting floral note that makes everything feel more elegant. The trick is using just enough to make people wonder what that flavor is without being able to name it. Too little and it disappears. Too much and you've made potpourri ice cream.
 
-This ice cream is rich, complex, and definitely not for people who think vanilla is adventurous. But if you're into Middle Eastern desserts or just want to make something genuinely different, this is your move, friend.
+This ice cream is rich, complex, and definitely not for people who think vanilla is adventurous. But if you're into Middle Eastern desserts or just want to make something genuinely different, this is your move, {{v: friend | pal }}.
 
 **Allergen Information:** Contains sesame (tahini and halva), tree nuts (pistachios). This is definitely not for anyone with sesame or nut allergies.
 
@@ -46,9 +46,9 @@ This ice cream is rich, complex, and definitely not for people who think vanilla
 
 **Candied Pistachios (make these first, can be done up to a week ahead):**
 
-Roughly chop the pistachios - you want pieces, not dust. Some whole ones, some halves, some smaller bits. Variety in size means better texture distribution, dude.
+Roughly chop the pistachios - you want pieces, not dust. Some whole ones, some halves, some smaller bits. Variety in size means better texture distribution, {{v: dude | friend }}.
 
-Line a baking sheet with parchment. Combine sugar and water in a medium saucepan over medium heat, stirring until the sugar dissolves. Stop stirring and cook until it reaches 240°F (soft ball stage). This takes 5-7 minutes and requires a candy thermometer - don't guess, pal.
+Line a baking sheet with parchment. Combine sugar and water in a medium saucepan over medium heat, stirring until the sugar dissolves. Stop stirring and cook until it reaches 240°F (soft ball stage). This takes 5-7 minutes and requires a candy thermometer - don't guess, {{v: pal | friend }}.
 
 Add the pistachios, rose water, and salt. Stir constantly. The mixture will crystallize and look like a grainy disaster - this is completely normal and exactly what should happen. The sugar is reverting to crystal form as it cools on contact with the room-temperature nuts and the water from the rose water. Keep stirring over medium heat and the sugar will melt again, turning into a glossy coating on the nuts. Takes about 3-5 minutes of constant stirring, and your arm will get tired. Push through it.
 
@@ -56,7 +56,7 @@ When the pistachios are evenly coated and starting to turn golden (they won't ge
 
 **Honey-Rose Swirl:**
 
-This is stupid simple, homie. Combine honey, water, rose water, and salt in a small saucepan. Warm over low heat, stirring, just until everything is fluid and well combined - about 2-3 minutes. Don't boil it or you'll drive off the rose water's delicate aromatics, which are volatile compounds that evaporate at relatively low temperatures.
+This is stupid simple, {{v: homie | friend }}. Combine honey, water, rose water, and salt in a small saucepan. Warm over low heat, stirring, just until everything is fluid and well combined - about 2-3 minutes. Don't boil it or you'll drive off the rose water's delicate aromatics, which are volatile compounds that evaporate at relatively low temperatures.
 
 Taste it carefully. You should get honey sweetness first, then a subtle floral note sneaking up behind it. If you can't taste the rose water at all, add another 1/8 tsp. If it tastes like perfume - like you just bit into a bar of soap shaped like flowers - you've gone too far and you'll need to add more honey and water to dilute it. Rose water is STRONG - respect it.
 
@@ -66,11 +66,11 @@ Let cool to room temperature, then refrigerate. Should be thick but pourable whe
 
 Combine cream and milk in a saucepan and heat over medium until steaming - you want small bubbles forming around the edges but not a rolling boil. While that heats, whisk the egg yolks with the sugar in a separate bowl until pale and thick, about 2 minutes of solid whisking. This pre-mixing is important because it distributes the sugar evenly and starts dissolving it, which prevents graininess in the final custard.
 
-Temper the yolks - you know this drill by now, chief. Slowly drizzle about 1 cup of the hot cream mixture into the yolks while whisking constantly, then pour the tempered yolk mixture back into the saucepan with the rest of the cream. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line that doesn't immediately fill back in.
+Temper the yolks - you know this drill by now, {{v: chief | friend }}. Slowly drizzle about 1 cup of the hot cream mixture into the yolks while whisking constantly, then pour the tempered yolk mixture back into the saucepan with the rest of the cream. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line that doesn't immediately fill back in.
 
 **Integrate Tahini (THIS IS CRITICAL):**
 
-This is where people usually fuck up, so listen carefully, friend. Remove the custard from heat. Scoop out 1 cup of the hot custard into a separate bowl. Add the tahini to this smaller portion and whisk vigorously until completely smooth - no streaks, no separation, no oil slicks floating on top, just uniform tan liquid that looks like peanut butter thinned with cream. This takes about 30 seconds of actual, aggressive whisking.
+This is where people usually {{v: fuck up | get wrong }}, so listen carefully, {{v: friend | pal }}. Remove the custard from heat. Scoop out 1 cup of the hot custard into a separate bowl. Add the tahini to this smaller portion and whisk vigorously until completely smooth - no streaks, no separation, no oil slicks floating on top, just uniform tan liquid that looks like peanut butter thinned with cream. This takes about 30 seconds of actual, aggressive whisking.
 
 Now pour this tahini mixture back into the main pot of custard, whisking constantly as you pour. The gradual integration prevents the tahini from seizing up or separating into oil slicks that'll make your ice cream look like a science experiment gone wrong.
 
@@ -86,7 +86,7 @@ Break the halva into irregular chunks - think somewhere between pea-sized and ch
 
 **Churn and Assemble:**
 
-Taste the chilled custard base before churning, dude. You should taste subtle rose water - if you don't taste it at all, add another 1/8 tsp and stir well, then wait 10 minutes and taste again. Better to add in small increments than to overshoot and end up with grandmother's-perfume ice cream.
+Taste the chilled custard base before churning, {{v: dude | friend }}. You should taste subtle rose water - if you don't taste it at all, add another 1/8 tsp and stir well, then wait 10 minutes and taste again. Better to add in small increments than to overshoot and end up with grandmother's-perfume ice cream.
 
 Churn until soft-serve consistency. Tahini makes this denser and richer than standard custard - more fat content, different protein structure - so it may take slightly longer than usual to thicken up. Don't worry, just let it go until it's properly thick and creamy.
 
@@ -98,7 +98,7 @@ Freeze at least 4 hours before serving.
 
 **Finding ingredients:**
 
-Good tahini makes a massive difference here, pal. Cheap tahini tastes bitter and separates into a pool of oil with concrete-hard paste at the bottom. Get the stuff from Middle Eastern markets if you can - brands like Al Arz or Har Bracha. It should be smooth, pourable, and made from 100% sesame seeds with no added oils or sugar. The separated oil on top is completely normal - that's just what tahini does when it sits. Just stir it back in before measuring, making sure you incorporate all that oil back into the paste.
+Good tahini makes a massive difference here, {{v: pal | friend }}. Cheap tahini tastes bitter and separates into a pool of oil with concrete-hard paste at the bottom. Get the stuff from Middle Eastern markets if you can - brands like Al Arz or Har Bracha. It should be smooth, pourable, and made from 100% sesame seeds with no added oils or sugar. The separated oil on top is completely normal - that's just what tahini does when it sits. Just stir it back in before measuring, making sure you incorporate all that oil back into the paste.
 
 For halva, check Middle Eastern, Turkish, or Mediterranean markets. You want plain tahini halva, not the chocolate kind or any other fancy flavors that'll compete with the rose water. The texture should be firm but crumbly, with visible fibrous strands running through it when you break it open. Brands like Joyva (which you can find at some regular grocery stores) work fine in a pinch, but specialty brands from Turkish or Middle Eastern stores are usually fresher and better quality - less likely to be stale or rancid.
 
@@ -116,7 +116,7 @@ If you're nervous about it, you can make the custard with just 1/8 tsp rose wate
 
 **Cultural context:**
 
-Halva shows up across the Middle East, Mediterranean, South Asia, and Eastern Europe, with each region having its own version and fierce opinions about whose is best, homie. The word comes from Arabic "ḥalwā" meaning sweet, which is about as generic as it gets - like calling something "dessert" in English. Turkish halva specifically refers to the tahini-based kind with that distinctive fibrous texture, which comes from whipping hot sugar syrup into tahini in a specific way that creates those characteristic strands.
+Halva shows up across the Middle East, Mediterranean, South Asia, and Eastern Europe, with each region having its own version and fierce opinions about whose is best, {{v: homie | friend }}. The word comes from Arabic "ḥalwā" meaning sweet, which is about as generic as it gets - like calling something "dessert" in English. Turkish halva specifically refers to the tahini-based kind with that distinctive fibrous texture, which comes from whipping hot sugar syrup into tahini in a specific way that creates those characteristic strands.
 
 Rose water has been used in Turkish and Middle Eastern sweets for literally centuries - it's in baklava, Turkish delight, kunefe, and countless other desserts. The tradition goes back to the Ottoman Empire and even earlier, to Persian cuisine where rose water was considered an essential flavoring. The combination of sesame and rose is classic Turkish, showing up in everything from puddings to pastries to ice cream.
 
@@ -136,7 +136,7 @@ The candied pistachios stay crunchy because of the sugar coating protecting them
 
 Rich, deeply nutty, intensely sesame-forward from the tahini base, with pockets of even more concentrated sesame sweetness from the halva chunks that melt on your tongue and leave behind that characteristic chalky-but-pleasant texture. The rose water comes through as this subtle floral note that makes everything feel more elegant and complex - you might not be able to identify it immediately if you've never had it before, but you'd definitely notice if it wasn't there. It's like the difference between good vanilla extract and vanilla-flavored whatever - one adds depth, the other just adds sweet. Candied pistachios add crunch and reinforce that classic Middle Eastern flavor combination. The honey swirl brings concentrated sweetness and ties the rose water through the whole thing, creating ribbons of floral honey that punctuate the nutty richness.
 
-This is sophisticated and unusual without being weird. People who love tahini and Middle Eastern flavors will lose their fucking minds over this. People who think vanilla is adventurous might find it too intense. Know your audience, chief.
+This is sophisticated and unusual without being weird. People who love tahini and Middle Eastern flavors will {{v: lose their fucking minds over this | absolutely love this }}. People who think vanilla is adventurous might find it too intense. Know your audience, {{v: chief | friend }}.
 
 **Serving suggestion:**
 

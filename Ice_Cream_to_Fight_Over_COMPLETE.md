@@ -1492,7 +1492,7 @@ Vanilla extract is fine and honestly most people won't notice the difference in 
 
 This is your substitute for the actual pastry crust on Tarte Tatin. Making a full pâte brisee (French pie dough) and trying to incorporate it into ice cream doesn't work - it gets soggy. But this streusel-style crumble gives you that buttery pastry flavor and crucial crunch without getting waterlogged.
 
-The key is keeping it dry and airtight until you're ready to use it, dude. Even a little moisture will make it lose its crispness, dude. If you live somewhere humid, you might want to make this component the day you're churning rather than days ahead.
+The key is keeping it dry and airtight until you're ready to use it. Even a little moisture will make it lose its crispness, dude. If you live somewhere humid, you might want to make this component the day you're churning rather than days ahead.
 
 **Make-ahead strategy:**
 

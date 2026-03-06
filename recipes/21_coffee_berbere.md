@@ -6,11 +6,11 @@
 
 **Total Time:** 7-9 hours (includes 2-3 hours of brittle cooling and custard chilling—you'll have plenty of time to drink the coffee you just brewed)
 
-Ethiopia is the birthplace of coffee—literally. Legend says a goat herder named Kaldi discovered coffee in the 9th century when his goats got hyper as hell after eating certain berries. Today, the Ethiopian coffee ceremony (jebena buna) is a ritual of hospitality that can last hours, involving roasting green beans, grinding them by hand, and serving three rounds of increasingly lighter coffee with popcorn or peanuts.
+Ethiopia is the birthplace of coffee—literally. Legend says a goat herder named Kaldi discovered coffee in the 9th century when his goats got {{v: hyper as hell | incredibly hyper }} after eating certain berries. Today, the Ethiopian coffee ceremony (jebena buna) is a ritual of hospitality that can last hours, involving roasting green beans, grinding them by hand, and serving three rounds of increasingly lighter coffee with popcorn or peanuts.
 
-Berbere is Ethiopia's signature spice blend—complex, layered, essential to dishes like doro wat and kitfo. Every family has their own recipe, but it typically includes fenugreek, cardamom, coriander, black pepper, cinnamon, cloves, and dried chilies. The blend is earthy, warm, slightly bitter, and absolutely fucking beautiful when used right.
+Berbere is Ethiopia's signature spice blend—complex, layered, essential to dishes like doro wat and kitfo. Every family has their own recipe, but it typically includes fenugreek, cardamom, coriander, black pepper, cinnamon, cloves, and dried chilies. The blend is earthy, warm, slightly bitter, and absolutely {{v: fucking beautiful | gorgeous }} when used right.
 
-This brings those elements together: coffee-honey custard, berbere-spiced caramel, spiced coffee brittle, and optional teff crumble for that distinctly Ethiopian grain character. Fair warning, chief—this is not your standard coffee ice cream. This is Horn of Africa complexity in frozen form, and it's going to make you work for it.
+This brings those elements together: coffee-honey custard, berbere-spiced caramel, spiced coffee brittle, and optional teff crumble for that distinctly Ethiopian grain character. Fair warning, {{v: chief | friend }}—this is not your standard coffee ice cream. This is Horn of Africa complexity in frozen form, and it's going to make you work for it.
 
 ## Ingredients
 
@@ -56,7 +56,7 @@ This brings those elements together: coffee-honey custard, berbere-spiced carame
 
 **Spiced Coffee Brittle (make this first, needs time to cool):**
 
-Line a baking sheet with parchment or a silicone mat. Have everything measured and ready—once this starts moving, you can't stop to measure shit, dude.
+Line a baking sheet with parchment or a silicone mat. Have everything measured and ready—once this starts moving, you can't stop to measure {{v: shit | things }}, {{v: dude | friend }}.
 
 In a saucepan, combine sugar, water, and corn syrup. Heat over medium-high without stirring until it reaches 300°F (hard crack stage), about 12-15 minutes. The mixture should be golden amber—copper penny color.
 
@@ -86,7 +86,7 @@ Pull it off the heat. Carefully add the berbere spice—it'll sizzle and bloom
 
 Add the warmed cream in a slow stream while whisking constantly—it'll bubble dramatically, so don't panic. Whisk until smooth.
 
-Add the butter and salt, whisk thoroughly. Should be dark reddish-brown and smell intensely of caramel with warm berbere spices underneath—earthy, slightly bitter, complex as hell.
+Add the butter and salt, whisk thoroughly. Should be dark reddish-brown and smell intensely of caramel with warm berbere spices underneath—earthy, slightly bitter, {{v: complex as hell | seriously complex }}.
 
 Cool to room temperature, then refrigerate. Should be thick but pourable when cold.
 
@@ -132,7 +132,7 @@ The Ethiopian coffee ceremony is a profound cultural ritual—green beans are 
 
 Berbere is THE spice blend of Ethiopian cuisine—every family has their own recipe with slight variations. Traditional berbere typically includes: dried chilies (often Ethiopian berbere peppers), fenugreek seeds, coriander seeds, black peppercorns, cardamom, cinnamon, cloves, ginger, and sometimes ajwain or korarima (Ethiopian cardamom).
 
-The blend should be earthy, warm, slightly bitter from the fenugreek, aromatic from the cardamom and cloves, with gentle heat from the chilies—not aggressive spiciness, but warmth. Buy berbere from Ethiopian markets, good spice companies (Burlap & Barrel, Diaspora Co.), or online. Quality matters here, homie—old, stale berbere tastes dusty and flat.
+The blend should be earthy, warm, slightly bitter from the fenugreek, aromatic from the cardamom and cloves, with gentle heat from the chilies—not aggressive spiciness, but warmth. Buy berbere from Ethiopian markets, good spice companies (Burlap & Barrel, Diaspora Co.), or online. Quality matters here, {{v: homie | friend }}—old, stale berbere tastes dusty and flat.
 
 In the caramel, start with 1 tsp berbere and taste. You can always add more after cooling if you want it more pronounced. Too much can overpower everything and make it bitter.
 
@@ -172,7 +172,7 @@ Pale brown coffee-honey base with dark reddish-brown berbere caramel ribbons, da
 
 **What it tastes like:**
 
-Rich coffee-honey base—aromatic, floral, slightly wine-like if you used good Ethiopian coffee. The berbere caramel hits with warm spices—earthy fenugreek, aromatic cardamom, gentle warmth from chilies, all wrapped in dark caramelized sugar. Coffee brittle provides intense coffee bursts and crunch. Optional teff crumble adds nutty, grain character that reinforces the Ethiopian identity. Complex, sophisticated, unlike anything else in the collection. This is Horn of Africa in a bowl, and it's absolutely worth the fucking effort, friend.
+Rich coffee-honey base—aromatic, floral, slightly wine-like if you used good Ethiopian coffee. The berbere caramel hits with warm spices—earthy fenugreek, aromatic cardamom, gentle warmth from chilies, all wrapped in dark caramelized sugar. Coffee brittle provides intense coffee bursts and crunch. Optional teff crumble adds nutty, grain character that reinforces the Ethiopian identity. Complex, sophisticated, unlike anything else in the collection. This is Horn of Africa in a bowl, and it's absolutely worth the {{v: fucking | whole }} effort, {{v: friend | pal }}.
 
 **Allergen Information:** Contains wheat (if using teff crumble)
 

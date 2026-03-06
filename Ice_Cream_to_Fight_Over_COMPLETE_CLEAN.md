@@ -1492,7 +1492,7 @@ Vanilla extract is fine and honestly most people won't notice the difference in 
 
 This is your substitute for the actual pastry crust on Tarte Tatin. Making a full pâte brisee (French pie dough) and trying to incorporate it into ice cream doesn't work - it gets soggy. But this streusel-style crumble gives you that buttery pastry flavor and crucial crunch without getting waterlogged.
 
-The key is keeping it dry and airtight until you're ready to use it, dude. Even a little moisture will make it lose its crispness, pal. If you live somewhere humid, you might want to make this component the day you're churning rather than days ahead.
+The key is keeping it dry and airtight until you're ready to use it. Even a little moisture will make it lose its crispness, pal. If you live somewhere humid, you might want to make this component the day you're churning rather than days ahead.
 
 **Make-ahead strategy:**
 
@@ -2366,13 +2366,13 @@ Bright tropical guava up front—floral, sweet, distinctly guava—punctuate
 
 *Naples' pastry, now frozen*
 
-**Difficulty:** LEGIT - You've got four components to manage (candied apricots, reduction, semolina crumble, ricotta custard), and those candied apricots will sit around drying for 4+ hours while you contemplate your life choices. The ricotta MUST be whipped smooth or you'll have grainy ice cream. Nothing technically hard, just lots of waiting and component juggling. Multi-day commitment, homie.
+**Difficulty:** LEGIT - You've got four components to manage (candied apricots, reduction, semolina crumble, ricotta custard), and those candied apricots will sit around drying for 4+ hours while you contemplate your life choices. The ricotta MUST be whipped smooth or you'll have grainy ice cream. Nothing technically hard, just lots of waiting and component juggling. Multi-day commitment, friend.
 
 **Total Time:** 10-12 hours across 2-3 days (includes 4+ hours of apricot drying where you'll check on them obsessively and they still won't be ready)
 
 Sfogliatelle is this iconic Neapolitan pastry with layers of crispy shell and creamy ricotta-semolina filling. This ice cream tries to capture that same vibe: creamy ricotta base, candied fruit (apricot instead of traditional citron), and toasted semolina for that characteristic gritty-crunchy texture.
 
-Fair warning, chief: you'll be whipping ricotta for a while, and the candied apricots take most of a damn day to dry. This is a multi-component situation, but none of the individual techniques are hard—you're just orchestrating several things. Plan accordingly.
+Fair warning, friend: you'll be whipping ricotta for a while, and the candied apricots take most of a full day to dry. This is a multi-component situation, but none of the individual techniques are hard—you're just orchestrating several things. Plan accordingly.
 
 ## Ingredients
 
@@ -2435,7 +2435,7 @@ Stir in the cinnamon, vanilla, and salt. Strain. Fold in the cooled apricot redu
 
 **Prepare Ricotta:**
 
-This is fucking *important*, homie: Whip the whole milk ricotta in a food processor or with a hand mixer for 2-3 minutes until it's completely smooth and creamy—should look like whipped cream cheese. No graininess should remain. If you skip this step, the ricotta will freeze grainy and you'll be sad. Don't skip it.
+This is really *important*, friend: Whip the whole milk ricotta in a food processor or with a hand mixer for 2-3 minutes until it's completely smooth and creamy—should look like whipped cream cheese. No graininess should remain. If you skip this step, the ricotta will freeze grainy and you'll be sad. Don't skip it.
 
 **Combine:**
 
@@ -2447,13 +2447,13 @@ Refrigerate at least 4 hours or overnight. The ricotta needs proper cold time to
 
 Churn until soft-serve. The ricotta makes this denser than standard custard, so expect it to look thick and pale cream-colored when ready. In the last minute, add the candied apricot pieces and about 2/3 of the semolina crumble. Reserve some crumble for topping later if you want to get fancy.
 
-Transfer to your container. For maximum textural interest, layer it: spread 1/3 of the ice cream, scatter some reserved crumble, repeat twice. Or just fold everything in and call it a day—both work, homie. Freeze 4+ hours.
+Transfer to your container. For maximum textural interest, layer it: spread 1/3 of the ice cream, scatter some reserved crumble, repeat twice. Or just fold everything in and call it a day—both work, friend. Freeze 4+ hours.
 
 ## Notes
 
 **The ricotta:**
 
-Must be whipped smooth before folding into custard or it freezes grainy. This is non-negotiable, pal. Use whole milk ricotta, not part-skim. The fat content matters for texture. Part-skim will give you sad, icy results.
+Must be whipped smooth before folding into custard or it freezes grainy. This is non-negotiable, friend. Use whole milk ricotta, not part-skim. The fat content matters for texture. Part-skim will give you sad, icy results.
 
 **Light custard:**
 
@@ -2461,13 +2461,13 @@ Using 3-4 yolks (I recommend 4) instead of 5-6 keeps this lighter, which lets th
 
 **Semolina:**
 
-This is authentic—semolina is in the original pastry filling AND provides that characteristic gritty-crunchy texture that makes sfogliatelle what it is. Semolina is durum wheat flour—the same stuff pasta is made from. In Southern Italian pastry-making, it's prized because it holds up to moisture better than all-purpose flour while adding this subtle grittiness that's fucking delicious. Must be toasted first because raw semolina is bland as hell. The butter and sugar create these little caramelized clusters that are absolutely perfect.
+This is authentic—semolina is in the original pastry filling AND provides that characteristic gritty-crunchy texture that makes sfogliatelle what it is. Semolina is durum wheat flour—the same stuff pasta is made from. In Southern Italian pastry-making, it's prized because it holds up to moisture better than all-purpose flour while adding this subtle grittiness that's seriously delicious. Must be toasted first because raw semolina is incredibly bland. The butter and sugar create these little caramelized clusters that are absolutely perfect.
 
 **Apricot vs. citron:**
 
 Traditional sfogliatelle uses candied orange peel or citron—preserved citrus has been part of Italian pastry-making for centuries, originally as a way to use the whole fruit and extend shelf life. Citron (*cedro* in Italian) in particular is traditional in Neapolitan sfogliatelle. It's this massive, knobby citrus fruit that's mostly pith, and the candied peel has this intensely perfumed, floral-bitter character.
 
-I chose apricot because: (1) citron is fucking impossible to find unless you're in an Italian neighborhood or ordering online, (2) apricots have a similar candied texture and jewel-tone look when prepared this way, and (3) stone fruit feels more modern while still respecting the Italian sweet-tart-fruit tradition. 
+I chose apricot because: (1) citron is nearly impossible to find unless you're in an Italian neighborhood or ordering online, (2) apricots have a similar candied texture and jewel-tone look when prepared this way, and (3) stone fruit feels more modern while still respecting the Italian sweet-tart-fruit tradition. 
 
 If you want to go fully traditional, candied orange peel is much easier to source and works beautifully—just blanch fresh orange peel three times to remove bitterness, then follow the same candying process with the sugar syrup. Some specialty Italian markets sell pre-candied citron if you're feeling ambitious, but it'll cost you.
 
@@ -2769,15 +2769,15 @@ The triple brown butter approach (candied nuts, infused base, butterscotch swirl
 
 *Turkish sesame sweetness meets delicate floral notes*
 
-**Difficulty:** THE REAL DEAL - Tahini is oily and thick, which means it can split your custard if you're not careful about integration. Rose water is potent as fuck and the line between "delicate floral" and "soap factory" is thinner than you think. You're also working with halva, which has a specific crumbly-but-cohesive texture that you need to respect. Plus candying pistachios. None of this is technically hard, but you need to pay attention and follow the steps in order or you'll end up with a grainy, soapy mess. Not trying to scare you, just being real.
+**Difficulty:** THE REAL DEAL - Tahini is oily and thick, which means it can split your custard if you're not careful about integration. Rose water is incredibly potent and the line between "delicate floral" and "soap factory" is thinner than you think. You're also working with halva, which has a specific crumbly-but-cohesive texture that you need to respect. Plus candying pistachios. None of this is technically hard, but you need to pay attention and follow the steps in order or you'll end up with a grainy, soapy mess. Not trying to scare you, just being real.
 
-**Total Time:** 8-10 hours across 2 days (includes candying pistachios and freezing time - really just 90 minutes of actual work spread across two days while you do other shit)
+**Total Time:** 8-10 hours across 2 days (includes candying pistachios and freezing time - really just 90 minutes of actual work spread across two days while you do other stuff)
 
-Halva is one of those Middle Eastern confections that's been around forever and shows up in about a dozen different forms across different countries. The Turkish version - tahini-based halva with that distinctive fibrous, flaky texture - is what we're channeling here, homie. It's intensely sweet, nutty from the sesame, and has this almost chalky mouthfeel that sounds weird but is actually addictive as hell.
+Halva is one of those Middle Eastern confections that's been around forever and shows up in about a dozen different forms across different countries. The Turkish version - tahini-based halva with that distinctive fibrous, flaky texture - is what we're channeling here, friend. It's intensely sweet, nutty from the sesame, and has this almost chalky mouthfeel that sounds weird but is actually incredibly addictive.
 
 Adding rose water is traditional in Turkish sweets - it cuts the richness and adds this haunting floral note that makes everything feel more elegant. The trick is using just enough to make people wonder what that flavor is without being able to name it. Too little and it disappears. Too much and you've made potpourri ice cream.
 
-This ice cream is rich, complex, and definitely not for people who think vanilla is adventurous. But if you're into Middle Eastern desserts or just want to make something genuinely different, this is your move, friend.
+This ice cream is rich, complex, and definitely not for people who think vanilla is adventurous. But if you're into Middle Eastern desserts or just want to make something genuinely different, this is your move, pal.
 
 **Allergen Information:** Contains sesame (tahini and halva), tree nuts (pistachios). This is definitely not for anyone with sesame or nut allergies.
 
@@ -2813,9 +2813,9 @@ This ice cream is rich, complex, and definitely not for people who think vanilla
 
 **Candied Pistachios (make these first, can be done up to a week ahead):**
 
-Roughly chop the pistachios - you want pieces, not dust. Some whole ones, some halves, some smaller bits. Variety in size means better texture distribution, dude.
+Roughly chop the pistachios - you want pieces, not dust. Some whole ones, some halves, some smaller bits. Variety in size means better texture distribution, friend.
 
-Line a baking sheet with parchment. Combine sugar and water in a medium saucepan over medium heat, stirring until the sugar dissolves. Stop stirring and cook until it reaches 240°F (soft ball stage). This takes 5-7 minutes and requires a candy thermometer - don't guess, pal.
+Line a baking sheet with parchment. Combine sugar and water in a medium saucepan over medium heat, stirring until the sugar dissolves. Stop stirring and cook until it reaches 240°F (soft ball stage). This takes 5-7 minutes and requires a candy thermometer - don't guess, friend.
 
 Add the pistachios, rose water, and salt. Stir constantly. The mixture will crystallize and look like a grainy disaster - this is completely normal and exactly what should happen. The sugar is reverting to crystal form as it cools on contact with the room-temperature nuts and the water from the rose water. Keep stirring over medium heat and the sugar will melt again, turning into a glossy coating on the nuts. Takes about 3-5 minutes of constant stirring, and your arm will get tired. Push through it.
 
@@ -2823,7 +2823,7 @@ When the pistachios are evenly coated and starting to turn golden (they won't ge
 
 **Honey-Rose Swirl:**
 
-This is stupid simple, homie. Combine honey, water, rose water, and salt in a small saucepan. Warm over low heat, stirring, just until everything is fluid and well combined - about 2-3 minutes. Don't boil it or you'll drive off the rose water's delicate aromatics, which are volatile compounds that evaporate at relatively low temperatures.
+This is stupid simple, friend. Combine honey, water, rose water, and salt in a small saucepan. Warm over low heat, stirring, just until everything is fluid and well combined - about 2-3 minutes. Don't boil it or you'll drive off the rose water's delicate aromatics, which are volatile compounds that evaporate at relatively low temperatures.
 
 Taste it carefully. You should get honey sweetness first, then a subtle floral note sneaking up behind it. If you can't taste the rose water at all, add another 1/8 tsp. If it tastes like perfume - like you just bit into a bar of soap shaped like flowers - you've gone too far and you'll need to add more honey and water to dilute it. Rose water is STRONG - respect it.
 
@@ -2833,11 +2833,11 @@ Let cool to room temperature, then refrigerate. Should be thick but pourable whe
 
 Combine cream and milk in a saucepan and heat over medium until steaming - you want small bubbles forming around the edges but not a rolling boil. While that heats, whisk the egg yolks with the sugar in a separate bowl until pale and thick, about 2 minutes of solid whisking. This pre-mixing is important because it distributes the sugar evenly and starts dissolving it, which prevents graininess in the final custard.
 
-Temper the yolks - you know this drill by now, chief. Slowly drizzle about 1 cup of the hot cream mixture into the yolks while whisking constantly, then pour the tempered yolk mixture back into the saucepan with the rest of the cream. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line that doesn't immediately fill back in.
+Temper the yolks - you know this drill by now, friend. Slowly drizzle about 1 cup of the hot cream mixture into the yolks while whisking constantly, then pour the tempered yolk mixture back into the saucepan with the rest of the cream. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line that doesn't immediately fill back in.
 
 **Integrate Tahini (THIS IS CRITICAL):**
 
-This is where people usually fuck up, so listen carefully, friend. Remove the custard from heat. Scoop out 1 cup of the hot custard into a separate bowl. Add the tahini to this smaller portion and whisk vigorously until completely smooth - no streaks, no separation, no oil slicks floating on top, just uniform tan liquid that looks like peanut butter thinned with cream. This takes about 30 seconds of actual, aggressive whisking.
+This is where people usually get wrong, so listen carefully, pal. Remove the custard from heat. Scoop out 1 cup of the hot custard into a separate bowl. Add the tahini to this smaller portion and whisk vigorously until completely smooth - no streaks, no separation, no oil slicks floating on top, just uniform tan liquid that looks like peanut butter thinned with cream. This takes about 30 seconds of actual, aggressive whisking.
 
 Now pour this tahini mixture back into the main pot of custard, whisking constantly as you pour. The gradual integration prevents the tahini from seizing up or separating into oil slicks that'll make your ice cream look like a science experiment gone wrong.
 
@@ -2853,7 +2853,7 @@ Break the halva into irregular chunks - think somewhere between pea-sized and ch
 
 **Churn and Assemble:**
 
-Taste the chilled custard base before churning, dude. You should taste subtle rose water - if you don't taste it at all, add another 1/8 tsp and stir well, then wait 10 minutes and taste again. Better to add in small increments than to overshoot and end up with grandmother's-perfume ice cream.
+Taste the chilled custard base before churning, friend. You should taste subtle rose water - if you don't taste it at all, add another 1/8 tsp and stir well, then wait 10 minutes and taste again. Better to add in small increments than to overshoot and end up with grandmother's-perfume ice cream.
 
 Churn until soft-serve consistency. Tahini makes this denser and richer than standard custard - more fat content, different protein structure - so it may take slightly longer than usual to thicken up. Don't worry, just let it go until it's properly thick and creamy.
 
@@ -2865,7 +2865,7 @@ Freeze at least 4 hours before serving.
 
 **Finding ingredients:**
 
-Good tahini makes a massive difference here, pal. Cheap tahini tastes bitter and separates into a pool of oil with concrete-hard paste at the bottom. Get the stuff from Middle Eastern markets if you can - brands like Al Arz or Har Bracha. It should be smooth, pourable, and made from 100% sesame seeds with no added oils or sugar. The separated oil on top is completely normal - that's just what tahini does when it sits. Just stir it back in before measuring, making sure you incorporate all that oil back into the paste.
+Good tahini makes a massive difference here, friend. Cheap tahini tastes bitter and separates into a pool of oil with concrete-hard paste at the bottom. Get the stuff from Middle Eastern markets if you can - brands like Al Arz or Har Bracha. It should be smooth, pourable, and made from 100% sesame seeds with no added oils or sugar. The separated oil on top is completely normal - that's just what tahini does when it sits. Just stir it back in before measuring, making sure you incorporate all that oil back into the paste.
 
 For halva, check Middle Eastern, Turkish, or Mediterranean markets. You want plain tahini halva, not the chocolate kind or any other fancy flavors that'll compete with the rose water. The texture should be firm but crumbly, with visible fibrous strands running through it when you break it open. Brands like Joyva (which you can find at some regular grocery stores) work fine in a pinch, but specialty brands from Turkish or Middle Eastern stores are usually fresher and better quality - less likely to be stale or rancid.
 
@@ -2883,7 +2883,7 @@ If you're nervous about it, you can make the custard with just 1/8 tsp rose wate
 
 **Cultural context:**
 
-Halva shows up across the Middle East, Mediterranean, South Asia, and Eastern Europe, with each region having its own version and fierce opinions about whose is best, homie. The word comes from Arabic "ḥalwā" meaning sweet, which is about as generic as it gets - like calling something "dessert" in English. Turkish halva specifically refers to the tahini-based kind with that distinctive fibrous texture, which comes from whipping hot sugar syrup into tahini in a specific way that creates those characteristic strands.
+Halva shows up across the Middle East, Mediterranean, South Asia, and Eastern Europe, with each region having its own version and fierce opinions about whose is best, friend. The word comes from Arabic "ḥalwā" meaning sweet, which is about as generic as it gets - like calling something "dessert" in English. Turkish halva specifically refers to the tahini-based kind with that distinctive fibrous texture, which comes from whipping hot sugar syrup into tahini in a specific way that creates those characteristic strands.
 
 Rose water has been used in Turkish and Middle Eastern sweets for literally centuries - it's in baklava, Turkish delight, kunefe, and countless other desserts. The tradition goes back to the Ottoman Empire and even earlier, to Persian cuisine where rose water was considered an essential flavoring. The combination of sesame and rose is classic Turkish, showing up in everything from puddings to pastries to ice cream.
 
@@ -2903,7 +2903,7 @@ The candied pistachios stay crunchy because of the sugar coating protecting them
 
 Rich, deeply nutty, intensely sesame-forward from the tahini base, with pockets of even more concentrated sesame sweetness from the halva chunks that melt on your tongue and leave behind that characteristic chalky-but-pleasant texture. The rose water comes through as this subtle floral note that makes everything feel more elegant and complex - you might not be able to identify it immediately if you've never had it before, but you'd definitely notice if it wasn't there. It's like the difference between good vanilla extract and vanilla-flavored whatever - one adds depth, the other just adds sweet. Candied pistachios add crunch and reinforce that classic Middle Eastern flavor combination. The honey swirl brings concentrated sweetness and ties the rose water through the whole thing, creating ribbons of floral honey that punctuate the nutty richness.
 
-This is sophisticated and unusual without being weird. People who love tahini and Middle Eastern flavors will lose their fucking minds over this. People who think vanilla is adventurous might find it too intense. Know your audience, chief.
+This is sophisticated and unusual without being weird. People who love tahini and Middle Eastern flavors will absolutely love this. People who think vanilla is adventurous might find it too intense. Know your audience, friend.
 
 **Serving suggestion:**
 
@@ -2921,7 +2921,7 @@ Serve alongside Turkish coffee or mint tea - the bitterness of the coffee or the
 
 **Total Time:** 6-8 hours (most of which is orange peel simmering and custard chilling while you do literally anything else)
 
-Alright homie, this is the chocolate recipe you've been waiting for. But we're not doing some basic-ass chocolate ice cream here—we're going deep into the Southwest with New Mexican red chile and dark, almost bittersweet Mexican-style chocolate. This isn't "spicy chocolate" where the heat smacks you in the face. This is integrated warmth, the kind where the chile and chocolate grew up together and know each other's secrets.
+Alright friend, this is the chocolate recipe you've been waiting for. But we're not doing some boring chocolate ice cream here—we're going deep into the Southwest with New Mexican red chile and dark, almost bittersweet Mexican-style chocolate. This isn't "spicy chocolate" where the heat smacks you in the face. This is integrated warmth, the kind where the chile and chocolate grew up together and know each other's secrets.
 
 The chile brings fruity, earthy heat that builds slowly. The chocolate is dark and complex with hints of coffee. The pepita brittle adds crunch and that toasted-seed flavor that's so distinctly Southwest. And the cinnamon? It's there if you want it, ghosting around in the background, but it's totally optional because not everyone needs cinnamon running the show.
 
@@ -2969,7 +2969,7 @@ The chile brings fruity, earthy heat that builds slowly. The chocolate is dark a
 
 **Candied Orange Peel with Chile (make this first—it takes 2+ hours):**
 
-Strip that peel, homie. Cut off the top and bottom of each orange so they sit flat. Score the peel vertically in quarters, then peel off those quarters. Try to get as little white pith as possible—too much pith makes them bitter as hell. Slice the peel into thin strips, about 1/4 inch wide.
+Strip that peel, friend. Cut off the top and bottom of each orange so they sit flat. Score the peel vertically in quarters, then peel off those quarters. Try to get as little white pith as possible—too much pith makes them incredibly bitter. Slice the peel into thin strips, about 1/4 inch wide.
 
 Blanch the bitterness out. Put the orange peel strips in a medium saucepan and cover with cold water. Bring to a boil, then drain. Repeat this TWO MORE TIMES with fresh water each time. Yeah, three times. This pulls out the bitter compounds in the pith. Your kitchen will smell incredible, like orange essential oil exploded.
 
@@ -2983,7 +2983,7 @@ Sugar coat and dry. Use tongs or a fork to fish out the peels (save that syrup�
 
 Toast those pepitas. Spread the pepitas on a baking sheet and toast at 350°F for 6-8 minutes, stirring once halfway through, until they're golden and fragrant. Some will puff up and that's perfect—the hull has separated slightly from the seed, which means they're releasing their oils and developing deep, nutty flavors. Raw seeds taste vegetal and slightly bitter, but toasted seeds? They're almost popcorn-like, with this incredible toasted richness. Let them cool slightly while you make the caramel.
 
-Make the caramel and don't walk away. In a medium saucepan, combine the sugar and water. Heat over medium-high without stirring—just swirl the pan occasionally. Watch it like a fucking hawk. It'll go from clear to amber to burnt in about 30 seconds at the end. You want a deep amber color, like good bourbon.
+Make the caramel and don't walk away. In a medium saucepan, combine the sugar and water. Heat over medium-high without stirring—just swirl the pan occasionally. Watch it like a absolute hawk. It'll go from clear to amber to burnt in about 30 seconds at the end. You want a deep amber color, like good bourbon.
 
 Add butter, salt, and pepitas, then GET IT OUT. Once your caramel is amber, kill the heat and stir in the butter and salt (it'll bubble and hiss—that's normal). Immediately add the toasted pepitas and the optional chile if using. Stir fast to coat everything, then dump it all onto a parchment-lined baking sheet. Spread it thin with a spatula. Let it cool completely (about an hour), then break it into small chunks. Store airtight.
 
@@ -3013,13 +3013,13 @@ Cook to nappe. Return the saucepan to medium-low heat and cook, stirring constan
 
 Add vanilla and strain. Remove from heat, stir in the vanilla extract, then strain through a fine-mesh strainer into a clean bowl. This catches any bits of cooked egg or undissolved cocoa. Press on the solids to get all that good chocolate custard through.
 
-Chill the hell out of it. Cover with plastic wrap pressed directly onto the surface to prevent a skin from forming. Refrigerate until completely cold—at least 4 hours, but overnight is better. The custard will thicken more as it chills, and the flavors will meld. The chile heat will also become more pronounced as it sits.
+Get it cold. Cover with plastic wrap pressed directly onto the surface to prevent a skin from forming. Refrigerate until completely cold—at least 4 hours, but overnight is better. The custard will thicken more as it chills, and the flavors will meld. The chile heat will also become more pronounced as it sits.
 
 **Churn and Assemble:**
 
 Churn it. Once your custard is thoroughly chilled, churn until it reaches soft-serve consistency—thick, creamy, and holding its shape. The chocolate and chile make this denser than standard custard, so expect deep, dark brown color with hints of red from the chile.
 
-Layer with intention. Get a freezer-safe container. Spread a layer of churned ice cream in the bottom, drizzle some of that cold red chile caramel, scatter some pepita brittle chunks, add some chopped candied orange peel. Repeat. You're building layers of flavor and texture here—creamy chocolate, crunchy pepitas, chewy-spicy orange, warm caramel. It's a whole damn experience.
+Layer with intention. Get a freezer-safe container. Spread a layer of churned ice cream in the bottom, drizzle some of that cold red chile caramel, scatter some pepita brittle chunks, add some chopped candied orange peel. Repeat. You're building layers of flavor and texture here—creamy chocolate, crunchy pepitas, chewy-spicy orange, warm caramel. It's a whole incredible experience.
 
 Freeze it solid. Press plastic wrap or parchment directly onto the surface, cover with a lid, and freeze for at least 4 hours. This needs proper freezing time to set up.
 
@@ -3049,7 +3049,7 @@ The espresso powder doesn't make this taste like coffee. It deepens and intensif
 
 This is PEAK citrus-chocolate-chile synergy. The orange brings brightness that cuts through the rich chocolate, the chile gives it warmth and depth, and the chewy-tender texture is perfect against the brittle pepitas. It's a labor of love (all that blanching and simmering), but it's SO worth it. The chile-spiked candying syrup is also a gift from the flavor gods—save it and use it in drinks or drizzled on desserts.
 
-If you're short on time, you can skip this component and the ice cream will still be excellent. But if you've got the time, this is what takes it from "really good chocolate ice cream" to "HOLY SHIT where did you get this?"
+If you're short on time, you can skip this component and the ice cream will still be excellent. But if you've got the time, this is what takes it from "really good chocolate ice cream" to "OH WOW where did you get this?"
 
 **Make-Ahead:**
 
@@ -3069,17 +3069,17 @@ This is RICH. Like, profoundly rich. Serve smaller portions than you think. It's
 
 # Piri Piri Cashew Coconut
 
-*Vegan and surprisingly rich as hell*
+*Vegan and surprisingly rich*
 
-**Difficulty:** THE REAL DEAL - You're soaking cashews for hours, blending them into submission, candying more cashews without burning their high-fat asses, making piri piri caramel that sounds batshit but works, and managing a vegan base that behaves differently than dairy. The individual techniques aren't brutal, but there's timing choreography and you need to trust that spicy-garlicky caramel is a good idea (it is). Plus sourcing actual piri piri might require hunting down an African or Portuguese market, homie.
+**Difficulty:** THE REAL DEAL - You're soaking cashews for hours, blending them into submission, candying more cashews without burning their high-fat bottoms, making piri piri caramel that sounds wild but works, and managing a vegan base that behaves differently than dairy. The individual techniques aren't brutal, but there's timing choreography and you need to trust that spicy-garlicky caramel is a good idea (it is). Plus sourcing actual piri piri might require hunting down an African or Portuguese market, friend.
 
 **Total Time:** 8-10 hours (includes 4+ hours soaking cashews while you do literally anything else, plus 4+ hours base chilling because patience is a virtue you're learning)
 
 **VEGAN**
 
-Mozambique is one of the world's largest cashew producers, coconut is a coastal staple, and piri piri—African bird's eye chili—is THE iconic ingredient. This vegan ice cream combines all three with caramelized depth and a swirl of spicy-garlicky caramel that sounds absolutely batshit but somehow fucking works.
+Mozambique is one of the world's largest cashew producers, coconut is a coastal staple, and piri piri—African bird's eye chili—is THE iconic ingredient. This vegan ice cream combines all three with caramelized depth and a swirl of spicy-garlicky caramel that sounds absolutely wild but somehow really works.
 
-You'll soak a shit-ton of cashews. Your blender will get a serious workout. It's worth it, homie.
+You'll soak a whole lot of cashews. Your blender will get a serious workout. It's worth it, friend.
 
 ## Ingredients
 
@@ -3124,11 +3124,11 @@ You'll soak a shit-ton of cashews. Your blender will get a serious workout. It's
 
 **Soak Cashews for Base (do this first, needs 4+ hours):**
 
-Place 1/2 cup raw cashews in a bowl, cover with water by 2 inches. Soak for minimum 4 hours or overnight—this softens them completely so they'll blend into silky cream instead of chunky bullshit.
+Place 1/2 cup raw cashews in a bowl, cover with water by 2 inches. Soak for minimum 4 hours or overnight—this softens them completely so they'll blend into silky cream instead of chunky mush.
 
 Drain and rinse before using.
 
-*Note: The additional 1 cup cashews for candying should NOT be soaked—keep those fuckers dry for roasting.*
+*Note: The additional 1 cup cashews for candying should NOT be soaked—keep those babies dry for roasting.*
 
 **Candied Cashews:**
 
@@ -3138,7 +3138,7 @@ Pull them out of the oven. In a small saucepan, melt the palm sugar over medium 
 
 **Toasted Coconut:**
 
-In a dry skillet over medium-low, toast those coconut flakes, stirring constantly, for 3-5 minutes until golden brown. Burns quicker than your ex's new relationship—watch it carefully, dude. Should smell nutty and sweet.
+In a dry skillet over medium-low, toast those coconut flakes, stirring constantly, for 3-5 minutes until golden brown. Burns quicker than your ex's new relationship—watch it carefully, friend. Should smell nutty and sweet.
 
 Transfer to a plate immediately. Optional: sprinkle with a tiny pinch of salt while warm. Cool completely. Store airtight.
 
@@ -3146,11 +3146,11 @@ Transfer to a plate immediately. Optional: sprinkle with a tiny pinch of salt wh
 
 Have your warmed coconut cream, butter, and aromatics measured and ready right next to the stove—caramel moves faster than bad decisions.
 
-Combine sugar and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there watching, which is boring as hell but necessary.
+Combine sugar and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there watching, which is really boring but necessary.
 
 Pull it off the heat. Carefully pour in the warmed coconut cream—it'll bubble VIOLENTLY and make scary noises. Whisk until smooth.
 
-Add the vegan butter, piri piri sauce (or fresh chilies), minced garlic, smoked paprika, and salt. Whisk thoroughly. Should be this gorgeous orange-red with noticeable heat and subtle garlic undertone—yeah, garlic in caramel, trust the fucking process.
+Add the vegan butter, piri piri sauce (or fresh chilies), minced garlic, smoked paprika, and salt. Whisk thoroughly. Should be this gorgeous orange-red with noticeable heat and subtle garlic undertone—yeah, garlic in caramel, trust the whole process.
 
 Add a squeeze of lime juice. Taste it carefully (it's hot!)—should be sweet with building heat, citrusy brightness, and this whisper of savory depth that makes your brain go "wait, what?"
 
@@ -3158,7 +3158,7 @@ If using fresh chilies and you want more heat, add another minced chili. Cool to
 
 **Make Coconut-Cashew Base:**
 
-Drain and rinse those soaked cashews. In a high-powered blender, combine the soaked cashews with 1 cup of the coconut milk. Blend on high for 2-3 minutes until completely smooth and silky—NO graininess, chief. This is critical. Set aside.
+Drain and rinse those soaked cashews. In a high-powered blender, combine the soaked cashews with 1 cup of the coconut milk. Blend on high for 2-3 minutes until completely smooth and silky—NO graininess, friend. This is critical. Set aside.
 
 In a medium saucepan, whisk the cornstarch with 1/4 cup of the coconut cream until no lumps remain—and I mean NONE. Add the remaining coconut cream, remaining coconut milk, sugar, grated palm sugar, and coconut milk powder if using. Whisk to combine.
 
@@ -3176,13 +3176,13 @@ Refrigerate at least 4 hours or overnight.
 
 **Churn:**
 
-Give the base a good whisk before churning because coconut cream may have separated slightly—it's dramatic like that. Churn until soft-serve consistency. Coconut-based ice cream takes longer than dairy to freeze due to different fat crystallization—expect it to look thick and pale tan when ready. Be patient, friend.
+Give the base a good whisk before churning because coconut cream may have separated slightly—it's dramatic like that. Churn until soft-serve consistency. Coconut-based ice cream takes longer than dairy to freeze due to different fat crystallization—expect it to look thick and pale tan when ready. Be patient, pal.
 
 In the last minute, add those candied cashew clusters and toasted coconut flakes.
 
 Transfer to your container in layers: spread 1/3 of the ice cream, drizzle piri piri caramel in ribbons, repeat twice. Gently swirl with a knife without fully incorporating—you want those dramatic streaks.
 
-Freeze at least 4 hours or overnight. Vegan ice cream freezes harder than dairy because plant fats are assholes, so remove from the freezer 5-10 minutes before serving to let it soften slightly.
+Freeze at least 4 hours or overnight. Vegan ice cream freezes harder than dairy because plant fats are stubborn, so remove from the freezer 5-10 minutes before serving to let it soften slightly.
 
 ## Notes
 
@@ -3192,7 +3192,7 @@ Mozambique is one of the world's largest cashew producers—the country has be
 
 Coconut is a staple along Mozambique's 1,500-mile coastline—used in everything from curries to desserts. Piri piri (African bird's eye chili) is THE iconic Mozambican ingredient—it's everywhere. The name comes from Swahili, and these tiny, fierce chilies have been cultivated in East Africa for centuries.
 
-Portuguese influence brought garlic-based cooking and the technique of combining sweet and savory flavors in unexpected ways. This combines indigenous ingredients (cashew, coconut, piri piri) with colonial influences (garlic caramel, Portuguese sweet-savory balance) for distinctly Mozambican flavor that's actually pretty fucking cool when you think about it.
+Portuguese influence brought garlic-based cooking and the technique of combining sweet and savory flavors in unexpected ways. This combines indigenous ingredients (cashew, coconut, piri piri) with colonial influences (garlic caramel, Portuguese sweet-savory balance) for distinctly Mozambican flavor that's actually really fascinating when you think about it.
 
 **Vegan texture:**
 
@@ -3202,17 +3202,17 @@ Plant-based ice cream has a different mouthfeel than dairy—it melts faster o
 
 **Palm sugar:**
 
-Unrefined palm sugar or jaggery (from palm sap) is traditional in Mozambican sweets. Has this deep, caramel-molasses flavor that's different from regular sugar. If unavailable, use half brown sugar and half white sugar—not quite the same but it'll work, pal.
+Unrefined palm sugar or jaggery (from palm sap) is traditional in Mozambican sweets. Has this deep, caramel-molasses flavor that's different from regular sugar. If unavailable, use half brown sugar and half white sugar—not quite the same but it'll work, friend.
 
 **Piri piri heat:**
 
 Piri piri chilies (African bird's eye) have sharp, citrusy heat—different from habanero or jalapeño. If you can't find fresh or dried piri piri, use African or Portuguese piri piri sauce (many brands available). Start with 2 tsp in the caramel, taste it, add more if you're feeling brave. Thai bird's eye chilies work as a substitute.
 
-Garlic in a sweet context sounds absolutely fucking insane but provides savory depth that makes the caramel more complex instead of one-note.
+Garlic in a sweet context sounds absolutely wild but provides savory depth that makes the caramel more complex instead of one-note.
 
 **Soaking cashews:**
 
-This is CRITICAL, homie. Unsoaked cashews won't blend smooth even in a high-powered blender—they'll stay grainy and ruin everything. Need minimum 4 hours, preferably overnight. Hot water soak works in a pinch (pour boiling water over cashews, soak 30-60 minutes) but overnight cold soak is better.
+This is CRITICAL, friend. Unsoaked cashews won't blend smooth even in a high-powered blender—they'll stay grainy and ruin everything. Need minimum 4 hours, preferably overnight. Hot water soak works in a pinch (pour boiling water over cashews, soak 30-60 minutes) but overnight cold soak is better.
 
 **Visual:**
 
@@ -3240,11 +3240,11 @@ Candied cashews can be made up to a week ahead and stored airtight. Toasted coco
 
 **Total Time:** 7-9 hours (includes 2-3 hours of brittle cooling and custard chilling—you'll have plenty of time to drink the coffee you just brewed)
 
-Ethiopia is the birthplace of coffee—literally. Legend says a goat herder named Kaldi discovered coffee in the 9th century when his goats got hyper as hell after eating certain berries. Today, the Ethiopian coffee ceremony (jebena buna) is a ritual of hospitality that can last hours, involving roasting green beans, grinding them by hand, and serving three rounds of increasingly lighter coffee with popcorn or peanuts.
+Ethiopia is the birthplace of coffee—literally. Legend says a goat herder named Kaldi discovered coffee in the 9th century when his goats got incredibly hyper after eating certain berries. Today, the Ethiopian coffee ceremony (jebena buna) is a ritual of hospitality that can last hours, involving roasting green beans, grinding them by hand, and serving three rounds of increasingly lighter coffee with popcorn or peanuts.
 
-Berbere is Ethiopia's signature spice blend—complex, layered, essential to dishes like doro wat and kitfo. Every family has their own recipe, but it typically includes fenugreek, cardamom, coriander, black pepper, cinnamon, cloves, and dried chilies. The blend is earthy, warm, slightly bitter, and absolutely fucking beautiful when used right.
+Berbere is Ethiopia's signature spice blend—complex, layered, essential to dishes like doro wat and kitfo. Every family has their own recipe, but it typically includes fenugreek, cardamom, coriander, black pepper, cinnamon, cloves, and dried chilies. The blend is earthy, warm, slightly bitter, and absolutely gorgeous when used right.
 
-This brings those elements together: coffee-honey custard, berbere-spiced caramel, spiced coffee brittle, and optional teff crumble for that distinctly Ethiopian grain character. Fair warning, chief—this is not your standard coffee ice cream. This is Horn of Africa complexity in frozen form, and it's going to make you work for it.
+This brings those elements together: coffee-honey custard, berbere-spiced caramel, spiced coffee brittle, and optional teff crumble for that distinctly Ethiopian grain character. Fair warning, friend—this is not your standard coffee ice cream. This is Horn of Africa complexity in frozen form, and it's going to make you work for it.
 
 ## Ingredients
 
@@ -3290,7 +3290,7 @@ This brings those elements together: coffee-honey custard, berbere-spiced carame
 
 **Spiced Coffee Brittle (make this first, needs time to cool):**
 
-Line a baking sheet with parchment or a silicone mat. Have everything measured and ready—once this starts moving, you can't stop to measure shit, dude.
+Line a baking sheet with parchment or a silicone mat. Have everything measured and ready—once this starts moving, you can't stop to measure things, friend.
 
 In a saucepan, combine sugar, water, and corn syrup. Heat over medium-high without stirring until it reaches 300°F (hard crack stage), about 12-15 minutes. The mixture should be golden amber—copper penny color.
 
@@ -3320,7 +3320,7 @@ Pull it off the heat. Carefully add the berbere spice—it'll sizzle and bloom
 
 Add the warmed cream in a slow stream while whisking constantly—it'll bubble dramatically, so don't panic. Whisk until smooth.
 
-Add the butter and salt, whisk thoroughly. Should be dark reddish-brown and smell intensely of caramel with warm berbere spices underneath—earthy, slightly bitter, complex as hell.
+Add the butter and salt, whisk thoroughly. Should be dark reddish-brown and smell intensely of caramel with warm berbere spices underneath—earthy, slightly bitter, seriously complex.
 
 Cool to room temperature, then refrigerate. Should be thick but pourable when cold.
 
@@ -3366,7 +3366,7 @@ The Ethiopian coffee ceremony is a profound cultural ritual—green beans are 
 
 Berbere is THE spice blend of Ethiopian cuisine—every family has their own recipe with slight variations. Traditional berbere typically includes: dried chilies (often Ethiopian berbere peppers), fenugreek seeds, coriander seeds, black peppercorns, cardamom, cinnamon, cloves, ginger, and sometimes ajwain or korarima (Ethiopian cardamom).
 
-The blend should be earthy, warm, slightly bitter from the fenugreek, aromatic from the cardamom and cloves, with gentle heat from the chilies—not aggressive spiciness, but warmth. Buy berbere from Ethiopian markets, good spice companies (Burlap & Barrel, Diaspora Co.), or online. Quality matters here, homie—old, stale berbere tastes dusty and flat.
+The blend should be earthy, warm, slightly bitter from the fenugreek, aromatic from the cardamom and cloves, with gentle heat from the chilies—not aggressive spiciness, but warmth. Buy berbere from Ethiopian markets, good spice companies (Burlap & Barrel, Diaspora Co.), or online. Quality matters here, friend—old, stale berbere tastes dusty and flat.
 
 In the caramel, start with 1 tsp berbere and taste. You can always add more after cooling if you want it more pronounced. Too much can overpower everything and make it bitter.
 
@@ -3406,7 +3406,7 @@ Pale brown coffee-honey base with dark reddish-brown berbere caramel ribbons, da
 
 **What it tastes like:**
 
-Rich coffee-honey base—aromatic, floral, slightly wine-like if you used good Ethiopian coffee. The berbere caramel hits with warm spices—earthy fenugreek, aromatic cardamom, gentle warmth from chilies, all wrapped in dark caramelized sugar. Coffee brittle provides intense coffee bursts and crunch. Optional teff crumble adds nutty, grain character that reinforces the Ethiopian identity. Complex, sophisticated, unlike anything else in the collection. This is Horn of Africa in a bowl, and it's absolutely worth the fucking effort, friend.
+Rich coffee-honey base—aromatic, floral, slightly wine-like if you used good Ethiopian coffee. The berbere caramel hits with warm spices—earthy fenugreek, aromatic cardamom, gentle warmth from chilies, all wrapped in dark caramelized sugar. Coffee brittle provides intense coffee bursts and crunch. Optional teff crumble adds nutty, grain character that reinforces the Ethiopian identity. Complex, sophisticated, unlike anything else in the collection. This is Horn of Africa in a bowl, and it's absolutely worth the whole effort, pal.
 
 **Allergen Information:** Contains wheat (if using teff crumble)
 
