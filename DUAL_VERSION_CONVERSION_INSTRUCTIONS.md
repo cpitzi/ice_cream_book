@@ -52,9 +52,9 @@ Clean-only paragraph here.
 5. **Do NOT change anything else** -- no rewriting, no added content, no removed content, no reformatting. The only change should be wrapping existing text in markers.
 6. **Compile both versions**: `python compile_book.py`
 7. **Validate the clean version** is profanity-free for the converted file: `grep -inE '\bfuck|\bshit\b|\bdamn\b|\bhell\b|\bgoddam|\bbastard|\bdipshit|\bdumbass|\bjackass|\bhalf-ass|\bbatshit' Ice_Cream_to_Fight_Over_COMPLETE_CLEAN.md`
-8. **Commit** with a message like: `Convert [recipe name] to dual-version markers`
+8. **Commit** with a message like: `Convert [recipe name] to dual-version markers`. Do NOT commit the compiled books. The github action will do that after PR creation.
 9. **Push** to the assigned branch
-10. **Create a PR** and provide the link to the user
+10. **Create a PR** and provide the link to the user. Since you can't use gh, curl the URL directly using GH_TOKEN.
 
 ## Typical Marker Count
 
