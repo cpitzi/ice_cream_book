@@ -108,7 +108,7 @@ Raw, unsalted pistachios are available at most grocery stores, but if you can fi
 
 **About rose water:**
 
-This is the ingredient that fucks up most people who try Middle Eastern desserts at home, so pay attention. Too little and you won't taste it - it'll be a phantom flavor that doesn't register. Too much and your ice cream tastes like your grandmother's perfume, like you're eating a bouquet of roses that's been sitting in a hot car. The potency comes from the concentrated volatile compounds extracted from rose petals during distillation - mostly citronellol, geraniol, and nerol, which are the same compounds that make roses smell like roses. A tiny amount creates elegant floral complexity. Too much creates overwhelming perfume.
+This is the ingredient that {{v: fucks up | trips up }} most people who try Middle Eastern desserts at home, so pay attention. Too little and you won't taste it - it'll be a phantom flavor that doesn't register. Too much and your ice cream tastes like your grandmother's perfume, like you're eating a bouquet of roses that's been sitting in a hot car. The potency comes from the concentrated volatile compounds extracted from rose petals during distillation - mostly citronellol, geraniol, and nerol, which are the same compounds that make roses smell like roses. A tiny amount creates elegant floral complexity. Too much creates overwhelming perfume.
 
 Rose water's intensity varies wildly by brand, so always taste and adjust. The goal is a subtle, haunting floral note that you notice after a few bites, not an aggressive HELLO I AM ROSES assault on your palate when you take the first spoonful.
 

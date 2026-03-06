@@ -2,11 +2,11 @@
 
 *Greek summer in a bowl*
 
-**Difficulty:** THE REAL DEAL - You're triple-blanching lemon peel (tedious as hell), emulsifying olive oil into custard (which requires drizzling SLOWLY or you'll fuck it up), and adding yogurt to cold custard without curdling it. The candied peel alone takes hours. The olive oil emulsification is where most people fail - rush it and you get greasy separated mess with no fix. Multiple components, precise technique, not much room for error. This is not for beginners, homie.
+**Difficulty:** THE REAL DEAL - You're triple-blanching lemon peel ({{v: tedious as hell | seriously tedious }}), emulsifying olive oil into custard (which requires drizzling SLOWLY or you'll {{v: fuck it up | mess it up }})), and adding yogurt to cold custard without curdling it. The candied peel alone takes hours. The olive oil emulsification is where most people fail - rush it and you get greasy separated mess with no fix. Multiple components, precise technique, not much room for error. This is not for beginners, {{v: homie | friend }}.
 
 **Total Time:** 10-12 hours across 2-3 days (includes triple blanching, 4+ hours of peel drying, overnight chilling, plus time spent drizzling olive oil at a pace that would make a snail impatient)
 
-Olive oil in ice cream sounds wrong until you try it - then it makes total sense, homie. The fruity, peppery notes of good olive oil work surprisingly well in a sweet context, especially with tangy yogurt and bright lemon. Rosemary adds an herbal backbone, and honey ties it all together. It's one of those combinations that looks completely unhinged on paper but tastes like someone who actually knows what they're doing made it.
+Olive oil in ice cream sounds wrong until you try it - then it makes total sense, {{v: homie | friend }}. The fruity, peppery notes of good olive oil work surprisingly well in a sweet context, especially with tangy yogurt and bright lemon. Rosemary adds an herbal backbone, and honey ties it all together. It's one of those combinations that looks completely unhinged on paper but tastes like someone who actually knows what they're doing made it.
 
 This one requires some faith, but it pays off. Trust me. The olive oil doesn't taste "oily" or "salad-y" - it adds this rich, fruity complexity that's hard to describe but unmistakably Mediterranean.
 
@@ -48,7 +48,7 @@ Combine 1 cup water and 1 cup sugar in a saucepan, bring to a simmer, stirring u
 
 Transfer the peels to a wire rack set over parchment paper (to catch drips) and let them dry for 4+ hours or overnight until they're tacky rather than wet. You want them to lose enough moisture that they're not dripping syrup everywhere, but still sticky enough that sugar will cling to them. Then toss them in granulated sugar to coat.
 
-*Quick method if you're short on time:* After simmering, let them cool for just 30 minutes instead of 4+ hours, then toss them in sugar while they're still quite sticky. They'll be stickier and less elegant - more like sticky candy than candied peel - but the flavor is still excellent and they'll work fine in the ice cream. Sometimes good enough is good enough, friend.
+*Quick method if you're short on time:* After simmering, let them cool for just 30 minutes instead of 4+ hours, then toss them in sugar while they're still quite sticky. They'll be stickier and less elegant - more like sticky candy than candied peel - but the flavor is still excellent and they'll work fine in the ice cream. Sometimes good enough is good enough, {{v: friend | pal }}.
 
 **Infuse Base with Rosemary:**
 
@@ -72,13 +72,13 @@ Make your custard with the 3 egg yolks and the sugar-honey mixture using the sta
 
 Remove from heat and let it cool for 5 minutes while stirring occasionally. You want it warm but not scorching hot for the next step.
 
-Here's the tricky but crucial part, chief: slowly - and I mean SLOWLY - drizzle in the olive oil while whisking constantly. We're talking a thin stream, not a pour. Like, if you were filming this for social media, it would look annoyingly slow. But there's a good reason for this.
+Here's the tricky but crucial part, {{v: chief | friend }}: slowly - and I mean SLOWLY - drizzle in the olive oil while whisking constantly. We're talking a thin stream, not a pour. Like, if you were filming this for social media, it would look annoyingly slow. But there's a good reason for this.
 
 What you're doing is creating an emulsion - a stable mixture of two liquids that normally don't want to mix together (in this case, oil and the water-based custard). Oil and water separate naturally because oil molecules are hydrophobic (they repel water). To get them to stay mixed, you need to break the oil into tiny droplets and suspend those droplets throughout the custard. The egg yolks in your custard contain lecithin, a natural emulsifier that helps stabilize these oil droplets.
 
 When you drizzle the oil in slowly while whisking hard, you're mechanically breaking it into microscopic droplets. The lecithin molecules surround each droplet and prevent them from merging back together. If you dump all the oil in at once, you overwhelm the emulsifying capacity of the egg yolks - there's too much oil for the lecithin to handle, and the droplets merge back into a separated, greasy layer. You'll end up with an oily, separated mess that looks and tastes wrong.
 
-The oil should incorporate smoothly, disappearing into the custard without creating any slick on the surface. If you see oil pooling or floating, you've added it too fast and it's separated. There's not much you can do to fix this if it happens - you basically have to start over. So take your time, dude.
+The oil should incorporate smoothly, disappearing into the custard without creating any slick on the surface. If you see oil pooling or floating, you've added it too fast and it's separated. There's not much you can do to fix this if it happens - you basically have to start over. So take your time, {{v: dude | friend }}.
 
 Stir in a pinch of salt. Strain the custard through a fine-mesh sieve to catch any cooked egg bits.
 
@@ -158,7 +158,7 @@ Bright lemon hits you first - fresh, zesty, almost zingy. Then this subtle olive
 
 When you hit a piece of candied lemon peel, you get intense, concentrated citrus flavor with a slightly chewy texture that contrasts nicely with the smooth base. The peel adds bursts of lemon that remind you "oh yeah, this is definitely a lemon thing" in case the rest of the flavors were being too subtle about it.
 
-It tastes like summer on a Greek island you've never been to but somehow remember, pal. Very refreshing, very grown-up, very "I put actual thought into this." The kind of ice cream that makes people ask for the recipe and then look at you skeptically when you say "olive oil."
+It tastes like summer on a Greek island you've never been to but somehow remember, {{v: pal | friend }}. Very refreshing, very grown-up, very "I put actual thought into this." The kind of ice cream that makes people ask for the recipe and then look at you skeptically when you say "olive oil."
 
 ---
 
