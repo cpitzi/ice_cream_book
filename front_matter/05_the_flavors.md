@@ -1,30 +1,30 @@
-## The Flavors (AKA: The Shit You're About to Get Yourself Into)
+## The Flavors (AKA: The {{v: Shit | Stuff }} You're About to Get Yourself Into)
 
-Here's what you're getting into, organized by difficulty so you can build your skills as you go--or ignore my advice entirely and jump straight to the hard stuff like the reckless bastard you probably are:
+Here's what you're getting into, organized by difficulty so you can build your skills as you go--or ignore my advice entirely and jump straight to the hard stuff like the reckless {{v: bastard | legend }} you probably are:
 
 ### CHILL
 *Start here if you're new to ambitious ice cream or just want something delicious without the existential drama*
 
 **Coconut Pandan** -- Thailand's answer to vanilla, except it's green and tastes like vacation in a bowl
 
-**Bơ Chanh** -- Vietnam said "fuck it, avocados are dessert now" and they were absolutely RIGHT
+**Bơ Chanh** -- Vietnam said "{{v: fuck it | you know what }}, avocados are dessert now" and they were absolutely RIGHT
 
-**Cardamom-Pistachio Kulfi** -- India's been freezing dairy for centuries and making it look easy while the rest of us struggle like idiots
+**Cardamom-Pistachio Kulfi** -- India's been freezing dairy for centuries and making it look easy while the rest of us struggle like {{v: idiots | beginners }}
 
 ### LEGIT
-*You've made custard before without completely shitting the bed and you're ready for some complexity*
+*You've made custard before without completely {{v: shitting the bed | falling apart }} and you're ready for some complexity*
 
 **Horchata** -- Mexico's most refreshing street drink, now cold enough to hurt your teeth in the best way
 
-**Miso Matcha** -- Japan's umami bomb meets ceremonial tea in the world's fanciest "what the hell am I eating" ice cream
+**Miso Matcha** -- Japan's umami bomb meets ceremonial tea in the world's fanciest "what {{v: the hell | on earth }} am I eating" ice cream
 
 **Chili Mango** -- Mexico City street vendors have been doing this for decades, we just froze it like the geniuses we are
 
-**Wattleseed & Macadamia** -- Australian bush tucker meets buttery nuts (yes, wattleseed is fucking real, look it up)
+**Wattleseed & Macadamia** -- Australian bush tucker meets buttery nuts (yes, wattleseed is {{v: fucking | absolutely }} real, look it up)
 
 **Tarte Tatin** -- France's upside-down apple flex, now you can eat it with a spoon like a civilized degenerate
 
-**Gochugaru and Sesame** -- Korean chile that's fruity as hell meets toasted nuttiness in a combo that slaps
+**Gochugaru and Sesame** -- Korean chile that's fruity {{v: as hell | beyond belief }} meets toasted nuttiness in a combo that slaps
 
 **Rum Banana** -- Haiti said "what if we made banana pudding drunk and tropical" and honestly, bless them
 
@@ -34,7 +34,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Atole de Anis** -- Mexican breakfast corn drink that absolutely nobody asked us to freeze (but here we are, doing it anyway)
 
-**Bocadillo y Café** -- Colombia's tropical fruit meets dark coffee in a mashup that shouldn't work but absolutely fucking does
+**Bocadillo y Cafe** -- Colombia's tropical fruit meets dark coffee in a mashup that shouldn't work but absolutely {{v: fucking | positively }} does
 
 **Sfogliatelle** -- Naples' most extra pastry, shellacked and frozen for your convenience because we've all lost our minds
 
@@ -63,9 +63,9 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Nabulsi Knafeh** -- Levantine cheese dessert that's salty, sweet, crunchy, and floral all at once (yes, there's goat cheese, deal with it)
 
-### A FUCKING ORDEAL
-*You've been warned, cowboy. Turn back now or embrace your fate.*
+### A {{v: FUCKING | REAL }} ORDEAL
+*You've been warned, {{v: cowboy | friend }}. Turn back now or embrace your fate.*
 
 **New Orleans Chicory Coffee & Beignet** -- New Orleans at 3 AM: yeasted dough, frying oil, chicory coffee, rum-soaked regret, and poor life decisions that somehow taste incredible
 
-**Appalachian Pawpaw & Maple** -- Appalachia's forgotten tropical fruit that only exists for two weeks a year (good fucking luck finding it)
+**Appalachian Pawpaw & Maple** -- Appalachia's forgotten tropical fruit that only exists for two weeks a year (good {{v: fucking | stinking }} luck finding it)

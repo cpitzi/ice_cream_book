@@ -55,7 +55,7 @@ Welcome to the chaos, friend. Grab a spatula.
 - [Golden Milk and Fig](#golden-milk-and-fig)
 - [Brown Bread](#brown-bread)
 - [Atole de Anis](#atole-de-anis)
-- [Bocadillo y Café](#bocadillo-y-café)
+- [Bocadillo y Cafe](#bocadillo-y-café)
 - [Sfogliatelle](#sfogliatelle)
 - [Sichuan Plum](#sichuan-plum)
 
@@ -169,7 +169,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Atole de Anis** -- Mexican breakfast corn drink that absolutely nobody asked us to freeze (but here we are, doing it anyway)
 
-**Bocadillo y Café** -- Colombia's tropical fruit meets dark coffee in a mashup that shouldn't work but absolutely fucking does
+**Bocadillo y Cafe** -- Colombia's tropical fruit meets dark coffee in a mashup that shouldn't work but absolutely fucking does
 
 **Sfogliatelle** -- Naples' most extra pastry, shellacked and frozen for your convenience because we've all lost our minds
 
@@ -217,7 +217,7 @@ These recipes are rated on a four-tier system: CHILL, LEGIT, THE REAL DEAL, and 
 
 **THE REAL DEAL** means even experienced home cooks will probably fuck something up at least once before mastering the technique, buckaroo. These recipes have narrow margins for error, techniques that can go irreversibly wrong in literal seconds, or enough complexity that mistakes are basically inevitable on your first attempt no matter how good you think you are. You're emulsifying olive oil into custard where rushing creates an unfixable greasy mess that'll haunt your dreams. You're burning honey to exactly the right point with zero margin between perfect and completely ruined. You're browning butter three separate times and hitting that narrow window between nutty and burnt each time while sweating like you're defusing a bomb. You'll learn from mistakes, adjust your technique, and probably make each recipe twice before you master it. That's not failure--that's the goddamn process.
 
-**A FUCKING ORDEAL** means you've genuinely lost your mind, and I respect the hell out of that, my guy. These two recipes exist in their own category because they combine extreme difficulty with extreme commitment in ways that set them apart from everything else in this book and possibly from sanity itself. You're either dealing with ingredient sourcing so absurd that you have a two-week annual window and the fruit dies in forty-eight hours like some kind of culinary Cinderella situation, or you're making yeasted dough from scratch, managing 360-degree frying oil that wants to burn your house down, making multiple caramels, and committing three-plus hours of active work to a single batch of ice cream. These are trophy recipes. Build up to them. Prove something to yourself. Understand that you're doing something almost nobody else does because most people have better judgment than us.
+**A FUCKING ORDEAL** means you've genuinely lost your mind, and I respect the hell out of you, my guy. These two recipes exist in their own category because they combine extreme difficulty with extreme commitment in ways that set them apart from everything else in this book and possibly from sanity itself. You're either dealing with ingredient sourcing so absurd that you have a two-week annual window and the fruit dies in forty-eight hours like some kind of culinary Cinderella situation, or you're making yeasted dough from scratch, managing 360-degree frying oil that wants to burn your house down, making multiple caramels, and committing three-plus hours of active work to a single batch of ice cream. These are trophy recipes. Build up to them. Prove something to yourself. Understand that you're doing something almost nobody else does because most people have better judgment than us.
 
 Don't start with A FUCKING ORDEAL recipes if you've never made custard--you'll cry, and not in a good way. Don't even start with THE REAL DEAL recipes if you're new to ice cream--that's how you end up hating this cookbook and me personally. Build your skills with CHILL recipes to gain confidence, work through LEGIT recipes to develop your component management and custard technique, tackle THE REAL DEAL to master precision and learn from failure like a functional adult, and THEN attempt A FUCKING ORDEAL when you're ready to commit fully to the beautiful, batshit absurdity of it all.
 
@@ -285,7 +285,7 @@ Strain the custard through a fine-mesh sieve into a clean bowl. This catches any
 
 At this point, many recipes will have you stir in additional ingredients--extracts, purees, salt, whatever. Follow the specific recipe's instructions here.
 
-### 6. The Ice Bath (Don't Skip This Shit, Seriously)
+### 6. The Ice Bath (Don't Skip This, Seriously)
 
 Fill a large bowl with ice and a bit of water. Set your bowl of custard in the ice bath. Stir occasionally as it cools to room temperature, then to actually cold--like, fridge-cold. Not "eh, it's probably fine" cold. Actually cold, you impatient bastard.
 
