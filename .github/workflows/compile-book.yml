@@ -7,12 +7,41 @@ on:
       - 'recipes/**'
       - 'back_matter/**'
       - 'compile_book.py'
+      - 'validate_book.py'
+      - '_typos.toml'
 
 permissions:
   contents: write
 
 jobs:
+  validate:
+    name: Validate book quality
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Compile book (both versions)
+        run: python compile_book.py
+
+      - name: Run quality checks
+        run: python validate_book.py
+
+      - name: Spell check with typos
+        uses: crate-ci/typos@v1.28.4
+        with:
+          config: ./_typos.toml
+
   compile:
+    name: Compile and commit
+    needs: validate
     runs-on: ubuntu-latest
     steps:
       - name: Checkout PR branch

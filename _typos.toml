@@ -1,0 +1,25 @@
+# typos spell checker configuration
+# https://github.com/crate-ci/typos
+
+[default]
+extend-ignore-re = [
+    # Markdown anchor links strip apostrophes, creating "youre", "dont", etc.
+    "#[a-z0-9-]+",
+    # Dual-version markers contain fragmented words
+    "\\{\\{v:.*?\\}\\}",
+    "\\{\\{c:.*?\\}\\}",
+]
+
+[default.extend-words]
+# Avocado variety
+Hass = "Hass"
+# Intentional casual language / slang
+assing = "assing"
+assed = "assed"
+
+[files]
+extend-exclude = [
+    "Ice_Cream_to_Fight_Over_COMPLETE.md",
+    "Ice_Cream_to_Fight_Over_COMPLETE_CLEAN.md",
+    "*.sh",
+]
