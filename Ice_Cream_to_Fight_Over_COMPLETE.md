@@ -1,4 +1,4 @@
-# Ice Cream to Fight Over: 27 Recipes You'll Fuck Up At Least Once
+# Ice Cream to Fight Over: Recipes You'll Fuck Up At Least Once
 
 ## Introduction
 
@@ -10,9 +10,9 @@ So here's the goddamn deal: This is a collection of ice cream recipes that actua
 
 Each of these recipes is basically a high-wire act of cultural translation--taking flavors that define a cuisine or a region and figuring out how to make them work in ice cream without completely bastardizing what makes them special. (Spoiler: Sometimes you'll bastardize them a little. Shit happens. We're doing our best here, and that's all anyone can ask. The important thing is we're doing it with respect, good ingredients, and a reasonable amount of panic.)
 
-Some of them are elegant as hell--lemon and rosemary honey with olive oil, golden milk with fig. Some are straight-up weird as shit--gochugaru and sesame, miso matcha, ricotta-semolina that tastes like a Neapolitan pastry had a fever dream after eating questionable mushrooms. And some are deeply, weirdly American in ways that might surprise you: Southwest red chile with Mexican chocolate, Irish brown bread with whiskey, Appalachian pawpaw that you can only source for two goddamn weeks in September if you're willing to fight a raccoon for it. (The raccoon will win. Ask me how I know. Actually, don't.)
+Some of them are elegant as hell--lemon and rosemary honey with olive oil, golden milk with fig. Some are straight-up weird as shit--gochugaru and sesame, miso matcha, ricotta-semolina that tastes like a Neapolitan pastry had a fever dream after eating questionable mushrooms. And some are flat-out endurance tests--three-hour beignet doughs, candied ginger that takes two days, a pawpaw that only exists for two weeks in September and goes bad in 48 hours.
 
-Here's what I need you to understand before we go any further, chief: You WILL fuck something up. Probably multiple somethings. I've fucked up every single one of these recipes at least once, and I wrote the damn things. That's not a failure--that's the process. The title isn't a warning, it's a promise. You'll burn the brown butter. You'll curdle a custard. You'll spend four hours making candied ginger and then eat half of it before it makes it into the ice cream. (No shame, homie. Candied ginger is stupid good.)
+Speaking of which, here's what I need you to understand before we go any further, chief: You WILL fuck something up. Probably multiple somethings. I've fucked up every single one of these recipes at least once, and I wrote the damn things. That's not a failure--that's the process. The title isn't a warning, it's a promise. You'll burn the brown butter. You'll curdle a custard. You'll spend four hours making candied ginger and then eat half of it before it makes it into the ice cream. (No shame, homie. Candied ginger is stupid good.)
 
 But when you nail one of these--when you pull a batch of Sichuan plum with five-spice out of the churner and the color is this impossible purple-pink and it smells like a spice market in heaven--dude, that feeling is why we do this. That's the ice cream worth fighting over.
 
@@ -55,7 +55,7 @@ Welcome to the chaos, friend. Grab a spatula.
 - [Golden Milk and Fig](#golden-milk-and-fig)
 - [Brown Bread](#brown-bread)
 - [Atole de Anis](#atole-de-anis)
-- [Bocadillo y Cafe](#bocadillo-y-café)
+- [Bocadillo y Café](#bocadillo-y-café)
 - [Sfogliatelle](#sfogliatelle)
 - [Sichuan Plum](#sichuan-plum)
 
@@ -87,11 +87,11 @@ Welcome to the chaos, friend. Grab a spatula.
 
 Look, pal--these recipes are hard as hell, they take fucking forever, and they'll make you question every life decision that led you to this moment. But they're also worth every minute of suffering. Here's what you're getting your dumb ass into:
 
-**The Commitment Is Real As Shit.** Most of these require multiple components, specialty ingredients, and the kind of advance planning usually reserved for international espionage or elaborate heists. You'll be candying citrus peels overnight like some kind of Victorian apothecary who lost the plot. You'll be tracking down wattleseed from Aboriginal suppliers in Australia, then spending twenty goddamn minutes on the phone explaining to your partner why there's a $47 international shipping charge on the credit card for "weird tree seeds." You'll learn the difference between New Mexican red chile and cayenne, and you'll become *that insufferable asshole* at parties who corrects people about chile varieties. (You'll hate yourself for it, but you'll still do it because you've lost all control.)
+**The Commitment Is Real As Shit.** Most of these require multiple components, specialty ingredients, and the kind of advance planning usually reserved for international espionage or elaborate heists. You'll be candying citrus peels overnight like some kind of Victorian apothecary who lost the plot. You'll be ordering wattleseed from Australia and explaining the shipping charge to your partner with the energy of someone who knows they've already lost the argument. You'll learn the difference between New Mexican red chile and cayenne, and you'll annoyingly correct someone at a party.
 
-You'll spend an entire fucking afternoon blanching orange peel three times to pull out the bitterness. You'll wait for yeasted dough to rise, then wait some more, then check on it like it's a sourdough starter you're emotionally attached to in ways your therapist would find concerning. You'll carefully temper custard while hunched over a thermometer like a nervous parent taking a baby's temperature, praying to whatever god handles dairy products that it doesn't turn into expensive scrambled eggs. Spoiler: it will, at least once, and you'll want to cry. (It's okay. We've all cried over custard. This is a safe space.)
+You'll spend an entire fucking afternoon blanching orange peel three times to pull out the bitterness. You'll wait for yeasted dough to rise, then wait some more, then check on it like it's a sourdough starter you're emotionally attached to in ways your therapist would find concerning. You'll stare at a pot of caramel willing it to hit amber, knowing that the difference between perfect and ruined is about ten seconds of not paying attention.
 
-These are weekend projects. Passion projects. The kind of batshit thing you make when you actually *want* to spend six hours in the kitchen instead of, I don't know, going outside or having a normal hobby like everyone else who hasn't completely lost their minds. These are "I'm going to put on a podcast and settle in" recipes. "I'm going to open that nice bottle of wine while I work and probably finish it" recipes. "I'm going to completely lose track of time and emerge from the kitchen at 11 PM covered in cream, regret, and a fine mist of caramelized sugar that's now permanently bonded to my arm hair" recipes. You know who you are.
+These are weekend projects. Passion projects. The kind of batshit thing you make when you actually *want* to spend six hours in the kitchen instead of, I don't know, going outside like a normal person. These are "I'm going to put on a podcast and settle in" recipes. "I'm going to open that nice bottle of wine while I work and probably finish it" recipes. "I'm going to completely lose track of time and emerge from the kitchen at 11 PM covered in cream, regret, and caramelized sugar" recipes. You know who you are.
 
 **You Will Fuck Up.** Not "might." Will. The title isn't cute--it's a goddamn warning, friend. Caramel will seize into a crystallized nightmare that looks like you tried to make meth. Custard will scramble into sweet scrambled eggs that you'll have to strain out in denial before finally admitting defeat and starting the fuck over. The first batch of brittle will burn because you looked away for two seconds like an idiot. Yeast won't bloom because your milk was too hot and you've just murdered several million microorganisms like some kind of microscopic war criminal. Olive oil will break out of emulsion and create an oily slick that cannot be fixed no matter how much you want to believe that immersion blender will save you. (It won't. It never does. Stop lying to yourself.)
 
@@ -99,7 +99,7 @@ This is part of the process, chief. These recipes are challenging because they'r
 
 **But When It Works, Holy Shit.** Every single complicated step, every hard-to-find ingredient, every moment of "why the hell am I doing this to myself" actually pays off when you taste something you've genuinely never had before. Ice cream that tastes like Naples' most baroque pastry had a religious experience. Ice cream that captures the exact flavor of Korean gochugaru's fruity heat with the nutty depth of toasted sesame in a way that makes you say "oh FUCK that's good" out loud to no one. Ice cream that tastes like foraging in Appalachian mountains in September, except you didn't have to forage for shit because you paid someone $15 per pound to ship you frozen fruit pulp like the lazy genius you are.
 
-It's maddening. You'll absolutely curse this book while you're making these--probably out loud, probably creatively, probably in combinations of profanity your grandmother would be horrified by. And then you'll taste them and immediately start planning which one you're making next weekend because you're a glutton for punishment and also kind of addicted now. Don't say I didn't warn you, homie.
+It's maddening. You'll absolutely curse this book while you're making these--probably out loud, probably creatively, probably in words your grandmother would be horrified by (or she taught you? No judgement.). And then you'll taste them and immediately start planning which one you're making next weekend because you're a glutton for punishment and also kind of addicted now. Don't say I didn't warn you, homie.
 
 ---
 
