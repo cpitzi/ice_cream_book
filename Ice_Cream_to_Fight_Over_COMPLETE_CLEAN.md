@@ -459,13 +459,13 @@ Creamy coconut richness with this incredible aromatic complexity from the pandan
 
 *Creamy, dreamy, and your brain will fight you the whole way*
 
-**Difficulty:** CHILL - This is almost offensively easy, homie. You're blending ripe avocados with sweetened condensed milk and lime juice, then freezing the result. No heating, no tempering, no custard anxiety. The only challenge is psychological - your Western brain is going to scream "avocado is for guacamole, not dessert!" but Vietnamese cuisine has known for generations that avocado's buttery richness works beautifully in sweets. Trust the process, blend the fruit, and prepare to have your assumptions thoroughly scrambled.
+**Difficulty:** CHILL - This is almost offensively easy, friend. You're blending ripe avocados with sweetened condensed milk and lime juice, then freezing the result. No heating, no tempering, no custard anxiety. The only challenge is psychological - your Western brain is going to scream "avocado is for guacamole, not dessert!" but Vietnamese cuisine has known for generations that avocado's buttery richness works beautifully in sweets. Trust the process, blend the fruit, and prepare to have your assumptions thoroughly scrambled.
 
 **Total Time:** 4-6 hours (15 minutes active work, the rest is just freezing while you contemplate how wrong this seemed before you tasted it)
 
 Avocado ice cream sounds completely deranged if you grew up thinking avocados only belong on toast or in guacamole. But in Vietnamese cuisine, avocados have been treated as a dessert ingredient for generations - showing up in smoothies, sweet drinks with condensed milk, and ice cream. This isn't fusion or innovation, it's tradition. The French brought condensed milk to Vietnam during colonial times, and it became central to Vietnamese sweets. Avocados arrived later and fit perfectly into that existing sweet tradition.
 
-The result is ice cream that's impossibly creamy and smooth, subtly sweet, with avocado's natural buttery richness playing against the condensed milk's caramel notes. The lime juice keeps everything bright and prevents oxidation. It tastes like the best version of avocado you've ever had, just sweet instead of savory. Your brain will take a minute to adjust, then you'll wonder why the hell America decided this fruit could only be savory.
+The result is ice cream that's impossibly creamy and smooth, subtly sweet, with avocado's natural buttery richness playing against the condensed milk's caramel notes. The lime juice keeps everything bright and prevents oxidation. It tastes like the best version of avocado you've ever had, just sweet instead of savory. Your brain will take a minute to adjust, then you'll wonder why on earth America decided this fruit could only be savory.
 
 This is genuinely one of the easiest recipes in the book. If you can operate a blender, you can make this ice cream.
 
@@ -532,7 +532,7 @@ Pale green, smooth and creamy, almost the color of a honeydew melon or key lime 
 
 **What it tastes like:**
 
-Impossibly creamy and rich, with avocado's characteristic buttery smoothness translated into a sweet context. The condensed milk adds caramel-like sweetness without being cloying. The lime keeps everything bright and prevents that heavy feeling you'd get from pure fat and sugar. It tastes tropical and subtle and fundamentally different from any other ice cream you've had. Your first bite will make you pause and recalibrate everything you thought you knew about avocado. Your second bite will make you wonder why this isn't everywhere. By the third bite you'll be a convert, homie.
+Impossibly creamy and rich, with avocado's characteristic buttery smoothness translated into a sweet context. The condensed milk adds caramel-like sweetness without being cloying. The lime keeps everything bright and prevents that heavy feeling you'd get from pure fat and sugar. It tastes tropical and subtle and fundamentally different from any other ice cream you've had. Your first bite will make you pause and recalibrate everything you thought you knew about avocado. Your second bite will make you wonder why this isn't everywhere. By the third bite you'll be a convert, friend.
 
 ---
 
@@ -546,7 +546,7 @@ Impossibly creamy and rich, with avocado's characteristic buttery smoothness tra
 
 **Total Time:** 7-9 hours (20 minutes of active work mixing dairy and spices, then an eternity of waiting for it to freeze because kulfi doesn't rush for anyone)
 
-Look, homie—kulfi is India's traditional frozen dessert that predates Western ice cream by centuries, and it's denser, richer, and more intensely flavored than anything you'll get from a churned custard base. Traditionally, you'd reduce milk for 2+ hours until it's thick as hell. And yeah, that tastes incredible. But you know what? Most people making kulfi at home in India TODAY use this condensed milk shortcut method, and it's not "cheating"—it's being a practical human being who has other shit to do.
+Look, friend—kulfi is India's traditional frozen dessert that predates Western ice cream by centuries, and it's denser, richer, and more intensely flavored than anything you'll get from a churned custard base. Traditionally, you'd reduce milk for 2+ hours until it's incredibly thick. And yeah, that tastes incredible. But you know what? Most people making kulfi at home in India TODAY use this condensed milk shortcut method, and it's not "cheating"—it's being a practical human being who has other things to do.
 
 This version gets you 95% of the way there in about 20 minutes of active work instead of sacrificing your entire afternoon to milk reduction. You still get that dense, fudgy texture. You still get the cardamom-saffron-pistachio flavor profile that makes kulfi taste like kulfi. You just skip the part where you stand over a pot questioning your life choices for two hours.
 
@@ -583,13 +583,13 @@ No eggs. No churning required (though you can if you want). Just mix, flavor, fr
 
 **Bloom the Saffron (do this first):**
 
-Crush those saffron threads slightly between your fingers to release the oils and color. Drop them in a small bowl with 3 tbsp warm milk, stir, and set aside for at least 10 minutes. The milk will turn this gorgeous golden-orange color and smell expensive as hell. This is your saffron milk.
+Crush those saffron threads slightly between your fingers to release the oils and color. Drop them in a small bowl with 3 tbsp warm milk, stir, and set aside for at least 10 minutes. The milk will turn this gorgeous golden-orange color and smell incredibly expensive. This is your saffron milk.
 
 **Prepare Pistachios:**
 
 If your pistachios still have their papery brown skins on, blanch them: drop into boiling water for 1 minute, drain, then slip the skins off by squeezing each nut between your fingers. It's tedious but worth it for that bright green color.
 
-If you bought pre-skinned pistachios (sold at Indian grocery stores specifically for sweets), you're ahead of the game—skip to the next step, lucky bastard.
+If you bought pre-skinned pistachios (sold at Indian grocery stores specifically for sweets), you're ahead of the game—skip to the next step, lucky you.
 
 Take about 1/2 cup of the skinned pistachios and grind them with 3 tbsp milk in a food processor or high-powered blender until you have a completely smooth paste—no graininess, no chunks. This paste gets mixed into the base for pistachio flavor throughout. Set aside.
 
@@ -603,7 +603,7 @@ Whisk everything together until smooth and combined. The milk powder might clump
 
 **Infuse Gently:**
 
-Place the saucepan over medium-low heat. You're NOT trying to boil this, dude—you're just warming it enough to infuse the cardamom flavor into the dairy. Stir occasionally to prevent anything from sticking to the bottom.
+Place the saucepan over medium-low heat. You're NOT trying to boil this, friend—you're just warming it enough to infuse the cardamom flavor into the dairy. Stir occasionally to prevent anything from sticking to the bottom.
 
 Heat until the mixture is steaming and just barely starting to show tiny bubbles around the edges—about 170-180°F if you're using a thermometer. Takes about 8-10 minutes. Should smell intensely of cardamom.
 
@@ -613,7 +613,7 @@ Once hot, reduce heat to low and let it simmer VERY gently for about 5 minutes, 
 
 Remove from heat. Fish out the cardamom pods with a spoon and discard them—they've done their job. You might see some little black cardamom seeds floating around; that's fine, they're flavorful.
 
-Add the pistachio paste and whisk vigorously until it's completely incorporated into the hot mixture. Should turn slightly green and smell nutty as hell.
+Add the pistachio paste and whisk vigorously until it's completely incorporated into the hot mixture. Should turn slightly green and smell incredibly nutty.
 
 Pour in the bloomed saffron milk, including all those saffron threads. Stir thoroughly. The mixture should turn this pale golden color and smell absolutely INCREDIBLE—cardamom, saffron, pistachios, caramelized sweetness from the condensed milk all hanging out together.
 
@@ -690,13 +690,13 @@ If you can't find whole pods or you're in a rush, you can substitute 1 tsp groun
 
 **Saffron Quality Matters:**
 
-Real saffron threads are expensive as hell—it's literally the most expensive spice in the world by weight. But you only need a pinch (15-20 threads) and it makes a huge difference in both flavor and that gorgeous golden color. Buy from Indian or Middle Eastern grocery stores where it's usually cheaper than regular supermarkets.
+Real saffron threads are incredibly expensive—it's literally the most expensive spice in the world by weight. But you only need a pinch (15-20 threads) and it makes a huge difference in both flavor and that gorgeous golden color. Buy from Indian or Middle Eastern grocery stores where it's usually cheaper than regular supermarkets.
 
 If saffron is genuinely out of your budget, you can skip it and the kulfi will still be excellent—just won't have that luxurious golden color or subtle earthy-floral note.
 
 **Pistachio Options:**
 
-Raw unsalted pistachios are traditional. Roasted/salted ones will fuck up the flavor—don't use them.
+Raw unsalted pistachios are traditional. Roasted/salted ones will ruin the flavor—don't use them.
 
 You can buy pre-skinned pistachios (sometimes labeled "blanched pistachios" or "slivered pistachios") at Indian grocery stores, which saves you the blanching step. They're specifically sold for making Indian sweets.
 
@@ -788,7 +788,7 @@ Rich, sweet, intensely cardamom-forward with that characteristic warmth. Saffron
 
 It tastes like India. Like summer afternoons and celebration dinners. Like your favorite street vendor or your grandmother's kitchen, depending on where you're coming from. It's familiar and exotic at the same time, which is pretty much the perfect dessert vibe.
 
-Now go make some kulfi without dedicating your afternoon to milk reduction, homie. This is the practical version that still tastes fucking amazing and honors the tradition without demanding you become a martyr to dairy.
+Now go make some kulfi without dedicating your afternoon to milk reduction, friend. This is the practical version that still tastes absolutely amazing and honors the tradition without demanding you become a martyr to dairy.
 
 **Allergen Information:**
 
@@ -802,15 +802,15 @@ Contains: Milk, tree nuts (pistachios)
 
 *Rice, cinnamon, almonds - Mexico's agua fresca, now frozen*
 
-**Difficulty:** LEGIT - You're soaking and blending rice to infuse the dairy (easy but takes time), making a cinnamon-sugar swirl (straightforward), and candying almonds (hard to fuck up). The rice infusion is an extra step but it's not complicated - you're basically making horchata and then turning it into custard. Nothing here will break you, chief, just requires a bit of advance planning.
+**Difficulty:** LEGIT - You're soaking and blending rice to infuse the dairy (easy but takes time), making a cinnamon-sugar swirl (straightforward), and candying almonds (hard to mess up). The rice infusion is an extra step but it's not complicated - you're basically making horchata and then turning it into custard. Nothing here will break you, friend, just requires a bit of advance planning.
 
-**Total Time:** 10-12 hours across 2 days (includes 4+ hours of rice soaking while you do literally anything else, plus overnight chilling - barely any actual work, dude)
+**Total Time:** 10-12 hours across 2 days (includes 4+ hours of rice soaking while you do literally anything else, plus overnight chilling - barely any actual work, friend)
 
 Horchata is one of those drinks that defines Mexican street food culture - creamy, sweet, cooling, with that distinctive rice and cinnamon combo. It's what you order with tacos to balance the heat, what you drink on hot afternoons, what makes you forget you're in 95-degree weather.
 
 This ice cream takes that classic flavor profile and makes it rich and frozen. The rice infusion gives you that characteristic slightly grainy sweetness, cinnamon comes through warm and aromatic, and candied almonds add crunch plus that nutty depth that traditional horchata sometimes has. It's familiar and comforting if you grew up drinking horchata, and a revelation if you didn't.
 
-Fair warning - this doesn't taste like the neon-white stuff from a restaurant drink dispenser. This is the real deal, homie.
+Fair warning - this doesn't taste like the neon-white stuff from a restaurant drink dispenser. This is the real deal, friend.
 
 ## Ingredients
 
@@ -859,7 +859,7 @@ Discard the rice solids (or compost them, or whatever - they've done their job).
 
 **Candied Almonds (can be made up to a week ahead):**
 
-Line a baking sheet with parchment. Combine sugar, water, and vanilla in a medium saucepan over medium heat. Stir until the sugar dissolves completely, then stop stirring and let it cook until it reaches 240°F (soft ball stage) - this takes about 5-7 minutes. You need a candy thermometer for this, homie. Don't guess.
+Line a baking sheet with parchment. Combine sugar, water, and vanilla in a medium saucepan over medium heat. Stir until the sugar dissolves completely, then stop stirring and let it cook until it reaches 240°F (soft ball stage) - this takes about 5-7 minutes. You need a candy thermometer for this, friend. Don't guess.
 
 Add the sliced almonds and salt, and stir constantly. The mixture will look weird and sandy for a minute as the sugar crystallizes around the nuts - this is supposed to happen, don't panic. It's the sugar reverting to crystal form as it cools slightly on contact with the almonds. Keep stirring over medium heat and the sugar will melt again, coating the almonds in a glossy caramel. This transformation takes 3-5 minutes of constant stirring.
 
@@ -877,9 +877,9 @@ The finished swirl should be smooth, fragrant with cinnamon, and deep amber-brow
 
 Combine the rice milk mixture and heavy cream in a saucepan and heat until steaming - small bubbles around the edges, no rolling boil. While that heats, whisk the egg yolks with the sugar in a separate bowl until pale and thick, about 2 minutes. This pre-mixing is important because it starts dissolving the sugar and prevents graininess in your final custard.
 
-Temper the yolks with the hot dairy mixture - you know this drill, chief. Slowly drizzle about a cup of the hot liquid into the yolks while whisking constantly, then return everything to the pan. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line.
+Temper the yolks with the hot dairy mixture - you know this drill, friend. Slowly drizzle about a cup of the hot liquid into the yolks while whisking constantly, then return everything to the pan. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line.
 
-Strain through a fine-mesh sieve to catch any bits of cooked egg. Stir in both extracts, ground cinnamon, and salt. The custard will be off-white with visible cinnamon specks - this is exactly what you want, dude.
+Strain through a fine-mesh sieve to catch any bits of cooked egg. Stir in both extracts, ground cinnamon, and salt. The custard will be off-white with visible cinnamon specks - this is exactly what you want, pal.
 
 Cool over an ice bath, stirring occasionally to prevent a skin from forming, then refrigerate at least 4 hours or overnight. Overnight is better - it lets all those flavors meld together and gives the rice starches time to fully hydrate, which creates a smoother final texture.
 
@@ -897,7 +897,7 @@ Freeze at least 4 hours before serving.
 
 Long-grain white rice is traditional for horchata. Some recipes use jasmine rice, which adds a subtle floral note - that's fine too if you want to go that route. The key is to soak it long enough that it actually softens and releases its starches. If you're in a rush, you can soak it in warm milk (not hot, just warm) for 2-3 hours instead of cold for 4-6 hours, but overnight is still better because extended cold soaking extracts more flavor compounds without cooking anything.
 
-The rice infusion is what makes this actually taste like horchata instead of just cinnamon ice cream, homie. Don't skip it or try to substitute rice milk from a carton - that stuff is designed for drinking, not for infusing into custard, and it won't give you the right flavor, texture, or that characteristic slightly grainy sweetness that makes horchata taste like horchata.
+The rice infusion is what makes this actually taste like horchata instead of just cinnamon ice cream, friend. Don't skip it or try to substitute rice milk from a carton - that stuff is designed for drinking, not for infusing into custard, and it won't give you the right flavor, texture, or that characteristic slightly grainy sweetness that makes horchata taste like horchata.
 
 **Cinnamon varieties:**
 
@@ -931,7 +931,7 @@ If you've had good horchata, you'll immediately recognize the flavor profile, bu
 
 **Serving suggestion:**
 
-This is excellent on its own, but holy shit does it work next to chocolate - churros with chocolate sauce, Mexican hot chocolate brownies, tres leches cake, all of it. The cinnamon and rice flavors play beautifully with chocolate's bitter notes, creating this sweet-spicy-rich thing that's greater than the sum of its parts. Also pairs beautifully with coffee, which is why it makes a great after-dinner dessert for people who usually skip sweets but want something with their espresso.
+This is excellent on its own, but seriously does it work next to chocolate - churros with chocolate sauce, Mexican hot chocolate brownies, tres leches cake, all of it. The cinnamon and rice flavors play beautifully with chocolate's bitter notes, creating this sweet-spicy-rich thing that's greater than the sum of its parts. Also pairs beautifully with coffee, which is why it makes a great after-dinner dessert for people who usually skip sweets but want something with their espresso.
 
 Small to medium scoops work best - this is rich enough that a little goes a long way, but not so intense that you can't eat a proper portion.
 
@@ -943,15 +943,15 @@ Small to medium scoops work best - this is rich enough that a little goes a long
 
 *Umami in ice cream (trust us)*
 
-**Difficulty:** LEGIT - You're sifting matcha and whisking it in a specific W or M pattern (not circular, or you'll trap clumps), dissolving miso in warm cream without making paste-balls, and timing when to add what to hot custard. The techniques are straightforward but demand precision - skip the sifting or rush the whisking and you'll have gritty green bits forever. Follow the steps exactly and you're fine. Wing it and you'll fuck it up, pal.
+**Difficulty:** LEGIT - You're sifting matcha and whisking it in a specific W or M pattern (not circular, or you'll trap clumps), dissolving miso in warm cream without making paste-balls, and timing when to add what to hot custard. The techniques are straightforward but demand precision - skip the sifting or rush the whisking and you'll have gritty green bits forever. Follow the steps exactly and you're fine. Wing it and you'll mess it up, pal.
 
 **Total Time:** 6-8 hours across 2 days (includes toasting rice, overnight chilling, plus 30-60 seconds of very aggressive matcha whisking that'll make your arm tired)
 
-Yes, there's miso in this. Yes, miso is salty and savory and usually goes in soup. And yes, it fucking *works* in ice cream - specifically with matcha. I know you're skeptical. I would be too. But the white miso adds this subtle depth that amplifies the matcha's vegetal notes while adding a whisper of umami that makes the whole thing more interesting rather than weird. It's not "sweet meets savory" in an obvious way - it's more like the miso turns up the volume on everything else, making the matcha taste more like itself.
+Yes, there's miso in this. Yes, miso is salty and savory and usually goes in soup. And yes, it absolutely *works* in ice cream - specifically with matcha. I know you're skeptical. I would be too. But the white miso adds this subtle depth that amplifies the matcha's vegetal notes while adding a whisper of umami that makes the whole thing more interesting rather than weird. It's not "sweet meets savory" in an obvious way - it's more like the miso turns up the volume on everything else, making the matcha taste more like itself.
 
 The toasted rice crispies echo genmaicha - Japanese green tea with toasted rice - which is a classic pairing that's been around for centuries. So while this combination sounds modern and experimental, you're actually tapping into a traditional Japanese flavor profile. You're just doing it in frozen form, which is where it gets interesting.
 
-You'll probably make a face when you first read this ingredient list. That's normal, homie. Everyone does. Then they taste it and get quiet for a second while they process what just happened. Then they ask for more. It's a whole journey.
+You'll probably make a face when you first read this ingredient list. That's normal, friend. Everyone does. Then they taste it and get quiet for a second while they process what just happened. Then they ask for more. It's a whole journey.
 
 ## Ingredients
 
@@ -974,7 +974,7 @@ You'll probably make a face when you first read this ingredient list. That's nor
 
 **Toasted Rice Crispies (make this first - it needs to cool):**
 
-Melt butter in a large skillet over medium heat. Add the rice cereal and toast it while stirring constantly for 3-4 minutes until it's golden and smells nutty as hell. You'll notice the cereal darkening slightly and the aroma shifting from bland cereal to toasted, almost popcorn-like. That's what you want.
+Melt butter in a large skillet over medium heat. Add the rice cereal and toast it while stirring constantly for 3-4 minutes until it's golden and smells incredibly nutty. You'll notice the cereal darkening slightly and the aroma shifting from bland cereal to toasted, almost popcorn-like. That's what you want.
 
 The toasting process is doing a few things: driving off moisture (making them crunchier), triggering Maillard reactions (creating nutty, toasted flavors), and basically transforming boring puffed rice into something that tastes intentional. This is the same principle behind genmaicha - toasted rice adds this warm, nutty quality that complements green tea's vegetal bitterness.
 
@@ -1038,7 +1038,7 @@ Transfer to your container and freeze for at least 4 hours until firm.
 
 **Matcha quality and why it actually matters:**
 
-Matcha comes in different grades, and the difference is significant. Ceremonial grade is the highest quality - vibrant green, smooth, almost sweet, with minimal bitterness. Culinary grade is slightly less expensive, a bit more bitter, and works damn well for ice cream where it's being mixed with other ingredients. What you want to avoid is cheap, brownish-green matcha that tastes like bitter grass and looks dull. That's old matcha or low-quality matcha, and it'll make your ice cream taste like disappointment.
+Matcha comes in different grades, and the difference is significant. Ceremonial grade is the highest quality - vibrant green, smooth, almost sweet, with minimal bitterness. Culinary grade is slightly less expensive, a bit more bitter, and works really well for ice cream where it's being mixed with other ingredients. What you want to avoid is cheap, brownish-green matcha that tastes like bitter grass and looks dull. That's old matcha or low-quality matcha, and it'll make your ice cream taste like disappointment.
 
 Good matcha should be bright, vivid green - almost unnaturally green. It should smell fresh and slightly sweet, not musty or stale. Store opened matcha in an airtight container in the freezer to preserve color and flavor, because it oxidizes and fades fast when exposed to air and light. Matcha that's been sitting in your cupboard for six months will be brownish and bitter. Frozen matcha stays vibrant.
 
@@ -1106,7 +1106,7 @@ It's more interesting and layered than straight matcha ice cream, which can some
 
 **Total Time:** 6-8 hours (most of which is chilling time while you wonder if you added enough hot sauce)
 
-Okay homie, if you've ever bought mango from a street cart in Mexico City, you know the deal: sweet fruit meets chile, lime, and salt in this perfect balance that makes your brain short-circuit. Thai food does something similar with that sweet-spicy-sour-salty thing, but this ice cream is inspired by Mexican street food culture—specifically that Tajin-dusted, chamoy-drizzled mango situation. The whole deal hinges on getting the heat level *right* - and here's the thing: cold absolutely murders spice. Like, brutally. What tastes aggressively spicy at room temperature will be just right when frozen.
+Okay friend, if you've ever bought mango from a street cart in Mexico City, you know the deal: sweet fruit meets chile, lime, and salt in this perfect balance that makes your brain short-circuit. Thai food does something similar with that sweet-spicy-sour-salty thing, but this ice cream is inspired by Mexican street food culture—specifically that Tajin-dusted, chamoy-drizzled mango situation. The whole deal hinges on getting the heat level *right* - and here's the thing: cold absolutely murders spice. Like, brutally. What tastes aggressively spicy at room temperature will be just right when frozen.
 
 You'll definitely need to taste-test this one. Multiple times. For science. (Ask me how I know. Actually, don't.)
 
@@ -1143,7 +1143,7 @@ Preheat your oven to 325°F. Toss those pepitas with olive oil, spread 'em on a 
 
 **Prepare Mango:**
 
-Puree the flesh from 3 ripe mangos until it's smooth as hell. Then - and this is important, dude - strain it through a fine-mesh sieve to catch any stringy fibers. You want *silky* puree. You need 2 cups total.
+Puree the flesh from 3 ripe mangos until it's incredibly smooth. Then - and this is important, pal - strain it through a fine-mesh sieve to catch any stringy fibers. You want *silky* puree. You need 2 cups total.
 
 Dice up the remaining mango into little 1/3-inch cubes and toss with a tiny squeeze of lime (keeps them from browning and adds a hit of acid). Stick 'em in the fridge.
 
@@ -1151,13 +1151,13 @@ Dice up the remaining mango into little 1/3-inch cubes and toss with a tiny sque
 
 Combine cream, milk, sugar, and corn syrup in a saucepan. Heat over medium, stirring occasionally, until everything dissolves and the mixture is steaming.
 
-Make your custard using the standard method (see Custard Fundamentals) with the egg yolks. The custard will stay fairly thin because of the low yolk count - this is totally expected and correct. Don't fucking panic.
+Make your custard using the standard method (see Custard Fundamentals) with the egg yolks. The custard will stay fairly thin because of the low yolk count - this is totally expected and correct. Don't panic.
 
 Pull it off the heat and let it chill out for 5 minutes while you stir it occasionally. Stir in the lime juice, zest, and salt. Add the mango puree and stir until everything's incorporated and looking gorgeously tropical.
 
-Here's the tricky part, chief: Start with 2 tbsp of Yellowbird and stir thoroughly. Put a spoonful in the freezer for 5 minutes, then taste it *cold* - you should feel noticeable warmth building in your mouth. Not burning, but definitely there. If it's too mild, add more hot sauce, remembering that cold is a spice assassin. Better to err on the side of more heat. You can always add; you can't take away. (Ask me how I know. Actually, don't. It involved wasted mango and regret.)
+Here's the tricky part, friend: Start with 2 tbsp of Yellowbird and stir thoroughly. Put a spoonful in the freezer for 5 minutes, then taste it *cold* - you should feel noticeable warmth building in your mouth. Not burning, but definitely there. If it's too mild, add more hot sauce, remembering that cold is a spice assassin. Better to err on the side of more heat. You can always add; you can't take away. (Ask me how I know. Actually, don't. It involved wasted mango and regret.)
 
-Strain the whole thing through a fine-mesh sieve one more time (gets rid of any eggy bits or zest chunks). Cool it over an ice bath, stirring occasionally until it's not hot anymore. Then refrigerate for at least 4 hours or overnight. Patience, homie.
+Strain the whole thing through a fine-mesh sieve one more time (gets rid of any eggy bits or zest chunks). Cool it over an ice bath, stirring occasionally until it's not hot anymore. Then refrigerate for at least 4 hours or overnight. Patience, friend.
 
 **Spicy Honey Swirl:**
 
@@ -1167,7 +1167,7 @@ Warm the honey until it's pourable - like 10 seconds in the microwave or a minut
 
 Churn your base until it reaches soft-serve consistency - thick, creamy, and holding its shape. The corn syrup makes it slightly softer than usual, so it may look a touch looser than you're used to. This is normal and actually helps keep everything creamy later on.
 
-Now for the fun part: Layer into your storage container like you're building a lasagna. One-third of the ice cream, drizzle some of that spicy honey swirl around, scatter mango chunks and pepitas. Repeat twice more. Gently swirl with a butter knife - just a couple swooshes so people can navigate toward or away from the heat pockets depending on their spice tolerance. Don't overthink this, dude.
+Now for the fun part: Layer into your storage container like you're building a lasagna. One-third of the ice cream, drizzle some of that spicy honey swirl around, scatter mango chunks and pepitas. Repeat twice more. Gently swirl with a butter knife - just a couple swooshes so people can navigate toward or away from the heat pockets depending on their spice tolerance. Don't overthink this, pal.
 
 Freeze for at least 4 hours before serving. (I know you want to eat it now. Seriously, wait.)
 
@@ -1183,7 +1183,7 @@ Use Ataulfo mangos - also called Champagne or Honey mangos - if you can find the
 
 **Why corn syrup:**
 
-Look, I get it - corn syrup sounds sketchy. But hear me out, dude. It creates a noticeably smoother, creamier texture without muting that bright-ass mango flavor. It also helps prevent ice crystals in this lighter custard (we're only using 2 yolks here). The improved texture means the chili heat registers more clearly as the ice cream melts on your tongue, which is kind of the whole point. Plus it keeps the ice cream scoopable longer - stays creamy even after a week in the freezer instead of turning into a brick.
+Look, I get it - corn syrup sounds sketchy. But hear me out, friend. It creates a noticeably smoother, creamier texture without muting that bright mango flavor. It also helps prevent ice crystals in this lighter custard (we're only using 2 yolks here). The improved texture means the chili heat registers more clearly as the ice cream melts on your tongue, which is kind of the whole point. Plus it keeps the ice cream scoopable longer - stays creamy even after a week in the freezer instead of turning into a brick.
 
 **The light custard:**
 
@@ -1191,7 +1191,7 @@ This recipe uses only 2 egg yolks instead of the usual 4-6, which creates a ligh
 
 **About the spice level:**
 
-Cold really does murder spice. What tastes like "oh shit that's too hot" at room temperature will be perfectly balanced when frozen. ALWAYS taste your base cold before churning - freeze a small spoonful for 5 minutes and see how it feels on your tongue. You can always add more hot sauce, but you can't take it out once it's in there.
+Cold really does murder spice. What tastes like "oh wow that's too hot" at room temperature will be perfectly balanced when frozen. ALWAYS taste your base cold before churning - freeze a small spoonful for 5 minutes and see how it feels on your tongue. You can always add more hot sauce, but you can't take it out once it's in there.
 
 Yellowbird has this fruity complexity that plays beautifully with mango - not just hot for hot's sake. But you can use any habanero sauce you like. Just taste as you go.
 
@@ -1205,11 +1205,11 @@ The pepitas can be made up to a week ahead and stored airtight at room temperatu
 
 **Visual:**
 
-Bright orange-yellow base swirled with darker honey ribbons, studded with chunks of fresh mango and olive-green pepitas. Looks tropical as hell - like vacation in a container. The Tajin on the pepitas adds little flecks of red that make it obvious this isn't your average mango ice cream.
+Bright orange-yellow base swirled with darker honey ribbons, studded with chunks of fresh mango and olive-green pepitas. Looks incredibly tropical - like vacation in a container. The Tajin on the pepitas adds little flecks of red that make it obvious this isn't your average mango ice cream.
 
 **What it tastes like:**
 
-Bright, tropical mango smacks you first. Then lime tartness cuts through. Then - *then* - this building habanero heat that creeps up on you like a slow burn. The Tajin-spiced pepitas add crunch and reinforce that sweet-salty-spicy-sour thing Mexican street food does so damn well. It's refreshing, it's complex, and it tastes exactly like standing at a street cart in Mexico City on a hot afternoon - except frozen.
+Bright, tropical mango smacks you first. Then lime tartness cuts through. Then - *then* - this building habanero heat that creeps up on you like a slow burn. The Tajin-spiced pepitas add crunch and reinforce that sweet-salty-spicy-sour thing Mexican street food does so so well. It's refreshing, it's complex, and it tastes exactly like standing at a street cart in Mexico City on a hot afternoon - except frozen.
 
 ---
 

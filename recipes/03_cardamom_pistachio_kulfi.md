@@ -6,7 +6,7 @@
 
 **Total Time:** 7-9 hours (20 minutes of active work mixing dairy and spices, then an eternity of waiting for it to freeze because kulfi doesn't rush for anyone)
 
-Look, homie—kulfi is India's traditional frozen dessert that predates Western ice cream by centuries, and it's denser, richer, and more intensely flavored than anything you'll get from a churned custard base. Traditionally, you'd reduce milk for 2+ hours until it's thick as hell. And yeah, that tastes incredible. But you know what? Most people making kulfi at home in India TODAY use this condensed milk shortcut method, and it's not "cheating"—it's being a practical human being who has other shit to do.
+Look, {{v: homie | friend }}—kulfi is India's traditional frozen dessert that predates Western ice cream by centuries, and it's denser, richer, and more intensely flavored than anything you'll get from a churned custard base. Traditionally, you'd reduce milk for 2+ hours until it's {{v: thick as hell | incredibly thick }}. And yeah, that tastes incredible. But you know what? Most people making kulfi at home in India TODAY use this condensed milk shortcut method, and it's not "cheating"—it's being a practical human being who has other {{v: shit | things }} to do.
 
 This version gets you 95% of the way there in about 20 minutes of active work instead of sacrificing your entire afternoon to milk reduction. You still get that dense, fudgy texture. You still get the cardamom-saffron-pistachio flavor profile that makes kulfi taste like kulfi. You just skip the part where you stand over a pot questioning your life choices for two hours.
 
@@ -43,13 +43,13 @@ No eggs. No churning required (though you can if you want). Just mix, flavor, fr
 
 **Bloom the Saffron (do this first):**
 
-Crush those saffron threads slightly between your fingers to release the oils and color. Drop them in a small bowl with 3 tbsp warm milk, stir, and set aside for at least 10 minutes. The milk will turn this gorgeous golden-orange color and smell expensive as hell. This is your saffron milk.
+Crush those saffron threads slightly between your fingers to release the oils and color. Drop them in a small bowl with 3 tbsp warm milk, stir, and set aside for at least 10 minutes. The milk will turn this gorgeous golden-orange color and smell {{v: expensive as hell | incredibly expensive }}. This is your saffron milk.
 
 **Prepare Pistachios:**
 
 If your pistachios still have their papery brown skins on, blanch them: drop into boiling water for 1 minute, drain, then slip the skins off by squeezing each nut between your fingers. It's tedious but worth it for that bright green color.
 
-If you bought pre-skinned pistachios (sold at Indian grocery stores specifically for sweets), you're ahead of the game—skip to the next step, lucky bastard.
+If you bought pre-skinned pistachios (sold at Indian grocery stores specifically for sweets), you're ahead of the game—skip to the next step, {{v: lucky bastard | lucky you }}.
 
 Take about 1/2 cup of the skinned pistachios and grind them with 3 tbsp milk in a food processor or high-powered blender until you have a completely smooth paste—no graininess, no chunks. This paste gets mixed into the base for pistachio flavor throughout. Set aside.
 
@@ -63,7 +63,7 @@ Whisk everything together until smooth and combined. The milk powder might clump
 
 **Infuse Gently:**
 
-Place the saucepan over medium-low heat. You're NOT trying to boil this, dude—you're just warming it enough to infuse the cardamom flavor into the dairy. Stir occasionally to prevent anything from sticking to the bottom.
+Place the saucepan over medium-low heat. You're NOT trying to boil this, {{v: dude | friend }}—you're just warming it enough to infuse the cardamom flavor into the dairy. Stir occasionally to prevent anything from sticking to the bottom.
 
 Heat until the mixture is steaming and just barely starting to show tiny bubbles around the edges—about 170-180°F if you're using a thermometer. Takes about 8-10 minutes. Should smell intensely of cardamom.
 
@@ -73,7 +73,7 @@ Once hot, reduce heat to low and let it simmer VERY gently for about 5 minutes, 
 
 Remove from heat. Fish out the cardamom pods with a spoon and discard them—they've done their job. You might see some little black cardamom seeds floating around; that's fine, they're flavorful.
 
-Add the pistachio paste and whisk vigorously until it's completely incorporated into the hot mixture. Should turn slightly green and smell nutty as hell.
+Add the pistachio paste and whisk vigorously until it's completely incorporated into the hot mixture. Should turn slightly green and smell {{v: nutty as hell | incredibly nutty }}.
 
 Pour in the bloomed saffron milk, including all those saffron threads. Stir thoroughly. The mixture should turn this pale golden color and smell absolutely INCREDIBLE—cardamom, saffron, pistachios, caramelized sweetness from the condensed milk all hanging out together.
 
@@ -150,13 +150,13 @@ If you can't find whole pods or you're in a rush, you can substitute 1 tsp groun
 
 **Saffron Quality Matters:**
 
-Real saffron threads are expensive as hell—it's literally the most expensive spice in the world by weight. But you only need a pinch (15-20 threads) and it makes a huge difference in both flavor and that gorgeous golden color. Buy from Indian or Middle Eastern grocery stores where it's usually cheaper than regular supermarkets.
+Real saffron threads are {{v: expensive as hell | incredibly expensive }}—it's literally the most expensive spice in the world by weight. But you only need a pinch (15-20 threads) and it makes a huge difference in both flavor and that gorgeous golden color. Buy from Indian or Middle Eastern grocery stores where it's usually cheaper than regular supermarkets.
 
 If saffron is genuinely out of your budget, you can skip it and the kulfi will still be excellent—just won't have that luxurious golden color or subtle earthy-floral note.
 
 **Pistachio Options:**
 
-Raw unsalted pistachios are traditional. Roasted/salted ones will fuck up the flavor—don't use them.
+Raw unsalted pistachios are traditional. Roasted/salted ones will {{v: fuck up | ruin }} the flavor—don't use them.
 
 You can buy pre-skinned pistachios (sometimes labeled "blanched pistachios" or "slivered pistachios") at Indian grocery stores, which saves you the blanching step. They're specifically sold for making Indian sweets.
 
@@ -248,7 +248,7 @@ Rich, sweet, intensely cardamom-forward with that characteristic warmth. Saffron
 
 It tastes like India. Like summer afternoons and celebration dinners. Like your favorite street vendor or your grandmother's kitchen, depending on where you're coming from. It's familiar and exotic at the same time, which is pretty much the perfect dessert vibe.
 
-Now go make some kulfi without dedicating your afternoon to milk reduction, homie. This is the practical version that still tastes fucking amazing and honors the tradition without demanding you become a martyr to dairy.
+Now go make some kulfi without dedicating your afternoon to milk reduction, {{v: homie | friend }}. This is the practical version that still tastes {{v: fucking amazing | absolutely amazing }} and honors the tradition without demanding you become a martyr to dairy.
 
 **Allergen Information:**
 

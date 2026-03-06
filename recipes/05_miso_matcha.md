@@ -2,15 +2,15 @@
 
 *Umami in ice cream (trust us)*
 
-**Difficulty:** LEGIT - You're sifting matcha and whisking it in a specific W or M pattern (not circular, or you'll trap clumps), dissolving miso in warm cream without making paste-balls, and timing when to add what to hot custard. The techniques are straightforward but demand precision - skip the sifting or rush the whisking and you'll have gritty green bits forever. Follow the steps exactly and you're fine. Wing it and you'll fuck it up, pal.
+**Difficulty:** LEGIT - You're sifting matcha and whisking it in a specific W or M pattern (not circular, or you'll trap clumps), dissolving miso in warm cream without making paste-balls, and timing when to add what to hot custard. The techniques are straightforward but demand precision - skip the sifting or rush the whisking and you'll have gritty green bits forever. Follow the steps exactly and you're fine. Wing it and you'll {{v: fuck it up | mess it up }}, pal.
 
 **Total Time:** 6-8 hours across 2 days (includes toasting rice, overnight chilling, plus 30-60 seconds of very aggressive matcha whisking that'll make your arm tired)
 
-Yes, there's miso in this. Yes, miso is salty and savory and usually goes in soup. And yes, it fucking *works* in ice cream - specifically with matcha. I know you're skeptical. I would be too. But the white miso adds this subtle depth that amplifies the matcha's vegetal notes while adding a whisper of umami that makes the whole thing more interesting rather than weird. It's not "sweet meets savory" in an obvious way - it's more like the miso turns up the volume on everything else, making the matcha taste more like itself.
+Yes, there's miso in this. Yes, miso is salty and savory and usually goes in soup. And yes, it {{v: fucking | absolutely }} *works* in ice cream - specifically with matcha. I know you're skeptical. I would be too. But the white miso adds this subtle depth that amplifies the matcha's vegetal notes while adding a whisper of umami that makes the whole thing more interesting rather than weird. It's not "sweet meets savory" in an obvious way - it's more like the miso turns up the volume on everything else, making the matcha taste more like itself.
 
 The toasted rice crispies echo genmaicha - Japanese green tea with toasted rice - which is a classic pairing that's been around for centuries. So while this combination sounds modern and experimental, you're actually tapping into a traditional Japanese flavor profile. You're just doing it in frozen form, which is where it gets interesting.
 
-You'll probably make a face when you first read this ingredient list. That's normal, homie. Everyone does. Then they taste it and get quiet for a second while they process what just happened. Then they ask for more. It's a whole journey.
+You'll probably make a face when you first read this ingredient list. That's normal, {{v: homie | friend }}. Everyone does. Then they taste it and get quiet for a second while they process what just happened. Then they ask for more. It's a whole journey.
 
 ## Ingredients
 
@@ -33,7 +33,7 @@ You'll probably make a face when you first read this ingredient list. That's nor
 
 **Toasted Rice Crispies (make this first - it needs to cool):**
 
-Melt butter in a large skillet over medium heat. Add the rice cereal and toast it while stirring constantly for 3-4 minutes until it's golden and smells nutty as hell. You'll notice the cereal darkening slightly and the aroma shifting from bland cereal to toasted, almost popcorn-like. That's what you want.
+Melt butter in a large skillet over medium heat. Add the rice cereal and toast it while stirring constantly for 3-4 minutes until it's golden and smells {{v: nutty as hell | incredibly nutty }}. You'll notice the cereal darkening slightly and the aroma shifting from bland cereal to toasted, almost popcorn-like. That's what you want.
 
 The toasting process is doing a few things: driving off moisture (making them crunchier), triggering Maillard reactions (creating nutty, toasted flavors), and basically transforming boring puffed rice into something that tastes intentional. This is the same principle behind genmaicha - toasted rice adds this warm, nutty quality that complements green tea's vegetal bitterness.
 
@@ -97,7 +97,7 @@ Transfer to your container and freeze for at least 4 hours until firm.
 
 **Matcha quality and why it actually matters:**
 
-Matcha comes in different grades, and the difference is significant. Ceremonial grade is the highest quality - vibrant green, smooth, almost sweet, with minimal bitterness. Culinary grade is slightly less expensive, a bit more bitter, and works damn well for ice cream where it's being mixed with other ingredients. What you want to avoid is cheap, brownish-green matcha that tastes like bitter grass and looks dull. That's old matcha or low-quality matcha, and it'll make your ice cream taste like disappointment.
+Matcha comes in different grades, and the difference is significant. Ceremonial grade is the highest quality - vibrant green, smooth, almost sweet, with minimal bitterness. Culinary grade is slightly less expensive, a bit more bitter, and works {{v: damn well | really well }} for ice cream where it's being mixed with other ingredients. What you want to avoid is cheap, brownish-green matcha that tastes like bitter grass and looks dull. That's old matcha or low-quality matcha, and it'll make your ice cream taste like disappointment.
 
 Good matcha should be bright, vivid green - almost unnaturally green. It should smell fresh and slightly sweet, not musty or stale. Store opened matcha in an airtight container in the freezer to preserve color and flavor, because it oxidizes and fades fast when exposed to air and light. Matcha that's been sitting in your cupboard for six months will be brownish and bitter. Frozen matcha stays vibrant.
 
