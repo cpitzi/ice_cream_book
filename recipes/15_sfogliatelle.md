@@ -2,13 +2,13 @@
 
 *Naples' pastry, now frozen*
 
-**Difficulty:** LEGIT - You've got four components to manage (candied apricots, reduction, semolina crumble, ricotta custard), and those candied apricots will sit around drying for 4+ hours while you contemplate your life choices. The ricotta MUST be whipped smooth or you'll have grainy ice cream. Nothing technically hard, just lots of waiting and component juggling. Multi-day commitment, homie.
+**Difficulty:** LEGIT - You've got four components to manage (candied apricots, reduction, semolina crumble, ricotta custard), and those candied apricots will sit around drying for 4+ hours while you contemplate your life choices. The ricotta MUST be whipped smooth or you'll have grainy ice cream. Nothing technically hard, just lots of waiting and component juggling. Multi-day commitment, {{v: homie | friend }}.
 
 **Total Time:** 10-12 hours across 2-3 days (includes 4+ hours of apricot drying where you'll check on them obsessively and they still won't be ready)
 
 Sfogliatelle is this iconic Neapolitan pastry with layers of crispy shell and creamy ricotta-semolina filling. This ice cream tries to capture that same vibe: creamy ricotta base, candied fruit (apricot instead of traditional citron), and toasted semolina for that characteristic gritty-crunchy texture.
 
-Fair warning, chief: you'll be whipping ricotta for a while, and the candied apricots take most of a damn day to dry. This is a multi-component situation, but none of the individual techniques are hard—you're just orchestrating several things. Plan accordingly.
+Fair warning, {{v: chief | friend }}: you'll be whipping ricotta for a while, and the candied apricots take most of a {{v: damn | full }} day to dry. This is a multi-component situation, but none of the individual techniques are hard—you're just orchestrating several things. Plan accordingly.
 
 ## Ingredients
 
@@ -71,7 +71,7 @@ Stir in the cinnamon, vanilla, and salt. Strain. Fold in the cooled apricot redu
 
 **Prepare Ricotta:**
 
-This is fucking *important*, homie: Whip the whole milk ricotta in a food processor or with a hand mixer for 2-3 minutes until it's completely smooth and creamy—should look like whipped cream cheese. No graininess should remain. If you skip this step, the ricotta will freeze grainy and you'll be sad. Don't skip it.
+This is {{v: fucking | really }} *important*, {{v: homie | friend }}: Whip the whole milk ricotta in a food processor or with a hand mixer for 2-3 minutes until it's completely smooth and creamy—should look like whipped cream cheese. No graininess should remain. If you skip this step, the ricotta will freeze grainy and you'll be sad. Don't skip it.
 
 **Combine:**
 
@@ -83,13 +83,13 @@ Refrigerate at least 4 hours or overnight. The ricotta needs proper cold time to
 
 Churn until soft-serve. The ricotta makes this denser than standard custard, so expect it to look thick and pale cream-colored when ready. In the last minute, add the candied apricot pieces and about 2/3 of the semolina crumble. Reserve some crumble for topping later if you want to get fancy.
 
-Transfer to your container. For maximum textural interest, layer it: spread 1/3 of the ice cream, scatter some reserved crumble, repeat twice. Or just fold everything in and call it a day—both work, homie. Freeze 4+ hours.
+Transfer to your container. For maximum textural interest, layer it: spread 1/3 of the ice cream, scatter some reserved crumble, repeat twice. Or just fold everything in and call it a day—both work, {{v: homie | friend }}. Freeze 4+ hours.
 
 ## Notes
 
 **The ricotta:**
 
-Must be whipped smooth before folding into custard or it freezes grainy. This is non-negotiable, pal. Use whole milk ricotta, not part-skim. The fat content matters for texture. Part-skim will give you sad, icy results.
+Must be whipped smooth before folding into custard or it freezes grainy. This is non-negotiable, {{v: pal | friend }}. Use whole milk ricotta, not part-skim. The fat content matters for texture. Part-skim will give you sad, icy results.
 
 **Light custard:**
 
@@ -97,13 +97,13 @@ Using 3-4 yolks (I recommend 4) instead of 5-6 keeps this lighter, which lets th
 
 **Semolina:**
 
-This is authentic—semolina is in the original pastry filling AND provides that characteristic gritty-crunchy texture that makes sfogliatelle what it is. Semolina is durum wheat flour—the same stuff pasta is made from. In Southern Italian pastry-making, it's prized because it holds up to moisture better than all-purpose flour while adding this subtle grittiness that's fucking delicious. Must be toasted first because raw semolina is bland as hell. The butter and sugar create these little caramelized clusters that are absolutely perfect.
+This is authentic—semolina is in the original pastry filling AND provides that characteristic gritty-crunchy texture that makes sfogliatelle what it is. Semolina is durum wheat flour—the same stuff pasta is made from. In Southern Italian pastry-making, it's prized because it holds up to moisture better than all-purpose flour while adding this subtle grittiness that's {{v: fucking delicious | seriously delicious }}. Must be toasted first because raw semolina is {{v: bland as hell | incredibly bland }}. The butter and sugar create these little caramelized clusters that are absolutely perfect.
 
 **Apricot vs. citron:**
 
 Traditional sfogliatelle uses candied orange peel or citron—preserved citrus has been part of Italian pastry-making for centuries, originally as a way to use the whole fruit and extend shelf life. Citron (*cedro* in Italian) in particular is traditional in Neapolitan sfogliatelle. It's this massive, knobby citrus fruit that's mostly pith, and the candied peel has this intensely perfumed, floral-bitter character.
 
-I chose apricot because: (1) citron is fucking impossible to find unless you're in an Italian neighborhood or ordering online, (2) apricots have a similar candied texture and jewel-tone look when prepared this way, and (3) stone fruit feels more modern while still respecting the Italian sweet-tart-fruit tradition. 
+I chose apricot because: (1) citron is {{v: fucking impossible | nearly impossible }} to find unless you're in an Italian neighborhood or ordering online, (2) apricots have a similar candied texture and jewel-tone look when prepared this way, and (3) stone fruit feels more modern while still respecting the Italian sweet-tart-fruit tradition. 
 
 If you want to go fully traditional, candied orange peel is much easier to source and works beautifully—just blanch fresh orange peel three times to remove bitterness, then follow the same candying process with the sugar syrup. Some specialty Italian markets sell pre-candied citron if you're feeling ambitious, but it'll cost you.
 
