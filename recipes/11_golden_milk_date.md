@@ -45,7 +45,7 @@ You can leave this chunky for a more rustic texture or blend it smooth with an i
 
 Heat the cream and milk in a saucepan until steaming - you want it hot enough that the dairy can dissolve the golden milk powder properly, but not boiling. We're looking at around 170-180 degrees F if you're checking with a thermometer, or just "steaming nicely but not bubbling" if you're going by feel.
 
-Here's the critical step that prevents lumpy turmeric nightmares: whisk the golden milk powder into the warm dairy until completely dissolved. And I mean *completely*, dude. No streaks, no little yellow clumps floating around, no granules at the bottom of the pan. Turmeric is notorious for clumping if you add it to cold liquid or don't whisk thoroughly. Those lumps won't dissolve later, and biting into a pocket of straight turmeric powder in your ice cream is... not the vibe we're going for. It's bitter, gritty, and weird.
+Here's the critical step that prevents lumpy turmeric nightmares: whisk the golden milk powder into the warm dairy until completely dissolved. And I mean *completely*, dude. No streaks, no little yellow clumps floating around, no granules at the bottom of the pan. Turmeric is notorious for clumping if you add it to cold liquid or don't whisk thoroughly. Those lumps won't dissolve later, and biting into a pocket of straight turmeric powder in your ice cream is... not the damn vibe we're going for. It's bitter, gritty, and weird.
 
 Take your time with this. Whisk for a solid 30-60 seconds until you see nothing but smooth, uniformly bright yellow dairy. If you do see lumps, keep whisking. If they're really stubborn, use an immersion blender for 10 seconds and they'll disappear.
 

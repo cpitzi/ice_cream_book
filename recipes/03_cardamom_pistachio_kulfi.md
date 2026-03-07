@@ -6,6 +6,8 @@
 
 **Total Time:** 7-9 hours (20 minutes of active work mixing dairy and spices, then an eternity of waiting for it to freeze because kulfi doesn't rush for anyone)
 
+**Allergen Information:** 
+
 Look, homie—kulfi is India's traditional frozen dessert that predates Western ice cream by centuries, and it's denser, richer, and more intensely flavored than anything you'll get from a churned custard base. Traditionally, you'd reduce milk for 2+ hours until it's thick as hell. And yeah, that tastes incredible. But you know what? Most people making kulfi at home in India TODAY use this condensed milk shortcut method, and it's not "cheating"—it's being a practical human being who has other shit to do.
 
 This version gets you 95% of the way there in about 20 minutes of active work instead of sacrificing your entire afternoon to milk reduction. You still get that dense, fudgy texture. You still get the cardamom-saffron-pistachio flavor profile that makes kulfi taste like kulfi. You just skip the part where you stand over a pot questioning your life choices for two hours.
@@ -43,7 +45,7 @@ No eggs. No churning required (though you can if you want). Just mix, flavor, fr
 
 **Bloom the Saffron (do this first):**
 
-Crush those saffron threads slightly between your fingers to release the oils and color. Drop them in a small bowl with 3 tbsp warm milk, stir, and set aside for at least 10 minutes. The milk will turn this gorgeous golden-orange color and smell expensive as hell. This is your saffron milk.
+Crush those saffron threads slightly between your fingers to release the oils and color. Drop them in a small bowl with 3 tbsp warm milk, stir, and set aside for at least 10 minutes. The milk will turn this gorgeous golden-orange color and smell incredibly expensive. This is your saffron milk.
 
 **Prepare Pistachios:**
 
@@ -73,7 +75,7 @@ Once hot, reduce heat to low and let it simmer VERY gently for about 5 minutes, 
 
 Remove from heat. Fish out the cardamom pods with a spoon and discard them—they've done their job. You might see some little black cardamom seeds floating around; that's fine, they're flavorful.
 
-Add the pistachio paste and whisk vigorously until it's completely incorporated into the hot mixture. Should turn slightly green and smell nutty as hell.
+Add the pistachio paste and whisk vigorously until it's completely incorporated into the hot mixture. Should turn slightly green and smell incredible.
 
 Pour in the bloomed saffron milk, including all those saffron threads. Stir thoroughly. The mixture should turn this pale golden color and smell absolutely INCREDIBLE—cardamom, saffron, pistachios, caramelized sweetness from the condensed milk all hanging out together.
 
@@ -249,10 +251,5 @@ Rich, sweet, intensely cardamom-forward with that characteristic warmth. Saffron
 It tastes like India. Like summer afternoons and celebration dinners. Like your favorite street vendor or your grandmother's kitchen, depending on where you're coming from. It's familiar and exotic at the same time, which is pretty much the perfect dessert vibe.
 
 Now go make some kulfi without dedicating your afternoon to milk reduction, homie. This is the practical version that still tastes fucking amazing and honors the tradition without demanding you become a martyr to dairy.
-
-**Allergen Information:**
-
-Contains: Milk, tree nuts (pistachios)
-
 ---
 

@@ -6,6 +6,8 @@
 
 **Total Time:** 6-8 hours (2-3 hours of active work making dough, frying shit, and caramel-wrangling; the rest is rising, steeping, and chilling because nothing good happens fast)
 
+**Allergen Information:** 
+
 Listen up, homie—this is the Café Du Monde experience in frozen form. If you've ever sat at those green tables on Decatur Street at 2 AM, powdered sugar all over your shirt, café au lait burning your tongue, beignets so hot they're basically molten dough pillows... this is that. But in ice cream form.
 
 Chicory coffee isn't just "coffee with stuff added." It's a whole NOLA thing that goes back to the Civil War when coffee was scarce and people started cutting it with roasted chicory root. Now it's the city's signature coffee flavor—earthy, slightly bitter, with this woody depth that regular coffee just doesn't have. We're making a café au lait base (that's coffee + hot milk, for the uninitiated), then studding it with actual fried beignet pieces that stay tender and chewy, and finishing with a rum-butter swirl because this is New Orleans and rum belongs in everything.
@@ -140,10 +142,5 @@ If you really want to capture that green-table-at-3-AM energy, serve this in a b
 **What It Tastes Like:**
 
 This ice cream tastes like New Orleans feels at 2 AM—a little boozy, a lot sweet, impossibly rich, and somehow exactly what you needed. It's breakfast and dessert having an identity crisis in the best possible way.
-
-**Allergen Information:**
-
-Contains: Milk, eggs, wheat (gluten)
-
 ---
 

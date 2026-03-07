@@ -47,7 +47,7 @@ If the mixture seems too dry and won't hold together when you squeeze it, add th
 
 Spread the mixture on a parchment-lined baking sheet, breaking it into irregular crumbles ranging from pea-sized to marble-sized. Bake for 15-20 minutes, stirring once halfway through, until golden brown and crispy. It should smell buttery and toasted, like pie crust.
 
-Let cool completely on the baking sheet. The crumbles will crisp up as they cool - this is chemistry at work, dude. Once cool, break into smaller pieces if any are too large. Store in an airtight container at room temperature.
+Let cool completely on the baking sheet. The crumbles will crisp up as they cool - this is chemistry at work. Once cool, break into smaller pieces if any are too large. Store in an airtight container at room temperature.
 
 **Roast Apples (do this at least 2 hours before making custard so they have time to cool):**
 
@@ -57,7 +57,7 @@ Peel, core, and cut the apples into roughly 3/4-inch chunks. You want them big e
 
 Toss them with butter, brown sugar, and salt in a roasting pan or baking dish. Make sure everything's coated - the butter helps conduct heat and creates browning, while the brown sugar adds molasses notes and extra caramelization.
 
-Roast for 30-40 minutes, stirring every 10-12 minutes. You're looking for deep golden brown edges with some darker caramelized spots - that's where all the flavor lives, friend. The apples should be tender when you poke them with a fork, but still holding their shape, not falling apart into applesauce. Some of the pieces will have these gorgeous bronze-brown edges that look almost candied, like someone hit them with a blowtorch. That's exactly what you want.
+Roast for 30-40 minutes, stirring every 10-12 minutes. You're looking for deep golden brown edges with some darker caramelized spots - that's where all the flavor lives. The apples should be tender when you poke them with a fork, but still holding their shape, not falling apart into applesauce. Some of the pieces will have these gorgeous bronze-brown edges that look almost candied, like someone hit them with a blowtorch. That's exactly what you want.
 
 When the apples are done roasting, pull the pan from the oven and immediately add the calvados and vanilla extract. The residual heat will warm the calvados and help it integrate with the apple juices. Stir everything together, scraping up any caramelized bits stuck to the bottom of the pan - that's concentrated flavor right there, don't leave it behind.
 
@@ -87,7 +87,7 @@ Cool over an ice bath, stirring occasionally to prevent a skin from forming. Ref
 
 Churn the custard until it reaches soft-serve consistency.
 
-In the last minute of churning - and this timing matters, chief - add the chopped roasted apple pieces. If you add them too early, they'll get pulverized by the churning blade and turn into puree. If you add them after churning stops, they won't distribute evenly and you'll have clumps. Last minute of churning means they get mixed in thoroughly but maintain their chunky texture.
+In the last minute of churning - and this timing matters - add the chopped roasted apple pieces. If you add them too early, they'll get pulverized by the churning blade and turn into puree. If you add them after churning stops, they won't distribute evenly and you'll have clumps. Last minute of churning means they get mixed in thoroughly but maintain their chunky texture.
 
 Layer into your storage container: spread one-third of the ice cream, scatter some pastry crumble. Repeat twice more, finishing with a layer of crumble on top. Don't swirl - you want distinct layers of creamy apple ice cream and crunchy pastry bits, like deconstructed tart.
 
@@ -101,7 +101,7 @@ Raw apples are fine. They're nice. They're pleasant. But roasting transforms the
 
 The butter and brown sugar accelerate this browning process. Butter provides fat that helps conduct heat evenly and adds richness. Brown sugar adds molasses notes and extra sugar for caramelization. Together they create these glossy, caramelized pieces that taste like concentrated apple essence with layers of caramel complexity.
 
-If you use raw apples, you'll get bland apple ice cream that tastes like nothing much. The roasting is what makes this taste like actual Tarte Tatin, homie.
+If you use raw apples, you'll get bland apple ice cream that tastes like nothing much. The roasting is what makes this taste like actual Tarte Tatin.
 
 **About calvados:**
 
@@ -146,11 +146,6 @@ The key is keeping it dry and airtight until you're ready to use it. Even a litt
 
 Breaking it into stages: Day 1 - make pastry crumble and roast apples. Day 2 - make custard. Day 3 - churn and serve. This way it never feels overwhelming.
 
-**What it tastes like:**
-
-Caramelized apples up front - sweet, tart, with that deep butter-caramel complexity that only comes from proper roasting. Vanilla provides a classic French patisserie note. Subtle calvados adds this boozy apple depth without being overwhelming or identifiable as "alcohol" - it just makes the apple flavor taste more complete. The pastry crumbles provide crucial textural contrast - buttery, crispy, tasting exactly like good pie crust.
-
-When you hit a chunk of roasted apple, you get this burst of concentrated tart-sweet apple with jammy edges, just like biting into an actual Tarte Tatin. The whole thing tastes like you deconstructed the famous French tart and turned it into frozen custard. Sophisticated without being fussy, classic without being boring - exactly what you want when you're eating dessert for breakfast and feeling absolutely no shame about it.
 
 **Serving suggestion:**
 
@@ -158,5 +153,11 @@ Serve this with a small glass of calvados on the side for adults - the apple bra
 
 Small scoops work best - this is rich and intensely flavored. The pastry crumbles stay crunchiest for the first few days, so eat it relatively fresh if you want maximum textural contrast.
 
+
+**What it tastes like:**
+
+Caramelized apples up front - sweet, tart, with that deep butter-caramel complexity that only comes from proper roasting. Vanilla provides a classic French patisserie note. Subtle calvados adds this boozy apple depth without being overwhelming or identifiable as "alcohol" - it just makes the apple flavor taste more complete. The pastry crumbles provide crucial textural contrast - buttery, crispy, tasting exactly like good pie crust.
+
+When you hit a chunk of roasted apple, you get this burst of concentrated tart-sweet apple with jammy edges, just like biting into an actual Tarte Tatin. The whole thing tastes like you deconstructed the famous French tart and turned it into frozen custard. Sophisticated without being fussy, classic without being boring - exactly what you want when you're eating dessert for breakfast and feeling absolutely no shame about it.
 ---
 

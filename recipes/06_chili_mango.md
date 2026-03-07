@@ -39,7 +39,7 @@ You'll definitely need to taste-test this one. Multiple times. For science. (Ask
 
 **Spiced Pepitas:**
 
-Preheat your oven to 325°F. Toss those pepitas with olive oil, spread 'em on a baking sheet, and toast for 8-10 minutes, stirring halfway through - you want them golden and puffing up like tiny popcorn. Immediately toss with Tajin while they're hot (the heat helps the seasoning stick). Let 'em cool completely, friend.
+Preheat your oven to 325°F. Toss those pepitas with olive oil, spread 'em on a baking sheet, and toast for 8-10 minutes, stirring halfway through - you want them golden and puffing up like tiny popcorn. Immediately toss with Tajin while they're hot (the heat helps the seasoning stick). Let 'em cool completely.
 
 **Prepare Mango:**
 
@@ -55,7 +55,7 @@ Make your custard using the standard method (see Custard Fundamentals) with the 
 
 Pull it off the heat and let it chill out for 5 minutes while you stir it occasionally. Stir in the lime juice, zest, and salt. Add the mango puree and stir until everything's incorporated and looking gorgeously tropical.
 
-Here's the tricky part, chief: Start with 2 tbsp of Yellowbird and stir thoroughly. Put a spoonful in the freezer for 5 minutes, then taste it *cold* - you should feel noticeable warmth building in your mouth. Not burning, but definitely there. If it's too mild, add more hot sauce, remembering that cold is a spice assassin. Better to err on the side of more heat. You can always add; you can't take away. (Ask me how I know. Actually, don't. It involved wasted mango and regret.)
+Here's the tricky part: Start with 2 tbsp of Yellowbird and stir thoroughly. Put a spoonful in the freezer for 5 minutes, then taste it *cold* - you should feel noticeable warmth building in your mouth. Not burning, but definitely there. If it's too mild, add more hot sauce, remembering that cold is a spice assassin. Better to err on the side of more heat. You can always add; you can't take away. (Ask me how I know. Actually, don't. It involved wasted mango and regret.)
 
 Strain the whole thing through a fine-mesh sieve one more time (gets rid of any eggy bits or zest chunks). Cool it over an ice bath, stirring occasionally until it's not hot anymore. Then refrigerate for at least 4 hours or overnight. Patience, homie.
 
@@ -67,7 +67,7 @@ Warm the honey until it's pourable - like 10 seconds in the microwave or a minut
 
 Churn your base until it reaches soft-serve consistency - thick, creamy, and holding its shape. The corn syrup makes it slightly softer than usual, so it may look a touch looser than you're used to. This is normal and actually helps keep everything creamy later on.
 
-Now for the fun part: Layer into your storage container like you're building a lasagna. One-third of the ice cream, drizzle some of that spicy honey swirl around, scatter mango chunks and pepitas. Repeat twice more. Gently swirl with a butter knife - just a couple swooshes so people can navigate toward or away from the heat pockets depending on their spice tolerance. Don't overthink this, dude.
+Now for the fun part: Layer into your storage container like you're building a lasagna. One-third of the ice cream, drizzle some of that spicy honey swirl around, scatter mango chunks and pepitas. Repeat twice more. Gently swirl with a butter knife - just a couple swooshes so people can navigate toward or away from the heat pockets depending on their spice tolerance. Don't overthink this.
 
 Freeze for at least 4 hours before serving. (I know you want to eat it now. Seriously, wait.)
 
@@ -79,7 +79,7 @@ This ice cream is directly inspired by the Mexican tradition of fresh mango serv
 
 **About the mangos:**
 
-Use Ataulfo mangos - also called Champagne or Honey mangos - if you can find them. They're naturally sweeter and have way less fiber, which means they puree into something smooth and dreamy. The common Tommy Atkins mangos work too but they're more fibrous, so you'll be doing more straining. Your call, boss.
+Use Ataulfo mangos - also called Champagne or Honey mangos - if you can find them. They're naturally sweeter and have way less fiber, which means they puree into something smooth and dreamy. The common Tommy Atkins mangos work too but they're more fibrous, so you'll be doing more straining. Your call.
 
 **Why corn syrup:**
 

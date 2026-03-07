@@ -52,7 +52,7 @@ The book "Ice Cream to Fight Over: Recipes You'll Fuck Up At Least Once" is orga
 **Front Matter:**
 1. **Title Page** - Full title with subtitle
 2. **Introduction** - Sets expectations, explains the philosophy, describes what makes these recipes different
-3. **The Flavors** - Complete list of all 27 recipes with brief descriptors
+3. **The Flavors** - Complete list of all recipes with brief descriptors
 4. **How to Actually Use This Book** - Practical guidance on planning, sourcing, and expectations
 5. **The Philosophy** - Why make things harder than they need to be
 6. **A Note on Difficulty** - Complete explanation of the four-tier difficulty system with what each level actually means
@@ -60,7 +60,7 @@ The book "Ice Cream to Fight Over: Recipes You'll Fuck Up At Least Once" is orga
 8. **Final Thoughts** - Brief closing remarks before recipes begin
 
 **Recipe Collection:**
-- 27 complete recipes, each following the structure defined in this guide
+- complete recipes, each following the structure defined in this guide
 - Recipes span diverse international cuisines while avoiding nationality labels in titles
 - Mix of difficulty levels from CHILL to A FUCKING ORDEAL
 - Each recipe is complete and self-contained with all necessary context
@@ -489,7 +489,7 @@ When reviewing a recipe, check in this order:
 **For honest complexity management:** Recipe 27 (New Orleans Chicory Coffee & Beignet)
 **For accessibility without eggs:** Recipe 03 (Cardamom-Pistachio Kulfi), Recipe 02 (Bơ Chanh)
 
-**Note:** All 27 recipes now follow the complete metadata format (Difficulty + Total Time with HOMIE-style explanations). The book includes a comprehensive Custard Fundamentals section that individual recipes reference rather than repeat.
+**Note:** All recipes now follow the complete metadata format (Difficulty + Total Time with HOMIE-style explanations). The book includes a comprehensive Custard Fundamentals section that individual recipes reference rather than repeat.
 
 ---
 
@@ -497,17 +497,17 @@ When reviewing a recipe, check in this order:
 
 **THE RULES (for when you just need a checklist):**
 
-✓ Plain text only—no emojis, no symbols, no decorative Unicode
-✓ Proper encoding—fix corrupted characters on sight
-✓ NO nationalities in titles—use regions, cities, or dish names
-✓ Difficulty + Total Time with HOMIE explanations—required
-✓ 3-5 strategic profanities per recipe for emphasis
-✓ 2-4 teaching moments per recipe
-✓ Allergens for nuts/wheat/soy only (not milk/eggs)
-✓ Cultural context for international recipes—go deep
-✓ "What it tastes like" as final note—always
-✓ Churning: describe doneness, never estimate time
-✓ Voice: conversational, self-deprecating, technically accurate
+- Plain text only—no emojis, no symbols, no decorative Unicode
+- Proper encoding—fix corrupted characters on sight
+- NO nationalities in titles—use regions, cities, or dish names
+- Difficulty + Total Time with HOMIE explanations—required
+- 3-5 strategic profanities per recipe for emphasis
+- 2-4 teaching moments per recipe
+- Allergens for nuts/wheat/soy only (not milk/eggs)
+- Cultural context for international recipes—go deep
+- "What it tastes like" as final note—always
+- Churning: describe doneness, never estimate time
+- Voice: conversational, self-deprecating, technically accurate
 
 ---
 

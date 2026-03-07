@@ -44,6 +44,9 @@ def compile_book():
 
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read().strip()
+            # Strip trailing separator to avoid doubles when joining
+            while content.endswith('---'):
+                content = content[:-3].rstrip()
             output.append(content)
             print(f"  Added: {filepath}")
 

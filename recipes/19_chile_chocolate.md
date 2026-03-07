@@ -140,13 +140,14 @@ If you're short on time, you can skip this component and the ice cream will stil
 
 The pepita brittle keeps for a week in an airtight container. The candied orange peel keeps for up to 2 weeks in the fridge, stored in an airtight container. The caramel swirl keeps refrigerated for up to 10 days. The custard base benefits from overnight chilling—the flavors really come together.
 
-**What It Tastes Like:**
-
-This is chocolate ice cream for adults who aren't afraid of complexity. The first taste is deep, dark chocolate with coffee undertones—almost bittersweet. Then the chile heat creeps in, fruity and earthy, building slowly across your palate without ever overwhelming. The pepita brittle adds toasted-seed crunch and nutty richness. The candied orange cuts through with bright, chewy-spicy contrast. Every bite is layered, warm, and deeply satisfying. It's not "chocolate with chile"—it's chocolate and chile as equal partners in something entirely new.
 
 **Serving Suggestion:**
 
 This is RICH. Like, profoundly rich. Serve smaller portions than you think. It's intensely chocolatey with that slow-building chile warmth that creeps up on you. Pairs insanely well with a shot of espresso or a pour of mezcal if you're feeling fancy.
 
+
+**What It Tastes Like:**
+
+This is chocolate ice cream for adults who aren't afraid of complexity. The first taste is deep, dark chocolate with coffee undertones—almost bittersweet. Then the chile heat creeps in, fruity and earthy, building slowly across your palate without ever overwhelming. The pepita brittle adds toasted-seed crunch and nutty richness. The candied orange cuts through with bright, chewy-spicy contrast. Every bite is layered, warm, and deeply satisfying. It's not "chocolate with chile"—it's chocolate and chile as equal partners in something entirely new.
 ---
 

@@ -57,7 +57,7 @@ Ripeness is everything here, friend. You need avocados that are perfectly ripe -
 
 Hass avocados work best because they're fattier and more flavorful than the larger, smoother-skinned varieties. The fat content matters for creating that creamy texture without eggs.
 
-**The lime juice is crucial:**
+**The lime juice is damn crucial:**
 
 Lime juice does two things here. First, it provides acidity that balances the richness and sweetness, keeping the ice cream from feeling heavy or cloying. Second, it prevents oxidation - without it, your beautiful green ice cream will turn brown within hours. Don't skip the lime or substitute lemon. Lime's specific flavor profile works with avocado in a way lemon doesn't.
 
@@ -75,7 +75,7 @@ Pale green, smooth and creamy, almost the color of a honeydew melon or key lime 
 
 **What it tastes like:**
 
-Impossibly creamy and rich, with avocado's characteristic buttery smoothness translated into a sweet context. The condensed milk adds caramel-like sweetness without being cloying. The lime keeps everything bright and prevents that heavy feeling you'd get from pure fat and sugar. It tastes tropical and subtle and fundamentally different from any other ice cream you've had. Your first bite will make you pause and recalibrate everything you thought you knew about avocado. Your second bite will make you wonder why this isn't everywhere. By the third bite you'll be a convert, homie.
+Impossibly creamy and rich, with avocado's characteristic buttery smoothness translated into a sweet context. The condensed milk adds caramel-like sweetness without being cloying. The lime keeps everything bright and prevents that heavy feeling you'd get from pure fat and sugar. It tastes tropical and subtle and fundamentally different from any other ice cream you've had. Your first bite will make you pause and recalibrate everything you thought you knew about avocado. Your second bite will make you wonder why this isn't everywhere. By the third bite you'll be a convert, and you'll be pissed nobody told you sooner.
 
 ---
 

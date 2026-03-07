@@ -1,16 +1,18 @@
 # Piri Piri Cashew Coconut
 
-*Vegan and surprisingly rich as hell*
+*Vegan and surprisingly rich*
 
 **Difficulty:** THE REAL DEAL - You're soaking cashews for hours, blending them into submission, candying more cashews without burning their high-fat asses, making piri piri caramel that sounds batshit but works, and managing a vegan base that behaves differently than dairy. The individual techniques aren't brutal, but there's timing choreography and you need to trust that spicy-garlicky caramel is a good idea (it is). Plus sourcing actual piri piri might require hunting down an African or Portuguese market, homie.
 
 **Total Time:** 8-10 hours (includes 4+ hours soaking cashews while you do literally anything else, plus 4+ hours base chilling because patience is a virtue you're learning)
 
+**Allergen Information:** Tree nuts (cashews)
+
 **VEGAN**
 
 Mozambique is one of the world's largest cashew producers, coconut is a coastal staple, and piri piri—African bird's eye chili—is THE iconic ingredient. This vegan ice cream combines all three with caramelized depth and a swirl of spicy-garlicky caramel that sounds absolutely batshit but somehow fucking works.
 
-You'll soak a shit-ton of cashews. Your blender will get a serious workout. It's worth it, homie.
+You'll soak a shit-ton of cashews. Your blender will get a serious workout. It's worth it.
 
 ## Ingredients
 
@@ -77,7 +79,7 @@ Transfer to a plate immediately. Optional: sprinkle with a tiny pinch of salt wh
 
 Have your warmed coconut cream, butter, and aromatics measured and ready right next to the stove—caramel moves faster than bad decisions.
 
-Combine sugar and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there watching, which is boring as hell but necessary.
+Combine sugar and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there watching, which is boring but necessary.
 
 Pull it off the heat. Carefully pour in the warmed coconut cream—it'll bubble VIOLENTLY and make scary noises. Whisk until smooth.
 
@@ -107,7 +109,7 @@ Refrigerate at least 4 hours or overnight.
 
 **Churn:**
 
-Give the base a good whisk before churning because coconut cream may have separated slightly—it's dramatic like that. Churn until soft-serve consistency. Coconut-based ice cream takes longer than dairy to freeze due to different fat crystallization—expect it to look thick and pale tan when ready. Be patient, friend.
+Give the base a good whisk before churning because coconut cream may have separated slightly—it's dramatic like that. Churn until soft-serve consistency. Coconut-based ice cream takes longer than dairy to freeze due to different fat crystallization—expect it to look thick and pale tan when ready. Be patient.
 
 In the last minute, add those candied cashew clusters and toasted coconut flakes.
 
@@ -123,7 +125,7 @@ Mozambique is one of the world's largest cashew producers—the country has be
 
 Coconut is a staple along Mozambique's 1,500-mile coastline—used in everything from curries to desserts. Piri piri (African bird's eye chili) is THE iconic Mozambican ingredient—it's everywhere. The name comes from Swahili, and these tiny, fierce chilies have been cultivated in East Africa for centuries.
 
-Portuguese influence brought garlic-based cooking and the technique of combining sweet and savory flavors in unexpected ways. This combines indigenous ingredients (cashew, coconut, piri piri) with colonial influences (garlic caramel, Portuguese sweet-savory balance) for distinctly Mozambican flavor that's actually pretty fucking cool when you think about it.
+Portuguese influence brought garlic-based cooking and the technique of combining sweet and savory flavors in unexpected ways. This combines indigenous ingredients (cashew, coconut, piri piri) with colonial influences (garlic caramel, Portuguese sweet-savory balance) for distinctly Mozambican flavor that's worth understanding.
 
 **Vegan texture:**
 
@@ -133,7 +135,7 @@ Plant-based ice cream has a different mouthfeel than dairy—it melts faster o
 
 **Palm sugar:**
 
-Unrefined palm sugar or jaggery (from palm sap) is traditional in Mozambican sweets. Has this deep, caramel-molasses flavor that's different from regular sugar. If unavailable, use half brown sugar and half white sugar—not quite the same but it'll work, pal.
+Unrefined palm sugar or jaggery (from palm sap) is traditional in Mozambican sweets. Has this deep, caramel-molasses flavor that's different from regular sugar. If unavailable, use half brown sugar and half white sugar—not quite the same but it'll work.
 
 **Piri piri heat:**
 
@@ -152,12 +154,12 @@ Creamy tan-beige base with golden toasted coconut flakes, caramel-colored candie
 **Serving note:**
 
 Let this sit at room temperature for 5-10 minutes before scooping. Allows the fats to soften and flavors to come forward. The caramel ribbons soften faster than the base, creating nice textural contrast that's worth the wait.
-
-**Allergen Information:** 
-Contains: Tree nuts (cashews)
-
 **Make-Ahead:** 
 Candied cashews can be made up to a week ahead and stored airtight. Toasted coconut keeps for 3-4 days airtight. Piri piri caramel keeps refrigerated for up to a week. The base benefits from overnight chilling for best flavor development.
+
+**What it tastes like:**
+
+Creamy and rich in a way that'll make people refuse to believe it's vegan. The cashew base has a luxurious smoothness that coconut milk alone can't achieve. Coconut comes through as a warm tropical undertone rather than the star. Then you hit a ribbon of piri piri caramel and your brain does a double-take — sharp, citrusy heat with that whisper of garlic that has no business being in ice cream and yet works. Bold, layered, and unmistakably Mozambican.
 
 ---
 

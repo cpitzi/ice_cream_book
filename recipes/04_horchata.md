@@ -4,13 +4,13 @@
 
 **Difficulty:** LEGIT - You're soaking and blending rice to infuse the dairy (easy but takes time), making a cinnamon-sugar swirl (straightforward), and candying almonds (hard to fuck up). The rice infusion is an extra step but it's not complicated - you're basically making horchata and then turning it into custard. Nothing here will break you, chief, just requires a bit of advance planning.
 
-**Total Time:** 10-12 hours across 2 days (includes 4+ hours of rice soaking while you do literally anything else, plus overnight chilling - barely any actual work, dude)
+**Total Time:** 10-12 hours across 2 days (includes 4+ hours of rice soaking while you do literally anything else, plus overnight chilling - barely any actual work, )
 
 Horchata is one of those drinks that defines Mexican street food culture - creamy, sweet, cooling, with that distinctive rice and cinnamon combo. It's what you order with tacos to balance the heat, what you drink on hot afternoons, what makes you forget you're in 95-degree weather.
 
 This ice cream takes that classic flavor profile and makes it rich and frozen. The rice infusion gives you that characteristic slightly grainy sweetness, cinnamon comes through warm and aromatic, and candied almonds add crunch plus that nutty depth that traditional horchata sometimes has. It's familiar and comforting if you grew up drinking horchata, and a revelation if you didn't.
 
-Fair warning - this doesn't taste like the neon-white stuff from a restaurant drink dispenser. This is the real deal, homie.
+Fair warning - this doesn't taste like the neon-white stuff from a restaurant drink dispenser. This is the real deal.
 
 ## Ingredients
 
@@ -49,7 +49,7 @@ Fair warning - this doesn't taste like the neon-white stuff from a restaurant dr
 
 **Rice Milk Base (start this 4-6 hours before making custard, or the night before):**
 
-Rinse the rice under cold water until the water runs clear - you're washing off excess surface starch that would make the final product gummy instead of creamy. Combine the rice, 2 cups of the milk, and the cinnamon stick in a bowl. Cover and refrigerate for at least 4 hours, or overnight. The rice needs time to soften and release its starches into the milk - this is what creates that distinctive horchata texture and flavor, friend. You're essentially cold-brewing rice like you would coffee or tea, extracting flavor compounds and dissolved starches without cooking.
+Rinse the rice under cold water until the water runs clear - you're washing off excess surface starch that would make the final product gummy instead of creamy. Combine the rice, 2 cups of the milk, and the cinnamon stick in a bowl. Cover and refrigerate for at least 4 hours, or overnight. The rice needs time to soften and release its starches into the milk - this is what creates that distinctive horchata texture and flavor. You're essentially cold-brewing rice like you would coffee or tea, extracting flavor compounds and dissolved starches without cooking.
 
 After soaking, fish out the cinnamon stick and toss it. Pour the rice and milk mixture into a blender and blend on high for 1-2 minutes until the rice is completely pulverized - it should look like a thick, grainy white liquid, almost like if you blended up oatmeal. Don't worry if it's not perfectly smooth, pal. That slightly grainy texture is part of horchata's character.
 
@@ -59,7 +59,7 @@ Discard the rice solids (or compost them, or whatever - they've done their job).
 
 **Candied Almonds (can be made up to a week ahead):**
 
-Line a baking sheet with parchment. Combine sugar, water, and vanilla in a medium saucepan over medium heat. Stir until the sugar dissolves completely, then stop stirring and let it cook until it reaches 240°F (soft ball stage) - this takes about 5-7 minutes. You need a candy thermometer for this, homie. Don't guess.
+Line a baking sheet with parchment. Combine sugar, water, and vanilla in a medium saucepan over medium heat. Stir until the sugar dissolves completely, then stop stirring and let it cook until it reaches 240°F (soft ball stage) - this takes about 5-7 minutes. You need a candy thermometer for this. Don't guess.
 
 Add the sliced almonds and salt, and stir constantly. The mixture will look weird and sandy for a minute as the sugar crystallizes around the nuts - this is supposed to happen, don't panic. It's the sugar reverting to crystal form as it cools slightly on contact with the almonds. Keep stirring over medium heat and the sugar will melt again, coating the almonds in a glossy caramel. This transformation takes 3-5 minutes of constant stirring.
 
@@ -69,7 +69,7 @@ When the almonds are evenly coated and golden brown, immediately spread them on 
 
 Have your warmed cream, butter, and cinnamon measured and ready next to the stove - caramel moves faster than bad news and you need to be ready. Combine the sugar and water in a light-colored saucepan over medium-high heat. Don't stir - just let it cook, swirling the pan occasionally, until it reaches deep amber, about 7-10 minutes. You're looking for copper penny color.
 
-Pull from heat and carefully add the warmed cream - it'll bubble violently and hiss like an angry cat, but that's normal. The temperature differential between 350°F caramel and 120°F cream creates instant steam. Whisk until smooth, then add the butter, cinnamon, and salt. Whisk thoroughly so the cinnamon distributes evenly instead of clumping into spice bombs.
+Pull from heat and carefully add the warmed cream - it'll bubble violently and hiss like an angry cat, but that's normal as hell. The temperature differential between 350°F caramel and 120°F cream creates instant steam. Whisk until smooth, then add the butter, cinnamon, and salt. Whisk thoroughly so the cinnamon distributes evenly instead of clumping into spice bombs.
 
 The finished swirl should be smooth, fragrant with cinnamon, and deep amber-brown. Let it cool to room temperature, then refrigerate. When cold, it should be thick but pourable - honey consistency.
 
@@ -77,9 +77,9 @@ The finished swirl should be smooth, fragrant with cinnamon, and deep amber-brow
 
 Combine the rice milk mixture and heavy cream in a saucepan and heat until steaming - small bubbles around the edges, no rolling boil. While that heats, whisk the egg yolks with the sugar in a separate bowl until pale and thick, about 2 minutes. This pre-mixing is important because it starts dissolving the sugar and prevents graininess in your final custard.
 
-Temper the yolks with the hot dairy mixture - you know this drill, chief. Slowly drizzle about a cup of the hot liquid into the yolks while whisking constantly, then return everything to the pan. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line.
+Temper the yolks with the hot dairy mixture - you know this drill. Slowly drizzle about a cup of the hot liquid into the yolks while whisking constantly, then return everything to the pan. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line.
 
-Strain through a fine-mesh sieve to catch any bits of cooked egg. Stir in both extracts, ground cinnamon, and salt. The custard will be off-white with visible cinnamon specks - this is exactly what you want, dude.
+Strain through a fine-mesh sieve to catch any bits of cooked egg. Stir in both extracts, ground cinnamon, and salt. The custard will be off-white with visible cinnamon specks - this is exactly what you want.
 
 Cool over an ice bath, stirring occasionally to prevent a skin from forming, then refrigerate at least 4 hours or overnight. Overnight is better - it lets all those flavors meld together and gives the rice starches time to fully hydrate, which creates a smoother final texture.
 
@@ -101,7 +101,7 @@ The rice infusion is what makes this actually taste like horchata instead of jus
 
 **Cinnamon varieties:**
 
-Mexican canela (Ceylon cinnamon) is softer and more delicate than the cassia cinnamon you typically find in American grocery stores. It's traditional in horchata and worth seeking out if you can find it at a Mexican market or online. Tastes sweeter, less sharp, more complex - almost floral. But regular cinnamon works fine too, pal. This isn't a dealbreaker.
+Mexican canela (Ceylon cinnamon) is softer and more delicate than the cassia cinnamon you typically find in American grocery stores. It's traditional in horchata and worth seeking out if you can find it at a Mexican market or online. Tastes sweeter, less sharp, more complex - almost floral. But regular cinnamon works fine too. This isn't a dealbreaker.
 
 For the ground cinnamon in the custard and swirl, use whatever you've got, but make sure it's relatively fresh. Cinnamon loses its potency over time - those volatile oils that make it smell and taste like cinnamon break down and evaporate. Nobody wants bland spice in their ice cream. If your cinnamon has been sitting in the cabinet for three years, spring for a fresh jar.
 
@@ -113,7 +113,7 @@ Sliced almonds candy better than whole almonds because they have more surface ar
 
 **Cultural context:**
 
-Horchata has roots in medieval Spain, where it was made from tiger nuts (chufa) - not actually nuts, but small root vegetables that taste nutty and sweet. When the drink came to Mexico during the colonial period, it evolved into a rice-based version, which is now what most people think of when they hear "horchata." Different Latin American countries have their own versions - some use seeds, some use nuts, some use different grains - but the Mexican rice-and-cinnamon style is the most common in the US.
+Horchata has roots in medieval Spain, where it was made from nuts (chufa) - not actually nuts, but small root vegetables that taste nutty and sweet. When the drink came to Mexico during the colonial period, it evolved into a rice-based version, which is now what most people think of when they hear "horchata." Different Latin American countries have their own versions - some use seeds, some use nuts, some use different grains - but the Mexican rice-and-cinnamon style is the most common in the US.
 
 It's traditionally served ice-cold at taquerias as the antidote to spicy food - sweet, cooling, perfect for balancing heat. The ice cream version loses some of that refreshing drink quality but gains this rich, creamy depth that makes it work as a dessert in its own right. You're trading one set of virtues for another.
 
@@ -123,11 +123,6 @@ The rice milk infusion can be made up to 2 days ahead and refrigerated. The cand
 
 Day one: make rice milk and candied almonds. Day two: make custard and swirl, churn, assemble. Breaking it up like this means it never feels overwhelming - you're doing one or two tasks per day instead of everything at once.
 
-**What it tastes like:**
-
-Creamy and sweet up front, then warm cinnamon that builds as you eat, with a subtle rice-y sweetness underneath everything - almost like rice pudding but cleaner, less starchy. The almond extract and candied almonds add this nutty depth without being obvious about it - it just makes the whole thing taste more complete, more layered. The cinnamon swirl gives you pockets of concentrated spice and caramel sweetness that punch through the richness. Texture-wise, the candied almonds provide crucial crunch against the creamy base.
-
-If you've had good horchata, you'll immediately recognize the flavor profile, but it's richer and more complex than the drink. If you haven't, imagine if rice pudding and cinnamon toast had a frozen baby. That's this.
 
 **Serving suggestion:**
 
@@ -135,5 +130,11 @@ This is excellent on its own, but holy shit does it work next to chocolate - chu
 
 Small to medium scoops work best - this is rich enough that a little goes a long way, but not so intense that you can't eat a proper portion.
 
+
+**What it tastes like:**
+
+Creamy and sweet up front, then warm cinnamon that builds as you eat, with a subtle rice-y sweetness underneath everything - almost like rice pudding but cleaner, less starchy. The almond extract and candied almonds add this nutty depth without being obvious about it - it just makes the whole thing taste more complete, more layered. The cinnamon swirl gives you pockets of concentrated spice and caramel sweetness that punch through the richness. Texture-wise, the candied almonds provide crucial crunch against the creamy base.
+
+If you've had good horchata, you'll immediately recognize the flavor profile, but it's richer and more complex than the drink. If you haven't, imagine if rice pudding and cinnamon toast had a frozen baby. That's this.
 ---
 

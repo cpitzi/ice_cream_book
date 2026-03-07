@@ -2,9 +2,11 @@
 
 *Allspice, rum, bananas—Caribbean celebration*
 
-**Difficulty:** LEGIT - Multiple components and some flambe action if you're feeling brave. You'll caramelize bananas, make butterscotch, candy ginger, and juggle timing across all of them. Nothing here will actually break you, but you can't just fuck off and watch TV either. Stay present, stay engaged, you'll be fine.
+**Difficulty:** LEGIT - Multiple components and some flambe action if you're feeling brave. You'll caramelize bananas, make butterscotch, candy ginger, and juggle timing across all of them. Nothing here will actually break you, but you can't just wander off and watch TV either. Stay present, stay engaged, you'll be fine.
 
-**Total Time:** 6-8 hours (most of which is ginger drying and base chilling—you'll have plenty of time to do other shit)
+**Total Time:** 6-8 hours (most of which is ginger drying and base chilling—you'll have plenty of time to do other things)
+
+**Allergen Information:**  Can be made without coconut for nut-free version
 
 Allspice is THE signature spice of Jamaica—it's called pimento locally and has this warm, complex flavor that tastes like cinnamon, nutmeg, and cloves all decided to have a threesome. Combined with rum-caramelized bananas, candied ginger, and a rum-butterscotch swirl, you get something that feels like a party where everyone's having a genuinely good time. Bright, spirited, deeply flavorful.
 
@@ -62,7 +64,7 @@ Combine 1 cup sugar and 1/2 cup water in a saucepan, bring to a simmer. Add the 
 
 Transfer to a rack set over parchment with a slotted spoon. Dry for 4+ hours or overnight until tacky. Toss in sugar. Store airtight. Should be chewy-crystalline with bright ginger heat that builds.
 
-*Note: High-quality store-bought crystallized ginger works damn well if you're short on time, friend. Just chop it into small pieces and move on with your life.*
+*Note: High-quality store-bought crystallized ginger works damn well if you're short on time. Just chop it into small pieces and move on with your life.*
 
 **Toasted Coconut (if using):**
 
@@ -72,7 +74,7 @@ Add a pinch of salt while warm. Transfer to a plate immediately. Cool completely
 
 **Rum-Caramelized Bananas:**
 
-Peel the bananas and cut into 1/2-inch thick rounds. Crush the whole allspice berries slightly with a mortar and pestle or in a plastic bag with a rolling pin—want them broken but not powdered to hell.
+Peel the bananas and cut into 1/2-inch thick rounds. Crush the whole allspice berries slightly with a mortar and pestle or in a plastic bag with a rolling pin—want them broken but not powdered into dust.
 
 Melt butter in a large skillet over medium-high heat. Add the dark brown sugar and crushed allspice, stir until the sugar melts and bubbles, about 1 minute.
 
@@ -138,7 +140,7 @@ Buy whole berries from good spice companies and crush them fresh—pre-ground lo
 
 **Jamaican rum:**
 
-Use dark Jamaican rum like Appleton Estate, Myers's, or Wray & Nephew Overproof—though that last one is VERY strong, use it cautiously, pal. Jamaican rum is made from molasses and pot-distilled, creating this full-bodied, almost funky character with notes of banana, brown sugar, and warm spices.
+Use dark Jamaican rum like Appleton Estate, Myers's, or Wray & Nephew Overproof—though that last one is VERY strong, use it cautiously. Jamaican rum is made from molasses and pot-distilled, creating this full-bodied, almost funky character with notes of banana, brown sugar, and warm spices.
 
 Distinctly different from rhum agricole or light rums. The richness and complexity are essential—it's not just alcohol, it's a fucking flavor component.
 
@@ -160,14 +162,14 @@ Dark brown sugar in the base, caramelized bananas, and butterscotch creates this
 
 Unlike the Haitian version where coconut milk integrates into the base, here toasted coconut flakes are an optional textural accent. Banana-coconut is a classic Jamaican combination, but here the coconut provides crunch without making the base coconut-forward. The focus remains on banana, rum, and allspice—as it should.
 
-**What it tastes like:**
-
-Warm amber base with prominent allspice—that characteristic Jamaican pimento flavor—rum depth, caramelized banana sweetness, pockets of chewy-crystalline ginger heat, optional coconut crunch, and dark butterscotch ribbons throughout. Spirited, lively, celebratory. Tastes like a Jamaican party where everyone's invited and everyone's dancing. The kind of ice cream that makes you close your eyes on the first bite and go "oh, hell yes."
-
-## Allergen Information
 
 **Contains:** Tree nuts (if using coconut)
 
+
 **Note:** Can be made without coconut for nut-free version
 
+
+**What it tastes like:**
+
+Warm amber base with prominent allspice—that characteristic Jamaican pimento flavor—rum depth, caramelized banana sweetness, pockets of chewy-crystalline ginger heat, optional coconut crunch, and dark butterscotch ribbons throughout. Spirited, lively, celebratory. Tastes like a Jamaican party where everyone's invited and everyone's dancing. The kind of ice cream that makes you close your eyes on the first bite and go "oh, hell yes."
 ---

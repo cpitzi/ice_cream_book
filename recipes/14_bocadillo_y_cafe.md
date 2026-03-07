@@ -42,11 +42,11 @@ More components than strictly necessary, but they all earn their place. No freel
 
 Line a baking sheet with parchment. Combine 1/3 cup panela and 1/4 cup water in a saucepan. Heat over medium-high, stirring until the panela dissolves. Bring to a boil.
 
-Cook WITHOUT STIRRING to 240°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy—you'll know it when you see it, friend.
+Cook WITHOUT STIRRING to 240°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy—you'll know it when you see it.
 
 Pull it off the heat immediately. Add the coffee beans, stir quickly to coat completely—every bean needs coverage.
 
-Working FAST because this sets up quicker than you can say "I should've been ready," pour onto the parchment and spread in a single layer using two forks to separate the beans before the mixture sets. Should look glossy and lacquered, like edible jewelry.
+Working FAST because this shit sets up quicker than you can say "I should've been ready," pour onto the parchment and spread in a single layer using two forks to separate the beans before the mixture sets. Should look glossy and lacquered, like edible jewelry.
 
 Let air dry completely at room temperature for 2-4 hours until the coating is hard and glassy, not tacky. Break apart any clusters. Store airtight. These things are dangerously snackable.
 
@@ -100,7 +100,7 @@ Already contains panela, giving it authentic Colombian depth. If unavailable, us
 
 **Panela:**
 
-Unrefined Colombian cane sugar—has deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine, pal.
+Unrefined Colombian cane sugar—has deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine.
 
 **Coffee:**
 

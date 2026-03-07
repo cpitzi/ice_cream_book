@@ -6,6 +6,8 @@
 
 **Total Time:** 7-9 hours (includes 2-3 hours of brittle cooling and custard chilling—you'll have plenty of time to drink the coffee you just brewed)
 
+**Allergen Information:** 
+
 Ethiopia is the birthplace of coffee—literally. Legend says a goat herder named Kaldi discovered coffee in the 9th century when his goats got hyper as hell after eating certain berries. Today, the Ethiopian coffee ceremony (jebena buna) is a ritual of hospitality that can last hours, involving roasting green beans, grinding them by hand, and serving three rounds of increasingly lighter coffee with popcorn or peanuts.
 
 Berbere is Ethiopia's signature spice blend—complex, layered, essential to dishes like doro wat and kitfo. Every family has their own recipe, but it typically includes fenugreek, cardamom, coriander, black pepper, cinnamon, cloves, and dried chilies. The blend is earthy, warm, slightly bitter, and absolutely fucking beautiful when used right.
@@ -173,8 +175,5 @@ Pale brown coffee-honey base with dark reddish-brown berbere caramel ribbons, da
 **What it tastes like:**
 
 Rich coffee-honey base—aromatic, floral, slightly wine-like if you used good Ethiopian coffee. The berbere caramel hits with warm spices—earthy fenugreek, aromatic cardamom, gentle warmth from chilies, all wrapped in dark caramelized sugar. Coffee brittle provides intense coffee bursts and crunch. Optional teff crumble adds nutty, grain character that reinforces the Ethiopian identity. Complex, sophisticated, unlike anything else in the collection. This is Horn of Africa in a bowl, and it's absolutely worth the fucking effort, friend.
-
-**Allergen Information:** Contains wheat (if using teff crumble)
-
 ---
 

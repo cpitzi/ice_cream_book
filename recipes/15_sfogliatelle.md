@@ -107,12 +107,13 @@ I chose apricot because: (1) citron is fucking impossible to find unless you're 
 
 If you want to go fully traditional, candied orange peel is much easier to source and works beautifully—just blanch fresh orange peel three times to remove bitterness, then follow the same candying process with the sugar syrup. Some specialty Italian markets sell pre-candied citron if you're feeling ambitious, but it'll cost you.
 
-**What it tastes like:**
-
-Creamy ricotta, warm cinnamon-vanilla spice, bright apricot sweetness, and that textural crunch from the semolina that makes you think "oh yeah, this IS supposed to be a pastry." Captures the essence of the pastry without trying to literally recreate it in frozen form.
 
 **Make-Ahead:** 
 The candied apricots can be made up to a week ahead and stored airtight. The semolina crumble keeps for 3-4 days in an airtight container. Make the custard base the night before churning for best results.
 
+
+**What it tastes like:**
+
+Creamy ricotta, warm cinnamon-vanilla spice, bright apricot sweetness, and that textural crunch from the semolina that makes you think "oh yeah, this IS supposed to be a pastry." Captures the essence of the pastry without trying to literally recreate it in frozen form.
 ---
 
