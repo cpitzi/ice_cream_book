@@ -12,8 +12,8 @@ mkdir -p front_matter recipes back_matter
 You'll need to manually split `Ice_Cream_to_Fight_Over_COMPLETE.md` into individual files following this structure:
 
 **Front Matter Files:**
-- `front_matter/01_title_and_intro.md` - From "# Ice Cream to Fight Over" through end of Introduction
-- `front_matter/01b_table_of_contents.md` - Table of Contents
+- `front_matter/01_table_of_contents.md` - Table of Contents
+- `front_matter/01b_title_and_intro.md` - From "# Ice Cream to Fight Over" through end of Introduction
 - `front_matter/02_what_makes_different.md` - "## What Makes These Recipes Different" section
 - `front_matter/03_philosophy.md` - "## The Philosophy" section
 - `front_matter/04_how_to_use.md` - "## How to Actually Use This Book" section
@@ -55,7 +55,7 @@ chmod +x compile_book.sh
 ### Editing Individual Sections
 
 **Instead of:** "Edit the introduction"
-**Say:** "Edit front_matter/01_title_and_intro.md"
+**Say:** "Edit front_matter/01b_title_and_intro.md"
 
 **Instead of:** "Fix Recipe 15"  
 **Say:** "Edit recipes/15_rum_banana.md"
@@ -69,7 +69,7 @@ chmod +x compile_book.sh
 You can ask Claude to:
 - "Extract recipes/12_appalachian_pawpaw_maple.md from the COMPLETE file"
 - "Generate all recipe files from the COMPLETE file"
-- "Split front_matter/01_title_and_intro.md from the COMPLETE file"
+- "Split front_matter/01b_title_and_intro.md from the COMPLETE file"
 
 ---
 

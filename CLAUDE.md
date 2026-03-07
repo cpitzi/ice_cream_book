@@ -49,8 +49,8 @@
 ice_cream_book/
 ├── .git/                          # Git repository
 ├── front_matter/                  # Book introduction (9 files, ~31KB)
-│   ├── 01_title_and_intro.md
-│   ├── 01b_table_of_contents.md
+│   ├── 01_table_of_contents.md
+│   ├── 01b_title_and_intro.md
 │   ├── 02_what_makes_different.md
 │   ├── 03_philosophy.md
 │   ├── 04_how_to_use.md
