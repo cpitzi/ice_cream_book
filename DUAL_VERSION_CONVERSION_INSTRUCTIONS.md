@@ -79,8 +79,8 @@ Clean-only paragraph here.
 For examples of well-converted files, look at:
 - `recipes/13_atole_de_anis.md` (clean, moderate marker count)
 - `recipes/17_brown_butter_pecan.md` (heavy profanity, lots of markers)
-- `front_matter/07_custard_fundamentals.md` (longest file, ~20 markers)
-- `front_matter/04_how_to_use.md` (short file, dense profanity)
+- `front_matter/08_custard_fundamentals.md` (longest file, ~20 markers)
+- `front_matter/05_how_to_use.md` (short file, dense profanity)
 
 ## Files Still Needing Conversion
 

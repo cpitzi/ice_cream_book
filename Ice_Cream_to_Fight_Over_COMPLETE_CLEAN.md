@@ -1,27 +1,3 @@
-# Ice Cream to Fight Over: Recipes You'll Mess Up At Least Once
-
-## Introduction
-
-Alright, friend--let's talk about what on earth this collection actually is, because it's NOT your standard ice cream cookbook, and honestly, it's probably not what you thought you were signing up for. Buckle up.
-
-This isn't a book of vanilla with sprinkles or chocolate chip cookie dough. (Those are both absolutely delicious, by the way, and if that's what you want, godspeed--nobody's judging you for having functioning taste buds and a healthy sense of self-preservation. Go live your best wonderful life.) But if you picked this up, there's a decent chance you're the kind of wonderfully ambitious person who looks at a recipe that says "3-hour rise time" and thinks "yeah, that sounds like a reasonable Wednesday." You absolute legend. I love you already. We're going to get along great.
-
-So here's the honest-to-goodness deal: This is a collection of ice cream recipes that actually *mean* something--flavors rooted in real places, real traditions, and real ingredients that will absolutely make you work incredibly hard for them. We're talking Mexican atole transformed into frozen custard with piloncillo and star anise. Japanese miso meeting ceremonial matcha in what can only be described as the world's most expensive savory-sweet identity crisis. (Worth every penny. Don't @ me.) New Orleans chicory coffee with actual yeasted beignets that take three whole hours to make, then get fried, then--and this is the truly wild part--get frozen and swirled into ice cream because we've all collectively lost our ever-loving minds and we're not even a little sorry about it.
-
-Each of these recipes is basically a high-wire act of cultural translation--taking flavors that define a cuisine or a region and figuring out how to make them work in ice cream without completely bastardizing what makes them special. (Spoiler: Sometimes you'll improvise on them a little. It happens. We're doing our best here, and that's all anyone can ask. The important thing is we're doing it with respect, good ingredients, and a reasonable amount of healthy concern.)
-
-Some of them are elegant beyond belief--lemon and rosemary honey with olive oil, golden milk with date. Some are wonderfully weird--gochugaru and sesame, miso matcha, ricotta-semolina that tastes like a Neapolitan pastry had a fever dream after eating questionable mushrooms. And some are genuine endurance tests--three-hour beignet doughs, candied ginger that takes two days, a pawpaw that only exists for two weeks in September and goes bad in 48 hours.
-
-Speaking of which, here's what I need you to understand before we go any further, pal: You WILL mess something up. Probably multiple somethings. I've messed up every single one of these recipes at least once, and I wrote the dang things. That's not a failure--that's the process. The title isn't a warning, it's a promise. You'll burn the brown butter. You'll curdle a custard. You'll spend four hours making candied ginger and then eat half of it before it makes it into the ice cream. (No shame, friend. Candied ginger is ridiculously good.)
-
-But when you nail one of these--when you pull a batch of Sichuan plum with five-spice out of the churner and the color is this impossible purple-pink and it smells like a spice market in heaven--buddy, that feeling is why we do this. That's the ice cream worth fighting over.
-
-So let's get into some trouble and make something incredible.
-
-Welcome to the adventure, friend. Grab a spatula.
-
----
-
 ## Table of Contents
 
 **The Front Stuff**
@@ -80,6 +56,30 @@ Welcome to the adventure, friend. Grab a spatula.
 **The Back**
 
 - [That's All, Friend](#thats-all-homie)
+
+---
+
+# Ice Cream to Fight Over: Recipes You'll Mess Up At Least Once
+
+## Introduction
+
+Alright, friend--let's talk about what on earth this collection actually is, because it's NOT your standard ice cream cookbook, and honestly, it's probably not what you thought you were signing up for. Buckle up.
+
+This isn't a book of vanilla with sprinkles or chocolate chip cookie dough. (Those are both absolutely delicious, by the way, and if that's what you want, godspeed--nobody's judging you for having functioning taste buds and a healthy sense of self-preservation. Go live your best wonderful life.) But if you picked this up, there's a decent chance you're the kind of wonderfully ambitious person who looks at a recipe that says "3-hour rise time" and thinks "yeah, that sounds like a reasonable Wednesday." You absolute legend. I love you already. We're going to get along great.
+
+So here's the honest-to-goodness deal: This is a collection of ice cream recipes that actually *mean* something--flavors rooted in real places, real traditions, and real ingredients that will absolutely make you work incredibly hard for them. We're talking Mexican atole transformed into frozen custard with piloncillo and star anise. Japanese miso meeting ceremonial matcha in what can only be described as the world's most expensive savory-sweet identity crisis. (Worth every penny. Don't @ me.) New Orleans chicory coffee with actual yeasted beignets that take three whole hours to make, then get fried, then--and this is the truly wild part--get frozen and swirled into ice cream because we've all collectively lost our ever-loving minds and we're not even a little sorry about it.
+
+Each of these recipes is basically a high-wire act of cultural translation--taking flavors that define a cuisine or a region and figuring out how to make them work in ice cream without completely bastardizing what makes them special. (Spoiler: Sometimes you'll improvise on them a little. It happens. We're doing our best here, and that's all anyone can ask. The important thing is we're doing it with respect, good ingredients, and a reasonable amount of healthy concern.)
+
+Some of them are elegant beyond belief--lemon and rosemary honey with olive oil, golden milk with date. Some are wonderfully weird--gochugaru and sesame, miso matcha, ricotta-semolina that tastes like a Neapolitan pastry had a fever dream after eating questionable mushrooms. And some are genuine endurance tests--three-hour beignet doughs, candied ginger that takes two days, a pawpaw that only exists for two weeks in September and goes bad in 48 hours.
+
+Speaking of which, here's what I need you to understand before we go any further, pal: You WILL mess something up. Probably multiple somethings. I've messed up every single one of these recipes at least once, and I wrote the dang things. That's not a failure--that's the process. The title isn't a warning, it's a promise. You'll burn the brown butter. You'll curdle a custard. You'll spend four hours making candied ginger and then eat half of it before it makes it into the ice cream. (No shame, friend. Candied ginger is ridiculously good.)
+
+But when you nail one of these--when you pull a batch of Sichuan plum with five-spice out of the churner and the color is this impossible purple-pink and it smells like a spice market in heaven--buddy, that feeling is why we do this. That's the ice cream worth fighting over.
+
+So let's get into some trouble and make something incredible.
+
+Welcome to the adventure, friend. Grab a spatula.
 
 ---
 
