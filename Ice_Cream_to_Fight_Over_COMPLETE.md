@@ -371,7 +371,7 @@ Pandan is to Southeast Asian desserts what vanilla is to Western desserts—it's
 
 This ice cream is a staple of Thai street food culture, sold from pushcarts and markets and ice cream shops across the country, often served in coconut shells or alongside sweet sticky rice. It's simple, refreshing, and deeply aromatic in a way that Western ice cream rarely achieves. The coconut milk provides richness without eggs, the pandan gives you that distinctive Southeast Asian flavor profile, and palm sugar adds a caramel-like sweetness that white sugar simply can't fuck with.
 
-If you've never tasted pandan, this recipe is your introduction to one of the world's most important dessert flavors that somehow never made it into mainstream Western cuisine. If you *have* tasted it, this recipe is your nostalgia, your homage, your way of bringing that Southeast Asian dessert experience into your home kitchen. Either way, buckle up, pal—this one's going to recalibrate your whole understanding of what frozen dessert can be.
+If you've never tasted pandan, this recipe is your introduction to one of the world's most important dessert flavors that somehow never made it into mainstream Western cuisine. If you *have* tasted it, this recipe is your nostalgia, your homage, your way of bringing that Southeast Asian dessert experience into your home kitchen. Either way, buckle up—this one's going to recalibrate your whole understanding of what frozen dessert can be.
 
 ## Ingredients
 
@@ -423,7 +423,7 @@ Transfer to a freezer-safe container and freeze for at least 4 hours before serv
 
 **Sourcing pandan leaves:**
 
-Most Asian grocery stores carry frozen pandan leaves in their freezer section, and some carry fresh leaves in the produce section. Thai, Vietnamese, Chinese, and Filipino markets are your best bets. The frozen leaves work perfectly fine—they're frozen fresh so they still have all the aromatic compounds you need. If you're in a city with any kind of Asian food presence, you can find pandan. If you're in a smaller town or rural area, you might need to order frozen pandan leaves online, which is absolutely worth doing because the difference between fresh/frozen leaves and extract is no joke, dude.
+Most Asian grocery stores carry frozen pandan leaves in their freezer section, and some carry fresh leaves in the produce section. Thai, Vietnamese, Chinese, and Filipino markets are your best bets. The frozen leaves work perfectly fine—they're frozen fresh so they still have all the aromatic compounds you need. If you're in a city with any kind of Asian food presence, you can find pandan. If you're in a smaller town or rural area, you might need to order frozen pandan leaves online, which is absolutely worth doing because the difference between fresh/frozen leaves and extract is no joke.
 
 Look for leaves that are vibrant green and smell aromatic. Avoid any that look brown or dried out. Fresh pandan keeps in the fridge for about a week, or you can freeze it yourself for several months.
 
@@ -443,7 +443,7 @@ The base can be made up to 2 days ahead and kept refrigerated. The pandan flavor
 
 **Serving suggestions:**
 
-Traditional Thai service involves topping this with crushed roasted peanuts, sweet corn kernels, sticky rice, or cubes of young coconut. Sounds weird as hell, tastes incredible. The textural contrast and the interplay of sweet, salty, and rich is exactly what Thai desserts do so well. Or just eat it plain and appreciate that aromatic pandan flavor—no wrong answers here, chief.
+Traditional Thai service involves topping this with crushed roasted peanuts, sweet corn kernels, sticky rice, or cubes of young coconut. Sounds weird as hell, tastes incredible. The textural contrast and the interplay of sweet, salty, and rich is exactly what Thai desserts do so well. Or just eat it plain and appreciate that aromatic pandan flavor—no wrong answers here.
 
 **Visual:**
 
@@ -583,7 +583,7 @@ No eggs. No churning required (though you can if you want). Just mix, flavor, fr
 
 **Bloom the Saffron (do this first):**
 
-Crush those saffron threads slightly between your fingers to release the oils and color. Drop them in a small bowl with 3 tbsp warm milk, stir, and set aside for at least 10 minutes. The milk will turn this gorgeous golden-orange color and smell expensive as hell. This is your saffron milk.
+Crush those saffron threads slightly between your fingers to release the oils and color. Drop them in a small bowl with 3 tbsp warm milk, stir, and set aside for at least 10 minutes. The milk will turn this gorgeous golden-orange color and smell incredibly expensive. This is your saffron milk.
 
 **Prepare Pistachios:**
 
@@ -613,7 +613,7 @@ Once hot, reduce heat to low and let it simmer VERY gently for about 5 minutes, 
 
 Remove from heat. Fish out the cardamom pods with a spoon and discard them—they've done their job. You might see some little black cardamom seeds floating around; that's fine, they're flavorful.
 
-Add the pistachio paste and whisk vigorously until it's completely incorporated into the hot mixture. Should turn slightly green and smell nutty as hell.
+Add the pistachio paste and whisk vigorously until it's completely incorporated into the hot mixture. Should turn slightly green and smell incredible.
 
 Pour in the bloomed saffron milk, including all those saffron threads. Stir thoroughly. The mixture should turn this pale golden color and smell absolutely INCREDIBLE—cardamom, saffron, pistachios, caramelized sweetness from the condensed milk all hanging out together.
 
@@ -863,7 +863,7 @@ When the almonds are evenly coated and golden brown, immediately spread them on 
 
 Have your warmed cream, butter, and cinnamon measured and ready next to the stove - caramel moves faster than bad news and you need to be ready. Combine the sugar and water in a light-colored saucepan over medium-high heat. Don't stir - just let it cook, swirling the pan occasionally, until it reaches deep amber, about 7-10 minutes. You're looking for copper penny color.
 
-Pull from heat and carefully add the warmed cream - it'll bubble violently and hiss like an angry cat, but that's normal. The temperature differential between 350°F caramel and 120°F cream creates instant steam. Whisk until smooth, then add the butter, cinnamon, and salt. Whisk thoroughly so the cinnamon distributes evenly instead of clumping into spice bombs.
+Pull from heat and carefully add the warmed cream - it'll bubble violently and hiss like an angry cat, but that's normal as hell. The temperature differential between 350°F caramel and 120°F cream creates instant steam. Whisk until smooth, then add the butter, cinnamon, and salt. Whisk thoroughly so the cinnamon distributes evenly instead of clumping into spice bombs.
 
 The finished swirl should be smooth, fragrant with cinnamon, and deep amber-brown. Let it cool to room temperature, then refrigerate. When cold, it should be thick but pourable - honey consistency.
 
@@ -1131,7 +1131,7 @@ You'll definitely need to taste-test this one. Multiple times. For science. (Ask
 
 **Spiced Pepitas:**
 
-Preheat your oven to 325°F. Toss those pepitas with olive oil, spread 'em on a baking sheet, and toast for 8-10 minutes, stirring halfway through - you want them golden and puffing up like tiny popcorn. Immediately toss with Tajin while they're hot (the heat helps the seasoning stick). Let 'em cool completely, friend.
+Preheat your oven to 325°F. Toss those pepitas with olive oil, spread 'em on a baking sheet, and toast for 8-10 minutes, stirring halfway through - you want them golden and puffing up like tiny popcorn. Immediately toss with Tajin while they're hot (the heat helps the seasoning stick). Let 'em cool completely.
 
 **Prepare Mango:**
 
@@ -1147,7 +1147,7 @@ Make your custard using the standard method (see Custard Fundamentals) with the 
 
 Pull it off the heat and let it chill out for 5 minutes while you stir it occasionally. Stir in the lime juice, zest, and salt. Add the mango puree and stir until everything's incorporated and looking gorgeously tropical.
 
-Here's the tricky part, chief: Start with 2 tbsp of Yellowbird and stir thoroughly. Put a spoonful in the freezer for 5 minutes, then taste it *cold* - you should feel noticeable warmth building in your mouth. Not burning, but definitely there. If it's too mild, add more hot sauce, remembering that cold is a spice assassin. Better to err on the side of more heat. You can always add; you can't take away. (Ask me how I know. Actually, don't. It involved wasted mango and regret.)
+Here's the tricky part: Start with 2 tbsp of Yellowbird and stir thoroughly. Put a spoonful in the freezer for 5 minutes, then taste it *cold* - you should feel noticeable warmth building in your mouth. Not burning, but definitely there. If it's too mild, add more hot sauce, remembering that cold is a spice assassin. Better to err on the side of more heat. You can always add; you can't take away. (Ask me how I know. Actually, don't. It involved wasted mango and regret.)
 
 Strain the whole thing through a fine-mesh sieve one more time (gets rid of any eggy bits or zest chunks). Cool it over an ice bath, stirring occasionally until it's not hot anymore. Then refrigerate for at least 4 hours or overnight. Patience, homie.
 
@@ -1159,7 +1159,7 @@ Warm the honey until it's pourable - like 10 seconds in the microwave or a minut
 
 Churn your base until it reaches soft-serve consistency - thick, creamy, and holding its shape. The corn syrup makes it slightly softer than usual, so it may look a touch looser than you're used to. This is normal and actually helps keep everything creamy later on.
 
-Now for the fun part: Layer into your storage container like you're building a lasagna. One-third of the ice cream, drizzle some of that spicy honey swirl around, scatter mango chunks and pepitas. Repeat twice more. Gently swirl with a butter knife - just a couple swooshes so people can navigate toward or away from the heat pockets depending on their spice tolerance. Don't overthink this, dude.
+Now for the fun part: Layer into your storage container like you're building a lasagna. One-third of the ice cream, drizzle some of that spicy honey swirl around, scatter mango chunks and pepitas. Repeat twice more. Gently swirl with a butter knife - just a couple swooshes so people can navigate toward or away from the heat pockets depending on their spice tolerance. Don't overthink this.
 
 Freeze for at least 4 hours before serving. (I know you want to eat it now. Seriously, wait.)
 
@@ -1171,7 +1171,7 @@ This ice cream is directly inspired by the Mexican tradition of fresh mango serv
 
 **About the mangos:**
 
-Use Ataulfo mangos - also called Champagne or Honey mangos - if you can find them. They're naturally sweeter and have way less fiber, which means they puree into something smooth and dreamy. The common Tommy Atkins mangos work too but they're more fibrous, so you'll be doing more straining. Your call, boss.
+Use Ataulfo mangos - also called Champagne or Honey mangos - if you can find them. They're naturally sweeter and have way less fiber, which means they puree into something smooth and dreamy. The common Tommy Atkins mangos work too but they're more fibrous, so you'll be doing more straining. Your call.
 
 **Why corn syrup:**
 
@@ -1281,7 +1281,7 @@ Return the infused cream to the saucepan, add half the sugar, heat until steamin
 
 The wattleseed will give it this beautiful tan-coffee color. Pull it off the heat. Stir in vanilla and salt.
 
-Strain through a fine-mesh sieve ONE MORE TIME to remove any remaining wattleseed particles—nobody wants gritty ice cream, homie.
+Strain through a fine-mesh sieve ONE MORE TIME to remove any remaining wattleseed particles—nobody wants gritty ice cream.
 
 Cool over an ice bath.
 
@@ -1315,7 +1315,7 @@ Buy from reputable suppliers that source ethically from Aboriginal communities�
 
 **Macadamia nuts:**
 
-Indigenous to Queensland and northern New South Wales rainforests. Australia is one of the world's largest macadamia producers. These nuts are buttery, creamy, with this mild sweet flavor. The high fat content—75%, which is INSANE—means they toast beautifully but burn easily. Watch them carefully, friend.
+Indigenous to Queensland and northern New South Wales rainforests. Australia is one of the world's largest macadamia producers. These nuts are buttery, creamy, with this mild sweet flavor. The high fat content—75%, which is INSANE—means they toast beautifully but burn scary fast. Watch them like a damn hawk, friend.
 
 **Golden syrup:**
 
@@ -1327,7 +1327,7 @@ Native Australian citrus-scented leaf. Has INTENSE lemon flavor—like 10 time
 
 **Cultural context:**
 
-This honors Aboriginal Australian bush tucker traditions by featuring wattleseed, while incorporating macadamias (native to Australia) and golden syrup (beloved in modern Australian cuisine). Wattleseed has been used by Aboriginal peoples for millennia—we're talking THOUSANDS of years. When buying wattleseed and other native ingredients, seek out Aboriginal-owned suppliers or brands that fairly compensate Aboriginal communities. This isn't just food, it's cultural heritage, dude.
+This honors Aboriginal Australian bush tucker traditions by featuring wattleseed, while incorporating macadamias (native to Australia) and golden syrup (beloved in modern Australian cuisine). Wattleseed has been used by Aboriginal peoples for millennia—we're talking THOUSANDS of years. When buying wattleseed and other native ingredients, seek out Aboriginal-owned suppliers or brands that fairly compensate Aboriginal communities. This isn't just food, it's cultural heritage.
 
 
 **Visual:**
@@ -1395,7 +1395,7 @@ If the mixture seems too dry and won't hold together when you squeeze it, add th
 
 Spread the mixture on a parchment-lined baking sheet, breaking it into irregular crumbles ranging from pea-sized to marble-sized. Bake for 15-20 minutes, stirring once halfway through, until golden brown and crispy. It should smell buttery and toasted, like pie crust.
 
-Let cool completely on the baking sheet. The crumbles will crisp up as they cool - this is chemistry at work, dude. Once cool, break into smaller pieces if any are too large. Store in an airtight container at room temperature.
+Let cool completely on the baking sheet. The crumbles will crisp up as they cool - this is chemistry at work. Once cool, break into smaller pieces if any are too large. Store in an airtight container at room temperature.
 
 **Roast Apples (do this at least 2 hours before making custard so they have time to cool):**
 
@@ -1405,7 +1405,7 @@ Peel, core, and cut the apples into roughly 3/4-inch chunks. You want them big e
 
 Toss them with butter, brown sugar, and salt in a roasting pan or baking dish. Make sure everything's coated - the butter helps conduct heat and creates browning, while the brown sugar adds molasses notes and extra caramelization.
 
-Roast for 30-40 minutes, stirring every 10-12 minutes. You're looking for deep golden brown edges with some darker caramelized spots - that's where all the flavor lives, friend. The apples should be tender when you poke them with a fork, but still holding their shape, not falling apart into applesauce. Some of the pieces will have these gorgeous bronze-brown edges that look almost candied, like someone hit them with a blowtorch. That's exactly what you want.
+Roast for 30-40 minutes, stirring every 10-12 minutes. You're looking for deep golden brown edges with some darker caramelized spots - that's where all the flavor lives. The apples should be tender when you poke them with a fork, but still holding their shape, not falling apart into applesauce. Some of the pieces will have these gorgeous bronze-brown edges that look almost candied, like someone hit them with a blowtorch. That's exactly what you want.
 
 When the apples are done roasting, pull the pan from the oven and immediately add the calvados and vanilla extract. The residual heat will warm the calvados and help it integrate with the apple juices. Stir everything together, scraping up any caramelized bits stuck to the bottom of the pan - that's concentrated flavor right there, don't leave it behind.
 
@@ -1435,7 +1435,7 @@ Cool over an ice bath, stirring occasionally to prevent a skin from forming. Ref
 
 Churn the custard until it reaches soft-serve consistency.
 
-In the last minute of churning - and this timing matters, chief - add the chopped roasted apple pieces. If you add them too early, they'll get pulverized by the churning blade and turn into puree. If you add them after churning stops, they won't distribute evenly and you'll have clumps. Last minute of churning means they get mixed in thoroughly but maintain their chunky texture.
+In the last minute of churning - and this timing matters - add the chopped roasted apple pieces. If you add them too early, they'll get pulverized by the churning blade and turn into puree. If you add them after churning stops, they won't distribute evenly and you'll have clumps. Last minute of churning means they get mixed in thoroughly but maintain their chunky texture.
 
 Layer into your storage container: spread one-third of the ice cream, scatter some pastry crumble. Repeat twice more, finishing with a layer of crumble on top. Don't swirl - you want distinct layers of creamy apple ice cream and crunchy pastry bits, like deconstructed tart.
 
@@ -1449,7 +1449,7 @@ Raw apples are fine. They're nice. They're pleasant. But roasting transforms the
 
 The butter and brown sugar accelerate this browning process. Butter provides fat that helps conduct heat evenly and adds richness. Brown sugar adds molasses notes and extra sugar for caramelization. Together they create these glossy, caramelized pieces that taste like concentrated apple essence with layers of caramel complexity.
 
-If you use raw apples, you'll get bland apple ice cream that tastes like nothing much. The roasting is what makes this taste like actual Tarte Tatin, homie.
+If you use raw apples, you'll get bland apple ice cream that tastes like nothing much. The roasting is what makes this taste like actual Tarte Tatin.
 
 **About calvados:**
 
@@ -1518,7 +1518,7 @@ When you hit a chunk of roasted apple, you get this burst of concentrated tart-s
 
 **Total Time:** 6-8 hours (mostly chilling time, though you'll spend a solid 20 minutes just staring at caramel wondering if it's ever going to actually change color)
 
-Gochugaru—Korean chili flakes—has this fruity, sweet heat that's completely different from cayenne or regular red pepper flakes. Combined with the earthy nuttiness of black sesame and the crunch of sesame brittle, you get something that's warming without being aggressive. And surprisingly addictive, homie.
+Gochugaru—Korean chili flakes—has this fruity, sweet heat that's completely different from cayenne or regular red pepper flakes. Combined with the earthy nuttiness of black sesame and the crunch of sesame brittle, you get something that's warming without being aggressive. And surprisingly addictive.
 
 The caramel swirl gets flecked with red from the gochugaru, which looks pretty incredible and gives you these ribbons of gentle heat throughout. People will lose their minds trying to figure out what's in this.
 
@@ -1580,7 +1580,7 @@ Heat cream and milk until steaming. Make your custard with the egg yolks and sug
 
 Here's the trick, chief, and this is important: Take 1/2 cup of the warm custard and whisk it with the black sesame paste in a separate bowl until it's completely smooth—no streaks, no lumps. *Then* whisk this back into the main custard.
 
-Why this two-step process? Black sesame paste is thick and oily, and if you dump it straight into the full custard, it tends to seize up into these stubborn lumps that won't break down no matter how hard you whisk. By first mixing it with a small amount of warm liquid, you're essentially creating a slurry that integrates smoothly. It's the same principle as tempering chocolate or blooming gelatin—you're gradually adjusting the texture and temperature so everything combines without fighting you. Science, homie. It works.
+Why this two-step process? Black sesame paste is thick and oily, and if you dump it straight into the full custard, it tends to seize up into these stubborn lumps that won't break down no matter how hard you whisk. By first mixing it with a small amount of warm liquid, you're essentially creating a slurry that integrates smoothly. It's the same principle as tempering chocolate or blooming gelatin—you're gradually adjusting the texture and temperature so everything combines without fighting you. Science. It works.
 
 You'll know it's done right when the custard is uniformly gray-tan with no darker streaks or visible clumps. Add the toasted sesame oil and salt.
 
@@ -1632,9 +1632,9 @@ Nutty and earthy from the black sesame, with pockets of fruity, warming heat fro
 
 *Allspice, rum, bananas—Caribbean celebration*
 
-**Difficulty:** LEGIT - Multiple components and some flambe action if you're feeling brave. You'll caramelize bananas, make butterscotch, candy ginger, and juggle timing across all of them. Nothing here will actually break you, but you can't just fuck off and watch TV either. Stay present, stay engaged, you'll be fine.
+**Difficulty:** LEGIT - Multiple components and some flambe action if you're feeling brave. You'll caramelize bananas, make butterscotch, candy ginger, and juggle timing across all of them. Nothing here will actually break you, but you can't just wander off and watch TV either. Stay present, stay engaged, you'll be fine.
 
-**Total Time:** 6-8 hours (most of which is ginger drying and base chilling—you'll have plenty of time to do other shit)
+**Total Time:** 6-8 hours (most of which is ginger drying and base chilling—you'll have plenty of time to do other things)
 
 **Allergen Information:**  Can be made without coconut for nut-free version
 
@@ -1694,7 +1694,7 @@ Combine 1 cup sugar and 1/2 cup water in a saucepan, bring to a simmer. Add the 
 
 Transfer to a rack set over parchment with a slotted spoon. Dry for 4+ hours or overnight until tacky. Toss in sugar. Store airtight. Should be chewy-crystalline with bright ginger heat that builds.
 
-*Note: High-quality store-bought crystallized ginger works damn well if you're short on time, friend. Just chop it into small pieces and move on with your life.*
+*Note: High-quality store-bought crystallized ginger works damn well if you're short on time. Just chop it into small pieces and move on with your life.*
 
 **Toasted Coconut (if using):**
 
@@ -1704,7 +1704,7 @@ Add a pinch of salt while warm. Transfer to a plate immediately. Cool completely
 
 **Rum-Caramelized Bananas:**
 
-Peel the bananas and cut into 1/2-inch thick rounds. Crush the whole allspice berries slightly with a mortar and pestle or in a plastic bag with a rolling pin—want them broken but not powdered to hell.
+Peel the bananas and cut into 1/2-inch thick rounds. Crush the whole allspice berries slightly with a mortar and pestle or in a plastic bag with a rolling pin—want them broken but not powdered into dust.
 
 Melt butter in a large skillet over medium-high heat. Add the dark brown sugar and crushed allspice, stir until the sugar melts and bubbles, about 1 minute.
 
@@ -1770,7 +1770,7 @@ Buy whole berries from good spice companies and crush them fresh—pre-ground lo
 
 **Jamaican rum:**
 
-Use dark Jamaican rum like Appleton Estate, Myers's, or Wray & Nephew Overproof—though that last one is VERY strong, use it cautiously, pal. Jamaican rum is made from molasses and pot-distilled, creating this full-bodied, almost funky character with notes of banana, brown sugar, and warm spices.
+Use dark Jamaican rum like Appleton Estate, Myers's, or Wray & Nephew Overproof—though that last one is VERY strong, use it cautiously. Jamaican rum is made from molasses and pot-distilled, creating this full-bodied, almost funky character with notes of banana, brown sugar, and warm spices.
 
 Distinctly different from rhum agricole or light rums. The richness and complexity are essential—it's not just alcohol, it's a fucking flavor component.
 
@@ -1852,7 +1852,7 @@ You can leave this chunky for a more rustic texture or blend it smooth with an i
 
 Heat the cream and milk in a saucepan until steaming - you want it hot enough that the dairy can dissolve the golden milk powder properly, but not boiling. We're looking at around 170-180 degrees F if you're checking with a thermometer, or just "steaming nicely but not bubbling" if you're going by feel.
 
-Here's the critical step that prevents lumpy turmeric nightmares: whisk the golden milk powder into the warm dairy until completely dissolved. And I mean *completely*, dude. No streaks, no little yellow clumps floating around, no granules at the bottom of the pan. Turmeric is notorious for clumping if you add it to cold liquid or don't whisk thoroughly. Those lumps won't dissolve later, and biting into a pocket of straight turmeric powder in your ice cream is... not the vibe we're going for. It's bitter, gritty, and weird.
+Here's the critical step that prevents lumpy turmeric nightmares: whisk the golden milk powder into the warm dairy until completely dissolved. And I mean *completely*, dude. No streaks, no little yellow clumps floating around, no granules at the bottom of the pan. Turmeric is notorious for clumping if you add it to cold liquid or don't whisk thoroughly. Those lumps won't dissolve later, and biting into a pocket of straight turmeric powder in your ice cream is... not the damn vibe we're going for. It's bitter, gritty, and weird.
 
 Take your time with this. Whisk for a solid 30-60 seconds until you see nothing but smooth, uniformly bright yellow dairy. If you do see lumps, keep whisking. If they're really stubborn, use an immersion blender for 10 seconds and they'll disappear.
 
@@ -1957,7 +1957,7 @@ Brown bread ice cream is a legitimate traditional Irish flavor—not some Pinter
 
 The result tastes like buttered toast met toffee met whole grain nuttiness, and honestly it tastes like a hug from someone who genuinely likes you. It's comforting and sophisticated at the same time—the kind of flavor that makes people go "wait, is this BREAD?" and then shove their spoon back in before you can answer.
 
-Adding Irish whiskey caramel reinforces that classic Irish coffee vibe and deepens the caramel notes from the toasted bread. (Also it means you get to keep whiskey around "for cooking purposes." You're welcome.) The buttermilk base keeps everything from being too sweet and adds this subtle tang that's very Irish—they put buttermilk in everything from scones to soda bread to pancakes. The Irish understand dairy, homie. Trust the process.
+Adding Irish whiskey caramel reinforces that classic Irish coffee vibe and deepens the caramel notes from the toasted bread. (Also it means you get to keep whiskey around "for cooking purposes." You're welcome.) The buttermilk base keeps everything from being too sweet and adds this subtle tang that's very Irish—they put buttermilk in everything from scones to soda bread to pancakes. The Irish understand dairy. Trust the process.
 
 This is one of those flavors that sounds absolutely unhinged until you taste it, and then you'll be mad you didn't believe me sooner.
 
@@ -2038,7 +2038,7 @@ Churn the buttermilk custard until it reaches soft-serve consistency. The butter
 
 Now the fun part. Layer into your storage container: spread one-third of the ice cream, drizzle some whiskey caramel (be generous, you coward), scatter brown bread crumble clusters. Repeat twice more. Use a knife to gently swirl the caramel through—you want ribbons and pockets, not complete integration. Think "art" not "stirred to oblivion."
 
-Don't overmix or the bread will get soggy, homie. You didn't spend all that time making perfect crunchy bread candy to turn it into mush. You want distinct clusters of crunchy caramelized bread throughout, not bread-flavored sadness. The contrast between creamy custard and crunchy bread is the whole damn point.
+Don't overmix or the bread will get soggy. You didn't spend all that time making perfect crunchy bread candy to turn it into mush. You want distinct clusters of crunchy caramelized bread throughout, not bread-flavored sadness. The contrast between creamy custard and crunchy bread is the whole damn point.
 
 Freeze at least 4 hours before serving. Yes, four hours. No, you cannot "just check if it's ready" after two. Go do something else. Touch grass. Call your mother. The ice cream will be there when you get back.
 
@@ -2259,11 +2259,11 @@ More components than strictly necessary, but they all earn their place. No freel
 
 Line a baking sheet with parchment. Combine 1/3 cup panela and 1/4 cup water in a saucepan. Heat over medium-high, stirring until the panela dissolves. Bring to a boil.
 
-Cook WITHOUT STIRRING to 240°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy—you'll know it when you see it, friend.
+Cook WITHOUT STIRRING to 240°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy—you'll know it when you see it.
 
 Pull it off the heat immediately. Add the coffee beans, stir quickly to coat completely—every bean needs coverage.
 
-Working FAST because this sets up quicker than you can say "I should've been ready," pour onto the parchment and spread in a single layer using two forks to separate the beans before the mixture sets. Should look glossy and lacquered, like edible jewelry.
+Working FAST because this shit sets up quicker than you can say "I should've been ready," pour onto the parchment and spread in a single layer using two forks to separate the beans before the mixture sets. Should look glossy and lacquered, like edible jewelry.
 
 Let air dry completely at room temperature for 2-4 hours until the coating is hard and glassy, not tacky. Break apart any clusters. Store airtight. These things are dangerously snackable.
 
@@ -2317,7 +2317,7 @@ Already contains panela, giving it authentic Colombian depth. If unavailable, us
 
 **Panela:**
 
-Unrefined Colombian cane sugar—has deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine, pal.
+Unrefined Colombian cane sugar—has deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine.
 
 **Coffee:**
 
@@ -2471,7 +2471,7 @@ Creamy ricotta, warm cinnamon-vanilla spice, bright apricot sweetness, and that 
 
 **Difficulty:** LEGIT - You're roasting plums with five-spice (easy), making custard (standard), and either making candied ginger from scratch (which takes 4+ hours of drying time) or buying it pre-made (smart). The individual techniques are straightforward, but if you make the ginger yourself you'll be checking on those drying pieces obsessively. Nothing technically hard, just time management, homie.
 
-**Total Time:** 10-12 hours across 2-3 days if making candied ginger, or 6-7 hours if buying it (includes overnight chilling, plus roasting time when your kitchen smells so good you'll want to lose your damn mind)
+**Total Time:** 10-12 hours across 2-3 days if making candied ginger, or 6-7 hours if buying it (includes overnight chilling, plus roasting time when your kitchen smells so good you'll want to lose your mind)
 
 Chinese five-spice—star anise, cloves, cinnamon, Sichuan peppercorns, fennel—paired with roasted plums creates this deep, complex, almost wine-like flavor that's honestly kind of wild. The candied ginger adds heat and that characteristic crystalline-chewy texture. Your kitchen will smell *incredible* while the plums roast. Like, offensively good.
 
@@ -2511,7 +2511,7 @@ Combine 1 cup sugar and the remaining 1/2 cup water in a saucepan, bring to a si
 
 Transfer to a rack set over parchment with a slotted spoon. Dry for 4+ hours or overnight until tacky but not wet. Toss in sugar. Store airtight. Should be chewy-crystalline—that's the texture we're after.
 
-*Note: High-quality store-bought crystallized ginger works damn well here if you're short on time, friend. Just chop it into small pieces and call it a day. We won't tell anyone.*
+*Note: High-quality store-bought crystallized ginger works great here if you're short on time, friend. Just chop it into small pieces and call it a day. We won't tell anyone.*
 
 **Roast Plums:**
 
@@ -2629,7 +2629,7 @@ You'll brown a lot of butter. Your kitchen will smell incredible for days. Apolo
 
 **Brown Butter for Candied Pecans (make this first):**
 
-Melt 2 tbsp butter in a light-colored skillet over medium heat. Cook, swirling occasionally, until the milk solids turn golden brown and smell nutty as hell, about 5-7 minutes. Should smell like toasted hazelnuts, not burnt offerings to the kitchen gods.
+Melt 2 tbsp butter in a light-colored skillet over medium heat. Cook, swirling occasionally, until the milk solids turn golden brown and smell incredibly nutty, about 5-7 minutes. Should smell like toasted hazelnuts, not burnt offerings to the kitchen gods.
 
 Pour into a small bowl IMMEDIATELY to stop the cooking—residual heat will keep darkening it. Set aside to cool slightly. Yes, you need to move fast here. Get used to that feeling—you'll be doing it two more times.
 
@@ -2701,7 +2701,7 @@ Freeze 4+ hours.
 
 Browning butter—beurre noisette if you want to be fancy about it—transforms it from sweet-cream richness to deep, nutty, almost hazelnut-like complexity. The milk solids caramelize, creating literally HUNDREDS of new flavor compounds. It's chemistry but it tastes like magic.
 
-Use a light-colored pan so you can actually watch the color change—milk solids should turn golden-amber, not dark brown or black. The moment you smell that intense nutty aroma (toasted hazelnuts), remove from heat IMMEDIATELY. Brown butter continues cooking from residual heat—pour it out of that hot pan right away or you'll go from "perfectly browned" to "burnt as hell" in about 10 seconds.
+Use a light-colored pan so you can actually watch the color change—milk solids should turn golden-amber, not dark brown or black. The moment you smell that intense nutty aroma (toasted hazelnuts), remove from heat IMMEDIATELY. Brown butter continues cooking from residual heat—pour it out of that hot pan right away or you'll go from "perfectly browned" to "completely burnt" in about 10 seconds.
 
 **Sorghum syrup:**
 
@@ -3047,7 +3047,7 @@ This is chocolate ice cream for adults who aren't afraid of complexity. The firs
 
 # Piri Piri Cashew Coconut
 
-*Vegan and surprisingly rich as hell*
+*Vegan and surprisingly rich*
 
 **Difficulty:** THE REAL DEAL - You're soaking cashews for hours, blending them into submission, candying more cashews without burning their high-fat asses, making piri piri caramel that sounds batshit but works, and managing a vegan base that behaves differently than dairy. The individual techniques aren't brutal, but there's timing choreography and you need to trust that spicy-garlicky caramel is a good idea (it is). Plus sourcing actual piri piri might require hunting down an African or Portuguese market, homie.
 
@@ -3059,7 +3059,7 @@ This is chocolate ice cream for adults who aren't afraid of complexity. The firs
 
 Mozambique is one of the world's largest cashew producers, coconut is a coastal staple, and piri piri—African bird's eye chili—is THE iconic ingredient. This vegan ice cream combines all three with caramelized depth and a swirl of spicy-garlicky caramel that sounds absolutely batshit but somehow fucking works.
 
-You'll soak a shit-ton of cashews. Your blender will get a serious workout. It's worth it, homie.
+You'll soak a shit-ton of cashews. Your blender will get a serious workout. It's worth it.
 
 ## Ingredients
 
@@ -3126,7 +3126,7 @@ Transfer to a plate immediately. Optional: sprinkle with a tiny pinch of salt wh
 
 Have your warmed coconut cream, butter, and aromatics measured and ready right next to the stove—caramel moves faster than bad decisions.
 
-Combine sugar and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there watching, which is boring as hell but necessary.
+Combine sugar and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there watching, which is boring but necessary.
 
 Pull it off the heat. Carefully pour in the warmed coconut cream—it'll bubble VIOLENTLY and make scary noises. Whisk until smooth.
 
@@ -3156,7 +3156,7 @@ Refrigerate at least 4 hours or overnight.
 
 **Churn:**
 
-Give the base a good whisk before churning because coconut cream may have separated slightly—it's dramatic like that. Churn until soft-serve consistency. Coconut-based ice cream takes longer than dairy to freeze due to different fat crystallization—expect it to look thick and pale tan when ready. Be patient, friend.
+Give the base a good whisk before churning because coconut cream may have separated slightly—it's dramatic like that. Churn until soft-serve consistency. Coconut-based ice cream takes longer than dairy to freeze due to different fat crystallization—expect it to look thick and pale tan when ready. Be patient.
 
 In the last minute, add those candied cashew clusters and toasted coconut flakes.
 
@@ -3172,7 +3172,7 @@ Mozambique is one of the world's largest cashew producers—the country has be
 
 Coconut is a staple along Mozambique's 1,500-mile coastline—used in everything from curries to desserts. Piri piri (African bird's eye chili) is THE iconic Mozambican ingredient—it's everywhere. The name comes from Swahili, and these tiny, fierce chilies have been cultivated in East Africa for centuries.
 
-Portuguese influence brought garlic-based cooking and the technique of combining sweet and savory flavors in unexpected ways. This combines indigenous ingredients (cashew, coconut, piri piri) with colonial influences (garlic caramel, Portuguese sweet-savory balance) for distinctly Mozambican flavor that's actually pretty fucking cool when you think about it.
+Portuguese influence brought garlic-based cooking and the technique of combining sweet and savory flavors in unexpected ways. This combines indigenous ingredients (cashew, coconut, piri piri) with colonial influences (garlic caramel, Portuguese sweet-savory balance) for distinctly Mozambican flavor that's worth understanding.
 
 **Vegan texture:**
 
@@ -3182,7 +3182,7 @@ Plant-based ice cream has a different mouthfeel than dairy—it melts faster o
 
 **Palm sugar:**
 
-Unrefined palm sugar or jaggery (from palm sap) is traditional in Mozambican sweets. Has this deep, caramel-molasses flavor that's different from regular sugar. If unavailable, use half brown sugar and half white sugar—not quite the same but it'll work, pal.
+Unrefined palm sugar or jaggery (from palm sap) is traditional in Mozambican sweets. Has this deep, caramel-molasses flavor that's different from regular sugar. If unavailable, use half brown sugar and half white sugar—not quite the same but it'll work.
 
 **Piri piri heat:**
 
@@ -3616,7 +3616,7 @@ The mixture should be thick but pourable, with plump raisins suspended in dark r
 
 **Toasted Coconut:**
 
-In a dry skillet over medium-low, toast those coconut flakes, stirring CONSTANTLY, for 3-5 minutes until golden brown. Burns quicker than your New Year's resolutions—watch it like a fucking hawk, friend. Should smell nutty and tropical.
+In a dry skillet over medium-low, toast those coconut flakes, stirring CONSTANTLY, for 3-5 minutes until golden brown. Burns quicker than your New Year's resolutions—watch it like a fucking hawk. Should smell nutty and tropical.
 
 Transfer to a plate immediately to stop cooking. Cool completely. Store airtight.
 
@@ -3694,7 +3694,7 @@ Golden raisins are traditional in pain patate. The rum-raisin swirl pays homage 
 
 **Lime zest:**
 
-ESSENTIAL for brightness, dude. Pain patate's richness needs citrus lift—prevents the dessert from feeling heavy as fuck.
+ESSENTIAL for brightness. Pain patate's richness needs citrus lift—prevents the dessert from feeling heavy as fuck.
 
 **Texture note:**
 
@@ -3932,7 +3932,7 @@ This is celebration ice cream. This is Brazilian joy made frozen. This is what h
 
 **Total Time:** 10-12 hours across 2-3 days (includes triple blanching, 4+ hours of peel drying, overnight chilling, plus time spent drizzling olive oil at a pace that would make a snail impatient)
 
-Olive oil in ice cream sounds wrong until you try it - then it makes total sense, homie. The fruity, peppery notes of good olive oil work surprisingly well in a sweet context, especially with tangy yogurt and bright lemon. Rosemary adds an herbal backbone, and honey ties it all together. It's one of those combinations that looks completely unhinged on paper but tastes like someone who actually knows what they're doing made it.
+Olive oil in ice cream sounds wrong until you try it - then it makes total sense. The fruity, peppery notes of good olive oil work surprisingly well in a sweet context, especially with tangy yogurt and bright lemon. Rosemary adds an herbal backbone, and honey ties it all together. It's one of those combinations that looks completely unhinged on paper but tastes like someone who actually knows what they're doing made it.
 
 This one requires some faith, but it pays off. Trust me. The olive oil doesn't taste "oily" or "salad-y" - it adds this rich, fruity complexity that's hard to describe but unmistakably Mediterranean.
 
@@ -3998,13 +3998,13 @@ Make your custard with the 3 egg yolks and the sugar-honey mixture using the sta
 
 Remove from heat and let it cool for 5 minutes while stirring occasionally. You want it warm but not scorching hot for the next step.
 
-Here's the tricky but crucial part, chief: slowly - and I mean SLOWLY - drizzle in the olive oil while whisking constantly. We're talking a thin stream, not a pour. Like, if you were filming this for social media, it would look annoyingly slow. But there's a good reason for this.
+Here's the tricky but crucial part, chief: slowly — and I mean PAINFULLY SLOWLY — drizzle in the olive oil while whisking constantly. We're talking a thin stream, not a pour. Like, if you were filming this for social media, it would look annoyingly damn slow. But there's a good reason for this.
 
 What you're doing is creating an emulsion - a stable mixture of two liquids that normally don't want to mix together (in this case, oil and the water-based custard). Oil and water separate naturally because oil molecules are hydrophobic (they repel water). To get them to stay mixed, you need to break the oil into tiny droplets and suspend those droplets throughout the custard. The egg yolks in your custard contain lecithin, a natural emulsifier that helps stabilize these oil droplets.
 
 When you drizzle the oil in slowly while whisking hard, you're mechanically breaking it into microscopic droplets. The lecithin molecules surround each droplet and prevent them from merging back together. If you dump all the oil in at once, you overwhelm the emulsifying capacity of the egg yolks - there's too much oil for the lecithin to handle, and the droplets merge back into a separated, greasy layer. You'll end up with an oily, separated mess that looks and tastes wrong.
 
-The oil should incorporate smoothly, disappearing into the custard without creating any slick on the surface. If you see oil pooling or floating, you've added it too fast and it's separated. There's not much you can do to fix this if it happens - you basically have to start over. So take your time, dude.
+The oil should incorporate smoothly, disappearing into the custard without creating any slick on the surface. If you see oil pooling or floating, you've added it too fast and it's separated. There's not much you can do to fix this if it happens - you basically have to start over. So take your time.
 
 Stir in a pinch of salt. Strain the custard through a fine-mesh sieve to catch any cooked egg bits.
 

@@ -10,7 +10,7 @@ Pandan is to Southeast Asian desserts what vanilla is to Western desserts—it's
 
 This ice cream is a staple of Thai street food culture, sold from pushcarts and markets and ice cream shops across the country, often served in coconut shells or alongside sweet sticky rice. It's simple, refreshing, and deeply aromatic in a way that Western ice cream rarely achieves. The coconut milk provides richness without eggs, the pandan gives you that distinctive Southeast Asian flavor profile, and palm sugar adds a caramel-like sweetness that white sugar simply can't fuck with.
 
-If you've never tasted pandan, this recipe is your introduction to one of the world's most important dessert flavors that somehow never made it into mainstream Western cuisine. If you *have* tasted it, this recipe is your nostalgia, your homage, your way of bringing that Southeast Asian dessert experience into your home kitchen. Either way, buckle up, pal—this one's going to recalibrate your whole understanding of what frozen dessert can be.
+If you've never tasted pandan, this recipe is your introduction to one of the world's most important dessert flavors that somehow never made it into mainstream Western cuisine. If you *have* tasted it, this recipe is your nostalgia, your homage, your way of bringing that Southeast Asian dessert experience into your home kitchen. Either way, buckle up—this one's going to recalibrate your whole understanding of what frozen dessert can be.
 
 ## Ingredients
 
@@ -62,7 +62,7 @@ Transfer to a freezer-safe container and freeze for at least 4 hours before serv
 
 **Sourcing pandan leaves:**
 
-Most Asian grocery stores carry frozen pandan leaves in their freezer section, and some carry fresh leaves in the produce section. Thai, Vietnamese, Chinese, and Filipino markets are your best bets. The frozen leaves work perfectly fine—they're frozen fresh so they still have all the aromatic compounds you need. If you're in a city with any kind of Asian food presence, you can find pandan. If you're in a smaller town or rural area, you might need to order frozen pandan leaves online, which is absolutely worth doing because the difference between fresh/frozen leaves and extract is no joke, dude.
+Most Asian grocery stores carry frozen pandan leaves in their freezer section, and some carry fresh leaves in the produce section. Thai, Vietnamese, Chinese, and Filipino markets are your best bets. The frozen leaves work perfectly fine—they're frozen fresh so they still have all the aromatic compounds you need. If you're in a city with any kind of Asian food presence, you can find pandan. If you're in a smaller town or rural area, you might need to order frozen pandan leaves online, which is absolutely worth doing because the difference between fresh/frozen leaves and extract is no joke.
 
 Look for leaves that are vibrant green and smell aromatic. Avoid any that look brown or dried out. Fresh pandan keeps in the fridge for about a week, or you can freeze it yourself for several months.
 
@@ -82,7 +82,7 @@ The base can be made up to 2 days ahead and kept refrigerated. The pandan flavor
 
 **Serving suggestions:**
 
-Traditional Thai service involves topping this with crushed roasted peanuts, sweet corn kernels, sticky rice, or cubes of young coconut. Sounds weird as hell, tastes incredible. The textural contrast and the interplay of sweet, salty, and rich is exactly what Thai desserts do so well. Or just eat it plain and appreciate that aromatic pandan flavor—no wrong answers here, chief.
+Traditional Thai service involves topping this with crushed roasted peanuts, sweet corn kernels, sticky rice, or cubes of young coconut. Sounds weird as hell, tastes incredible. The textural contrast and the interplay of sweet, salty, and rich is exactly what Thai desserts do so well. Or just eat it plain and appreciate that aromatic pandan flavor—no wrong answers here.
 
 **Visual:**
 

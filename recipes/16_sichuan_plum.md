@@ -4,7 +4,7 @@
 
 **Difficulty:** LEGIT - You're roasting plums with five-spice (easy), making custard (standard), and either making candied ginger from scratch (which takes 4+ hours of drying time) or buying it pre-made (smart). The individual techniques are straightforward, but if you make the ginger yourself you'll be checking on those drying pieces obsessively. Nothing technically hard, just time management, homie.
 
-**Total Time:** 10-12 hours across 2-3 days if making candied ginger, or 6-7 hours if buying it (includes overnight chilling, plus roasting time when your kitchen smells so good you'll want to lose your damn mind)
+**Total Time:** 10-12 hours across 2-3 days if making candied ginger, or 6-7 hours if buying it (includes overnight chilling, plus roasting time when your kitchen smells so good you'll want to lose your mind)
 
 Chinese five-spice—star anise, cloves, cinnamon, Sichuan peppercorns, fennel—paired with roasted plums creates this deep, complex, almost wine-like flavor that's honestly kind of wild. The candied ginger adds heat and that characteristic crystalline-chewy texture. Your kitchen will smell *incredible* while the plums roast. Like, offensively good.
 
@@ -44,7 +44,7 @@ Combine 1 cup sugar and the remaining 1/2 cup water in a saucepan, bring to a si
 
 Transfer to a rack set over parchment with a slotted spoon. Dry for 4+ hours or overnight until tacky but not wet. Toss in sugar. Store airtight. Should be chewy-crystalline—that's the texture we're after.
 
-*Note: High-quality store-bought crystallized ginger works damn well here if you're short on time, friend. Just chop it into small pieces and call it a day. We won't tell anyone.*
+*Note: High-quality store-bought crystallized ginger works great here if you're short on time, friend. Just chop it into small pieces and call it a day. We won't tell anyone.*
 
 **Roast Plums:**
 

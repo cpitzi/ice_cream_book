@@ -10,7 +10,7 @@ Brown bread ice cream is a legitimate traditional Irish flavor—not some Pinter
 
 The result tastes like buttered toast met toffee met whole grain nuttiness, and honestly it tastes like a hug from someone who genuinely likes you. It's comforting and sophisticated at the same time—the kind of flavor that makes people go "wait, is this BREAD?" and then shove their spoon back in before you can answer.
 
-Adding Irish whiskey caramel reinforces that classic Irish coffee vibe and deepens the caramel notes from the toasted bread. (Also it means you get to keep whiskey around "for cooking purposes." You're welcome.) The buttermilk base keeps everything from being too sweet and adds this subtle tang that's very Irish—they put buttermilk in everything from scones to soda bread to pancakes. The Irish understand dairy, homie. Trust the process.
+Adding Irish whiskey caramel reinforces that classic Irish coffee vibe and deepens the caramel notes from the toasted bread. (Also it means you get to keep whiskey around "for cooking purposes." You're welcome.) The buttermilk base keeps everything from being too sweet and adds this subtle tang that's very Irish—they put buttermilk in everything from scones to soda bread to pancakes. The Irish understand dairy. Trust the process.
 
 This is one of those flavors that sounds absolutely unhinged until you taste it, and then you'll be mad you didn't believe me sooner.
 
@@ -91,7 +91,7 @@ Churn the buttermilk custard until it reaches soft-serve consistency. The butter
 
 Now the fun part. Layer into your storage container: spread one-third of the ice cream, drizzle some whiskey caramel (be generous, you coward), scatter brown bread crumble clusters. Repeat twice more. Use a knife to gently swirl the caramel through—you want ribbons and pockets, not complete integration. Think "art" not "stirred to oblivion."
 
-Don't overmix or the bread will get soggy, homie. You didn't spend all that time making perfect crunchy bread candy to turn it into mush. You want distinct clusters of crunchy caramelized bread throughout, not bread-flavored sadness. The contrast between creamy custard and crunchy bread is the whole damn point.
+Don't overmix or the bread will get soggy. You didn't spend all that time making perfect crunchy bread candy to turn it into mush. You want distinct clusters of crunchy caramelized bread throughout, not bread-flavored sadness. The contrast between creamy custard and crunchy bread is the whole damn point.
 
 Freeze at least 4 hours before serving. Yes, four hours. No, you cannot "just check if it's ready" after two. Go do something else. Touch grass. Call your mother. The ice cream will be there when you get back.
 

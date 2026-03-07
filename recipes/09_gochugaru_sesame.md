@@ -6,7 +6,7 @@
 
 **Total Time:** 6-8 hours (mostly chilling time, though you'll spend a solid 20 minutes just staring at caramel wondering if it's ever going to actually change color)
 
-Gochugaru—Korean chili flakes—has this fruity, sweet heat that's completely different from cayenne or regular red pepper flakes. Combined with the earthy nuttiness of black sesame and the crunch of sesame brittle, you get something that's warming without being aggressive. And surprisingly addictive, homie.
+Gochugaru—Korean chili flakes—has this fruity, sweet heat that's completely different from cayenne or regular red pepper flakes. Combined with the earthy nuttiness of black sesame and the crunch of sesame brittle, you get something that's warming without being aggressive. And surprisingly addictive.
 
 The caramel swirl gets flecked with red from the gochugaru, which looks pretty incredible and gives you these ribbons of gentle heat throughout. People will lose their minds trying to figure out what's in this.
 
@@ -68,7 +68,7 @@ Heat cream and milk until steaming. Make your custard with the egg yolks and sug
 
 Here's the trick, chief, and this is important: Take 1/2 cup of the warm custard and whisk it with the black sesame paste in a separate bowl until it's completely smooth—no streaks, no lumps. *Then* whisk this back into the main custard.
 
-Why this two-step process? Black sesame paste is thick and oily, and if you dump it straight into the full custard, it tends to seize up into these stubborn lumps that won't break down no matter how hard you whisk. By first mixing it with a small amount of warm liquid, you're essentially creating a slurry that integrates smoothly. It's the same principle as tempering chocolate or blooming gelatin—you're gradually adjusting the texture and temperature so everything combines without fighting you. Science, homie. It works.
+Why this two-step process? Black sesame paste is thick and oily, and if you dump it straight into the full custard, it tends to seize up into these stubborn lumps that won't break down no matter how hard you whisk. By first mixing it with a small amount of warm liquid, you're essentially creating a slurry that integrates smoothly. It's the same principle as tempering chocolate or blooming gelatin—you're gradually adjusting the texture and temperature so everything combines without fighting you. Science. It works.
 
 You'll know it's done right when the custard is uniformly gray-tan with no darker streaks or visible clumps. Add the toasted sesame oil and salt.
 

@@ -42,7 +42,7 @@ You'll brown a lot of butter. Your kitchen will smell incredible for days. Apolo
 
 **Brown Butter for Candied Pecans (make this first):**
 
-Melt 2 tbsp butter in a light-colored skillet over medium heat. Cook, swirling occasionally, until the milk solids turn golden brown and smell nutty as hell, about 5-7 minutes. Should smell like toasted hazelnuts, not burnt offerings to the kitchen gods.
+Melt 2 tbsp butter in a light-colored skillet over medium heat. Cook, swirling occasionally, until the milk solids turn golden brown and smell incredibly nutty, about 5-7 minutes. Should smell like toasted hazelnuts, not burnt offerings to the kitchen gods.
 
 Pour into a small bowl IMMEDIATELY to stop the cooking—residual heat will keep darkening it. Set aside to cool slightly. Yes, you need to move fast here. Get used to that feeling—you'll be doing it two more times.
 
@@ -114,7 +114,7 @@ Freeze 4+ hours.
 
 Browning butter—beurre noisette if you want to be fancy about it—transforms it from sweet-cream richness to deep, nutty, almost hazelnut-like complexity. The milk solids caramelize, creating literally HUNDREDS of new flavor compounds. It's chemistry but it tastes like magic.
 
-Use a light-colored pan so you can actually watch the color change—milk solids should turn golden-amber, not dark brown or black. The moment you smell that intense nutty aroma (toasted hazelnuts), remove from heat IMMEDIATELY. Brown butter continues cooking from residual heat—pour it out of that hot pan right away or you'll go from "perfectly browned" to "burnt as hell" in about 10 seconds.
+Use a light-colored pan so you can actually watch the color change—milk solids should turn golden-amber, not dark brown or black. The moment you smell that intense nutty aroma (toasted hazelnuts), remove from heat IMMEDIATELY. Brown butter continues cooking from residual heat—pour it out of that hot pan right away or you'll go from "perfectly browned" to "completely burnt" in about 10 seconds.
 
 **Sorghum syrup:**
 
