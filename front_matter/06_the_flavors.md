@@ -28,7 +28,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Rum Banana** -- Haiti said "what if we made banana pudding drunk and tropical" and honestly, bless them
 
-**Golden Milk and Fig** -- India's turmeric latte went rogue and joined forces with Mediterranean figs like some kind of delicious Avengers situation
+**Golden Milk and Date** -- India's turmeric latte meets its oldest sweetener in a pairing that's been making sense for thousands of years
 
 **Brown Bread** -- Ireland's been putting soda bread in everything and honestly we finally get it now
 

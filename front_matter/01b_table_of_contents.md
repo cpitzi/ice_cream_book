@@ -44,7 +44,7 @@
 - [Tarte Tatin](#tarte-tatin)
 - [Gochugaru and Sesame](#gochugaru-and-sesame)
 - [Rum Banana](#rum-banana)
-- [Golden Milk and Fig](#golden-milk-and-fig)
+- [Golden Milk and Date](#golden-milk-and-date)
 - [Brown Bread](#brown-bread)
 - [Atole de Anis](#atole-de-anis)
 - [Bocadillo y Café](#bocadillo-y-café)
