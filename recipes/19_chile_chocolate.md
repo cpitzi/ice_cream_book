@@ -6,7 +6,7 @@
 
 **Total Time:** 6-8 hours (most of which is orange peel simmering and custard chilling while you do literally anything else)
 
-Alright {{v: homie | friend }}, this is the chocolate recipe you've been waiting for. But we're not doing some {{v: basic-ass | boring }} chocolate ice cream here—we're going deep into the Southwest with New Mexican red chile and dark, almost bittersweet Mexican-style chocolate. This isn't "spicy chocolate" where the heat smacks you in the face. This is integrated warmth, the kind where the chile and chocolate grew up together and know each other's secrets.
+Alright homie, this is the chocolate recipe you've been waiting for. But we're not doing some basic-ass chocolate ice cream here—we're going deep into the Southwest with New Mexican red chile and dark, almost bittersweet Mexican-style chocolate. This isn't "spicy chocolate" where the heat smacks you in the face. This is integrated warmth, the kind where the chile and chocolate grew up together and know each other's secrets.
 
 The chile brings fruity, earthy heat that builds slowly. The chocolate is dark and complex with hints of coffee. The pepita brittle adds crunch and that toasted-seed flavor that's so distinctly Southwest. And the cinnamon? It's there if you want it, ghosting around in the background, but it's totally optional because not everyone needs cinnamon running the show.
 
@@ -54,7 +54,7 @@ The chile brings fruity, earthy heat that builds slowly. The chocolate is dark a
 
 **Candied Orange Peel with Chile (make this first—it takes 2+ hours):**
 
-Strip that peel, {{v: homie | friend }}. Cut off the top and bottom of each orange so they sit flat. Score the peel vertically in quarters, then peel off those quarters. Try to get as little white pith as possible—too much pith makes them {{v: bitter as hell | incredibly bitter }}. Slice the peel into thin strips, about 1/4 inch wide.
+Strip that peel, homie. Cut off the top and bottom of each orange so they sit flat. Score the peel vertically in quarters, then peel off those quarters. Try to get as little white pith as possible—too much pith makes them bitter as hell. Slice the peel into thin strips, about 1/4 inch wide.
 
 Blanch the bitterness out. Put the orange peel strips in a medium saucepan and cover with cold water. Bring to a boil, then drain. Repeat this TWO MORE TIMES with fresh water each time. Yeah, three times. This pulls out the bitter compounds in the pith. Your kitchen will smell incredible, like orange essential oil exploded.
 
@@ -68,7 +68,7 @@ Sugar coat and dry. Use tongs or a fork to fish out the peels (save that syrup�
 
 Toast those pepitas. Spread the pepitas on a baking sheet and toast at 350°F for 6-8 minutes, stirring once halfway through, until they're golden and fragrant. Some will puff up and that's perfect—the hull has separated slightly from the seed, which means they're releasing their oils and developing deep, nutty flavors. Raw seeds taste vegetal and slightly bitter, but toasted seeds? They're almost popcorn-like, with this incredible toasted richness. Let them cool slightly while you make the caramel.
 
-Make the caramel and don't walk away. In a medium saucepan, combine the sugar and water. Heat over medium-high without stirring—just swirl the pan occasionally. Watch it like a {{v: fucking | absolute }} hawk. It'll go from clear to amber to burnt in about 30 seconds at the end. You want a deep amber color, like good bourbon.
+Make the caramel and don't walk away. In a medium saucepan, combine the sugar and water. Heat over medium-high without stirring—just swirl the pan occasionally. Watch it like a fucking hawk. It'll go from clear to amber to burnt in about 30 seconds at the end. You want a deep amber color, like good bourbon.
 
 Add butter, salt, and pepitas, then GET IT OUT. Once your caramel is amber, kill the heat and stir in the butter and salt (it'll bubble and hiss—that's normal). Immediately add the toasted pepitas and the optional chile if using. Stir fast to coat everything, then dump it all onto a parchment-lined baking sheet. Spread it thin with a spatula. Let it cool completely (about an hour), then break it into small chunks. Store airtight.
 
@@ -98,13 +98,13 @@ Cook to nappe. Return the saucepan to medium-low heat and cook, stirring constan
 
 Add vanilla and strain. Remove from heat, stir in the vanilla extract, then strain through a fine-mesh strainer into a clean bowl. This catches any bits of cooked egg or undissolved cocoa. Press on the solids to get all that good chocolate custard through.
 
-{{v: Chill the hell out of it | Get it cold }}. Cover with plastic wrap pressed directly onto the surface to prevent a skin from forming. Refrigerate until completely cold—at least 4 hours, but overnight is better. The custard will thicken more as it chills, and the flavors will meld. The chile heat will also become more pronounced as it sits.
+Chill the hell out of it. Cover with plastic wrap pressed directly onto the surface to prevent a skin from forming. Refrigerate until completely cold—at least 4 hours, but overnight is better. The custard will thicken more as it chills, and the flavors will meld. The chile heat will also become more pronounced as it sits.
 
 **Churn and Assemble:**
 
 Churn it. Once your custard is thoroughly chilled, churn until it reaches soft-serve consistency—thick, creamy, and holding its shape. The chocolate and chile make this denser than standard custard, so expect deep, dark brown color with hints of red from the chile.
 
-Layer with intention. Get a freezer-safe container. Spread a layer of churned ice cream in the bottom, drizzle some of that cold red chile caramel, scatter some pepita brittle chunks, add some chopped candied orange peel. Repeat. You're building layers of flavor and texture here—creamy chocolate, crunchy pepitas, chewy-spicy orange, warm caramel. It's a whole {{v: damn | incredible }} experience.
+Layer with intention. Get a freezer-safe container. Spread a layer of churned ice cream in the bottom, drizzle some of that cold red chile caramel, scatter some pepita brittle chunks, add some chopped candied orange peel. Repeat. You're building layers of flavor and texture here—creamy chocolate, crunchy pepitas, chewy-spicy orange, warm caramel. It's a whole damn experience.
 
 Freeze it solid. Press plastic wrap or parchment directly onto the surface, cover with a lid, and freeze for at least 4 hours. This needs proper freezing time to set up.
 
@@ -134,7 +134,7 @@ The espresso powder doesn't make this taste like coffee. It deepens and intensif
 
 This is PEAK citrus-chocolate-chile synergy. The orange brings brightness that cuts through the rich chocolate, the chile gives it warmth and depth, and the chewy-tender texture is perfect against the brittle pepitas. It's a labor of love (all that blanching and simmering), but it's SO worth it. The chile-spiked candying syrup is also a gift from the flavor gods—save it and use it in drinks or drizzled on desserts.
 
-If you're short on time, you can skip this component and the ice cream will still be excellent. But if you've got the time, this is what takes it from "really good chocolate ice cream" to "{{v: HOLY SHIT | OH WOW }} where did you get this?"
+If you're short on time, you can skip this component and the ice cream will still be excellent. But if you've got the time, this is what takes it from "really good chocolate ice cream" to "HOLY SHIT where did you get this?"
 
 **Make-Ahead:**
 

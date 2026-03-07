@@ -7,7 +7,6 @@ on:
       - 'recipes/**'
       - 'back_matter/**'
       - 'compile_book.py'
-      - 'validate_book.py'
       - '_typos.toml'
 
 permissions:
@@ -28,11 +27,8 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Compile book (both versions)
+      - name: Compile book
         run: python compile_book.py
-
-      - name: Run quality checks
-        run: python validate_book.py
 
       - name: Spell check with typos
         uses: crate-ci/typos@v1.28.4
@@ -55,19 +51,19 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Compile book (both versions)
+      - name: Compile book
         run: python compile_book.py
 
       - name: Check for changes
         id: changes
         run: |
-          git diff --quiet Ice_Cream_to_Fight_Over_COMPLETE.md Ice_Cream_to_Fight_Over_COMPLETE_CLEAN.md && echo "changed=false" >> "$GITHUB_OUTPUT" || echo "changed=true" >> "$GITHUB_OUTPUT"
+          git diff --quiet Ice_Cream_to_Fight_Over_COMPLETE.md && echo "changed=false" >> "$GITHUB_OUTPUT" || echo "changed=true" >> "$GITHUB_OUTPUT"
 
-      - name: Commit compiled books
+      - name: Commit compiled book
         if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add Ice_Cream_to_Fight_Over_COMPLETE.md Ice_Cream_to_Fight_Over_COMPLETE_CLEAN.md
-          git commit -m "Auto-compile both book versions from source changes"
+          git add Ice_Cream_to_Fight_Over_COMPLETE.md
+          git commit -m "Auto-compile book from source changes"
           git push

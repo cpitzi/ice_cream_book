@@ -10,7 +10,7 @@ Knafeh is the undisputed queen of Levantine desserts, originating from Nablus. T
 
 This ice cream takes that hot, gooey experience and freezes it without losing the soul of the dish. We're swapping the hard-to-find Nabulsi cheese for a blend of goat cheese (for the funk and salt) and cream cheese (for the texture). We're candying the kataifi until it's essentially sweet pasta-brittle to ensure it stays crunchy in the freezer. And we're tying it all together with an orange blossom syrup that smells like a garden.
 
-Fair warning, {{v: chief | friend }}: this isn't vanilla with some mix-ins. This is a texture bomb. The cheese adds a savory backbone that might confuse your brain for the first two seconds, but once the syrup and pastry hit? You'll get it.
+Fair warning, chief: this isn't vanilla with some mix-ins. This is a texture bomb. The cheese adds a savory backbone that might confuse your brain for the first two seconds, but once the syrup and pastry hit? You'll get it.
 
 ## Ingredients
 
@@ -43,7 +43,7 @@ Fair warning, {{v: chief | friend }}: this isn't vanilla with some mix-ins. This
 
 **Candied Kataifi Brittle (make this first, needs to cool):**
 
-Prep the dough. Kataifi looks like shredded wheat that gave up on life. Pull the strands apart so they aren't a solid clump, then chop them into roughly 1-inch pieces. You don't want long noodles in your ice cream, {{v: homie | friend }}.
+Prep the dough. Kataifi looks like shredded wheat that gave up on life. Pull the strands apart so they aren't a solid clump, then chop them into roughly 1-inch pieces. You don't want long noodles in your ice cream, homie.
 
 Melt the butter in your largest skillet over medium heat. Toss in the chopped kataifi. Cook, stirring CONSTANTLY, until it's a deep, rich golden brown. Don't rush this part; you need the moisture *out* of the dough before you seal it in.
 
@@ -96,9 +96,9 @@ Standard butter-toasted pastry gets soggy in ice cream after about 48 hours. By 
 This stuff is potent. The line between "delicate floral note" and "Grandma's soap factory" is razor thin. Measure carefully. If you're nervous, start with 1/2 tsp. You want it to be a whisper, not a shout.
 
 **Visual:**
-Stark white base (from the fresh cheeses) contrasting with deep amber candied pastry clusters and bright green pistachio dust. It looks {{v: elegant as hell | seriously elegant }}.
+Stark white base (from the fresh cheeses) contrasting with deep amber candied pastry clusters and bright green pistachio dust. It looks elegant as hell.
 
 **What it tastes like:**
-Salty-tangy creaminess up front, followed by the hard crunch of caramel-coated pastry, finishing with sweet floral syrup. It's a rollercoaster, {{v: pal | friend }}. It hits every part of your palate--savory, sweet, floral, textural. It tastes like the Old City.
+Salty-tangy creaminess up front, followed by the hard crunch of caramel-coated pastry, finishing with sweet floral syrup. It's a rollercoaster, pal. It hits every part of your palate--savory, sweet, floral, textural. It tastes like the Old City.
 
 **Allergen Information:** Contains milk, eggs, wheat (gluten), tree nuts (pistachios).

@@ -2,11 +2,11 @@
 
 *Chocolate fudge balls meet tropical brightness*
 
-**Difficulty:** THE REAL DEAL - You're making chocolate fudge from scratch, handling passion fruit pulp (which is {{v: slippery as hell | incredibly slippery }}), creating caramel, and managing four components with different textures. The brigadeiro needs to cool completely before you can roll it, the passion fruit curd needs careful tempering, and the timing matters. Nothing here will break you, but you'll be juggling enough that you can't wander off to watch TV.
+**Difficulty:** THE REAL DEAL - You're making chocolate fudge from scratch, handling passion fruit pulp (which is slippery as hell), creating caramel, and managing four components with different textures. The brigadeiro needs to cool completely before you can roll it, the passion fruit curd needs careful tempering, and the timing matters. Nothing here will break you, but you'll be juggling enough that you can't wander off to watch TV.
 
 **Total Time:** 8-10 hours (includes 2-3 hours for brigadeiro cooling/rolling, plus 4+ hours custard chilling while you contemplate Brazilian beaches)
 
-Brigadeiro is THE iconic Brazilian sweet--chocolate fudge balls rolled in sprinkles, served at literally every birthday party, celebration, and moment of joy in Brazil. The name comes from Brigadier Eduardo Gomes, a 1940s political candidate whose supporters created these treats for fundraising. He lost the election but won eternal glory because these little chocolate bombs are {{v: fucking perfect | absolutely perfect }}.
+Brigadeiro is THE iconic Brazilian sweet--chocolate fudge balls rolled in sprinkles, served at literally every birthday party, celebration, and moment of joy in Brazil. The name comes from Brigadier Eduardo Gomes, a 1940s political candidate whose supporters created these treats for fundraising. He lost the election but won eternal glory because these little chocolate bombs are fucking perfect.
 
 Passion fruit (maracuja) is everywhere in Brazilian cuisine--juices, mousses, cakes, ice cream. The combination of brigadeiro's intense chocolate fudge with passion fruit's tart tropical brightness is pure Brazilian genius: rich meets bright, chocolate meets fruit, celebration meets everyday joy.
 
@@ -54,7 +54,7 @@ You're making actual brigadeiro pieces to mix in, plus a chocolate base inspired
 
 In a heavy-bottomed saucepan, combine the sweetened condensed milk, cocoa powder, butter, and salt. Whisk until the cocoa is fully incorporated with no lumps remaining.
 
-Cook over medium-low heat, stirring CONSTANTLY with a silicone spatula or wooden spoon. This is not optional, {{v: homie | friend }}--you walk away and it burns. Scrape the bottom and sides continuously.
+Cook over medium-low heat, stirring CONSTANTLY with a silicone spatula or wooden spoon. This is not optional, homie--you walk away and it burns. Scrape the bottom and sides continuously.
 
 Cook for 10-15 minutes, stirring constantly, until the mixture thickens significantly and starts pulling away from the sides of the pan when you stir. You should be able to see the bottom of the pan when you scrape across it, and the mixture should slowly flow back together rather than immediately filling the gap. It should look glossy, thick, and deeply brown.
 
@@ -76,9 +76,9 @@ In a small saucepan, whisk together the passion fruit juice, reserved seeds, sug
 
 Cook over medium-low heat, whisking constantly, until the mixture thickens and reaches about 170-175 degrees Fahrenheit. Takes about 5-7 minutes. Should coat the back of a spoon and look thick and glossy.
 
-Pull it off the heat immediately. Whisk in the cold butter pieces one at a time until fully melted and incorporated. The curd should be smooth, thick, intensely yellow-orange, and smell aggressively {{v: tropical as hell | incredibly tropical }}.
+Pull it off the heat immediately. Whisk in the cold butter pieces one at a time until fully melted and incorporated. The curd should be smooth, thick, intensely yellow-orange, and smell aggressively tropical as hell.
 
-Strain through a fine-mesh sieve if you want ultra-smooth curd, or leave it unstrained for more textural interest from the seeds. Your call, {{v: friend | pal }}.
+Strain through a fine-mesh sieve if you want ultra-smooth curd, or leave it unstrained for more textural interest from the seeds. Your call, friend.
 
 Cool to room temperature, then refrigerate. Should be thick and spreadable when cold, tasting intensely tart and tropical.
 
@@ -150,7 +150,7 @@ Frozen passion fruit pulp (found at Latin American or Brazilian markets) works w
 
 **Sweetened condensed milk:**
 
-This is CRITICAL to brigadeiro's character, {{v: homie | friend }}. The caramelized milk sugars, the thick texture, the specific sweetness profile--can't replicate it with regular milk and sugar. Use a good brand. In Brazil, Moca is traditional, but Nestle or Eagle Brand work fine.
+This is CRITICAL to brigadeiro's character, homie. The caramelized milk sugars, the thick texture, the specific sweetness profile--can't replicate it with regular milk and sugar. Use a good brand. In Brazil, Moca is traditional, but Nestle or Eagle Brand work fine.
 
 **Dutch-process cocoa:**
 
@@ -180,7 +180,7 @@ Day two: Make chocolate custard base, chill overnight.
 
 Day three: Churn and freeze.
 
-Or do it all in one long day if you're feeling {{v: ambitious as hell | really ambitious }}.
+Or do it all in one long day if you're feeling ambitious as hell.
 
 **Texture notes:**
 
@@ -196,7 +196,7 @@ Dark brown chocolate base studded with darker brigadeiro fudge balls rolled in c
 
 Intensely chocolatey base with that characteristic brigadeiro creaminess from sweetened condensed milk. Pockets of soft chocolate fudge that melt on your tongue. Tart, tropical passion fruit curd ribbons that provide bright contrast against all that chocolate richness. Optional dulce de leche adds caramelized milk depth. The interplay between rich chocolate and tart fruit is what makes this work--neither overpowers the other, they dance together like they've been doing this for years.
 
-This is celebration ice cream. This is Brazilian joy made frozen. This is what happens when you take the country's most beloved sweet and pair it with tropical brightness, {{v: homie | friend }}. Absolutely {{v: fucking | totally }} worth the effort.
+This is celebration ice cream. This is Brazilian joy made frozen. This is what happens when you take the country's most beloved sweet and pair it with tropical brightness, homie. Absolutely fucking worth the effort.
 
 ---
 

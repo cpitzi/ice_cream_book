@@ -2,13 +2,13 @@
 
 *India's turmeric latte meets its oldest sweetener*
 
-**Difficulty:** LEGIT - You're making a date caramel swirl, dissolving turmeric powder without creating lumpy nightmares, and making custard. The techniques are straightforward but the date caramel demands your attention toward the end or it'll go from glossy to scorched in a heartbeat. The real challenge is psychological: accepting that your ice cream will be AGGRESSIVELY yellow and that's exactly what it's supposed to be. Embrace the yellow, {{v: homie | friend }}.
+**Difficulty:** LEGIT - You're making a date caramel swirl, dissolving turmeric powder without creating lumpy nightmares, and making custard. The techniques are straightforward but the date caramel demands your attention toward the end or it'll go from glossy to scorched in a heartbeat. The real challenge is psychological: accepting that your ice cream will be AGGRESSIVELY yellow and that's exactly what it's supposed to be. Embrace the yellow, homie.
 
-**Total Time:** 6-8 hours across 2 days (includes simmering, custard-making, and overnight chilling, plus time spent staring at your very yellow custard and wondering if you {{v: fucked up | messed up }} - you didn't)
+**Total Time:** 6-8 hours across 2 days (includes simmering, custard-making, and overnight chilling, plus time spent staring at your very yellow custard and wondering if you fucked up - you didn't)
 
 Golden milk - haldi doodh in Hindi - is an Indian drink made with turmeric, and yes, it makes ice cream *very* yellow. Surprisingly yellow. Aggressively yellow. "Did someone spill highlighter ink in this?" yellow. But paired with dates - which have been sweetening Indian food for thousands of years - it actually makes perfect sense. Khajur and haldi are old friends. The turmeric's earthy warmth plays against date's deep caramel-toffee richness in a way that feels inevitable once you taste it, even though it sounds completely unhinged on paper.
 
-You'll spend a moment wondering if you added too much turmeric. You probably didn't. It's supposed to look like that, {{v: homie | pal }}. Embrace the yellow. Become one with the yellow. Let the yellow into your heart.
+You'll spend a moment wondering if you added too much turmeric. You probably didn't. It's supposed to look like that, homie. Embrace the yellow. Become one with the yellow. Let the yellow into your heart.
 
 ## Ingredients
 
@@ -45,7 +45,7 @@ You can leave this chunky for a more rustic texture or blend it smooth with an i
 
 Heat the cream and milk in a saucepan until steaming - you want it hot enough that the dairy can dissolve the golden milk powder properly, but not boiling. We're looking at around 170-180 degrees F if you're checking with a thermometer, or just "steaming nicely but not bubbling" if you're going by feel.
 
-Here's the critical step that prevents lumpy turmeric nightmares: whisk the golden milk powder into the warm dairy until completely dissolved. And I mean *completely*, {{v: dude | friend }}. No streaks, no little yellow clumps floating around, no granules at the bottom of the pan. Turmeric is notorious for clumping if you add it to cold liquid or don't whisk thoroughly. Those lumps won't dissolve later, and biting into a pocket of straight turmeric powder in your ice cream is... not the vibe we're going for. It's bitter, gritty, and weird.
+Here's the critical step that prevents lumpy turmeric nightmares: whisk the golden milk powder into the warm dairy until completely dissolved. And I mean *completely*, dude. No streaks, no little yellow clumps floating around, no granules at the bottom of the pan. Turmeric is notorious for clumping if you add it to cold liquid or don't whisk thoroughly. Those lumps won't dissolve later, and biting into a pocket of straight turmeric powder in your ice cream is... not the vibe we're going for. It's bitter, gritty, and weird.
 
 Take your time with this. Whisk for a solid 30-60 seconds until you see nothing but smooth, uniformly bright yellow dairy. If you do see lumps, keep whisking. If they're really stubborn, use an immersion blender for 10 seconds and they'll disappear.
 
@@ -53,7 +53,7 @@ Now make your custard with the egg yolks, sugar, and date molasses using the sta
 
 Strain it through a fine-mesh sieve. This catches any possible turmeric clumps you might have missed and any cooked egg bits. Cool over an ice bath, stirring occasionally until it's not hot anymore.
 
-Taste it when it's cold. It should taste of warm spices (turmeric, ginger, cinnamon, cardamom all mingling together), with a deep caramel-toffee sweetness underneath and this beautiful earthy quality that's hard to describe but distinctly golden-milk-ish. The color will be VERY yellow. Like, "did I add too much turmeric?" yellow. You didn't. That's what turmeric does. It's a powerhouse pigment and it does not {{v: fuck around | hold back }} when it comes to color.
+Taste it when it's cold. It should taste of warm spices (turmeric, ginger, cinnamon, cardamom all mingling together), with a deep caramel-toffee sweetness underneath and this beautiful earthy quality that's hard to describe but distinctly golden-milk-ish. The color will be VERY yellow. Like, "did I add too much turmeric?" yellow. You didn't. That's what turmeric does. It's a powerhouse pigment and it does not fuck around when it comes to color.
 
 Refrigerate at least 4 hours, preferably overnight so the spices can bloom and meld.
 
@@ -90,7 +90,7 @@ If you skip this step and just dump powder into cold custard base, you'll end up
 
 **About the color (yes, we need to talk about it):**
 
-Let's be real: this ice cream is *very* yellow. Bright, sunny, turmeric yellow. Almost aggressively yellow. "Did you put food coloring in this?" yellow. "Is this safe to eat?" yellow. It's natural - that's just what turmeric does when you use enough of it to actually taste it. Turmeric is one of the most powerful natural pigments on earth (it's used as fabric dye, {{v: for fuck's sake | for goodness' sake }}), and it does not hold back.
+Let's be real: this ice cream is *very* yellow. Bright, sunny, turmeric yellow. Almost aggressively yellow. "Did you put food coloring in this?" yellow. "Is this safe to eat?" yellow. It's natural - that's just what turmeric does when you use enough of it to actually taste it. Turmeric is one of the most powerful natural pigments on earth (it's used as fabric dye, for fuck's sake), and it does not hold back.
 
 The date caramel swirls provide essential visual contrast with their dark amber-brown color. Without them, you're just staring at a container of bright yellow and wondering if you've made a terrible mistake. With them, it looks intentional and beautiful - like you meant for it to be this way, which you did.
 
@@ -134,7 +134,7 @@ Earthy, warm, slightly peppery from the turmeric - but in a good way, not a "why
 
 The texture is creamy and rich despite the relatively low yolk count (only 3), thanks to the date molasses' natural sugars. When you hit a pocket of date caramel, you get intense buttery sweetness with a slightly sticky, fudgy texture that contrasts beautifully with the smooth base.
 
-It's more interesting than it sounds on paper, {{v: chief | friend }}. The combination of earthy spices and deep caramel sweetness works in this way that makes you think "wait, this is actually genius?" and then immediately take another bite to confirm. It's warming without being heavy, sweet without being cloying, and complex without being inaccessible. Like golden milk finally found the partner it deserved.
+It's more interesting than it sounds on paper, chief. The combination of earthy spices and deep caramel sweetness works in this way that makes you think "wait, this is actually genius?" and then immediately take another bite to confirm. It's warming without being heavy, sweet without being cloying, and complex without being inaccessible. Like golden milk finally found the partner it deserved.
 
 ---
 

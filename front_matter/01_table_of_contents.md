@@ -1,30 +1,14 @@
 ## Table of Contents
 
-**The Front {{v: Shit | Stuff }}**
+**The Front Shit**
 
 - [Introduction](#introduction)
-{{v:start}}
 - [What Makes These Recipes Different](#what-makes-these-recipes-different-or-a-list-of-red-flags-youre-choosing-to-ignore-like-a-goddamn-fool)
 - [The Philosophy](#the-philosophy-or-why-make-things-harder-than-they-need-to-be--a-question-i-still-cant-fucking-answer)
-{{v:end}}
-{{c:start}}
-- [What Makes These Recipes Different](#what-makes-these-recipes-different-or-a-list-of-red-flags-youre-choosing-to-ignore-like-a-perfectly-sane-person)
-- [The Philosophy](#the-philosophy-or-why-make-things-harder-than-they-need-to-be--a-question-i-still-cant-quite-answer)
-{{c:end}}
 - [How to Actually Use This Book](#how-to-actually-use-this-book-without-screwing-everything-up)
-{{v:start}}
 - [The Flavors](#the-flavors-aka-the-shit-youre-about-to-get-yourself-into)
-{{v:end}}
-{{c:start}}
-- [The Flavors](#the-flavors-aka-the-stuff-youre-about-to-get-yourself-into)
-{{c:end}}
 - [Difficulty Ratings](#a-note-on-difficulty-read-this-or-suffer-the-consequences)
-{{v:start}}
 - [Custard Fundamentals](#custard-fundamentals-the-foundation-for-everything-pay-attention-dammit)
-{{v:end}}
-{{c:start}}
-- [Custard Fundamentals](#custard-fundamentals-the-foundation-for-everything-pay-attention-please)
-{{c:end}}
 - [Final Thoughts](#final-thoughts-before-you-lose-your-mind-in-the-kitchen)
 
 **The Recipes**
@@ -64,11 +48,11 @@
 - [Lemon and Rosemary Honey](#lemon-and-rosemary-honey)
 - [Nabulsi Knafeh](#nabulsi-knafeh)
 
-*A {{v: FUCKING | REAL }} ORDEAL*
+*A FUCKING ORDEAL*
 
 - [New Orleans Chicory Coffee & Beignet](#new-orleans-chicory-coffee--beignet)
 - [Appalachian Pawpaw & Maple](#appalachian-pawpaw--maple)
 
 **The Back**
 
-- [That's All, {{v: Homie | Friend }}](#thats-all-homie)
+- [That's All, Homie](#thats-all-homie)

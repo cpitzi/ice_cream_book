@@ -2,13 +2,13 @@
 
 *Creamy, dreamy, and your brain will fight you the whole way*
 
-**Difficulty:** CHILL - This is almost offensively easy, {{v: homie | friend }}. You're blending ripe avocados with sweetened condensed milk and lime juice, then freezing the result. No heating, no tempering, no custard anxiety. The only challenge is psychological - your Western brain is going to scream "avocado is for guacamole, not dessert!" but Vietnamese cuisine has known for generations that avocado's buttery richness works beautifully in sweets. Trust the process, blend the fruit, and prepare to have your assumptions thoroughly scrambled.
+**Difficulty:** CHILL - This is almost offensively easy, homie. You're blending ripe avocados with sweetened condensed milk and lime juice, then freezing the result. No heating, no tempering, no custard anxiety. The only challenge is psychological - your Western brain is going to scream "avocado is for guacamole, not dessert!" but Vietnamese cuisine has known for generations that avocado's buttery richness works beautifully in sweets. Trust the process, blend the fruit, and prepare to have your assumptions thoroughly scrambled.
 
 **Total Time:** 4-6 hours (15 minutes active work, the rest is just freezing while you contemplate how wrong this seemed before you tasted it)
 
 Avocado ice cream sounds completely deranged if you grew up thinking avocados only belong on toast or in guacamole. But in Vietnamese cuisine, avocados have been treated as a dessert ingredient for generations - showing up in smoothies, sweet drinks with condensed milk, and ice cream. This isn't fusion or innovation, it's tradition. The French brought condensed milk to Vietnam during colonial times, and it became central to Vietnamese sweets. Avocados arrived later and fit perfectly into that existing sweet tradition.
 
-The result is ice cream that's impossibly creamy and smooth, subtly sweet, with avocado's natural buttery richness playing against the condensed milk's caramel notes. The lime juice keeps everything bright and prevents oxidation. It tastes like the best version of avocado you've ever had, just sweet instead of savory. Your brain will take a minute to adjust, then you'll wonder why {{v: the hell | on earth }} America decided this fruit could only be savory.
+The result is ice cream that's impossibly creamy and smooth, subtly sweet, with avocado's natural buttery richness playing against the condensed milk's caramel notes. The lime juice keeps everything bright and prevents oxidation. It tastes like the best version of avocado you've ever had, just sweet instead of savory. Your brain will take a minute to adjust, then you'll wonder why the hell America decided this fruit could only be savory.
 
 This is genuinely one of the easiest recipes in the book. If you can operate a blender, you can make this ice cream.
 
@@ -75,7 +75,7 @@ Pale green, smooth and creamy, almost the color of a honeydew melon or key lime 
 
 **What it tastes like:**
 
-Impossibly creamy and rich, with avocado's characteristic buttery smoothness translated into a sweet context. The condensed milk adds caramel-like sweetness without being cloying. The lime keeps everything bright and prevents that heavy feeling you'd get from pure fat and sugar. It tastes tropical and subtle and fundamentally different from any other ice cream you've had. Your first bite will make you pause and recalibrate everything you thought you knew about avocado. Your second bite will make you wonder why this isn't everywhere. By the third bite you'll be a convert, {{v: homie | friend }}.
+Impossibly creamy and rich, with avocado's characteristic buttery smoothness translated into a sweet context. The condensed milk adds caramel-like sweetness without being cloying. The lime keeps everything bright and prevents that heavy feeling you'd get from pure fat and sugar. It tastes tropical and subtle and fundamentally different from any other ice cream you've had. Your first bite will make you pause and recalibrate everything you thought you knew about avocado. Your second bite will make you wonder why this isn't everywhere. By the third bite you'll be a convert, homie.
 
 ---
 

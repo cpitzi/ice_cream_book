@@ -2,13 +2,13 @@
 
 *Tropical fruit meets caffeine*
 
-**Difficulty:** LEGIT - You've got three separate components here (candied coffee beans, coffee-panela caramel, and guava custard), plus some candy work at soft ball stage. The caramel moves faster than bad news and the timing matters, but nothing here will actually break you. You'll watch a thermometer, stand around feeling like a creep while things caramelize, and feel pretty {{v: damn | darn }} accomplished when it's done.
+**Difficulty:** LEGIT - You've got three separate components here (candied coffee beans, coffee-panela caramel, and guava custard), plus some candy work at soft ball stage. The caramel moves faster than bad news and the timing matters, but nothing here will actually break you. You'll watch a thermometer, stand around feeling like a creep while things caramelize, and feel pretty damn accomplished when it's done.
 
 **Total Time:** 6-8 hours (includes 2-4 hours of coffee beans drying while you do literally anything else, plus 4+ hours custard chilling)
 
-Bocadillo—guava paste—is everywhere in Colombian desserts. It's basically concentrated guava sweetness in a block, which sounds weird but is absolutely {{v: fucking | ridiculously }} delicious. Combined with dark panela-coffee caramel and candied coffee beans, you get something distinctly Colombian: bright tropical fruit balanced by deep, dark coffee notes that'll wake you up and make you happy.
+Bocadillo—guava paste—is everywhere in Colombian desserts. It's basically concentrated guava sweetness in a block, which sounds weird but is absolutely fucking delicious. Combined with dark panela-coffee caramel and candied coffee beans, you get something distinctly Colombian: bright tropical fruit balanced by deep, dark coffee notes that'll wake you up and make you happy.
 
-More components than strictly necessary, but they all earn their place. No freeloaders here, {{v: homie | friend }}.
+More components than strictly necessary, but they all earn their place. No freeloaders here, homie.
 
 ## Ingredients
 
@@ -42,7 +42,7 @@ More components than strictly necessary, but they all earn their place. No freel
 
 Line a baking sheet with parchment. Combine 1/3 cup panela and 1/4 cup water in a saucepan. Heat over medium-high, stirring until the panela dissolves. Bring to a boil.
 
-Cook WITHOUT STIRRING to 240°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy—you'll know it when you see it, {{v: friend | pal }}.
+Cook WITHOUT STIRRING to 240°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy—you'll know it when you see it, friend.
 
 Pull it off the heat immediately. Add the coffee beans, stir quickly to coat completely—every bean needs coverage.
 
@@ -58,7 +58,7 @@ Strain through a fine-mesh sieve to remove any lumps or weird bits. Cool complet
 
 **Coffee-Panela Caramel Swirl:**
 
-Brew strong coffee or espresso, let it cool COMPLETELY—like actually cold, not "oh this seems cool enough." Have the cooled coffee, warmed cream, and butter measured and sitting right next to the stove—caramel moves faster than bad news, {{v: dude | friend }}.
+Brew strong coffee or espresso, let it cool COMPLETELY—like actually cold, not "oh this seems cool enough." Have the cooled coffee, warmed cream, and butter measured and sitting right next to the stove—caramel moves faster than bad news, dude.
 
 Combine panela and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there like a creep.
 
@@ -78,7 +78,7 @@ Cook over medium-low heat, stirring constantly with a spatula, until the custard
 
 Pull it off the heat. Stir in vanilla and salt. Strain. Fold in that cooled guava syrup while the custard is still warm, whisking until completely incorporated. Should turn this gorgeous bright pink and smell of tropical guava.
 
-Cool over an ice bath. Taste it cold—should be sweet guava with floral tropical notes that make you think about beaches even if you're landlocked {{v: as hell | as can be }}.
+Cool over an ice bath. Taste it cold—should be sweet guava with floral tropical notes that make you think about beaches even if you're landlocked as hell.
 
 Refrigerate at least 4 hours or overnight.
 
@@ -100,7 +100,7 @@ Already contains panela, giving it authentic Colombian depth. If unavailable, us
 
 **Panela:**
 
-Unrefined Colombian cane sugar—has deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine, {{v: pal | friend }}.
+Unrefined Colombian cane sugar—has deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine, pal.
 
 **Coffee:**
 
@@ -124,7 +124,7 @@ Bright pink guava base with dark brown coffee-caramel swirls and glossy dark can
 
 **What it tastes like:**
 
-Bright tropical guava up front—floral, sweet, distinctly guava—punctuated by intense dark coffee-caramel ribbons and crunchy coffee beans that give you little hits of caffeine and bitterness. Two strong flavors that somehow complement each other instead of fighting. Distinctly Colombian and absolutely worth the effort, {{v: homie | friend }}.
+Bright tropical guava up front—floral, sweet, distinctly guava—punctuated by intense dark coffee-caramel ribbons and crunchy coffee beans that give you little hits of caffeine and bitterness. Two strong flavors that somehow complement each other instead of fighting. Distinctly Colombian and absolutely worth the effort, homie.
 
 ---
 

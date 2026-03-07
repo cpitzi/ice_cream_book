@@ -2,15 +2,15 @@
 
 *France's iconic upside-down caramelized apple tart, now frozen*
 
-**Difficulty:** LEGIT - You're roasting apples with butter and calvados (straightforward), making custard (standard), and creating a buttery pastry crumble ({{v: easy as hell | easy enough }}). Nothing here is complicated. The judgment call is knowing when the apples are caramelized enough - you want deep golden brown with some darker edges, not pale and sad. You're also working with calvados, which is booze, so there's fire potential if you're not paying attention. But if you can make custard and watch a pan without wandering off, you're fine.
+**Difficulty:** LEGIT - You're roasting apples with butter and calvados (straightforward), making custard (standard), and creating a buttery pastry crumble (easy as hell). Nothing here is complicated. The judgment call is knowing when the apples are caramelized enough - you want deep golden brown with some darker edges, not pale and sad. You're also working with calvados, which is booze, so there's fire potential if you're not paying attention. But if you can make custard and watch a pan without wandering off, you're fine.
 
-**Total Time:** 7-9 hours across 2 days (most of it is roasting and overnight chilling while you sleep, plus 30-40 minutes of actively working while your kitchen smells {{v: fucking incredible | absolutely incredible }})
+**Total Time:** 7-9 hours across 2 days (most of it is roasting and overnight chilling while you sleep, plus 30-40 minutes of actively working while your kitchen smells fucking incredible)
 
 Tarte Tatin is one of those legendary French desserts with an actual origin story - created by accident in the 1880s at the Hotel Tatin in the Loire Valley when one of the Tatin sisters either forgot to put pastry in the pan first or tried to rescue a burnt apple tart by flipping it upside down (stories vary, but the result is the same). What you get is deeply caramelized apples cooked in butter and sugar, traditionally served warm with the pastry on top after being inverted.
 
 This ice cream captures that essential Tarte Tatin character - butter-roasted apples with calvados (Norman apple brandy, because if you're going French, go all the way), plus a buttery pastry crumble that echoes the tart's crust. The apples get roasted until they're jammy and caramelized, the calvados adds that distinctly French apple-region boozy depth, and the pastry crumble gives you that crucial textural contrast.
 
-It tastes like walking past a French patisserie and deciding {{v: fuck it | you know what }}, you're eating dessert for breakfast.
+It tastes like walking past a French patisserie and deciding fuck it, you're eating dessert for breakfast.
 
 ## Ingredients
 
@@ -41,29 +41,29 @@ It tastes like walking past a French patisserie and deciding {{v: fuck it | you 
 
 **Buttery Pastry Crumble (make this first, can be made up to 3 days ahead):**
 
-Preheat your oven to 350°F. Combine flour, sugar, and salt in a bowl. Add the cold cubed butter and work it in with your fingers or a pastry cutter until the mixture looks like coarse sand with some pea-sized butter bits. You want irregular chunks, {{v: homie | friend }} - that's what creates flaky, crispy texture when it bakes.
+Preheat your oven to 350°F. Combine flour, sugar, and salt in a bowl. Add the cold cubed butter and work it in with your fingers or a pastry cutter until the mixture looks like coarse sand with some pea-sized butter bits. You want irregular chunks, homie - that's what creates flaky, crispy texture when it bakes.
 
 If the mixture seems too dry and won't hold together when you squeeze it, add the ice water a teaspoon at a time. It should just barely come together when pressed. Don't overwork it or add too much water - you want crumbly, not doughy.
 
 Spread the mixture on a parchment-lined baking sheet, breaking it into irregular crumbles ranging from pea-sized to marble-sized. Bake for 15-20 minutes, stirring once halfway through, until golden brown and crispy. It should smell buttery and toasted, like pie crust.
 
-Let cool completely on the baking sheet. The crumbles will crisp up as they cool - this is chemistry at work, {{v: dude | pal }}. Once cool, break into smaller pieces if any are too large. Store in an airtight container at room temperature.
+Let cool completely on the baking sheet. The crumbles will crisp up as they cool - this is chemistry at work, dude. Once cool, break into smaller pieces if any are too large. Store in an airtight container at room temperature.
 
 **Roast Apples (do this at least 2 hours before making custard so they have time to cool):**
 
-Preheat your oven to 400°F. Here's why this temperature matters: 400°F is hot enough to caramelize the sugars on the apple's surface and trigger Maillard reactions (that's the browning that creates complex, savory-sweet flavors), but not so hot that the outside burns before the inside softens. Lower temps would steam the apples more than roast them. Higher temps would char the edges before the centers got tender. 400°F is the sweet spot, {{v: pal | friend }}.
+Preheat your oven to 400°F. Here's why this temperature matters: 400°F is hot enough to caramelize the sugars on the apple's surface and trigger Maillard reactions (that's the browning that creates complex, savory-sweet flavors), but not so hot that the outside burns before the inside softens. Lower temps would steam the apples more than roast them. Higher temps would char the edges before the centers got tender. 400°F is the sweet spot, pal.
 
 Peel, core, and cut the apples into roughly 3/4-inch chunks. You want them big enough to maintain some texture after roasting, but small enough to cook through in reasonable time. Too small and they'll turn to mush. Too big and you'll have raw centers and burnt edges.
 
 Toss them with butter, brown sugar, and salt in a roasting pan or baking dish. Make sure everything's coated - the butter helps conduct heat and creates browning, while the brown sugar adds molasses notes and extra caramelization.
 
-Roast for 30-40 minutes, stirring every 10-12 minutes. You're looking for deep golden brown edges with some darker caramelized spots - that's where all the flavor lives, {{v: friend | pal }}. The apples should be tender when you poke them with a fork, but still holding their shape, not falling apart into applesauce. Some of the pieces will have these gorgeous bronze-brown edges that look almost candied, like someone hit them with a blowtorch. That's exactly what you want.
+Roast for 30-40 minutes, stirring every 10-12 minutes. You're looking for deep golden brown edges with some darker caramelized spots - that's where all the flavor lives, friend. The apples should be tender when you poke them with a fork, but still holding their shape, not falling apart into applesauce. Some of the pieces will have these gorgeous bronze-brown edges that look almost candied, like someone hit them with a blowtorch. That's exactly what you want.
 
 When the apples are done roasting, pull the pan from the oven and immediately add the calvados and vanilla extract. The residual heat will warm the calvados and help it integrate with the apple juices. Stir everything together, scraping up any caramelized bits stuck to the bottom of the pan - that's concentrated flavor right there, don't leave it behind.
 
 Let cool for about 15-20 minutes until they're warm but not steaming hot.
 
-Here's the two-texture approach, {{v: homie | friend }}: Puree half the roasted apples with all those pan juices until completely smooth. This pureed portion will integrate into the custard base, providing apple flavor throughout. Chop the remaining half into roughly 1/2-inch pieces. These chunks get mixed into the ice cream for textural interest - you'll bite into actual pieces of caramelized apple while eating it, just like cutting into a slice of Tarte Tatin. Refrigerate both the puree and the chunks.
+Here's the two-texture approach, homie: Puree half the roasted apples with all those pan juices until completely smooth. This pureed portion will integrate into the custard base, providing apple flavor throughout. Chop the remaining half into roughly 1/2-inch pieces. These chunks get mixed into the ice cream for textural interest - you'll bite into actual pieces of caramelized apple while eating it, just like cutting into a slice of Tarte Tatin. Refrigerate both the puree and the chunks.
 
 **Make Vanilla Custard:**
 
@@ -87,7 +87,7 @@ Cool over an ice bath, stirring occasionally to prevent a skin from forming. Ref
 
 Churn the custard until it reaches soft-serve consistency.
 
-In the last minute of churning - and this timing matters, {{v: chief | friend }} - add the chopped roasted apple pieces. If you add them too early, they'll get pulverized by the churning blade and turn into puree. If you add them after churning stops, they won't distribute evenly and you'll have clumps. Last minute of churning means they get mixed in thoroughly but maintain their chunky texture.
+In the last minute of churning - and this timing matters, chief - add the chopped roasted apple pieces. If you add them too early, they'll get pulverized by the churning blade and turn into puree. If you add them after churning stops, they won't distribute evenly and you'll have clumps. Last minute of churning means they get mixed in thoroughly but maintain their chunky texture.
 
 Layer into your storage container: spread one-third of the ice cream, scatter some pastry crumble. Repeat twice more, finishing with a layer of crumble on top. Don't swirl - you want distinct layers of creamy apple ice cream and crunchy pastry bits, like deconstructed tart.
 
@@ -97,11 +97,11 @@ Freeze at least 4 hours before serving.
 
 **About roasting and why you can't skip it:**
 
-Raw apples are fine. They're nice. They're pleasant. But roasting transforms them from "nice" to "{{v: holy shit | oh wow }}, what just happened?" Here's the science, explained in a way that actually matters: when you roast apples, several things happen simultaneously. The heat drives off water, concentrating the sugars. Those concentrated sugars begin to caramelize - a chemical process where sugar molecules break down and form hundreds of new flavor compounds. At the same time, the Maillard reaction occurs between the apples' natural sugars and amino acids, creating even more complex flavors: nutty, toasty, deep notes you'd never get from raw fruit.
+Raw apples are fine. They're nice. They're pleasant. But roasting transforms them from "nice" to "holy shit, what just happened?" Here's the science, explained in a way that actually matters: when you roast apples, several things happen simultaneously. The heat drives off water, concentrating the sugars. Those concentrated sugars begin to caramelize - a chemical process where sugar molecules break down and form hundreds of new flavor compounds. At the same time, the Maillard reaction occurs between the apples' natural sugars and amino acids, creating even more complex flavors: nutty, toasty, deep notes you'd never get from raw fruit.
 
 The butter and brown sugar accelerate this browning process. Butter provides fat that helps conduct heat evenly and adds richness. Brown sugar adds molasses notes and extra sugar for caramelization. Together they create these glossy, caramelized pieces that taste like concentrated apple essence with layers of caramel complexity.
 
-If you use raw apples, you'll get bland apple ice cream that tastes like nothing much. The roasting is what makes this taste like actual Tarte Tatin, {{v: homie | pal }}.
+If you use raw apples, you'll get bland apple ice cream that tastes like nothing much. The roasting is what makes this taste like actual Tarte Tatin, homie.
 
 **About calvados:**
 
@@ -135,7 +135,7 @@ Vanilla extract is fine and honestly most people won't notice the difference in 
 
 This is your substitute for the actual pastry crust on Tarte Tatin. Making a full pâte brisee (French pie dough) and trying to incorporate it into ice cream doesn't work - it gets soggy. But this streusel-style crumble gives you that buttery pastry flavor and crucial crunch without getting waterlogged.
 
-The key is keeping it dry and airtight until you're ready to use it. Even a little moisture will make it lose its crispness, {{v: dude | pal }}. If you live somewhere humid, you might want to make this component the day you're churning rather than days ahead.
+The key is keeping it dry and airtight until you're ready to use it. Even a little moisture will make it lose its crispness, dude. If you live somewhere humid, you might want to make this component the day you're churning rather than days ahead.
 
 **Make-ahead strategy:**
 

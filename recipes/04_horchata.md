@@ -2,15 +2,15 @@
 
 *Rice, cinnamon, almonds - Mexico's agua fresca, now frozen*
 
-**Difficulty:** LEGIT - You're soaking and blending rice to infuse the dairy (easy but takes time), making a cinnamon-sugar swirl (straightforward), and candying almonds (hard to {{v: fuck up | mess up }}). The rice infusion is an extra step but it's not complicated - you're basically making horchata and then turning it into custard. Nothing here will break you, {{v: chief | friend }}, just requires a bit of advance planning.
+**Difficulty:** LEGIT - You're soaking and blending rice to infuse the dairy (easy but takes time), making a cinnamon-sugar swirl (straightforward), and candying almonds (hard to fuck up). The rice infusion is an extra step but it's not complicated - you're basically making horchata and then turning it into custard. Nothing here will break you, chief, just requires a bit of advance planning.
 
-**Total Time:** 10-12 hours across 2 days (includes 4+ hours of rice soaking while you do literally anything else, plus overnight chilling - barely any actual work, {{v: dude | friend }})
+**Total Time:** 10-12 hours across 2 days (includes 4+ hours of rice soaking while you do literally anything else, plus overnight chilling - barely any actual work, dude)
 
 Horchata is one of those drinks that defines Mexican street food culture - creamy, sweet, cooling, with that distinctive rice and cinnamon combo. It's what you order with tacos to balance the heat, what you drink on hot afternoons, what makes you forget you're in 95-degree weather.
 
 This ice cream takes that classic flavor profile and makes it rich and frozen. The rice infusion gives you that characteristic slightly grainy sweetness, cinnamon comes through warm and aromatic, and candied almonds add crunch plus that nutty depth that traditional horchata sometimes has. It's familiar and comforting if you grew up drinking horchata, and a revelation if you didn't.
 
-Fair warning - this doesn't taste like the neon-white stuff from a restaurant drink dispenser. This is the real deal, {{v: homie | friend }}.
+Fair warning - this doesn't taste like the neon-white stuff from a restaurant drink dispenser. This is the real deal, homie.
 
 ## Ingredients
 
@@ -59,7 +59,7 @@ Discard the rice solids (or compost them, or whatever - they've done their job).
 
 **Candied Almonds (can be made up to a week ahead):**
 
-Line a baking sheet with parchment. Combine sugar, water, and vanilla in a medium saucepan over medium heat. Stir until the sugar dissolves completely, then stop stirring and let it cook until it reaches 240°F (soft ball stage) - this takes about 5-7 minutes. You need a candy thermometer for this, {{v: homie | friend }}. Don't guess.
+Line a baking sheet with parchment. Combine sugar, water, and vanilla in a medium saucepan over medium heat. Stir until the sugar dissolves completely, then stop stirring and let it cook until it reaches 240°F (soft ball stage) - this takes about 5-7 minutes. You need a candy thermometer for this, homie. Don't guess.
 
 Add the sliced almonds and salt, and stir constantly. The mixture will look weird and sandy for a minute as the sugar crystallizes around the nuts - this is supposed to happen, don't panic. It's the sugar reverting to crystal form as it cools slightly on contact with the almonds. Keep stirring over medium heat and the sugar will melt again, coating the almonds in a glossy caramel. This transformation takes 3-5 minutes of constant stirring.
 
@@ -77,9 +77,9 @@ The finished swirl should be smooth, fragrant with cinnamon, and deep amber-brow
 
 Combine the rice milk mixture and heavy cream in a saucepan and heat until steaming - small bubbles around the edges, no rolling boil. While that heats, whisk the egg yolks with the sugar in a separate bowl until pale and thick, about 2 minutes. This pre-mixing is important because it starts dissolving the sugar and prevents graininess in your final custard.
 
-Temper the yolks with the hot dairy mixture - you know this drill, {{v: chief | friend }}. Slowly drizzle about a cup of the hot liquid into the yolks while whisking constantly, then return everything to the pan. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line.
+Temper the yolks with the hot dairy mixture - you know this drill, chief. Slowly drizzle about a cup of the hot liquid into the yolks while whisking constantly, then return everything to the pan. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line.
 
-Strain through a fine-mesh sieve to catch any bits of cooked egg. Stir in both extracts, ground cinnamon, and salt. The custard will be off-white with visible cinnamon specks - this is exactly what you want, {{v: dude | pal }}.
+Strain through a fine-mesh sieve to catch any bits of cooked egg. Stir in both extracts, ground cinnamon, and salt. The custard will be off-white with visible cinnamon specks - this is exactly what you want, dude.
 
 Cool over an ice bath, stirring occasionally to prevent a skin from forming, then refrigerate at least 4 hours or overnight. Overnight is better - it lets all those flavors meld together and gives the rice starches time to fully hydrate, which creates a smoother final texture.
 
@@ -97,7 +97,7 @@ Freeze at least 4 hours before serving.
 
 Long-grain white rice is traditional for horchata. Some recipes use jasmine rice, which adds a subtle floral note - that's fine too if you want to go that route. The key is to soak it long enough that it actually softens and releases its starches. If you're in a rush, you can soak it in warm milk (not hot, just warm) for 2-3 hours instead of cold for 4-6 hours, but overnight is still better because extended cold soaking extracts more flavor compounds without cooking anything.
 
-The rice infusion is what makes this actually taste like horchata instead of just cinnamon ice cream, {{v: homie | friend }}. Don't skip it or try to substitute rice milk from a carton - that stuff is designed for drinking, not for infusing into custard, and it won't give you the right flavor, texture, or that characteristic slightly grainy sweetness that makes horchata taste like horchata.
+The rice infusion is what makes this actually taste like horchata instead of just cinnamon ice cream, homie. Don't skip it or try to substitute rice milk from a carton - that stuff is designed for drinking, not for infusing into custard, and it won't give you the right flavor, texture, or that characteristic slightly grainy sweetness that makes horchata taste like horchata.
 
 **Cinnamon varieties:**
 
@@ -131,7 +131,7 @@ If you've had good horchata, you'll immediately recognize the flavor profile, bu
 
 **Serving suggestion:**
 
-This is excellent on its own, but {{v: holy shit | seriously }} does it work next to chocolate - churros with chocolate sauce, Mexican hot chocolate brownies, tres leches cake, all of it. The cinnamon and rice flavors play beautifully with chocolate's bitter notes, creating this sweet-spicy-rich thing that's greater than the sum of its parts. Also pairs beautifully with coffee, which is why it makes a great after-dinner dessert for people who usually skip sweets but want something with their espresso.
+This is excellent on its own, but holy shit does it work next to chocolate - churros with chocolate sauce, Mexican hot chocolate brownies, tres leches cake, all of it. The cinnamon and rice flavors play beautifully with chocolate's bitter notes, creating this sweet-spicy-rich thing that's greater than the sum of its parts. Also pairs beautifully with coffee, which is why it makes a great after-dinner dessert for people who usually skip sweets but want something with their espresso.
 
 Small to medium scoops work best - this is rich enough that a little goes a long way, but not so intense that you can't eat a proper portion.
 

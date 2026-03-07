@@ -2,13 +2,13 @@
 
 *Bush tucker meets buttery nuts*
 
-**Difficulty:** LEGIT - You'll candy macadamias without burning them (harder than it sounds with 75% fat content), infuse wattleseed properly, and layer swirls like you actually {{v: give a damn | care about the result }}. Plus sourcing native Australian ingredients might require actual effort.
+**Difficulty:** LEGIT - You'll candy macadamias without burning them (harder than it sounds with 75% fat content), infuse wattleseed properly, and layer swirls like you actually give a damn. Plus sourcing native Australian ingredients might require actual effort.
 
 **Total Time:** 6-8 hours (mostly waiting for nuts to dry and custard to chill while you contemplate your life choices)
 
 Wattleseed is Aboriginal bush tucker—roasted and ground seeds that taste like coffee-chocolate-hazelnut had a mysterious Australian cousin who's cooler than all of them. Paired with buttery macadamias (native to Australia) and golden syrup (beloved in Australian baking), you get something that tastes distinctly Australian while being completely approachable, even for people who've never left their hometown.
 
-Fair warning, {{v: chief | friend }}: wattleseed can be hard to source, but it's worth seeking out from suppliers that work with Aboriginal communities. This isn't just ingredients—it's cultural heritage.
+Fair warning, chief: wattleseed can be hard to source, but it's worth seeking out from suppliers that work with Aboriginal communities. This isn't just ingredients—it's cultural heritage.
 
 ## Ingredients
 
@@ -42,7 +42,7 @@ Fair warning, {{v: chief | friend }}: wattleseed can be hard to source, but it's
 
 **Candied Macadamias (make this first, needs 2-4 hours drying):**
 
-Preheat your oven to 325°F. Spread the macadamias on a baking sheet, toast for 8-10 minutes until fragrant and lightly golden. Watch these {{v: fuckers | things }} CAREFULLY—macadamias burn quicker than your paycheck disappears due to their insanely high fat content. Set aside.
+Preheat your oven to 325°F. Spread the macadamias on a baking sheet, toast for 8-10 minutes until fragrant and lightly golden. Watch these fuckers CAREFULLY—macadamias burn quicker than your paycheck disappears due to their insanely high fat content. Set aside.
 
 Line another baking sheet with parchment, set it nearby.
 
@@ -72,7 +72,7 @@ Return the infused cream to the saucepan, add half the sugar, heat until steamin
 
 The wattleseed will give it this beautiful tan-coffee color. Pull it off the heat. Stir in vanilla and salt.
 
-Strain through a fine-mesh sieve ONE MORE TIME to remove any remaining wattleseed particles—nobody wants gritty ice cream, {{v: homie | friend }}.
+Strain through a fine-mesh sieve ONE MORE TIME to remove any remaining wattleseed particles—nobody wants gritty ice cream, homie.
 
 Cool over an ice bath.
 
@@ -100,13 +100,13 @@ Freeze 4+ hours.
 
 **Wattleseed (Acacia victoriae):**
 
-Native Australian ingredient, traditional Aboriginal bush tucker food for literally thousands of years. The roasted and ground seeds create this nutty, coffee-chocolate flavor with hazelnut notes. Sometimes called "Australian bush coffee" which is pretty {{v: fucking | darn }} accurate.
+Native Australian ingredient, traditional Aboriginal bush tucker food for literally thousands of years. The roasted and ground seeds create this nutty, coffee-chocolate flavor with hazelnut notes. Sometimes called "Australian bush coffee" which is pretty fucking accurate.
 
 Buy from reputable suppliers that source ethically from Aboriginal communities—look for brands like Outback Pride, Australian Superfood Co, or Tucker Bush. Ground wattleseed loses potency quickly—store it in the freezer. Use within 3-4 months of purchase or it'll taste like disappointment.
 
 **Macadamia nuts:**
 
-Indigenous to Queensland and northern New South Wales rainforests. Australia is one of the world's largest macadamia producers. These nuts are buttery, creamy, with this mild sweet flavor. The high fat content—75%, which is INSANE—means they toast beautifully but burn easily. Watch them carefully, {{v: friend | pal }}.
+Indigenous to Queensland and northern New South Wales rainforests. Australia is one of the world's largest macadamia producers. These nuts are buttery, creamy, with this mild sweet flavor. The high fat content—75%, which is INSANE—means they toast beautifully but burn easily. Watch them carefully, friend.
 
 **Golden syrup:**
 
@@ -118,11 +118,11 @@ Native Australian citrus-scented leaf. Has INTENSE lemon flavor—like 10 time
 
 **Cultural context:**
 
-This honors Aboriginal Australian bush tucker traditions by featuring wattleseed, while incorporating macadamias (native to Australia) and golden syrup (beloved in modern Australian cuisine). Wattleseed has been used by Aboriginal peoples for millennia—we're talking THOUSANDS of years. When buying wattleseed and other native ingredients, seek out Aboriginal-owned suppliers or brands that fairly compensate Aboriginal communities. This isn't just food, it's cultural heritage, {{v: dude | friend }}.
+This honors Aboriginal Australian bush tucker traditions by featuring wattleseed, while incorporating macadamias (native to Australia) and golden syrup (beloved in modern Australian cuisine). Wattleseed has been used by Aboriginal peoples for millennia—we're talking THOUSANDS of years. When buying wattleseed and other native ingredients, seek out Aboriginal-owned suppliers or brands that fairly compensate Aboriginal communities. This isn't just food, it's cultural heritage, dude.
 
 **What it tastes like:**
 
-{{v: Complex as hell | Seriously complex }}. Sophisticated. Deep nutty, almost coffee-like base with chocolate undertones and a hint of hazelnut. Not bitter despite the coffee-esque character—just rich and interesting. Buttery macadamias add richness and crunch. Golden syrup ribbons provide treacle-butterscotch sweetness. Optional lemon myrtle adds this bright citrus top note that makes everything sing.
+Complex as hell. Sophisticated. Deep nutty, almost coffee-like base with chocolate undertones and a hint of hazelnut. Not bitter despite the coffee-esque character—just rich and interesting. Buttery macadamias add richness and crunch. Golden syrup ribbons provide treacle-butterscotch sweetness. Optional lemon myrtle adds this bright citrus top note that makes everything sing.
 
 **Visual:**
 
@@ -130,7 +130,7 @@ Warm tan-coffee colored base studded with golden-brown candied macadamia pieces 
 
 **Serving note:**
 
-Wattleseed's complex flavors actually develop and deepen after 24 hours in the freezer—something about the cold does magic things. Consider making this the day before serving for optimal flavor. Patience pays off, {{v: homie | pal }}.
+Wattleseed's complex flavors actually develop and deepen after 24 hours in the freezer—something about the cold does magic things. Consider making this the day before serving for optimal flavor. Patience pays off, homie.
 
 **Allergen Information:** Contains tree nuts (macadamias)
 

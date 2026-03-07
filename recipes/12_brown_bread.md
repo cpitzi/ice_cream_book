@@ -2,7 +2,7 @@
 
 *Buttermilk custard with caramelized bread crumble and whiskey*
 
-**Difficulty:** LEGIT - Look, you're making custard (you've done this), toasting bread with butter and sugar until it turns into candy (requires attention but mostly just standing there feeling like a genius), and making whiskey caramel (an excellent excuse to have whiskey in your kitchen). The bread crumble is the only weird part, and it's really just "don't burn it" which—let's be honest—you're gonna do at least once anyway. Nothing here will break you, {{v: pal | friend }}. Your dignity when you explain to guests that you made bread ice cream, maybe. But not you.
+**Difficulty:** LEGIT - Look, you're making custard (you've done this), toasting bread with butter and sugar until it turns into candy (requires attention but mostly just standing there feeling like a genius), and making whiskey caramel (an excellent excuse to have whiskey in your kitchen). The bread crumble is the only weird part, and it's really just "don't burn it" which—let's be honest—you're gonna do at least once anyway. Nothing here will break you, pal. Your dignity when you explain to guests that you made bread ice cream, maybe. But not you.
 
 **Total Time:** 8-10 hours across 2 days (sounds dramatic, but you're mostly waiting for things to cool and chill while you question why you didn't just buy ice cream)
 
@@ -10,7 +10,7 @@ Brown bread ice cream is a legitimate traditional Irish flavor—not some Pinter
 
 The result tastes like buttered toast met toffee met whole grain nuttiness, and honestly it tastes like a hug from someone who genuinely likes you. It's comforting and sophisticated at the same time—the kind of flavor that makes people go "wait, is this BREAD?" and then shove their spoon back in before you can answer.
 
-Adding Irish whiskey caramel reinforces that classic Irish coffee vibe and deepens the caramel notes from the toasted bread. (Also it means you get to keep whiskey around "for cooking purposes." You're welcome.) The buttermilk base keeps everything from being too sweet and adds this subtle tang that's very Irish—they put buttermilk in everything from scones to soda bread to pancakes. The Irish understand dairy, {{v: homie | friend }}. Trust the process.
+Adding Irish whiskey caramel reinforces that classic Irish coffee vibe and deepens the caramel notes from the toasted bread. (Also it means you get to keep whiskey around "for cooking purposes." You're welcome.) The buttermilk base keeps everything from being too sweet and adds this subtle tang that's very Irish—they put buttermilk in everything from scones to soda bread to pancakes. The Irish understand dairy, homie. Trust the process.
 
 This is one of those flavors that sounds absolutely unhinged until you taste it, and then you'll be mad you didn't believe me sooner.
 
@@ -45,21 +45,21 @@ This is one of those flavors that sounds absolutely unhinged until you taste it,
 
 **Brown Bread Crumble (make this first, can be done up to 3 days ahead):**
 
-If you're making your own brown bread, do that first and let it cool completely before proceeding, {{v: chief | friend }}. (Patience. I know.) Otherwise, start with store-bought brown bread or whole wheat bread. No judgment. We've all got lives.
+If you're making your own brown bread, do that first and let it cool completely before proceeding, chief. (Patience. I know.) Otherwise, start with store-bought brown bread or whole wheat bread. No judgment. We've all got lives.
 
 Preheat your oven to 350°F. Cut the bread into roughly 1/2-inch cubes—don't worry about perfect uniformity because honestly, who are you trying to impress? Irregular pieces actually work better because they toast unevenly and give you different textures. Your sloppiness is a feature here. You want about 3 cups of cubed bread total.
 
 In a large bowl, toss the bread cubes with melted butter, both sugars, cinnamon, and salt until everything is evenly coated. The bread should look glossy and sticky, like it's been partying. You'll want to eat some now. Don't. (Okay, eat one piece. But that's IT.)
 
-Spread the coated bread cubes on a parchment-lined baking sheet in a single layer—don't crowd them or they'll steam instead of toast and you'll have sad, chewy disappointment cubes. Bake for 15-20 minutes, stirring every 5 minutes, until the bread is deep golden brown and crispy. Watch this carefully in the last 5 minutes because the sugar can go from perfectly caramelized to "oh no {{v: oh fuck | oh no }}" in about 45 seconds. Ask me how I know. Actually, don't.
+Spread the coated bread cubes on a parchment-lined baking sheet in a single layer—don't crowd them or they'll steam instead of toast and you'll have sad, chewy disappointment cubes. Bake for 15-20 minutes, stirring every 5 minutes, until the bread is deep golden brown and crispy. Watch this carefully in the last 5 minutes because the sugar can go from perfectly caramelized to "oh no oh fuck" in about 45 seconds. Ask me how I know. Actually, don't.
 
 Here's what you're looking for: the bread should be crunchy all the way through (not just crispy on the outside with a sad soft interior), dark golden brown, and smell like butter toffee had a baby with a bakery. When you break a piece open, it should snap rather than squish. If it squishes, back in the oven it goes. No shame.
 
-Let it cool completely on the baking sheet. I know you want to touch it. Don't. That sugar is molten {{v: hellfire | lava }} right now. As it cools, the sugar coating will harden into a candy-like shell. Once cool, break into smaller clusters—somewhere between pea-sized and chickpea-sized pieces. Store in an airtight container at room temperature, where you will definitely "test for quality" multiple times.
+Let it cool completely on the baking sheet. I know you want to touch it. Don't. That sugar is molten hellfire right now. As it cools, the sugar coating will harden into a candy-like shell. Once cool, break into smaller clusters—somewhere between pea-sized and chickpea-sized pieces. Store in an airtight container at room temperature, where you will definitely "test for quality" multiple times.
 
 **Irish Whiskey Caramel:**
 
-Have your warmed cream, whiskey, and butter measured and sitting right next to the stove—mise en place, baby. Caramel waits for no one and {{v: gives exactly zero shits about | could not care less about }} your organizational chaos.
+Have your warmed cream, whiskey, and butter measured and sitting right next to the stove—mise en place, baby. Caramel waits for no one and gives exactly zero shits about your organizational chaos.
 
 Combine sugar and water in a light-colored saucepan (so you can actually see what's happening instead of playing "is it brown or burnt?" roulette). Heat over medium-high WITHOUT STIRRING. I cannot stress this enough. Put the spoon down. Walk away from the spoon. Stirring makes it crystallize and then you're starting over and crying. Let it reach deep amber—think copper penny, think good bourbon, think "is that too dark? no wait it's fine."
 
@@ -73,7 +73,7 @@ Let cool to room temperature, then refrigerate. Should be thick but pourable whe
 
 **Make Buttermilk Custard:**
 
-Combine the cream and whole milk in a saucepan and heat until steaming. While that heats, whisk the egg yolks with the sugar until pale and thick. You know this drill by now, {{v: dude | friend }}—you've read the custard fundamentals. This is the easy part.
+Combine the cream and whole milk in a saucepan and heat until steaming. While that heats, whisk the egg yolks with the sugar until pale and thick. You know this drill by now, dude—you've read the custard fundamentals. This is the easy part.
 
 Temper the yolks with the hot dairy mixture (slowly, like you're introducing two people who might not get along), then return everything to the pan. Cook over medium heat, stirring constantly like your ice cream depends on it (because it does), until it reaches 170-175°F and coats the back of a spoon.
 
@@ -81,7 +81,7 @@ Strain through a fine-mesh sieve to catch any bits of cooked egg. Even if you th
 
 Let cool for about 10 minutes—you don't want to add the buttermilk to scorching hot custard or it'll curdle and you'll have expensive cottage cheese.
 
-Once the custard has cooled slightly (warm but not "{{v: ow fuck | ouch }}" hot), whisk in the buttermilk, vanilla, and salt. The buttermilk adds this subtle tang that balances all the rich caramel sweetness later. Don't add it when the custard is too hot or the acidity will cause it to separate, and then you'll be sad and I'll be sad and nobody wants that.
+Once the custard has cooled slightly (warm but not "ow fuck" hot), whisk in the buttermilk, vanilla, and salt. The buttermilk adds this subtle tang that balances all the rich caramel sweetness later. Don't add it when the custard is too hot or the acidity will cause it to separate, and then you'll be sad and I'll be sad and nobody wants that.
 
 Cool over an ice bath, stirring occasionally, then refrigerate at least 4 hours or overnight. Overnight is better—it lets the buttermilk flavor integrate fully. Plus it gives you an excuse to pour yourself a glass of that whiskey you definitely bought just for the recipe.
 
@@ -89,9 +89,9 @@ Cool over an ice bath, stirring occasionally, then refrigerate at least 4 hours 
 
 Churn the buttermilk custard until it reaches soft-serve consistency. The buttermilk makes this slightly tangy and creamy in a way that's different from regular custard—almost like frozen yogurt's fancy older sibling who studied abroad.
 
-Now the fun part. Layer into your storage container: spread one-third of the ice cream, drizzle some whiskey caramel (be generous, {{v: you coward | don't be shy }}), scatter brown bread crumble clusters. Repeat twice more. Use a knife to gently swirl the caramel through—you want ribbons and pockets, not complete integration. Think "art" not "stirred to oblivion."
+Now the fun part. Layer into your storage container: spread one-third of the ice cream, drizzle some whiskey caramel (be generous, you coward), scatter brown bread crumble clusters. Repeat twice more. Use a knife to gently swirl the caramel through—you want ribbons and pockets, not complete integration. Think "art" not "stirred to oblivion."
 
-Don't overmix or the bread will get soggy, {{v: homie | pal }}. You didn't spend all that time making perfect crunchy bread candy to turn it into mush. You want distinct clusters of crunchy caramelized bread throughout, not bread-flavored sadness. The contrast between creamy custard and crunchy bread is the whole {{v: damn | entire }} point.
+Don't overmix or the bread will get soggy, homie. You didn't spend all that time making perfect crunchy bread candy to turn it into mush. You want distinct clusters of crunchy caramelized bread throughout, not bread-flavored sadness. The contrast between creamy custard and crunchy bread is the whole damn point.
 
 Freeze at least 4 hours before serving. Yes, four hours. No, you cannot "just check if it's ready" after two. Go do something else. Touch grass. Call your mother. The ice cream will be there when you get back.
 
@@ -135,7 +135,7 @@ The bread crumble will stay crunchy for several days in the freezer, but over ti
 
 If you want maximum crunch, eat this ice cream within 3-4 days of making it. I believe in you. This will not be difficult.
 
-You can also reserve some of the bread crumble and sprinkle it on top just before serving for guaranteed crunch, which is what fancy restaurants do, {{v: buddy | pal }}. Now you know their secrets. Use this power wisely.
+You can also reserve some of the bread crumble and sprinkle it on top just before serving for guaranteed crunch, which is what fancy restaurants do, buddy. Now you know their secrets. Use this power wisely.
 
 **Make-ahead timeline:**
 
@@ -157,7 +157,7 @@ Creamy and tangy from the buttermilk custard, with these incredible clusters of 
 
 The whole grain character from the brown bread keeps it from being one-note sweet—there's nuttiness and complexity and a certain "I'm an adult who eats sophisticated things" energy, even though you're literally eating bread ice cream in your kitchen at 11pm.
 
-It's comfort food disguised as sophistication. Tastes like breakfast and dessert had a baby and that baby went to culinary school. The texture is the real star—that contrast between smooth, tangy custard and crunchy, sweet bread clusters is absolutely {{v: fucking | wildly }} addictive. You'll tell yourself you're just having "one more bite" approximately seventeen times. Don't say I didn't warn you.
+It's comfort food disguised as sophistication. Tastes like breakfast and dessert had a baby and that baby went to culinary school. The texture is the real star—that contrast between smooth, tangy custard and crunchy, sweet bread clusters is absolutely fucking addictive. You'll tell yourself you're just having "one more bite" approximately seventeen times. Don't say I didn't warn you.
 
 ---
 

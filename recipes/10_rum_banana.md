@@ -2,13 +2,13 @@
 
 *Allspice, rum, bananas—Caribbean celebration*
 
-**Difficulty:** LEGIT - Multiple components and some flambe action if you're feeling brave. You'll caramelize bananas, make butterscotch, candy ginger, and juggle timing across all of them. Nothing here will actually break you, but you can't just {{v: fuck off | wander off }} and watch TV either. Stay present, stay engaged, you'll be fine.
+**Difficulty:** LEGIT - Multiple components and some flambe action if you're feeling brave. You'll caramelize bananas, make butterscotch, candy ginger, and juggle timing across all of them. Nothing here will actually break you, but you can't just fuck off and watch TV either. Stay present, stay engaged, you'll be fine.
 
-**Total Time:** 6-8 hours (most of which is ginger drying and base chilling—you'll have plenty of time to {{v: do other shit | handle other things }})
+**Total Time:** 6-8 hours (most of which is ginger drying and base chilling—you'll have plenty of time to do other shit)
 
-Allspice is THE signature spice of Jamaica—it's called pimento locally and has this warm, complex flavor that tastes like cinnamon, nutmeg, and cloves all decided to {{v: have a threesome | get together }}. Combined with rum-caramelized bananas, candied ginger, and a rum-butterscotch swirl, you get something that feels like a party where everyone's having a genuinely good time. Bright, spirited, deeply flavorful.
+Allspice is THE signature spice of Jamaica—it's called pimento locally and has this warm, complex flavor that tastes like cinnamon, nutmeg, and cloves all decided to have a threesome. Combined with rum-caramelized bananas, candied ginger, and a rum-butterscotch swirl, you get something that feels like a party where everyone's having a genuinely good time. Bright, spirited, deeply flavorful.
 
-You might flambe some bananas. This is optional but {{v: absolutely fucking fun, homie | absolutely a blast, friend }}.
+You might flambe some bananas. This is optional but absolutely fucking fun, homie.
 
 ## Ingredients
 
@@ -62,7 +62,7 @@ Combine 1 cup sugar and 1/2 cup water in a saucepan, bring to a simmer. Add the 
 
 Transfer to a rack set over parchment with a slotted spoon. Dry for 4+ hours or overnight until tacky. Toss in sugar. Store airtight. Should be chewy-crystalline with bright ginger heat that builds.
 
-*Note: High-quality store-bought crystallized ginger works {{v: damn well | really well }} if you're short on time, {{v: friend | friend }}. Just chop it into small pieces and move on with your life.*
+*Note: High-quality store-bought crystallized ginger works damn well if you're short on time, friend. Just chop it into small pieces and move on with your life.*
 
 **Toasted Coconut (if using):**
 
@@ -72,13 +72,13 @@ Add a pinch of salt while warm. Transfer to a plate immediately. Cool completely
 
 **Rum-Caramelized Bananas:**
 
-Peel the bananas and cut into 1/2-inch thick rounds. Crush the whole allspice berries slightly with a mortar and pestle or in a plastic bag with a rolling pin—want them broken but not powdered {{v: to hell | into dust }}.
+Peel the bananas and cut into 1/2-inch thick rounds. Crush the whole allspice berries slightly with a mortar and pestle or in a plastic bag with a rolling pin—want them broken but not powdered to hell.
 
 Melt butter in a large skillet over medium-high heat. Add the dark brown sugar and crushed allspice, stir until the sugar melts and bubbles, about 1 minute.
 
 Add the banana rounds in a single layer—work in batches if needed to avoid crowding because crowded bananas steam instead of caramelize and that's just sad. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still hold their shape. You want caramelized, not mushy—there's a difference.
 
-Reduce heat to medium-low. Sprinkle nutmeg over the bananas. Carefully add the rum—may flame BRIEFLY if using a gas stove, which is normal and safe and honestly pretty cool. {{v: Don't freak out, homie. | Don't panic, friend. }} The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
+Reduce heat to medium-low. Sprinkle nutmeg over the bananas. Carefully add the rum—may flame BRIEFLY if using a gas stove, which is normal and safe and honestly pretty cool. Don't freak out, homie. The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
 
 Add a pinch of salt and squeeze of lime juice. Pull it off the heat. The liquid should be thick, syrupy, deeply caramelized—almost mahogany. If yours looks pale and thin, it needed more time. Trust the color.
 
@@ -90,7 +90,7 @@ Puree 2/3 of the caramelized bananas with their syrup until smooth. Should be th
 
 Combine heavy cream and milk in a saucepan. Lightly crush the whole allspice berries with the back of a spoon—releases the oils without turning them to powder. Add crushed allspice berries to the cream mixture.
 
-Heat over medium to 170-175°F—steaming, not boiling. Pull it off the heat, cover, steep for 20-25 minutes. Allspice needs time to do its thing, {{v: dude | buddy }}. Taste at 20 minutes—should have clear pimento character with warm, almost peppery notes. If it's faint, give it another 5-10 minutes. You want this to HIT.
+Heat over medium to 170-175°F—steaming, not boiling. Pull it off the heat, cover, steep for 20-25 minutes. Allspice needs time to do its thing, dude. Taste at 20 minutes—should have clear pimento character with warm, almost peppery notes. If it's faint, give it another 5-10 minutes. You want this to HIT.
 
 Strain through a fine-mesh sieve, pressing gently on the allspice to extract all those oils. Discard the berries.
 
@@ -102,7 +102,7 @@ Temper your egg yolks and cook to 170-175°F. If you need a refresher on temperi
 
 Pull it off the heat. Stir in rum, vanilla, and salt. Strain. Fold in the banana puree while the custard is still warm, whisking until completely incorporated.
 
-Should turn deep golden-tan and smell absolutely incredible—caramelized banana, Jamaican rum, and allspice with nutmeg-cinnamon warmth. {{v: If it doesn't make you want to move to the Caribbean, you did something wrong. | If it doesn't transport you straight to the Caribbean, something went sideways. }}
+Should turn deep golden-tan and smell absolutely incredible—caramelized banana, Jamaican rum, and allspice with nutmeg-cinnamon warmth. If it doesn't make you want to move to the Caribbean, you did something wrong.
 
 Cool over an ice bath. Taste it cold—should have clear allspice presence (warm, slightly peppery, aromatic), deep rum character, and rich banana-brown sugar depth. The cold mutes flavor slightly, so it should taste a touch strong now.
 
@@ -112,7 +112,7 @@ Refrigerate at least 4 hours or overnight.
 
 In a heavy-bottomed saucepan, melt the butter over medium heat. Add the brown sugar, stir constantly until melted and beginning to bubble, about 2 minutes.
 
-Carefully pour in the warmed cream—it'll bubble VIGOROUSLY like it's {{v: pissed off at you | furious with you }}. Whisk constantly until smooth and combined. Continue cooking, stirring frequently, until the mixture thickens slightly and turns deep amber, about 3-4 minutes. Don't walk away from this—it goes from butterscotch to burnt {{v: real damn fast | very quickly }}.
+Carefully pour in the warmed cream—it'll bubble VIGOROUSLY like it's pissed off at you. Whisk constantly until smooth and combined. Continue cooking, stirring frequently, until the mixture thickens slightly and turns deep amber, about 3-4 minutes. Don't walk away from this—it goes from butterscotch to burnt real damn fast.
 
 Pull it off the heat. Stir in rum and salt. Should smell intensely of butterscotch and rum—like a Caribbean dessert had a baby with a distillery.
 
@@ -122,7 +122,7 @@ Cool to room temperature, then refrigerate. Should be thick but pourable when co
 
 Churn until soft-serve consistency—may take a bit longer than usual due to the banana puree adding extra sugar and moisture. You'll know it's ready when it holds its shape on a spoon and looks thick and creamy. In the last minute, add the chopped caramelized banana pieces, candied ginger pieces, and toasted coconut if using.
 
-Transfer to your container in layers: spread 1/3 of the ice cream, drizzle rum-butterscotch swirl in ribbons, repeat twice. Gently swirl with a knife—you want distinct ribbons, not a homogeneous {{v: mess | blend }}.
+Transfer to your container in layers: spread 1/3 of the ice cream, drizzle rum-butterscotch swirl in ribbons, repeat twice. Gently swirl with a knife—you want distinct ribbons, not a homogeneous mess.
 
 Freeze 4+ hours.
 
@@ -134,13 +134,13 @@ Allspice is THE signature spice of Jamaica, where the world's finest quality gro
 
 The name comes from the flavor—it genuinely tastes like a combination of cinnamon, nutmeg, and cloves, with warm, slightly peppery aromatic notes. That's because allspice contains eugenol (found in cloves), cineole (found in bay leaves), and other aromatic compounds that overlap with those spices. For authentic Jamaican flavor, allspice MUST be the dominant spice, not just a supporting player.
 
-Buy whole berries from good spice companies and crush them fresh—pre-ground loses potency faster than {{v: milk goes bad in summer | you'd believe }}. Jamaican allspice is distinctly superior to Central American varieties.
+Buy whole berries from good spice companies and crush them fresh—pre-ground loses potency faster than milk goes bad in summer. Jamaican allspice is distinctly superior to Central American varieties.
 
 **Jamaican rum:**
 
-Use dark Jamaican rum like Appleton Estate, Myers's, or Wray & Nephew Overproof—though that last one is VERY strong, use it cautiously, {{v: pal | friend }}. Jamaican rum is made from molasses and pot-distilled, creating this full-bodied, almost funky character with notes of banana, brown sugar, and warm spices.
+Use dark Jamaican rum like Appleton Estate, Myers's, or Wray & Nephew Overproof—though that last one is VERY strong, use it cautiously, pal. Jamaican rum is made from molasses and pot-distilled, creating this full-bodied, almost funky character with notes of banana, brown sugar, and warm spices.
 
-Distinctly different from rhum agricole or light rums. The richness and complexity are essential—it's not just alcohol, it's a {{v: fucking | major }} flavor component.
+Distinctly different from rhum agricole or light rums. The richness and complexity are essential—it's not just alcohol, it's a fucking flavor component.
 
 **Ginger tradition:**
 
@@ -148,13 +148,13 @@ Candied and crystallized ginger is beloved in Jamaican sweets—ginger candy, gi
 
 **Banana caramelization:**
 
-This technique of caramelizing bananas with butter, brown sugar, and rum is essentially simplified bananas foster. While bananas foster was created in New Orleans in 1951, it draws directly on Caribbean ingredients and techniques. Jamaicans have been cooking bananas with rum, sugar, and spices LONG before that—this is cultural {{v: appropriation done backwards, homie | influence flowing back to its source, friend }}.
+This technique of caramelizing bananas with butter, brown sugar, and rum is essentially simplified bananas foster. While bananas foster was created in New Orleans in 1951, it draws directly on Caribbean ingredients and techniques. Jamaicans have been cooking bananas with rum, sugar, and spices LONG before that—this is cultural appropriation done backwards, homie.
 
 The key is getting real color on the bananas. If they look pale, your heat was too low or you crowded the pan. You want deep golden-brown—that's where the Maillard reaction creates hundreds of new flavor compounds that raw banana simply doesn't have.
 
 **Brown sugar throughout:**
 
-Dark brown sugar in the base, caramelized bananas, and butterscotch creates this molasses-rich, deep sweetness that characterizes Jamaican desserts. The molasses in brown sugar isn't just about sweetness—it brings mineral complexity, a slight bitterness, and that unmistakable depth. {{v: It's what makes everything taste right, and don't let anyone tell you to substitute white sugar. | It's what makes everything taste right, and please don't substitute white sugar. }}
+Dark brown sugar in the base, caramelized bananas, and butterscotch creates this molasses-rich, deep sweetness that characterizes Jamaican desserts. The molasses in brown sugar isn't just about sweetness—it brings mineral complexity, a slight bitterness, and that unmistakable depth. It's what makes everything taste right, and don't let anyone tell you to substitute white sugar.
 
 **Coconut as accent:**
 
@@ -162,7 +162,7 @@ Unlike the Haitian version where coconut milk integrates into the base, here toa
 
 **What it tastes like:**
 
-Warm amber base with prominent allspice—that characteristic Jamaican pimento flavor—rum depth, caramelized banana sweetness, pockets of chewy-crystalline ginger heat, optional coconut crunch, and dark butterscotch ribbons throughout. Spirited, lively, celebratory. Tastes like a Jamaican party where everyone's invited and everyone's dancing. The kind of ice cream that makes you close your eyes on the first bite and go "{{v: oh, hell yes | oh, wow }}."
+Warm amber base with prominent allspice—that characteristic Jamaican pimento flavor—rum depth, caramelized banana sweetness, pockets of chewy-crystalline ginger heat, optional coconut crunch, and dark butterscotch ribbons throughout. Spirited, lively, celebratory. Tastes like a Jamaican party where everyone's invited and everyone's dancing. The kind of ice cream that makes you close your eyes on the first bite and go "oh, hell yes."
 
 ## Allergen Information
 
