@@ -141,9 +141,7 @@ If you really want to capture that green-table-at-3-AM energy, serve this in a b
 
 This ice cream tastes like New Orleans feels at 2 AM—a little boozy, a lot sweet, impossibly rich, and somehow exactly what you needed. It's breakfast and dessert having an identity crisis in the best possible way.
 
-**Allergen Information:**
-
-Contains: Milk, eggs, wheat (gluten)
+**Allergen Information:** Contains wheat (gluten).
 
 ---
 

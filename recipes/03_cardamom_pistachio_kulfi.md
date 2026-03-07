@@ -250,9 +250,7 @@ It tastes like India. Like summer afternoons and celebration dinners. Like your 
 
 Now go make some kulfi without dedicating your afternoon to milk reduction, homie. This is the practical version that still tastes fucking amazing and honors the tradition without demanding you become a martyr to dairy.
 
-**Allergen Information:**
-
-Contains: Milk, tree nuts (pistachios)
+**Allergen Information:** Contains tree nuts (pistachios).
 
 ---
 

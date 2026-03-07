@@ -27,10 +27,10 @@
 
 ### What This Is
 
-**"Ice Cream to Fight Over: 27 Recipes You'll Fuck Up At Least Once"** is a professionally-written cookbook featuring sophisticated international ice cream recipes with detailed cultural context, technique instruction, and a distinctive conversational voice.
+**"Ice Cream to Fight Over: Recipes You'll Fuck Up At Least Once"** is a professionally-written cookbook featuring sophisticated international ice cream recipes with detailed cultural context, technique instruction, and a distinctive conversational voice.
 
 **Key Characteristics:**
-- 27 complete ice cream recipes spanning international cuisines
+- Complete ice cream recipes spanning international cuisines
 - Modular file structure optimized for version control and collaborative editing
 - Comprehensive style guide with strict formatting and voice requirements
 - Plain text markdown only (NO emojis, symbols, or decorative Unicode)
@@ -49,8 +49,8 @@
 ice_cream_book/
 ├── .git/                          # Git repository
 ├── front_matter/                  # Book introduction (9 files, ~31KB)
-│   ├── 01_table_of_contents.md
-│   ├── 02_title_and_intro.md
+│   ├── 01_title_and_intro.md
+│   ├── 02_table_of_contents.md
 │   ├── 03_what_makes_different.md
 │   ├── 04_philosophy.md
 │   ├── 05_how_to_use.md
@@ -81,7 +81,7 @@ ice_cream_book/
 | Directory | Purpose | Files | Size |
 |-----------|---------|-------|------|
 | `front_matter/` | Book introduction, TOC, philosophy, fundamentals | 9 numbered files | 31KB |
-| `recipes/` | Individual recipe files | 27 numbered files | 325KB |
+| `recipes/` | Individual recipe files | 28 numbered files | 325KB |
 | `back_matter/` | Closing remarks | 1 file | 4KB |
 | Root | Build scripts, documentation, compiled output | 7 files | ~355KB |
 
@@ -117,7 +117,7 @@ The project uses a **modular-first approach** for several critical reasons:
 
 ### Recipe Organization (Current Order)
 
-Recipes are numbered 01-27 in difficulty-based order:
+Recipes are numbered 01-28 in difficulty-based order:
 - **01-03:** CHILL difficulty
 - **04-16:** LEGIT difficulty
 - **17-25:** THE REAL DEAL difficulty
@@ -280,17 +280,17 @@ chmod +x compile_book.sh
 **This is non-negotiable and the #1 rule:**
 
 **PROHIBITED:**
-- ❌ Emojis (they corrupt files and display inconsistently)
-- ❌ Special symbols (checkmarks, arrows, decorative bullets)
-- ❌ Decorative characters or Unicode art
-- ❌ Any non-standard text characters
+- DON'T: Emojis (they corrupt files and display inconsistently)
+- DON'T: Special symbols (checkmarks, arrows, decorative bullets)
+- DON'T: Decorative characters or Unicode art
+- DON'T: Any non-standard text characters
 
 **ALLOWED:**
-- ✅ Em dashes (—) for interrupting thoughts
-- ✅ Degree symbol (°F) for temperatures
-- ✅ Accent marks (café, mála) with proper UTF-8
-- ✅ Foreign characters with correct Unicode
-- ✅ Standard punctuation only
+- DO: Em dashes (—) for interrupting thoughts
+- DO: Degree symbol (°F) for temperatures
+- DO: Accent marks (café, mála) with proper UTF-8
+- DO: Foreign characters with correct Unicode
+- DO: Standard punctuation only
 
 **Test:** Can you copy-paste into plain text editor without corruption? If yes, it's acceptable.
 
@@ -439,12 +439,12 @@ The HOMIE voice is what makes this cookbook distinctive. It's **casual, educatio
 
 ### What HOMIE Voice Is NOT
 
-- ❌ Mean-spirited or putting down alternatives
-- ❌ Fake enthusiasm or forced positivity
-- ❌ Losing clarity for the sake of humor
-- ❌ Bragging or showing off
-- ❌ Unexplained jargon
-- ❌ More than 5-6 profanities per recipe (becomes forced)
+- DON'T: Mean-spirited or putting down alternatives
+- DON'T: Fake enthusiasm or forced positivity
+- DON'T: Losing clarity for the sake of humor
+- DON'T: Bragging or showing off
+- DON'T: Unexplained jargon
+- DON'T: More than 5-6 profanities per recipe (becomes forced)
 
 ### Voice Examples
 
@@ -489,24 +489,24 @@ The HOMIE voice is what makes this cookbook distinctive. It's **casual, educatio
 ### Content Modification Rules
 
 **DO:**
-- ✅ Maintain conversational, casual tone
-- ✅ Include 3-5 strategic profanities per recipe
-- ✅ Use "homie/dude/chief/buddy" 2-4 times per recipe
-- ✅ Provide cultural context for international recipes
-- ✅ Explain techniques with teaching moments (2-4 per recipe)
-- ✅ Use ranges for measurements ("3-4 egg yolks")
-- ✅ Describe churning by doneness, never estimate time
-- ✅ Include allergen notes for nuts/wheat/soy (NOT milk/eggs)
+- DO: Maintain conversational, casual tone
+- DO: Include 3-5 strategic profanities per recipe
+- DO: Use "homie/dude/chief/buddy" 2-4 times per recipe
+- DO: Provide cultural context for international recipes
+- DO: Explain techniques with teaching moments (2-4 per recipe)
+- DO: Use ranges for measurements ("3-4 egg yolks")
+- DO: Describe churning by doneness, never estimate time
+- DO: Include allergen notes for nuts/wheat/soy (NOT milk/eggs)
 
 **DON'T:**
-- ❌ Add emojis, symbols, or decorative Unicode
-- ❌ Use nationalities in recipe titles
-- ❌ Estimate churn times ("20-25 minutes")
-- ❌ Say "according to your ice cream maker's instructions"
-- ❌ Skip difficulty rating explanation
-- ❌ Skip total time parenthetical
-- ❌ Omit "What it Tastes Like" final note
-- ❌ Over-explain basic custard technique (reference fundamentals instead)
+- DON'T: Add emojis, symbols, or decorative Unicode
+- DON'T: Use nationalities in recipe titles
+- DON'T: Estimate churn times ("20-25 minutes")
+- DON'T: Say "according to your ice cream maker's instructions"
+- DON'T: Skip difficulty rating explanation
+- DON'T: Skip total time parenthetical
+- DON'T: Omit "What it Tastes Like" final note
+- DON'T: Over-explain basic custard technique (reference fundamentals instead)
 
 ### File Editing Protocol
 
@@ -751,14 +751,14 @@ When unsure about structure or voice, reference these exemplar recipes:
 ### Churning Guidance (CRITICAL)
 
 **DO NOT:**
-- ❌ Estimate churn times ("20-25 minutes")
-- ❌ Use phrase "according to your ice cream maker's instructions"
+- DON'T: Estimate churn times ("20-25 minutes")
+- DON'T: Use phrase "according to your ice cream maker's instructions"
 
 **DO:**
-- ✅ Describe doneness: "until soft-serve consistency"
-- ✅ Provide visual cues: "should look thick and pale cream-colored"
-- ✅ Note variations: "May take longer than usual due to fruit content"
-- ✅ Give context: "The ricotta makes this denser than standard custard"
+- DO: Describe doneness: "until soft-serve consistency"
+- DO: Provide visual cues: "should look thick and pale cream-colored"
+- DO: Note variations: "May take longer than usual due to fruit content"
+- DO: Give context: "The ricotta makes this denser than standard custard"
 
 **Why:** Equipment varies too widely. Readers need visual/textural cues, not time estimates that will be wrong.
 
@@ -786,17 +786,17 @@ When unsure about structure or voice, reference these exemplar recipes:
 
 ### THE RULES (Essential Checklist)
 
-✅ **Plain text only** - no emojis, no symbols, no decorative Unicode
-✅ **Proper encoding** - fix corrupted characters on sight
-✅ **NO nationalities in titles** - use regions, cities, or dish names
-✅ **Difficulty + Total Time with HOMIE explanations** - required
-✅ **3-5 strategic profanities** per recipe for emphasis
-✅ **2-4 teaching moments** per recipe
-✅ **Allergens for nuts/wheat/soy only** (not milk/eggs)
-✅ **Cultural context for international recipes** - go deep
-✅ **"What it tastes like" as final note** - always
-✅ **Churning: describe doneness, never estimate time**
-✅ **Voice: conversational, self-deprecating, technically accurate**
+- **Plain text only** - no emojis, no symbols, no decorative Unicode
+- **Proper encoding** - fix corrupted characters on sight
+- **NO nationalities in titles** - use regions, cities, or dish names
+- **Difficulty + Total Time with HOMIE explanations** - required
+- **3-5 strategic profanities** per recipe for emphasis
+- **2-4 teaching moments** per recipe
+- **Allergens for nuts/wheat/soy only** (not milk/eggs)
+- **Cultural context for international recipes** - go deep
+- **"What it tastes like" as final note** - always
+- **Churning: describe doneness, never estimate time**
+- **Voice: conversational, self-deprecating, technically accurate**
 
 ### File Paths Quick Reference
 
