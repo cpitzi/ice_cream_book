@@ -159,7 +159,7 @@ Candied cashews can be made up to a week ahead and stored airtight. Toasted coco
 
 **What it tastes like:**
 
-Creamy and rich in a way that'll make people refuse to believe it's vegan. The cashew base has a luxurious smoothness that coconut milk alone can't achieve. Coconut comes through as a warm tropical undertone rather than the star. Then you hit a ribbon of piri piri caramel and your brain does a double-take — sharp, citrusy heat with that whisper of garlic that has no business being in ice cream and yet works. Bold, layered, and unmistakably Mozambican.
+Creamy cashew richness up front—thick, smooth, and nobody's going to believe it's vegan. Coconut hangs back as a warm tropical undertone, not the star. Then you hit a ribbon of that piri piri caramel and your brain stalls—sharp citrusy heat, that insane whisper of garlic, dark caramelized sweetness all tangled together. Candied cashews for buttery crunch, toasted coconut flakes for texture. Tastes like Mozambique's coastline in a bowl.
 
 ---
 

@@ -104,7 +104,7 @@ Not because the technique is hard, but because sourcing pawpaws is a goddamn tre
 
 **What it tastes like:**
 
-Tropical and creamy and completely disorienting — your brain keeps trying to place the flavor and can't. The pawpaw reads as banana-mango-custard all at once, with a wild, almost fermented complexity underneath that no other fruit has. Maple grounds the tropical weirdness in something warm and Appalachian. The bourbon glaze adds oaky depth. Walnut brittle crunches against that silky base. This is ice cream almost nobody has ever made, from a fruit almost nobody can find. Tastes like a secret.
+Banana-mango-custard all at once, with this wild, almost fermented complexity underneath that no other fruit has. Your brain keeps trying to place it and can't. Maple sweetness grounds the tropical weirdness in something warm and Appalachian. Bourbon glaze adds oaky depth. Walnut brittle crunches through that silky base. Ice cream almost nobody has ever made, from a fruit almost nobody can find. Tastes like a secret, pal.
 
 ---
 

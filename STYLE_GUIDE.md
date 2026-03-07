@@ -219,6 +219,37 @@ Final note describing the flavor experience
 
 ---
 
+## What It Tastes Like (Final Note)
+
+Every recipe ends with this section. It's the last thing the reader sees before moving on, so make it land.
+
+**What it IS:**
+- Sensory description of what's literally in your mouth
+- Component-by-component flavor hits
+- Textural callouts where they contrast with the base
+- Cultural or emotional anchor as closer ("Tastes like Haiti." "Horn of Africa in a bowl.")
+- Personality-driven sendoff (direct address, callback, or joke)
+
+**What it ISN'T:**
+- Food magazine prose ("luxurious smoothness," "sophisticated complexity")
+- Analytical explanation of why flavors work together
+- A sales pitch for the recipe you've already written
+- Long. Match the difficulty tier: CHILL/LEGIT recipes can run 80-120 words; THE REAL DEAL and A FUCKING ORDEAL should be tighter, 40-80 words. By the time someone's deep in a complex recipe, they don't need convincing.
+
+**Cadence:**
+- Staccato. Fragments. Em dash chains for rapid-fire descriptors.
+- "Rich tawny-amber base with pervasive brown butter nuttiness" not "The base has a rich, tawny-amber color with a pervasive nuttiness from the brown butter"
+- Name components and what they DO: "Brittle adds crunch." Not what they ARE: "The brittle is a crunchy element."
+- Describe, don't explain. "Cold dulls the heat" is fine. "The heat is dulled because frozen temperatures reduce capsaicin receptor sensitivity" is not.
+
+**Closers that work:**
+- Place/culture anchor: "Tastes like the Old City." "Horn of Africa in a bowl."
+- Emotional anchor: "Tastes like celebration, like home, like Haiti."
+- Personality: "Then they eat half the container and pretend they didn't."
+- Direct address: "Tastes like a secret, pal."
+
+---
+
 ## The HOMIE Voice (Our Whole Thing)
 
 This is the voice that makes this cookbook different from every other ice cream book on the shelf. It's casual, educational, self-deprecating, and genuinely helpful—like a smart friend who's already made all the mistakes teaching you what actually works.
