@@ -3204,6 +3204,10 @@ Let this sit at room temperature for 5-10 minutes before scooping. Allows the fa
 **Make-Ahead:** 
 Candied cashews can be made up to a week ahead and stored airtight. Toasted coconut keeps for 3-4 days airtight. Piri piri caramel keeps refrigerated for up to a week. The base benefits from overnight chilling for best flavor development.
 
+**What it tastes like:**
+
+Creamy and rich in a way that'll make people refuse to believe it's vegan. The cashew base has a luxurious smoothness that coconut milk alone can't achieve. Coconut comes through as a warm tropical undertone rather than the star. Then you hit a ribbon of piri piri caramel and your brain does a double-take — sharp, citrusy heat with that whisper of garlic that has no business being in ice cream and yet works. Bold, layered, and unmistakably Mozambican.
+
 ---
 
 # Coffee & Berbere
@@ -4441,6 +4445,10 @@ The brittle can be made days in advance and stored airtight. The bourbon-maple g
 This is technically optional, but it's the difference between "good" and "holy shit." The bourbon adds depth and complexity to the maple that you just don't get from straight syrup. Most of the alcohol cooks off during the reduction, but you get this warm, oaky sweetness that tastes like fall in Appalachia. If you don't drink or can't have alcohol, skip the bourbon and just reduce the maple syrup with the butter—it'll still be good, just less complex.
 **Why OVERKILL Difficulty:** 
 Not because the technique is hard, but because sourcing pawpaws is a goddamn treasure hunt and you have about a 2-week window per year to make this. If you nail it, though? You've made something almost nobody else has ever tasted. That's pretty fucking cool.
+
+**What it tastes like:**
+
+Tropical and creamy and completely disorienting — your brain keeps trying to place the flavor and can't. The pawpaw reads as banana-mango-custard all at once, with a wild, almost fermented complexity underneath that no other fruit has. Maple grounds the tropical weirdness in something warm and Appalachian. The bourbon glaze adds oaky depth. Walnut brittle crunches against that silky base. This is ice cream almost nobody has ever made, from a fruit almost nobody can find. Tastes like a secret.
 
 ---
 

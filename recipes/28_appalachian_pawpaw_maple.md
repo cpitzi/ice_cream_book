@@ -102,5 +102,9 @@ This is technically optional, but it's the difference between "good" and "holy s
 **Why OVERKILL Difficulty:** 
 Not because the technique is hard, but because sourcing pawpaws is a goddamn treasure hunt and you have about a 2-week window per year to make this. If you nail it, though? You've made something almost nobody else has ever tasted. That's pretty fucking cool.
 
+**What it tastes like:**
+
+Tropical and creamy and completely disorienting — your brain keeps trying to place the flavor and can't. The pawpaw reads as banana-mango-custard all at once, with a wild, almost fermented complexity underneath that no other fruit has. Maple grounds the tropical weirdness in something warm and Appalachian. The bourbon glaze adds oaky depth. Walnut brittle crunches against that silky base. This is ice cream almost nobody has ever made, from a fruit almost nobody can find. Tastes like a secret.
+
 ---
 

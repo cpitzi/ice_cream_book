@@ -157,5 +157,9 @@ Let this sit at room temperature for 5-10 minutes before scooping. Allows the fa
 **Make-Ahead:** 
 Candied cashews can be made up to a week ahead and stored airtight. Toasted coconut keeps for 3-4 days airtight. Piri piri caramel keeps refrigerated for up to a week. The base benefits from overnight chilling for best flavor development.
 
+**What it tastes like:**
+
+Creamy and rich in a way that'll make people refuse to believe it's vegan. The cashew base has a luxurious smoothness that coconut milk alone can't achieve. Coconut comes through as a warm tropical undertone rather than the star. Then you hit a ribbon of piri piri caramel and your brain does a double-take — sharp, citrusy heat with that whisper of garlic that has no business being in ice cream and yet works. Bold, layered, and unmistakably Mozambican.
+
 ---
 
