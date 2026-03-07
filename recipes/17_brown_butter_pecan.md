@@ -8,7 +8,7 @@
 
 Brown butter appears THREE TIMES in this recipe—in the candied pecans, infused into the custard base, and in the butterscotch swirl. That triple application creates this pervasive nutty richness throughout that's honestly kind of overwhelming in the best possible way. Combined with sorghum syrup (Appalachian/Deep South sweetener with tangy complexity) and bourbon-candied pecans, you get something that tastes like Southern heritage in a fucking bowl.
 
-You'll brown a lot of butter. Your kitchen will smell incredible for days. Apologies in advance to your neighbors, homie—they're going to want some.
+You'll brown a lot of butter. Your kitchen will smell incredible for days. Apologies in advance to your neighbors—they're going to want some.
 
 ## Ingredients
 
@@ -44,7 +44,7 @@ You'll brown a lot of butter. Your kitchen will smell incredible for days. Apolo
 
 Melt 2 tbsp butter in a light-colored skillet over medium heat. Cook, swirling occasionally, until the milk solids turn golden brown and smell nutty as hell, about 5-7 minutes. Should smell like toasted hazelnuts, not burnt offerings to the kitchen gods.
 
-Pour into a small bowl IMMEDIATELY to stop the cooking—residual heat will keep darkening it. Set aside to cool slightly. Yes, you need to move fast here. Get used to that feeling, dude—you'll be doing it two more times.
+Pour into a small bowl IMMEDIATELY to stop the cooking—residual heat will keep darkening it. Set aside to cool slightly. Yes, you need to move fast here. Get used to that feeling—you'll be doing it two more times.
 
 **Bourbon-Sorghum Candied Pecans (make first, needs 2-4 hours drying):**
 
@@ -60,7 +60,7 @@ Pull it off the heat IMMEDIATELY when it hits temp. Add the toasted pecans, stir
 
 Working FAST because this sets up quicker than regret, pour onto the prepared parchment and spread in a single layer using two forks to separate the nuts. Should look glossy and deeply amber-brown, like Southern sunshine crystallized.
 
-Let air dry completely at room temperature for 2-4 hours until the coating is hard and glassy, not tacky. Break apart any clusters. Store airtight. These are dangerously snackable—hide them from yourself. I'm serious, chief. You will eat half of them before they make it into the ice cream if you're not careful.
+Let air dry completely at room temperature for 2-4 hours until the coating is hard and glassy, not tacky. Break apart any clusters. Store airtight. These are dangerously snackable—hide them from yourself. I'm serious. You will eat half of them before they make it into the ice cream if you're not careful.
 
 **Brown Butter for Base:**
 
@@ -74,7 +74,7 @@ Once the cooled brown butter has solidified slightly—should be soft but not li
 
 Heat gently over medium-low, whisking occasionally, until the butter melts completely into the dairy and the mixture is steaming but not boiling, about 5 minutes. This infuses that brown butter flavor throughout instead of just having it float on top like an oil slick.
 
-You can strain through a fine-mesh sieve to remove those dark milk solids if desired—optional though. Leaving them adds visual interest and extra flavor, but some people are weird about texture. Your call, homie.
+You can strain through a fine-mesh sieve to remove those dark milk solids if desired—optional though. Leaving them adds visual interest and extra flavor, but some people are weird about texture. Your call.
 
 **Make Custard:**
 
@@ -84,7 +84,7 @@ Make your custard with egg yolks using the standard method to 170-175°F. The so
 
 Pull it off the heat. Stir in vanilla and salt. Strain. Cool over an ice bath.
 
-Taste it cold—should have clear brown butter nuttiness, sorghum's complex buttery-molasses depth, and gentle sweetness. The brown butter and sorghum create this layered nutty richness that's honestly kind of ridiculous. If you're not impressed with yourself right now, dude, you should be.
+Taste it cold—should have clear brown butter nuttiness, sorghum's complex buttery-molasses depth, and gentle sweetness. The brown butter and sorghum create this layered nutty richness that's honestly kind of ridiculous. If you're not impressed with yourself right now, , you should be.
 
 Refrigerate at least 4 hours or overnight.
 
@@ -118,7 +118,7 @@ Use a light-colored pan so you can actually watch the color change—milk solids
 
 **Sorghum syrup:**
 
-Made from reduced juice extracted from sorghum cane stalks. Key ingredient in Southern baking since before the Civil War, particularly in Kentucky, Tennessee, and Appalachian regions—this is heritage food, friend.
+Made from reduced juice extracted from sorghum cane stalks. Key ingredient in Southern baking since before the Civil War, particularly in Kentucky, Tennessee, and Appalachian regions—this is heritage food.
 
 Has this "slightly sour taste that cozies up perfectly with intense sweet" when it first hits your mouth, then resolves into "buttery resonance" with hints of molasses and caramel. Some people detect a slight rum taste, which is wild because there's no rum in it.
 
@@ -130,7 +130,7 @@ Find it at Southern specialty stores, Muddy Pond Sorghum Mill (mail-order), Gold
 
 Use fresh pecan halves, not pre-chopped pieces—you want control over the size. Pecans are THE nut of the American South, native to the southern United States, central to Southern dessert traditions like pecan pie, pralines, and bourbon balls.
 
-Toasting releases the oils and intensifies that buttery, slightly sweet character. Store in the freezer if not using within a month—the high oil content makes them go rancid quicker than milk left out in July. Rancid pecans taste like sadness and regret, dude. Don't do that to yourself.
+Toasting releases the oils and intensifies that buttery, slightly sweet character. Store in the freezer if not using within a month—the high oil content makes them go rancid quicker than milk left out in July. Rancid pecans taste like sadness and regret. Don't do that to yourself.
 
 **Bourbon:**
 

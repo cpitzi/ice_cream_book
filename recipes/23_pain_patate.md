@@ -68,7 +68,7 @@ Transfer the banana slices to a parchment-lined rack with a slotted spoon, arran
 
 Break into smaller pieces if needed. Store airtight.
 
-*Quick method: After cooling 30 minutes, the slices will be stickier but still work well if you're impatient as hell.*
+*Quick method: After cooling 30 minutes, the slices will be stickier but still work well if you're impatient.*
 
 **Rum-Raisin Swirl (make ahead):**
 
@@ -90,7 +90,7 @@ Transfer to a plate immediately to stop cooking. Cool completely. Store airtight
 
 Peel the bananas and cut into 1/2-inch thick rounds. Melt butter in a large skillet over medium-high heat. Add the brown sugar, stir until melted and bubbling, about 1 minute.
 
-Add the banana rounds in a single layer—work in batches if needed to avoid crowding. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still holding their shit together.
+Add the banana rounds in a single layer—work in batches if needed to avoid crowding. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still holding together.
 
 Reduce heat to medium-low. Sprinkle cinnamon and nutmeg over the bananas. Carefully add the rum—may flame briefly if using a gas stove, which is safe and normal and makes you feel like a badass chef. The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
 
@@ -152,7 +152,7 @@ Pain patate traditionally uses BOTH, creating this specific richness and sweetne
 
 **Bananas:**
 
-Use ripe bananas with generous brown spotting—peak sweetness, will caramelize beautifully. Not overly ripe/black (too mushy, fermented-tasting) or underripe/green (starchy as hell, won't caramelize). The sweet spot is yellow with brown freckles.
+Use ripe bananas with generous brown spotting—peak sweetness, will caramelize beautifully. Not overly ripe/black (too mushy, fermented-tasting) or underripe/green (way too starchy, won't caramelize). The sweet spot is yellow with brown freckles.
 
 **Raisins:**
 
@@ -172,7 +172,7 @@ Day 1: Make candied banana chips (needs 4+ hours drying), rum-raisin swirl, toas
 Day 2: Caramelize bananas, make custard, chill overnight. 
 Day 3: Churn and freeze. 
 
-Or do it all in one long-ass day if you're committed to the chaos.
+Or do it all in one long day if you're committed to the chaos.
 
 **Visual:**
 

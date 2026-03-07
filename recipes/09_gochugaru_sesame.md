@@ -2,13 +2,13 @@
 
 *Korean heat meets nutty depth*
 
-**Difficulty:** LEGIT - You're making two kinds of caramel (one dry, one wet), integrating thick-ass sesame paste without lumps, and calibrating Korean chili heat for frozen consumption. The brittle happens FAST and you'll be swirling pans instead of stirring which feels wrong but is right. The sesame paste needs that two-step integration or it'll fight you. Nothing will break you, but you gotta pay attention, pal.
+**Difficulty:** LEGIT - You're making two kinds of caramel (one dry, one wet), integrating thick sesame paste without lumps, and calibrating Korean chili heat for frozen consumption. The brittle happens FAST and you'll be swirling pans instead of stirring which feels wrong but is right. The sesame paste needs that two-step integration or it'll fight you. Nothing will break you, but you gotta pay attention, pal.
 
-**Total Time:** 6-8 hours (mostly chilling time, though you'll spend a solid 20 minutes just staring at caramel wondering if it's ever going to damn well change color)
+**Total Time:** 6-8 hours (mostly chilling time, though you'll spend a solid 20 minutes just staring at caramel wondering if it's ever going to actually change color)
 
 Gochugaru—Korean chili flakes—has this fruity, sweet heat that's completely different from cayenne or regular red pepper flakes. Combined with the earthy nuttiness of black sesame and the crunch of sesame brittle, you get something that's warming without being aggressive. And surprisingly addictive, homie.
 
-The caramel swirl gets flecked with red from the gochugaru, which looks pretty damn cool and gives you these ribbons of gentle heat throughout. People will lose their minds trying to figure out what's in this.
+The caramel swirl gets flecked with red from the gochugaru, which looks pretty incredible and gives you these ribbons of gentle heat throughout. People will lose their minds trying to figure out what's in this.
 
 ## Ingredients
 
@@ -46,7 +46,7 @@ Once it hits that golden amber color, quickly stir in the toasted black sesame s
 
 **Gochugaru Caramel Swirl:**
 
-Have your warmed cream, butter, and gochugaru measured and sitting right there next to the stove—caramel moves fast once it's ready, and you don't want to be scrambling around looking for shit.
+Have your warmed cream, butter, and gochugaru measured and sitting right there next to the stove—caramel moves fast once it's ready, and you don't want to be scrambling around looking for things.
 
 Combine sugar and water in a light-colored saucepan. This is important, friend—a light pan lets you actually see the color develop as the sugar caramelizes. With a dark pan you're basically guessing, which is a great way to burn your caramel and waste a bunch of ingredients.
 
@@ -104,7 +104,7 @@ Start with 1 tsp of gochugaru in the caramel, taste it, and add more if you want
 
 **Make-ahead strategy:**
 
-The brittle can be made up to 5 days ahead and stored in an airtight container at room temperature—it stays crunchy indefinitely as long as you keep moisture out. The gochugaru caramel can be made 3-4 days ahead and refrigerated (bring it to room temp before using so it's pourable, or warm it gently). The custard base benefits from overnight chilling anyway, so plan to make components one day and churn the next. Honestly the best move is to knock out the brittle and caramel on a lazy-ass afternoon, make the custard that evening, and churn the next day.
+The brittle can be made up to 5 days ahead and stored in an airtight container at room temperature—it stays crunchy indefinitely as long as you keep moisture out. The gochugaru caramel can be made 3-4 days ahead and refrigerated (bring it to room temp before using so it's pourable, or warm it gently). The custard base benefits from overnight chilling anyway, so plan to make components one day and churn the next. Honestly the best move is to knock out the brittle and caramel on a lazy afternoon, make the custard that evening, and churn the next day.
 
 **Cultural Context:**
 

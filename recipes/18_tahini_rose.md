@@ -12,7 +12,7 @@ Halva is one of those Middle Eastern confections that's been around forever and 
 
 Adding rose water is traditional in Turkish sweets - it cuts the richness and adds this haunting floral note that makes everything feel more elegant. The trick is using just enough to make people wonder what that flavor is without being able to name it. Too little and it disappears. Too much and you've made potpourri ice cream.
 
-This ice cream is rich, complex, and definitely not for people who think vanilla is adventurous. But if you're into Middle Eastern desserts or just want to make something genuinely different, this is your move, friend.
+This ice cream is rich, complex, and definitely not for people who think vanilla is adventurous. But if you're into Middle Eastern desserts or just want to make something genuinely different, this is your move.
 ## Ingredients
 
 **Tahini Custard Base:**
@@ -45,7 +45,7 @@ This ice cream is rich, complex, and definitely not for people who think vanilla
 
 **Candied Pistachios (make these first, can be done up to a week ahead):**
 
-Roughly chop the pistachios - you want pieces, not dust. Some whole ones, some halves, some smaller bits. Variety in size means better texture distribution, dude.
+Roughly chop the pistachios - you want pieces, not dust. Some whole ones, some halves, some smaller bits. Variety in size means better texture distribution.
 
 Line a baking sheet with parchment. Combine sugar and water in a medium saucepan over medium heat, stirring until the sugar dissolves. Stop stirring and cook until it reaches 240°F (soft ball stage). This takes 5-7 minutes and requires a candy thermometer - don't guess, pal.
 
@@ -55,7 +55,7 @@ When the pistachios are evenly coated and starting to turn golden (they won't ge
 
 **Honey-Rose Swirl:**
 
-This is stupid simple, homie. Combine honey, water, rose water, and salt in a small saucepan. Warm over low heat, stirring, just until everything is fluid and well combined - about 2-3 minutes. Don't boil it or you'll drive off the rose water's delicate aromatics, which are volatile compounds that evaporate at relatively low temperatures.
+This is stupid simple. Combine honey, water, rose water, and salt in a small saucepan. Warm over low heat, stirring, just until everything is fluid and well combined - about 2-3 minutes. Don't boil it or you'll drive off the rose water's delicate aromatics, which are volatile compounds that evaporate at relatively low temperatures.
 
 Taste it carefully. You should get honey sweetness first, then a subtle floral note sneaking up behind it. If you can't taste the rose water at all, add another 1/8 tsp. If it tastes like perfume - like you just bit into a bar of soap shaped like flowers - you've gone too far and you'll need to add more honey and water to dilute it. Rose water is STRONG - respect it.
 
@@ -65,11 +65,11 @@ Let cool to room temperature, then refrigerate. Should be thick but pourable whe
 
 Combine cream and milk in a saucepan and heat over medium until steaming - you want small bubbles forming around the edges but not a rolling boil. While that heats, whisk the egg yolks with the sugar in a separate bowl until pale and thick, about 2 minutes of solid whisking. This pre-mixing is important because it distributes the sugar evenly and starts dissolving it, which prevents graininess in the final custard.
 
-Temper the yolks - you know this drill by now, chief. Slowly drizzle about 1 cup of the hot cream mixture into the yolks while whisking constantly, then pour the tempered yolk mixture back into the saucepan with the rest of the cream. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line that doesn't immediately fill back in.
+Temper the yolks - you know this drill by now. Slowly drizzle about 1 cup of the hot cream mixture into the yolks while whisking constantly, then pour the tempered yolk mixture back into the saucepan with the rest of the cream. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line that doesn't immediately fill back in.
 
 **Integrate Tahini (THIS IS CRITICAL):**
 
-This is where people usually fuck up, so listen carefully, friend. Remove the custard from heat. Scoop out 1 cup of the hot custard into a separate bowl. Add the tahini to this smaller portion and whisk vigorously until completely smooth - no streaks, no separation, no oil slicks floating on top, just uniform tan liquid that looks like peanut butter thinned with cream. This takes about 30 seconds of actual, aggressive whisking.
+This is where people usually fuck up, so listen carefully. Remove the custard from heat. Scoop out 1 cup of the hot custard into a separate bowl. Add the tahini to this smaller portion and whisk vigorously until completely smooth - no streaks, no separation, no oil slicks floating on top, just uniform tan liquid that looks like peanut butter thinned with cream. This takes about 30 seconds of actual, aggressive whisking.
 
 Now pour this tahini mixture back into the main pot of custard, whisking constantly as you pour. The gradual integration prevents the tahini from seizing up or separating into oil slicks that'll make your ice cream look like a science experiment gone wrong.
 
@@ -97,7 +97,7 @@ Freeze at least 4 hours before serving.
 
 **Finding ingredients:**
 
-Good tahini makes a massive difference here, pal. Cheap tahini tastes bitter and separates into a pool of oil with concrete-hard paste at the bottom. Get the stuff from Middle Eastern markets if you can - brands like Al Arz or Har Bracha. It should be smooth, pourable, and made from 100% sesame seeds with no added oils or sugar. The separated oil on top is completely normal - that's just what tahini does when it sits. Just stir it back in before measuring, making sure you incorporate all that oil back into the paste.
+Good tahini makes a massive difference here. Cheap tahini tastes bitter and separates into a pool of oil with concrete-hard paste at the bottom. Get the stuff from Middle Eastern markets if you can - brands like Al Arz or Har Bracha. It should be smooth, pourable, and made from 100% sesame seeds with no added oils or sugar. The separated oil on top is completely normal - that's just what tahini does when it sits. Just stir it back in before measuring, making sure you incorporate all that oil back into the paste.
 
 For halva, check Middle Eastern, Turkish, or Mediterranean markets. You want plain tahini halva, not the chocolate kind or any other fancy flavors that'll compete with the rose water. The texture should be firm but crumbly, with visible fibrous strands running through it when you break it open. Brands like Joyva (which you can find at some regular grocery stores) work fine in a pinch, but specialty brands from Turkish or Middle Eastern stores are usually fresher and better quality - less likely to be stale or rancid.
 
@@ -115,7 +115,7 @@ If you're nervous about it, you can make the custard with just 1/8 tsp rose wate
 
 **Cultural context:**
 
-Halva shows up across the Middle East, Mediterranean, South Asia, and Eastern Europe, with each region having its own version and fierce opinions about whose is best, homie. The word comes from Arabic "ḥalwā" meaning sweet, which is about as generic as it gets - like calling something "dessert" in English. Turkish halva specifically refers to the tahini-based kind with that distinctive fibrous texture, which comes from whipping hot sugar syrup into tahini in a specific way that creates those characteristic strands.
+Halva shows up across the Middle East, Mediterranean, South Asia, and Eastern Europe, with each region having its own version and fierce opinions about whose is best. The word comes from Arabic "ḥalwā" meaning sweet, which is about as generic as it gets - like calling something "dessert" in English. Turkish halva specifically refers to the tahini-based kind with that distinctive fibrous texture, which comes from whipping hot sugar syrup into tahini in a specific way that creates those characteristic strands.
 
 Rose water has been used in Turkish and Middle Eastern sweets for literally centuries - it's in baklava, Turkish delight, kunefe, and countless other desserts. The tradition goes back to the Ottoman Empire and even earlier, to Persian cuisine where rose water was considered an essential flavoring. The combination of sesame and rose is classic Turkish, showing up in everything from puddings to pastries to ice cream.
 

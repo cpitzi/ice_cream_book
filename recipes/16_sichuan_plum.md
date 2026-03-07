@@ -6,7 +6,7 @@
 
 **Total Time:** 10-12 hours across 2-3 days if making candied ginger, or 6-7 hours if buying it (includes overnight chilling, plus roasting time when your kitchen smells so good you'll want to lose your damn mind)
 
-Chinese five-spice—star anise, cloves, cinnamon, Sichuan peppercorns, fennel—paired with roasted plums creates this deep, complex, almost wine-like flavor that's honestly kind of wild. The candied ginger adds heat and that characteristic crystalline-chewy texture. Your kitchen will smell *incredible* while the plums roast, homie. Like, offensively good.
+Chinese five-spice—star anise, cloves, cinnamon, Sichuan peppercorns, fennel—paired with roasted plums creates this deep, complex, almost wine-like flavor that's honestly kind of wild. The candied ginger adds heat and that characteristic crystalline-chewy texture. Your kitchen will smell *incredible* while the plums roast. Like, offensively good.
 
 You can make your own candied ginger or buy it pre-made. Both work fine. No judgment either way—okay, maybe a little judgment if you buy it. But only a little.
 
@@ -38,7 +38,7 @@ You can make your own candied ginger or buy it pre-made. Both work fine. No judg
 
 **Candied Ginger (make 1-2 days ahead, or buy pre-made):**
 
-Peel the ginger and slice into 1/8-inch thick coins or matchsticks. Place in a saucepan with 1 cup water, bring to a boil. Boil for 5 minutes, drain. Repeat blanching with fresh 1/2 cup water—this removes some of the bite so it's not aggressively spicy. You want warmth, not assault, dude.
+Peel the ginger and slice into 1/8-inch thick coins or matchsticks. Place in a saucepan with 1 cup water, bring to a boil. Boil for 5 minutes, drain. Repeat blanching with fresh 1/2 cup water—this removes some of the bite so it's not aggressively spicy. You want warmth, not assault.
 
 Combine 1 cup sugar and the remaining 1/2 cup water in a saucepan, bring to a simmer. Add the blanched ginger, reduce to low. Simmer gently for 45-60 minutes until the ginger is translucent and the syrup has thickened. Don't rush this. Low and slow. The ginger will tell you when it's ready by looking like little stained glass pieces.
 
@@ -52,11 +52,11 @@ Preheat your oven to 375°F. Halve and pit the plums—don't peel them. Cut each
 
 In a roasting pan, toss the plum pieces with honey or brown sugar, five-spice, rice wine if using, and salt. Roast for 30-40 minutes, stirring halfway through, until they're soft, jammy, and caramelized at the edges. The juices should be thick and syrupy. If they're too thin, simmer on the stovetop for a few minutes to reduce. You want jam, not soup.
 
-Reserve those roasting juices—that shit is liquid gold, dude. Cool slightly. Puree 2/3 of the roasted plums until smooth. Chop the remaining 1/3 into 1/2-inch chunks. Refrigerate both. Do NOT throw away those pan juices. I will find you.
+Reserve those roasting juices—that shit is liquid gold. Cool slightly. Puree 2/3 of the roasted plums until smooth. Chop the remaining 1/3 into 1/2-inch chunks. Refrigerate both. Do NOT throw away those pan juices. I will find you.
 
 **Make Custard:**
 
-Heat cream, milk, and half the sugar until steaming. Make your custard with egg yolks and the remaining sugar to 170-175°F. You know the drill by now, homie. Don't let it boil or you'll have sweet scrambled eggs, and nobody's here for that.
+Heat cream, milk, and half the sugar until steaming. Make your custard with egg yolks and the remaining sugar to 170-175°F. You know the drill by now. Don't let it boil or you'll have sweet scrambled eggs, and nobody's here for that.
 
 Pull it off the heat. Stir in the additional five-spice, vanilla, and salt. Strain it.
 
@@ -88,7 +88,7 @@ In ice cream, the Sichuan pepper's numbing quality is subtle but adds this myste
 
 **Plum types:**
 
-Use black or Italian prune plums—they're sweet-tart and not too watery. Often labeled simply as "prune plums" or "Italian plums" in stores. These are the smaller, oval, dark purple ones—not the big round red plums. Don't grab the wrong ones, pal—it actually matters here.
+Use black or Italian prune plums—they're sweet-tart and not too watery. Often labeled simply as "prune plums" or "Italian plums" in stores. These are the smaller, oval, dark purple ones—not the big round red plums. Don't grab the wrong ones—it actually matters here.
 
 Season: summer only, like June through September. Can use frozen off-season, though the texture won't be quite as good. The variety is crucial—regular round plums have too much water and not enough concentrated flavor. Prune plums roast down into this jammy, almost wine-like intensity that you absolutely need for this recipe.
 
@@ -96,7 +96,7 @@ Season: summer only, like June through September. Can use frozen off-season, tho
 
 Roasting concentrates the plums' sugars and allows the five-spice to penetrate deeply into the fruit. The Maillard reaction creates these complex caramelized notes that complement the spices. Don't skip this—raw plums wouldn't have anywhere near the same intensity. It's the difference between "meh" and "holy shit."
 
-The roasting juices are essential—that's where all the spice-infused, caramelized plum flavor lives. Don't leave it in the pan like some kind of monster. Every drop, dude. Every drop.
+The roasting juices are essential—that's where all the spice-infused, caramelized plum flavor lives. Don't leave it in the pan like some kind of monster. Every drop. Every drop.
 
 **Ginger-plum pairing:**
 

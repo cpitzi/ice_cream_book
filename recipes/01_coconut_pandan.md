@@ -4,7 +4,7 @@
 
 **Difficulty:** CHILL - You're making tea, basically. Fancy tea, sure, but tea. Heat coconut milk and cream with pandan leaves and sugar, let it steep until it turns pale green and smells like a tropical daydream, strain, chill, churn. No tempering, no emulsification, no eggs, no catastrophic failure points. The only challenge is sourcing fresh pandan leaves, which might require a field trip to an Asian market. Pandan extract exists as a backup, but using extract when you could use fresh leaves is like bringing a kazoo to a symphony—technically it makes noise, but come on, homie.
 
-**Total Time:** 6-8 hours (20 minutes of actual work, the rest is steeping and chilling while you wonder how the hell you've gone your entire life without knowing pandan exists)
+**Total Time:** 6-8 hours (20 minutes of actual work, the rest is steeping and chilling while you wonder how you've gone your entire life without knowing pandan exists)
 
 Pandan is to Southeast Asian desserts what vanilla is to Western desserts—it's the foundational flavor that shows up everywhere, from cakes to custards to sticky rice to ice cream. The long, blade-like leaves come from a tropical plant and smell incredible—aromatic, slightly nutty, almost vanilla-adjacent but with these grassy, herbal notes that are impossible to describe if you've never encountered them. When you cook with pandan, it releases its essential oils and turns whatever you're making a beautiful pale green color. Not artificial food-coloring green, but natural, subtle, almost jade-like green.
 
@@ -26,7 +26,7 @@ If you've never tasted pandan, this recipe is your introduction to one of the wo
 
 **Prepare the Pandan Leaves:**
 
-If you're using fresh pandan leaves (and you damn well should if you can find them), rinse them under cold water and tie them into a loose knot or cut them into 2-3 inch pieces. The knot method is traditional and makes them easier to fish out later, plus tying or cutting helps release the aromatic oils. You want the leaves bruised and broken up so they release maximum flavor into the base.
+If you're using fresh pandan leaves (and you absolutely should if you can find them), rinse them under cold water and tie them into a loose knot or cut them into 2-3 inch pieces. The knot method is traditional and makes them easier to fish out later, plus tying or cutting helps release the aromatic oils. You want the leaves bruised and broken up so they release maximum flavor into the base.
 
 If you're stuck with pandan extract because you couldn't find fresh leaves—shit happens, no judgment—you'll add it later after straining. The extract works and gives you that characteristic green color, but it lacks the aromatic complexity of fresh pandan. It's like comparing vanilla extract to actual vanilla beans—the extract gets you most of the way there but misses some of the nuance.
 
@@ -68,7 +68,7 @@ Look for leaves that are vibrant green and smell aromatic. Avoid any that look b
 
 **Palm sugar:**
 
-Palm sugar (sometimes called coconut sugar) has this deep caramel flavor that white sugar just doesn't have. It comes in hard disks or cones or jars of granulated form. The hard form needs to be grated or chopped before using—and yeah, it's a pain in the ass, but the flavor payoff is real. Light brown sugar works as a substitute and honestly most people wouldn't notice the difference, but palm sugar is more authentic and adds subtle flavor complexity. Thai or Filipino markets will definitely have it.
+Palm sugar (sometimes called coconut sugar) has this deep caramel flavor that white sugar just doesn't have. It comes in hard disks or cones or jars of granulated form. The hard form needs to be grated or chopped before using—and yeah, it's tedious, but the flavor payoff is real. Light brown sugar works as a substitute and honestly most people wouldn't notice the difference, but palm sugar is more authentic and adds subtle flavor complexity. Thai or Filipino markets will definitely have it.
 
 **Cultural context:**
 

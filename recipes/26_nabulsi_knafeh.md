@@ -2,7 +2,7 @@
 
 *Stretchy cheese, crispy pastry, and zero apologies*
 
-**Difficulty:** THE REAL DEAL - You're managing a cheese-based custard (which can go grainy if you look at it wrong), turning shredded dough into hard candy praline, and making a floral syrup that requires the precision of a chemist. The challenge is balancing the salt from the cheese with the sweet of the base so it tastes like dessert, not a confusing salad course. You're also sourcing ingredients that might require a trip to a different neighborhood.
+**Difficulty:** THE REAL DEAL - You're managing a cheese-based custard (which can go grainy as shit if you look at it wrong), turning shredded dough into hard candy praline, and making a floral syrup that requires the precision of a chemist. The challenge is balancing the salt from the cheese with the sweet of the base so it tastes like dessert, not a confusing salad course. You're also sourcing ingredients that might require a trip to a different neighborhood.
 
 **Total Time:** 8-10 hours (includes hunting down kataifi dough, candy-making, and overnight chilling while you wonder if putting goat cheese in ice cream is a mistake—it's not)
 
@@ -53,7 +53,7 @@ Once the dough is golden, dump the 1/2 cup of sugar right over the top in an eve
 
 Keep tossing until the sugar is fully melted and every strand of dough looks glossy and lacquered. It should smell like caramel. Dump it immediately onto a parchment-lined baking sheet. Use two forks to pull it apart and flatten it out before it hardens. You want clusters, not one giant brick.
 
-Let it cool completely. It will be hard as a rock. Chop it or smash it into bite-sized gravel.
+Let it cool completely. It will be hard as a damn rock. Chop it or smash it into bite-sized gravel.
 
 **Orange Blossom Syrup (Attar):**
 
