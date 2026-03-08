@@ -457,17 +457,19 @@ Creamy coconut richness with this incredible aromatic complexity from the pandan
 
 ---
 
-# Bơ Chanh
+# Sinh To Bo
 
-*Creamy, dreamy, and your brain will fight you the whole way*
+*Vietnam's beloved avocado smoothie, frozen solid and ready to fight*
 
 **Difficulty:** CHILL - This is almost offensively easy, homie. You're blending ripe avocados with sweetened condensed milk and lime juice, then freezing the result. No heating, no tempering, no custard anxiety. The only challenge is psychological - your Western brain is going to scream "avocado is for guacamole, not dessert!" but Vietnamese cuisine has known for generations that avocado's buttery richness works beautifully in sweets. Trust the process, blend the fruit, and prepare to have your assumptions thoroughly scrambled.
 
 **Total Time:** 4-6 hours (15 minutes active work, the rest is just freezing while you contemplate how wrong this seemed before you tasted it)
 
-Avocado ice cream sounds completely deranged if you grew up thinking avocados only belong on toast or in guacamole. But in Vietnamese cuisine, avocados have been treated as a dessert ingredient for generations - showing up in smoothies, sweet drinks with condensed milk, and ice cream. This isn't fusion or innovation, it's tradition. The French brought condensed milk to Vietnam during colonial times, and it became central to Vietnamese sweets. Avocados arrived later and fit perfectly into that existing sweet tradition.
+Sinh to bo - Vietnam's avocado smoothie - is one of those drinks that stops Western tourists cold the first time they order it by accident. Thick, sweet, and blended with condensed milk, it tastes nothing like the savory avocado experience they were expecting. It's served at street stalls and cafes across Vietnam, often over ice, sometimes with tapioca pearls or coconut milk drizzled on top. It's a whole thing. A beloved, deeply traditional thing.
 
-The result is ice cream that's impossibly creamy and smooth, subtly sweet, with avocado's natural buttery richness playing against the condensed milk's caramel notes. The lime juice keeps everything bright and prevents oxidation. It tastes like the best version of avocado you've ever had, just sweet instead of savory. Your brain will take a minute to adjust, then you'll wonder why the hell America decided this fruit could only be savory.
+This recipe is that drink, frozen. That's it. We're not reinventing anything or being clever about it - we're just asking what happens when you take one of Vietnam's great dessert drinks and churn it into ice cream. The answer, it turns out, is something impossibly creamy and smooth, subtly sweet, with avocado's natural buttery richness playing against the condensed milk's caramel notes. The lime juice keeps everything bright and prevents oxidation. It tastes like the best version of avocado you've ever had, just sweet instead of savory.
+
+The French brought condensed milk to Vietnam during colonial times, and it embedded itself into Vietnamese sweets in ways nobody planned. Avocados came later and fit naturally into that existing sweet tradition - the same way they show up in sweet drinks throughout Southeast Asia and parts of Latin America. Only in the US and Europe did we collectively decide avocado had to be savory. This recipe is an invitation to unlearn that arbitrary rule.
 
 This is genuinely one of the easiest recipes in the book. If you can operate a blender, you can make this ice cream.
 
@@ -500,9 +502,9 @@ Pour the mixture into a container and refrigerate for at least 2 hours, or until
 
 **Churn:**
 
-Churn in your ice cream maker according to manufacturer instructions, usually 20-25 minutes. The mixture is already quite thick from the avocado's natural fat content, so it'll reach soft-serve consistency pretty quickly. Don't over-churn or you'll incorporate too much air and make it fluffy instead of dense and creamy.
+Churn in your ice cream maker until soft-serve consistency. The mixture is already quite thick from the avocado's natural fat content, so it'll get there faster than a standard custard base. Don't over-churn or you'll incorporate too much air and make it fluffy instead of dense and creamy.
 
-Alternatively, you can skip churning entirely and just freeze the mixture in a container, stirring every 30-45 minutes for the first 3 hours to break up ice crystals. This is the more traditional Vietnamese approach and gives you a denser, almost gelato-like texture. Either method works.
+Alternatively, you can skip churning entirely and just freeze the mixture in a container, stirring every 30-45 minutes for the first 3 hours to break up ice crystals. This is closer to how sinh to bo gets served on ice, and it gives you a denser, almost gelato-like texture. Either method works.
 
 **Freeze:**
 
@@ -522,7 +524,7 @@ Lime juice does two things here. First, it provides acidity that balances the ri
 
 **Cultural context:**
 
-In Vietnam, avocado shows up in sinh tố bơ (avocado smoothies), in iced drinks with condensed milk, and in ice cream. This sweet treatment of avocado isn't some modern fusion thing - it's how Vietnamese cuisine has always approached this fruit. The same is true throughout Southeast Asia and parts of Latin America. Only in the US and Europe did we collectively decide avocado had to be savory. This recipe is an invitation to unlearn that arbitrary rule.
+Sinh to bo is a staple of Vietnamese street food and cafe culture - you'll find it everywhere from Hanoi to Ho Chi Minh City. The name breaks down simply: sinh to means smoothie or blended drink, and bo means avocado (also butter, which is not a coincidence - Vietnamese cuisine recognized avocado's butteriness and ran with it). It's typically made with condensed milk, sometimes coconut milk, sometimes both, always sweet. This recipe freezes that drink rather than inventing some new thing. The addition of heavy cream and the churning are the only real departures from tradition, and both exist to serve the texture goals of ice cream rather than change what the flavor is. Credit where it's due, homie.
 
 **Make-ahead:**
 
