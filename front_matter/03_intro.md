@@ -1,5 +1,3 @@
-# Ice Cream to Fight Over: Recipes You'll Fuck Up At Least Once
-
 ## Introduction
 
 Alright, homie—let's talk about what the hell this collection actually is, because it's NOT your standard ice cream cookbook, and honestly, it's probably not what you thought you were signing up for. Buckle the fuck up.
