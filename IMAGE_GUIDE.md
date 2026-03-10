@@ -48,3 +48,4 @@ Wait for the user to make their selections or request adjustments to the menu op
 Once the user locks in their choices, fill the variables into the v2.6 Master Template. When delivering the final result to the chat, you must adhere to this formatting rule:
 1. ALWAYS print out the final, completed text prompt used to generate the image.
 2. Deliver the generated image directly below the prompt.
+3. Provide a short description of how the specific elements of the recipe are represented in the final image.
